@@ -21,11 +21,182 @@ for(const cfg of layers){
  list.appendChild(card);card.querySelector('input').addEventListener('change',e=>toggleLayer(cfg,e.target.checked));
 }
 function markerIcon(cfg){return L.divIcon({className:'',html:`<div style="width:30px;height:30px;border-radius:10px;background:${cfg.color};color:white;display:grid;place-items:center;border:2px solid white;box-shadow:0 3px 9px #0004;font-size:16px">${cfg.icon}</div>`,iconSize:[30,30],iconAnchor:[15,15]});}
-function cleanPopup(layer,cfg){
- const props=layer.feature?.properties||{};let name=props.name||'موقع سياحي';let desc=props.description?.value||props.description||'';
- if(layer.getPopup()){ const raw=layer.getPopup().getContent(); if(raw) desc=raw; }
- desc=String(desc).replace(/<script[\s\S]*?<\/script>/gi,'').replace(/on\w+="[^"]*"/gi,'');
- layer.bindPopup(`<div class="popup-title">${escapeHtml(name)}</div><div>${desc||'بيانات الموقع ضمن طبقة الأطلس.'}</div><div class="popup-source">${cfg.name} · نسخة عرض</div>`,{maxWidth:380});
+function cleanPopup(layer, cfg) {
+    const props = layer.feature?.properties || {};
+
+    const name = props.name || 'موقع سياحي';
+
+    let rawDescription =
+        props.description?.value ||
+        props.description ||
+        '';
+
+    if (layer.getPopup()) {
+        const originalPopup = layer.getPopup().getContent();
+
+        if (originalPopup) {
+            rawDescription = originalPopup;
+        }
+    }
+
+    const safeDescription = sanitizeKmlDescription(
+        String(rawDescription)
+    );
+
+    const popupContent = `
+        <article class="tourism-popup" dir="rtl">
+            <div class="popup-gallery">
+                ${extractImages(safeDescription)}
+            </div>
+
+            <div class="popup-body">
+                <h3 class="popup-title">
+                    ${escapeHtml(name)}
+                </h3>
+
+                <div class="popup-description">
+                    ${extractTextContent(safeDescription)}
+                </div>
+
+                <div class="popup-source">
+                    ${escapeHtml(cfg.name)} · نسخة عرض مؤسسية
+                </div>
+            </div>
+        </article>
+    `;
+
+    layer.bindPopup(popupContent, {
+        maxWidth: 440,
+        minWidth: 300,
+        className: 'atlas-popup'
+    });
+}
+
+function sanitizeKmlDescription(html) {
+    return html
+        .replace(/<script[\s\S]*?<\/script>/gi, '')
+        .replace(/\son\w+\s*=\s*["'][^"']*["']/gi, '')
+        .replace(/javascript:/gi, '');
+}
+
+function extractImages(html) {
+    const documentFragment = new DOMParser().parseFromString(
+        html,
+        'text/html'
+    );
+
+    const images = Array.from(
+        documentFragment.querySelectorAll('img')
+    );
+
+    if (!images.length) {
+        return '';
+    }
+
+    return images
+        .slice(0, 4)
+        .map((image, index) => {
+            const source = normalizeImageUrl(
+                image.getAttribute('src') || ''
+            );
+
+            if (!source) {
+                return '';
+            }
+
+            return `
+                <button
+                    type="button"
+                    class="popup-image-button"
+                    onclick="openAtlasImage('${escapeAttribute(source)}')"
+                    aria-label="عرض صورة الموقع"
+                >
+                    <img
+                        src="${escapeAttribute(source)}"
+                        alt="صورة ${index + 1}"
+                        loading="lazy"
+                        referrerpolicy="no-referrer"
+                        onerror="this.closest('.popup-image-button').remove()"
+                    >
+                </button>
+            `;
+        })
+        .join('');
+}
+
+function extractTextContent(html) {
+    const documentFragment = new DOMParser().parseFromString(
+        html,
+        'text/html'
+    );
+
+    documentFragment
+        .querySelectorAll('img, script, style')
+        .forEach(element => element.remove());
+
+    const bodyHtml = documentFragment.body.innerHTML.trim();
+
+    return bodyHtml || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.';
+}
+
+function normalizeImageUrl(url) {
+    if (!url) {
+        return '';
+    }
+
+    const trimmedUrl = url.trim();
+
+    if (
+        trimmedUrl.startsWith('https://') ||
+        trimmedUrl.startsWith('http://') ||
+        trimmedUrl.startsWith('data:image/')
+    ) {
+        return trimmedUrl;
+    }
+
+    return '';
+}
+
+function escapeAttribute(value) {
+    return String(value)
+        .replace(/&/g, '&amp;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+}
+
+function openAtlasImage(source) {
+    const viewer = document.createElement('div');
+
+    viewer.className = 'atlas-image-viewer';
+
+    viewer.innerHTML = `
+        <button
+            type="button"
+            class="atlas-image-close"
+            aria-label="إغلاق الصورة"
+        >
+            ×
+        </button>
+
+        <img
+            src="${escapeAttribute(source)}"
+            alt="صورة الموقع السياحي"
+            referrerpolicy="no-referrer"
+        >
+    `;
+
+    viewer.addEventListener('click', event => {
+        if (
+            event.target === viewer ||
+            event.target.classList.contains('atlas-image-close')
+        ) {
+            viewer.remove();
+        }
+    });
+
+    document.body.appendChild(viewer);
 }
 function escapeHtml(v){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function naturalFeature(f){const p=f.properties||{};const t=((p.name||'')+' '+(p.description?.value||p.description||'')).toLowerCase();return ['بحيرة','وادي','جبل','كهف','شاط','جزيرة','سبخة','غابة','طبيع','قوس صخري','شلال','عين','نبع','رمال','كثبان','واحة','محمية','خليج'].some(k=>t.includes(k));}
