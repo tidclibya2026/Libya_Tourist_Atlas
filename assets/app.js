@@ -13,7 +13,7 @@ const base={
  'خريطة فاتحة':L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{maxZoom:19,attribution:'© OpenStreetMap © CARTO'}),
  'قمر صناعي':L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',{maxZoom:19,attribution:'Tiles © Esri'})
 };base['خريطة فاتحة'].addTo(map);L.control.layers(base,null,{position:'topleft'}).addTo(map);
-const state={};let totalVisible=0;
+const state={};let totalVisible=0;let loadingRequests=0;
 const list=document.getElementById('layerList');
 for(const cfg of layers){
  const card=document.createElement('div');card.className='layer-card';
@@ -32,7 +32,7 @@ function naturalFeature(f){const p=f.properties||{};const t=((p.name||'')+' '+(p
 async function toggleLayer(cfg,on){
  if(!on){if(state[cfg.id]?.group){map.removeLayer(state[cfg.id].group);updateStats();}return;}
  if(state[cfg.id]?.group){state[cfg.id].group.addTo(map);fit(state[cfg.id].group);updateStats();return;}
- setLoading(true);
+ beginLoading();
  try{
    const cluster=L.markerClusterGroup({chunkedLoading:true,maxClusterRadius:48});let count=0;
    if(cfg.type==='geojson'){
@@ -46,11 +46,20 @@ async function toggleLayer(cfg,on){
    }
    state[cfg.id]={group:cluster,count};cluster.addTo(map);fit(cluster);updateStats();
  }catch(e){console.error(e);alert(`تعذر تحميل طبقة: ${cfg.name}`);document.querySelector(`[data-id="${cfg.id}"]`).checked=false;
- }finally{setLoading(false)}
+ }finally{endLoading()}
 }
 function fit(g){try{const b=g.getBounds();if(b.isValid())map.fitBounds(b.pad(.08),{maxZoom:11});}catch{}}
 function updateStats(){let loaded=0,visible=0;for(const v of Object.values(state)){if(v.group&&map.hasLayer(v.group)){loaded++;visible+=v.count||0;}}document.getElementById('loadedCount').textContent=loaded.toLocaleString('ar');document.getElementById('featureCount').textContent=visible.toLocaleString('ar');totalVisible=visible;}
-function setLoading(v){document.getElementById('loading').hidden=!v;}
+function beginLoading(){
+ loadingRequests++;
+ const el=document.getElementById('loading');
+ el.hidden=false;
+}
+function endLoading(){
+ loadingRequests=Math.max(0,loadingRequests-1);
+ const el=document.getElementById('loading');
+ el.hidden=loadingRequests===0;
+}
 document.getElementById('clearBtn').onclick=()=>{document.querySelectorAll('.switch input').forEach(x=>{x.checked=false});Object.values(state).forEach(v=>v.group&&map.removeLayer(v.group));updateStats();};
 document.getElementById('searchBtn').onclick=search;document.getElementById('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter')search()});
 function search(){const q=document.getElementById('searchInput').value.trim().toLowerCase();if(!q)return;for(const v of Object.values(state)){if(!v.group||!map.hasLayer(v.group))continue;let found=null;v.group.eachLayer(l=>{if(found)return;const n=(l.feature?.properties?.name||'').toLowerCase();if(n.includes(q))found=l;});if(found){map.setView(found.getLatLng(),14);found.openPopup();return;}}alert('لم يُعثر على الموقع داخل الطبقات المحمّلة.');}
