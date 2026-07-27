@@ -150,3 +150,7 @@ main{height:calc(100vh - 104px);display:grid;grid-template-columns:330px 1fr;dir
         height: 175px;
     }
 }
+.popup-description img,
+.tourism-popup .popup-body img {
+    display: none !important;
+}
