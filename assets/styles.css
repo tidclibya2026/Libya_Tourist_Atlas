@@ -561,3 +561,260 @@ main {
     height: 175px;
   }
 }
+/* =========================================================
+   تحسين نافذة المواقع السياحية والصور
+   ========================================================= */
+
+.leaflet-popup-content-wrapper {
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 18px 45px rgba(6, 27, 53, 0.22);
+}
+
+.atlas-popup .leaflet-popup-content {
+  width: 430px !important;
+  max-width: calc(100vw - 70px);
+  margin: 0;
+  direction: rtl;
+  text-align: right;
+}
+
+.tourism-popup {
+  overflow: hidden;
+  border-radius: 14px;
+  background: #ffffff;
+  color: #172033;
+}
+
+/* معرض الصور */
+.popup-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3px;
+  background: #e5e7eb;
+}
+
+.popup-gallery:empty {
+  display: none;
+}
+
+.popup-image-button {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 135px;
+  padding: 0;
+  border: 0;
+  background: #eef2f7;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.popup-gallery .popup-image-button:first-child:last-child {
+  grid-column: 1 / -1;
+  height: 190px;
+}
+
+.popup-image-button img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  transition:
+    opacity 0.2s ease,
+    transform 0.25s ease;
+}
+
+.popup-image-button img.is-loaded {
+  opacity: 1;
+}
+
+.popup-image-button:hover img.is-loaded {
+  transform: scale(1.035);
+}
+
+/* مؤشر تحميل الصورة */
+.popup-image-loader {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(
+    110deg,
+    #eef2f7 8%,
+    #f8fafc 18%,
+    #eef2f7 33%
+  );
+  background-size: 200% 100%;
+  animation: imageShimmer 1.2s linear infinite;
+}
+
+.popup-image-loader::after {
+  content: "جاري تحميل الصورة...";
+  color: #64748b;
+  font-size: 11px;
+}
+
+@keyframes imageShimmer {
+  to {
+    background-position-x: -200%;
+  }
+}
+
+/* جسم البطاقة */
+.popup-body {
+  padding: 14px 16px 13px;
+}
+
+.popup-title {
+  margin: 0 0 9px;
+  color: #08386b;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+/* النص والوصف */
+.popup-description {
+  max-height: 150px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-left: 4px;
+  color: #374151;
+  font-size: 12.5px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  scrollbar-width: thin;
+  scrollbar-color: #94a3b8 #eef2f7;
+}
+
+.popup-description::-webkit-scrollbar {
+  width: 7px;
+}
+
+.popup-description::-webkit-scrollbar-track {
+  background: #eef2f7;
+  border-radius: 10px;
+}
+
+.popup-description::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 10px;
+}
+
+.popup-description::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* منع ظهور الصور الخام داخل الوصف */
+.popup-description img,
+.popup-description script,
+.popup-description style,
+.tourism-popup .popup-body img {
+  display: none !important;
+}
+
+/* الجداول */
+.popup-description table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.popup-description td,
+.popup-description th {
+  padding: 5px;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: top;
+}
+
+/* الروابط */
+.popup-description a {
+  color: #0d47a1;
+  text-decoration: none;
+  font-weight: 600;
+  word-break: break-all;
+}
+
+.popup-description a:hover {
+  text-decoration: underline;
+}
+
+/* النصوص البرمجية أو الطويلة */
+.popup-description pre,
+.popup-description code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* مصدر الطبقة */
+.popup-source {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #e5e7eb;
+  color: #6b7280;
+  font-size: 10.5px;
+}
+
+/* عارض الصورة بالحجم الكامل */
+.atlas-image-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(3, 18, 38, 0.92);
+}
+
+.atlas-image-viewer img {
+  max-width: 94vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.55);
+}
+
+.atlas-image-close {
+  position: fixed;
+  top: 18px;
+  left: 22px;
+  width: 44px;
+  height: 44px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* الهاتف */
+@media (max-width: 640px) {
+  .atlas-popup .leaflet-popup-content {
+    width: 300px !important;
+    max-width: calc(100vw - 45px);
+  }
+
+  .popup-image-button {
+    height: 105px;
+  }
+
+  .popup-gallery .popup-image-button:first-child:last-child {
+    height: 165px;
+  }
+
+  .popup-description {
+    max-height: 130px;
+    font-size: 12px;
+  }
+
+  .popup-title {
+    font-size: 16px;
+  }
+}
