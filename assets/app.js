@@ -119,11 +119,9 @@ for (const cfg of layers) {
 
   list.appendChild(card);
 
-  card
-    .querySelector('input')
-    .addEventListener('change', event => {
-      toggleLayer(cfg, event.target.checked);
-    });
+  card.querySelector('input').addEventListener('change', event => {
+    toggleLayer(cfg, event.target.checked);
+  });
 }
 
 function markerIcon(cfg) {
@@ -168,6 +166,7 @@ function cleanPopup(layer, cfg) {
 
   if (layer.getPopup()) {
     const originalPopup = layer.getPopup().getContent();
+
     if (originalPopup) {
       rawDescription = String(originalPopup);
     }
@@ -189,12 +188,21 @@ function cleanPopup(layer, cfg) {
                 data-image="${escapeAttribute(path)}"
                 aria-label="عرض صورة الموقع"
               >
+                <span class="popup-image-loader"></span>
                 <img
                   src="${escapeAttribute(path)}"
                   alt="${escapeAttribute(name)} - صورة ${index + 1}"
                   loading="lazy"
                   referrerpolicy="no-referrer"
-                  onerror="this.closest('.popup-image-button').remove()"
+                  onload="
+                    this.classList.add('is-loaded');
+                    const loader=this.previousElementSibling;
+                    if(loader){loader.remove();}
+                  "
+                  onerror="
+                    const button=this.closest('.popup-image-button');
+                    if(button){button.remove();}
+                  "
                 >
               </button>
             `
@@ -230,15 +238,16 @@ function cleanPopup(layer, cfg) {
 
   layer.on('popupopen', event => {
     const container = event.popup.getElement();
-    if (!container) return;
 
-    container
-      .querySelectorAll('.popup-image-button')
-      .forEach(button => {
-        button.addEventListener('click', () => {
-          openAtlasImage(button.dataset.image || '');
-        });
+    if (!container) {
+      return;
+    }
+
+    container.querySelectorAll('.popup-image-button').forEach(button => {
+      button.addEventListener('click', () => {
+        openAtlasImage(button.dataset.image || '');
       });
+    });
   });
 }
 
@@ -256,7 +265,9 @@ function extractPhotoPaths(rawDescription, props = {}) {
   ];
 
   for (const candidate of candidates) {
-    if (!candidate) continue;
+    if (!candidate) {
+      continue;
+    }
 
     const text = String(candidate?.value || candidate);
 
@@ -274,10 +285,16 @@ function extractJsonPhotoPaths(text, paths) {
 
   while (true) {
     const markerIndex = text.indexOf(marker, start);
-    if (markerIndex === -1) break;
+
+    if (markerIndex === -1) {
+      break;
+    }
 
     const arrayStart = text.indexOf('[', markerIndex);
-    if (arrayStart === -1) break;
+
+    if (arrayStart === -1) {
+      break;
+    }
 
     const jsonBlock = readBalancedJsonArray(text, arrayStart);
 
@@ -314,8 +331,8 @@ function readBalancedJsonArray(text, startIndex) {
   let inString = false;
   let escaped = false;
 
-  for (let i = startIndex; i < text.length; i += 1) {
-    const char = text[i];
+  for (let index = startIndex; index < text.length; index += 1) {
+    const char = text[index];
 
     if (inString) {
       if (escaped) {
@@ -346,7 +363,7 @@ function readBalancedJsonArray(text, startIndex) {
       depth -= 1;
 
       if (depth === 0) {
-        return text.slice(startIndex, i + 1);
+        return text.slice(startIndex, index + 1);
       }
     }
   }
@@ -373,7 +390,9 @@ function extractHtmlImages(text, paths) {
 }
 
 function normalizeKmlPhotoPath(path) {
-  if (!path) return '';
+  if (!path) {
+    return '';
+  }
 
   let normalized = String(path)
     .trim()
@@ -426,22 +445,23 @@ function cleanDescriptionText(rawHtml) {
     'text/html'
   );
 
-  doc
-    .querySelectorAll('img, script, style')
-    .forEach(element => element.remove());
+  doc.querySelectorAll('img, script, style').forEach(element => {
+    element.remove();
+  });
 
-  doc
-    .querySelectorAll('*')
-    .forEach(element => {
-      for (const attribute of [...element.attributes]) {
-        if (
-          attribute.name.toLowerCase().startsWith('on') ||
-          attribute.value.toLowerCase().includes('javascript:')
-        ) {
-          element.removeAttribute(attribute.name);
-        }
+  doc.querySelectorAll('*').forEach(element => {
+    for (const attribute of [...element.attributes]) {
+      const name = attribute.name.toLowerCase();
+      const value = attribute.value.toLowerCase();
+
+      if (
+        name.startsWith('on') ||
+        value.includes('javascript:')
+      ) {
+        element.removeAttribute(attribute.name);
       }
-    });
+    }
+  });
 
   return doc.body.innerHTML.trim();
 }
@@ -455,7 +475,10 @@ function removeJsonPhotoBlocks(text) {
     guard += 1;
 
     const markerIndex = result.indexOf(marker);
-    if (markerIndex === -1) break;
+
+    if (markerIndex === -1) {
+      break;
+    }
 
     const arrayStart = result.indexOf('[', markerIndex);
 
@@ -463,6 +486,7 @@ function removeJsonPhotoBlocks(text) {
       result =
         result.slice(0, markerIndex) +
         result.slice(markerIndex + marker.length);
+
       continue;
     }
 
@@ -475,17 +499,20 @@ function removeJsonPhotoBlocks(text) {
       result =
         result.slice(0, markerIndex) +
         result.slice(arrayStart + 1);
+
       continue;
     }
 
-    const fieldStart = Math.max(
-      result.lastIndexOf('<br', markerIndex),
-      result.lastIndexOf('\n', markerIndex),
-      result.lastIndexOf('photo', markerIndex)
-    );
+    const lineBreakIndex = result.lastIndexOf('\n', markerIndex);
+    const htmlBreakIndex = result.lastIndexOf('<br', markerIndex);
+    const photoIndex = result.lastIndexOf('photo', markerIndex);
 
-    const removeStart =
-      fieldStart >= 0 ? fieldStart : markerIndex;
+    const removeStart = Math.max(
+      lineBreakIndex,
+      htmlBreakIndex,
+      photoIndex,
+      markerIndex
+    );
 
     result =
       result.slice(0, removeStart) +
@@ -522,7 +549,9 @@ function escapeAttribute(value) {
 }
 
 function openAtlasImage(source) {
-  if (!source) return;
+  if (!source) {
+    return;
+  }
 
   const viewer = document.createElement('div');
   viewer.className = 'atlas-image-viewer';
@@ -546,9 +575,7 @@ function openAtlasImage(source) {
   viewer.addEventListener('click', event => {
     if (
       event.target === viewer ||
-      event.target.classList.contains(
-        'atlas-image-close'
-      )
+      event.target.classList.contains('atlas-image-close')
     ) {
       viewer.remove();
     }
@@ -664,10 +691,7 @@ async function toggleLayer(cfg, on) {
                 icon: markerIcon(cfg)
               }),
 
-            onEachFeature: (
-              feature,
-              leafletLayer
-            ) => {
+            onEachFeature: (feature, leafletLayer) => {
               cleanPopup(leafletLayer, cfg);
               count += 1;
             }
@@ -771,11 +795,9 @@ function endLoading() {
 }
 
 document.getElementById('clearBtn').onclick = () => {
-  document
-    .querySelectorAll('.switch input')
-    .forEach(input => {
-      input.checked = false;
-    });
+  document.querySelectorAll('.switch input').forEach(input => {
+    input.checked = false;
+  });
 
   Object.values(state).forEach(value => {
     if (value.group) {
@@ -788,13 +810,14 @@ document.getElementById('clearBtn').onclick = () => {
 
 document.getElementById('searchBtn').onclick = search;
 
-document
-  .getElementById('searchInput')
-  .addEventListener('keydown', event => {
+document.getElementById('searchInput').addEventListener(
+  'keydown',
+  event => {
     if (event.key === 'Enter') {
       search();
     }
-  });
+  }
+);
 
 function search() {
   const query = document
@@ -803,7 +826,9 @@ function search() {
     .trim()
     .toLowerCase();
 
-  if (!query) return;
+  if (!query) {
+    return;
+  }
 
   for (const value of Object.values(state)) {
     if (
@@ -816,7 +841,9 @@ function search() {
     let found = null;
 
     value.group.eachLayer(layer => {
-      if (found) return;
+      if (found) {
+        return;
+      }
 
       const props =
         layer.feature?.properties || {};
@@ -853,19 +880,15 @@ function search() {
     }
   }
 
-  alert(
-    'لم يُعثر على الموقع داخل الطبقات المحمّلة.'
-  );
+  alert('لم يُعثر على الموقع داخل الطبقات المحمّلة.');
 }
 
-document.getElementById('mobileToggle').onclick =
-  () => {
-    document
-      .getElementById('sidebar')
-      .classList.toggle('open');
-  };
+document.getElementById('mobileToggle').onclick = () => {
+  document
+    .getElementById('sidebar')
+    .classList.toggle('open');
+};
 
-// تحميل طبقة التراث العالمي تلقائيًا كبداية خفيفة.
 setTimeout(() => {
   const checkbox = document.querySelector(
     '[data-id="heritage"]'
