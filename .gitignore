@@ -1,0 +1,39 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python local server
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node dependencies — للاستخدام المستقبلي
+node_modules/
+dist/
+build/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Local backups
+backup/
+backups/
+*.bak
