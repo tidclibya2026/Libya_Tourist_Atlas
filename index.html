@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="نسخة عرض ثابتة لمشروع أطلس ليبيا السياحي" />
+  <title>أطلس ليبيا السياحي | نسخة العرض</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">دولة ليبيا · وزارة السياحة والصناعات التقليدية</p>
+      <h1>أطلس ليبيا السياحي</h1>
+      <p>منصة عرض جغرافي ثابتة للطبقات السياحية الوطنية</p>
+    </div>
+    <div class="status"><span></span> نسخة عرض مؤسسية 2026</div>
+  </header>
+
+  <main>
+    <aside class="sidebar" id="sidebar">
+      <section class="intro-card">
+        <strong>من المعلومة إلى القرار</strong>
+        <p>عرض مباشر لملفات KML والصور المرتبطة بها، دون قاعدة بيانات أو مسار مراجعة.</p>
+      </section>
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="ابحث داخل المواقع المحمّلة…" aria-label="البحث">
+        <button id="searchBtn">بحث</button>
+      </div>
+      <div class="section-title"><span>الطبقات</span><button id="clearBtn">إخفاء الكل</button></div>
+      <div id="layerList" class="layer-list"></div>
+      <section class="metrics">
+        <div><b id="loadedCount">0</b><span>طبقات محمّلة</span></div>
+        <div><b id="featureCount">0</b><span>موقع ظاهر</span></div>
+      </section>
+      <p class="note">النسخة التشغيلية الكاملة ومسار الاعتماد يواصلان التطوير في مستودع <b>lsta.ly</b>.</p>
+    </aside>
+
+    <section class="map-shell">
+      <div id="map"></div>
+      <button class="mobile-toggle" id="mobileToggle">☰ الطبقات</button>
+      <div class="map-badge">عرض فقط · Static Frontend</div>
+      <div class="loading" id="loading" hidden><div class="spinner"></div><span>جاري تحميل الطبقة…</span></div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
