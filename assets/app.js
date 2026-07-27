@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 
 const layers = [
   {
@@ -17,14 +17,14 @@ const layers = [
     color: '#b45309',
     meta: 'الفن الصخري والمشهد الصحراوي'
   },
- {
+{
   id: 'oldTripoli',
   name: 'المدينة القديمة طرابلس',
   file: 'data/kml/old-tripoli-local-images.kml',
   icon: '🕌',
   color: '#0891b2',
   meta: 'المعالم التاريخية والصور المحلية'
-}
+},
   {
     id: 'hotels',
     name: 'الفنادق',
@@ -899,3 +899,5 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
+
