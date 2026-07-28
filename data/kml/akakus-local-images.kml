@@ -1,0 +1,4599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>اكاكوس</name>
+    <description/>
+    <Style id="icon-1899-01579B-nodesc-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-01579B-nodesc-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-nodesc-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-nodesc-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>اقواس صخرية</name>
+      <Placemark>
+        <name>قوس أفزجار‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6Hvx92feI1WwTbHsWpQZHSn4rbFIeqs2E6FukYvK1Hm8yb9cA3nM5to_5aoaxOjjw0fhqhaoUbIIeWFBcFPJn5NynPzHIu35A13QHn9NT4pg0q0ly2o7q86Ag8-gEULgYDqjxHgAHXh4kssJIevNK6eASaDrWW3RRedKYTsp0pP_ZyLx3OuUQvGJLb5nQ75WwDv6TWqFUw1POIr7CSK7LDH6I79h5xlfMF163yakGgoYV6vX2bu57LpD-nlJYFaTi-CjzU2C5XWhKh9poIDGiiZbKcgU70urMCrJmmbeqYxWD8iKNgJONHoRB0fB2ti4E2IHyKOZ1alBjyBPTjC4IL98LUpqWVo4OXd08csu6SWEGSkAUL1a7NcOYe0NBya3zcmj49aPbMCTvIS3Z6n8fAsImEjSgreHk0qj3TmHONQZzYs9uaNkpsv1xO9utwEc991JKNkaBRymb46im-v_518xuCsA4G2EKcQjvzML_SPZA0Np6j9-blSwI-iVkO6LBdBz3ZoBfSyfaNagiSpMJJNkWUMjCNC3GHS057NltQcBpPN4Ux-WjxGtXG--3wtg6FuzuUckqICLdNd61IxhT7tvFI7MV1YBnpQLku6reW4P0EUawZzsNDmAw4Es7qODShA1D-u4mozQ" height="200" width="auto" /><br><br>الوصف: <br><br>قوس يبلغ ارتفاعه حوالي 19 مترًا، يقع إلى الغرب من وادي بوبو ويعرف باسم قوس أفزجان أو تين خليقة، نحتته عوامل التعرية، وتحيط به تشكيلات من الصخور التي تنتشر في محيطها ملاءات تحيط به الكهوف.‎<br>X: 10.6336031<br>Y: 24.6841587<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+قوس يبلغ ارتفاعه حوالي 19 مترًا، يقع إلى الغرب من وادي بوبو ويعرف باسم قوس أفزجان أو تين خليقة، نحتته عوامل التعرية، وتحيط به تشكيلات من الصخور التي تنتشر في محيطها ملاءات تحيط به الكهوف.‎</value>
+          </Data>
+          <Data name="X">
+            <value>10.6336031</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6841587</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6Hvx92feI1WwTbHsWpQZHSn4rbFIeqs2E6FukYvK1Hm8yb9cA3nM5to_5aoaxOjjw0fhqhaoUbIIeWFBcFPJn5NynPzHIu35A13QHn9NT4pg0q0ly2o7q86Ag8-gEULgYDqjxHgAHXh4kssJIevNK6eASaDrWW3RRedKYTsp0pP_ZyLx3OuUQvGJLb5nQ75WwDv6TWqFUw1POIr7CSK7LDH6I79h5xlfMF163yakGgoYV6vX2bu57LpD-nlJYFaTi-CjzU2C5XWhKh9poIDGiiZbKcgU70urMCrJmmbeqYxWD8iKNgJONHoRB0fB2ti4E2IHyKOZ1alBjyBPTjC4IL98LUpqWVo4OXd08csu6SWEGSkAUL1a7NcOYe0NBya3zcmj49aPbMCTvIS3Z6n8fAsImEjSgreHk0qj3TmHONQZzYs9uaNkpsv1xO9utwEc991JKNkaBRymb46im-v_518xuCsA4G2EKcQjvzML_SPZA0Np6j9-blSwI-iVkO6LBdBz3ZoBfSyfaNagiSpMJJNkWUMjCNC3GHS057NltQcBpPN4Ux-WjxGtXG--3wtg6FuzuUckqICLdNd61IxhT7tvFI7MV1YBnpQLku6reW4P0EUawZzsNDmAw4Es7qODShA1D-u4mozQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.633603,24.684159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس أفزجارن وقوس تنخليفة‎‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6ZBVU8z9Cse-8obC9RNN3Vfw8fd2aWpkG_YA7NYCWgzm3jil5elWZfxA6SpGdBGazapVQes5YBTzSsgDe_P3Lah1Gox6qdHKJJeQeeRtTtEAIF8qp-cSls9ZsUljJgNwfzSexis5oiec7ihl0_IFYvfO_HB-uRj9fEuMo4S8Ipwlf-LwgpY2yLzeD8JoSGElJc4CaBmPAohslmzRD0T9LLErBLvABs7-xTIVSkjdsiycPx-JBohfQMH5zL8z7QP8Hd8bTJ6z6MvIdntHGwDtQFWNEWYqvGEIiqxOM4xIeE0QFZ1DfTi4vEJKxK0FDIcmQEV0UvF-liCv5bivG5tGvTMwkI_xbBiQouyecDG4X3GpXOYOldhM1Fs-0kFmqvMSa8_QaI0x5IgHmkBjDu7BfG_h9ZSem7jV6rx3gF2a4_KfYCtQh5Pb36QLU7RW3hvCJGSZWpxwK276QK456zkPic7DWyhnZPsbWSnZsoC-QuAIW4NgVnSjGYy9y9arRHRVcmD_rTpKdDj1rg3T2EbFG9HPKKbaiwhU_CUR0LM9U-DTUrbf9xoZwLtBWbp1-Ui3HFJxb_BO7mg5uca0JML2IVng2opP1i1CwV-Z2GdBKese0kw-gVW6xh1RVGlt7ioS7my8HLGiUiEg" height="200" width="auto" /><br><br>الوصف: <br><br>قوس يبلغ ارتفاعه حوالي 19 مترًا، يقع إلى الغرب من وادي بوبو ويعرف باسم قوس أفزجان أو تين خليقة، نحتته عوامل التعرية، وتحيط به تشكيلات من الصخور التي تنتشر في محيطها ملاءات تحيط به الكهوف.<br>X: 10.577589<br>Y: 24.857511<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+قوس يبلغ ارتفاعه حوالي 19 مترًا، يقع إلى الغرب من وادي بوبو ويعرف باسم قوس أفزجان أو تين خليقة، نحتته عوامل التعرية، وتحيط به تشكيلات من الصخور التي تنتشر في محيطها ملاءات تحيط به الكهوف.</value>
+          </Data>
+          <Data name="X">
+            <value>10.577589</value>
+          </Data>
+          <Data name="Y">
+            <value>24.857511</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6ZBVU8z9Cse-8obC9RNN3Vfw8fd2aWpkG_YA7NYCWgzm3jil5elWZfxA6SpGdBGazapVQes5YBTzSsgDe_P3Lah1Gox6qdHKJJeQeeRtTtEAIF8qp-cSls9ZsUljJgNwfzSexis5oiec7ihl0_IFYvfO_HB-uRj9fEuMo4S8Ipwlf-LwgpY2yLzeD8JoSGElJc4CaBmPAohslmzRD0T9LLErBLvABs7-xTIVSkjdsiycPx-JBohfQMH5zL8z7QP8Hd8bTJ6z6MvIdntHGwDtQFWNEWYqvGEIiqxOM4xIeE0QFZ1DfTi4vEJKxK0FDIcmQEV0UvF-liCv5bivG5tGvTMwkI_xbBiQouyecDG4X3GpXOYOldhM1Fs-0kFmqvMSa8_QaI0x5IgHmkBjDu7BfG_h9ZSem7jV6rx3gF2a4_KfYCtQh5Pb36QLU7RW3hvCJGSZWpxwK276QK456zkPic7DWyhnZPsbWSnZsoC-QuAIW4NgVnSjGYy9y9arRHRVcmD_rTpKdDj1rg3T2EbFG9HPKKbaiwhU_CUR0LM9U-DTUrbf9xoZwLtBWbp1-Ui3HFJxb_BO7mg5uca0JML2IVng2opP1i1CwV-Z2GdBKese0kw-gVW6xh1RVGlt7ioS7my8HLGiUiEg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.577589,24.857511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7yfYdvvGu3_BNpcJZSYg3xemrpY7Z-MEd9HA7Ia3oDTzq8fxjyZjvqMEPiAQptspL36fPBUwx2--aaMr96Dz8-1uJ0KHHm4Abe0OJpwPA7kOwHpO4NAKFtsE8xss_DmUpIAX9YKtc_hZFTgj4UeFAKqnjVCMHX4ReFdjOR51MHIlGO97gfC7zNvhWhP96Jpeq-zWdprqLUhAg2_FggI6_wuPz5yUfE9BE4vSYw8tp7Ymqd5v2_l-1fWviTYfiuyAK3X-8nlxRyyM24aTUB7B-x5F2mBLDN3Nwskq8L11LrpkTUDCaAqats6ZC9Dpcp5bDFUkNMZK2V7I7cV_7AcvP-GZdkAuhpkj9B6aKWRnA8UFyoPd4Tnrj4EsMsfhsjNQ0wSdFTSsvuySU9WqSjYosb0EWQQ0QuaQLH2v8-C8p8IVytdvaHWSAtI5Nt3vwkWRgvnh-LXM5Z4zNwiG9inBZpzWLDz5FAutg47eVXdgvlDyllVdmez-6OcJdzVz9LN1sN8v90YjUaIHfN3LoGcEcGmInw_B5_GPFuaJXd1OWF6WaRhK8PH-WTVdTgoqhlZS6lLNjsLbFtQKBo3rCR6_Diva7aFOd7iYEcNobhSG_0no-StquMJHk3HYUfoqFsvU5ejfSJVkkRVA" height="200" width="auto" /><br><br>الوصف: <br><br>4-	يقع القوس على امتداد روافد وادي تاشوينات، ويعتبر أحد المناظر الرائعة، بارتفاع يصل إلى 11 مترًا.<br>X: 10.486827<br>Y: 24.805344<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+4-	يقع القوس على امتداد روافد وادي تاشوينات، ويعتبر أحد المناظر الرائعة، بارتفاع يصل إلى 11 مترًا.</value>
+          </Data>
+          <Data name="X">
+            <value>10.486827</value>
+          </Data>
+          <Data name="Y">
+            <value>24.805344</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7yfYdvvGu3_BNpcJZSYg3xemrpY7Z-MEd9HA7Ia3oDTzq8fxjyZjvqMEPiAQptspL36fPBUwx2--aaMr96Dz8-1uJ0KHHm4Abe0OJpwPA7kOwHpO4NAKFtsE8xss_DmUpIAX9YKtc_hZFTgj4UeFAKqnjVCMHX4ReFdjOR51MHIlGO97gfC7zNvhWhP96Jpeq-zWdprqLUhAg2_FggI6_wuPz5yUfE9BE4vSYw8tp7Ymqd5v2_l-1fWviTYfiuyAK3X-8nlxRyyM24aTUB7B-x5F2mBLDN3Nwskq8L11LrpkTUDCaAqats6ZC9Dpcp5bDFUkNMZK2V7I7cV_7AcvP-GZdkAuhpkj9B6aKWRnA8UFyoPd4Tnrj4EsMsfhsjNQ0wSdFTSsvuySU9WqSjYosb0EWQQ0QuaQLH2v8-C8p8IVytdvaHWSAtI5Nt3vwkWRgvnh-LXM5Z4zNwiG9inBZpzWLDz5FAutg47eVXdgvlDyllVdmez-6OcJdzVz9LN1sN8v90YjUaIHfN3LoGcEcGmInw_B5_GPFuaJXd1OWF6WaRhK8PH-WTVdTgoqhlZS6lLNjsLbFtQKBo3rCR6_Diva7aFOd7iYEcNobhSG_0no-StquMJHk3HYUfoqFsvU5ejfSJVkkRVA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.486827,24.805344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5S6V-_R6MFl_hdQt5t6opS8jODkhdLw4xPxE8fRAWOzqI3o-DC79d9Sv3wQDAwmYLakU9hIMXRlhCmw4B7K0FGFSfh4eOY4x1lgb7Z0-Pq2w09-NrbOeVR4_2y_YXH2HDpD-rf6TArSqGKOntv6HybcDoUtlPYAxsFzH2Wp8B2nkOHI5ZJ1uAVxy6a_HGZ9swFEmIvZ5yWi4F8H6NitRzdO_0iTUEHdewsooh1SlOCleIvyf0a4nSNxrV9Z7KT_cY_cW8kbcGusheaNJRbdEun7KDbWaSRn8MDNtq0Ev2595ix4IRVtW9DwVpkCuPR-1yB7F6cu1UwajOzO4hGICA1I9YvF6rgFsm3N7s78JPxHWfSUtM3rnnGSFOfmd0JWZX0nxSGIjAdC6J59NWKq6zuAvlNuZiOg0A_vu4-xRzDhrlisEwk-YnZzOXoUR3Ywpt4VRzNPHrftOlmoFLa8cq8B6QUKVJ23v4EY5dQfUPe8HOcdoP70Qv5Y0eO4RwH9x6HUKnVz0YrbnEXEbi2Q1tNq0pGqJJzeb98GSvtRRmOdYRzUuxvbccra8xHeOb55uOFT21wGoNgUKPx47IoZ9dGQXpXICO6f5jTxxxFB0_6n6R0Li9xU7IrDUnvdV8hpZgTNpMav1m3kA" height="200" width="auto" /><br><br>الوصف: <br><br>3-	يقع القوس في أحد روافد وادي تاشوينات الكبير، ويشكل أحد المناظر الطبيعية والظواهر المتشكلة جراء عوامل الطبيعة، ويبلغ ارتفاع القوس حوالي 18 مترًا.<br>X: 10.488511<br>Y: 24.800558<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+3-	يقع القوس في أحد روافد وادي تاشوينات الكبير، ويشكل أحد المناظر الطبيعية والظواهر المتشكلة جراء عوامل الطبيعة، ويبلغ ارتفاع القوس حوالي 18 مترًا.</value>
+          </Data>
+          <Data name="X">
+            <value>10.488511</value>
+          </Data>
+          <Data name="Y">
+            <value>24.800558</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5S6V-_R6MFl_hdQt5t6opS8jODkhdLw4xPxE8fRAWOzqI3o-DC79d9Sv3wQDAwmYLakU9hIMXRlhCmw4B7K0FGFSfh4eOY4x1lgb7Z0-Pq2w09-NrbOeVR4_2y_YXH2HDpD-rf6TArSqGKOntv6HybcDoUtlPYAxsFzH2Wp8B2nkOHI5ZJ1uAVxy6a_HGZ9swFEmIvZ5yWi4F8H6NitRzdO_0iTUEHdewsooh1SlOCleIvyf0a4nSNxrV9Z7KT_cY_cW8kbcGusheaNJRbdEun7KDbWaSRn8MDNtq0Ev2595ix4IRVtW9DwVpkCuPR-1yB7F6cu1UwajOzO4hGICA1I9YvF6rgFsm3N7s78JPxHWfSUtM3rnnGSFOfmd0JWZX0nxSGIjAdC6J59NWKq6zuAvlNuZiOg0A_vu4-xRzDhrlisEwk-YnZzOXoUR3Ywpt4VRzNPHrftOlmoFLa8cq8B6QUKVJ23v4EY5dQfUPe8HOcdoP70Qv5Y0eO4RwH9x6HUKnVz0YrbnEXEbi2Q1tNq0pGqJJzeb98GSvtRRmOdYRzUuxvbccra8xHeOb55uOFT21wGoNgUKPx47IoZ9dGQXpXICO6f5jTxxxFB0_6n6R0Li9xU7IrDUnvdV8hpZgTNpMav1m3kA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.488511,24.800558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7f38gDgkEHqwwkbycPHflRDWoLSAtxjak-3l7dfqpo7qhIZTuIsoj04ulcwM4ThP50G_m4-boDABR1eIsP7U52piqASGDUrNwA-fuA1EUW6TsOG40KPiZm1rZk4CfihDlCqNu31sCdHopITyF_DHI_ygdck0FXoPpqKI7FK7SEn0z0-YNCapIu1FCOqQo4CbMczj5jFvgHoeBfJn6ORFKcfEZprFQuZGDGHMVBzm6JPeBwgo9AubTLEVFQ8OGabsPzZwbVAiX0TAYLYqJ3h_IPNbwIWFb2f45JLsEq3EJ5T3HNwBI-g5GedDq98LXOMTwgNerdNARhwTMHViXLFZdlUGNxEte5GDR2Mw3WqmSPZ1x7N8vTohIS1t3R65U9XBvKtsfnso4IlbA-BHzLieJyudb49H7zaXtg_SKcYihDVuYNmupDBfnE_F0-aQcGS224TRF2G6qu9Fiy75OjQo54c5-pwk9FNqkTTQbCjw_jbdnGJ5GHOf6naHUPxrEYKtEEYqUTc-Offv6xVrXju5PM17eLKFFgmyppxwm1BSHc3-FELPg_hhl-PDqPG7QyL5VXxn1M2evp8DepEiczVhcuSRRDUDNrUrhTERWiPnySM7PmT0uHuNIbNw4SVsrecDpZE_L_Fvmb" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.49638<br>Y: 24.7877743<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.49638</value>
+          </Data>
+          <Data name="Y">
+            <value>24.7877743</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7f38gDgkEHqwwkbycPHflRDWoLSAtxjak-3l7dfqpo7qhIZTuIsoj04ulcwM4ThP50G_m4-boDABR1eIsP7U52piqASGDUrNwA-fuA1EUW6TsOG40KPiZm1rZk4CfihDlCqNu31sCdHopITyF_DHI_ygdck0FXoPpqKI7FK7SEn0z0-YNCapIu1FCOqQo4CbMczj5jFvgHoeBfJn6ORFKcfEZprFQuZGDGHMVBzm6JPeBwgo9AubTLEVFQ8OGabsPzZwbVAiX0TAYLYqJ3h_IPNbwIWFb2f45JLsEq3EJ5T3HNwBI-g5GedDq98LXOMTwgNerdNARhwTMHViXLFZdlUGNxEte5GDR2Mw3WqmSPZ1x7N8vTohIS1t3R65U9XBvKtsfnso4IlbA-BHzLieJyudb49H7zaXtg_SKcYihDVuYNmupDBfnE_F0-aQcGS224TRF2G6qu9Fiy75OjQo54c5-pwk9FNqkTTQbCjw_jbdnGJ5GHOf6naHUPxrEYKtEEYqUTc-Offv6xVrXju5PM17eLKFFgmyppxwm1BSHc3-FELPg_hhl-PDqPG7QyL5VXxn1M2evp8DepEiczVhcuSRRDUDNrUrhTERWiPnySM7PmT0uHuNIbNw4SVsrecDpZE_L_Fvmb</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.49638,24.787774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6sZzTEWeQPEVaW2KbjSDpmko-98wsTG2rdJyEcOg7HorcWorynTjRQsxRVEdqxsQ7sk-xuDtIcfgULgfJLFqN753V7MHeweAHN8sWXkRJT9IoQ7zHQv9nVeUf-uV7__lW3rAjcXQ4_yZpzAYd0X8iEH3ngy-tDUFWkwbXYwWbEuszOiLl2eQr3Dujls_5ivEZ6nSxni1LSsqz6NgEIBsRY6w5QI6f6Lh8eW-roKkouDGoX1VGCd1qcjwysQJYFtArUXUEq15cAIJcjkra827I94_jgvKr-Rf4sGexKR7JQDx9F9kee7VGtIACipeW7TeJxRGMEJk1GisM_FNZkQg76mnSbO-ZPmpUEnlYTOOqlnAFX8Gchjdtb9h7r67biOugB5L_kFb1Xx7Lq-hy0QK98ukJG32e-NojoKlrYprevKKET75zdbVZ2GG8fgYLoE22mjTijgnGefd6-k_yGabv79tGwxIrHQpENZ2BaAFhDrv5ICnt2R-gn6aU-JjnedP-SQTHzpJt8sVTCkq9y6QiRCMA5RdKwdjgCEAH-Eay199cjYDVTM2fjGpVms8G9vOykhhFs7X7cjUtuvKiSzs7mfW0hdGRqXMoMl_BFKv78QB2ljU-ZdXwW3UdwuXdNqjgi-D158vYn7g" height="200" width="auto" /><br><br>الوصف: <br><br>6-	يصنف القوس ضمن المناظر الطبيعية الرائعة، وهو أحد التكوينات الصخرية في وادي أنشال. ‎<br>X: 10.6324645<br>Y: 24.9142857<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+6-	يصنف القوس ضمن المناظر الطبيعية الرائعة، وهو أحد التكوينات الصخرية في وادي أنشال. ‎</value>
+          </Data>
+          <Data name="X">
+            <value>10.6324645</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9142857</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6sZzTEWeQPEVaW2KbjSDpmko-98wsTG2rdJyEcOg7HorcWorynTjRQsxRVEdqxsQ7sk-xuDtIcfgULgfJLFqN753V7MHeweAHN8sWXkRJT9IoQ7zHQv9nVeUf-uV7__lW3rAjcXQ4_yZpzAYd0X8iEH3ngy-tDUFWkwbXYwWbEuszOiLl2eQr3Dujls_5ivEZ6nSxni1LSsqz6NgEIBsRY6w5QI6f6Lh8eW-roKkouDGoX1VGCd1qcjwysQJYFtArUXUEq15cAIJcjkra827I94_jgvKr-Rf4sGexKR7JQDx9F9kee7VGtIACipeW7TeJxRGMEJk1GisM_FNZkQg76mnSbO-ZPmpUEnlYTOOqlnAFX8Gchjdtb9h7r67biOugB5L_kFb1Xx7Lq-hy0QK98ukJG32e-NojoKlrYprevKKET75zdbVZ2GG8fgYLoE22mjTijgnGefd6-k_yGabv79tGwxIrHQpENZ2BaAFhDrv5ICnt2R-gn6aU-JjnedP-SQTHzpJt8sVTCkq9y6QiRCMA5RdKwdjgCEAH-Eay199cjYDVTM2fjGpVms8G9vOykhhFs7X7cjUtuvKiSzs7mfW0hdGRqXMoMl_BFKv78QB2ljU-ZdXwW3UdwuXdNqjgi-D158vYn7g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.632464,24.914286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس أويص‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6Jk5Z7WzcM3mzJo9nB0KE6bBMeFsn35n5SgjXvj4szY9YVRzlO0xnySXxuK8F0ezJ2l0mk5sgnscCkbXGPVqRyhfRNop2c8A2RE0Ngwf82UrZqJXhEXArmdNiFMKriMogM3UVodf1FqjZhBRUyV46LH8T--K7ynvNlX9_rsUP9mUJD__UsMi24xz0CpCFbtVdRQ0UI65kfJfQPDiI8i93vLYn8c81daCIekQ5zLgYfk604nTua16gIJi2liqog2qbuRjR6QYn7jTV50HLrUa7Ogkw09P3Ch9FGJ1cyunXk4Gi9y_zrStNmDXhC0nB7jwI1eRoZrXyXObAAioSIGao8V_qqHHSzOCPIRrpdeMSns7A55SlRBfqHoEWAOCmAPeyB-DNRe_vePYt5Yi3CL8bZ41UTHr3_v7mRstCCAaRiR3ntoIOAwqObnmJ5J2kG3aqOHgeq99epT9AzF5jscTbrwKZQ3a5aPBSPz_I12LAJ6bnANF3s20K9bN3vdkAtiYgcpiQUqxlJUq-C4rlPQu0g546kClAofI1lrMvu6jsDhgjXO3IQWw5GVifUhxB_fduQDuOv4HCAQofbvkjOpDdFkQGCDvxDvuOdBC1ghmUcIHQKEjLPSrZApDSNbvUffkx8z3svd0oJIw" height="200" width="auto" /><br><br>الوصف: <br><br>8-	قوس أويص : يشكل القوس أحد العلامات البارزة في المنطقة، ويعتبر نقطة دالة وسط وادي أويص من المزارات السياحية، بسبب انتشار التشكيلات الصخرية الطبيعية المنتصبة على بساط رملي لامتناهي، إلى جانب وجود عدد من الكهوف، ومجموعة من المواقع الحاضنة للفن الصخري، ويبلغ ارتفاع فتحة القوس حوالي ثلاثة أمتار، وعرضها 10 أمتار.‎<br>X: 10.5471998<br>Y: 25.3379109<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+8-	قوس أويص : يشكل القوس أحد العلامات البارزة في المنطقة، ويعتبر نقطة دالة وسط وادي أويص من المزارات السياحية، بسبب انتشار التشكيلات الصخرية الطبيعية المنتصبة على بساط رملي لامتناهي، إلى جانب وجود عدد من الكهوف، ومجموعة من المواقع الحاضنة للفن الصخري، ويبلغ ارتفاع فتحة القوس حوالي ثلاثة أمتار، وعرضها 10 أمتار.‎</value>
+          </Data>
+          <Data name="X">
+            <value>10.5471998</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3379109</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6Jk5Z7WzcM3mzJo9nB0KE6bBMeFsn35n5SgjXvj4szY9YVRzlO0xnySXxuK8F0ezJ2l0mk5sgnscCkbXGPVqRyhfRNop2c8A2RE0Ngwf82UrZqJXhEXArmdNiFMKriMogM3UVodf1FqjZhBRUyV46LH8T--K7ynvNlX9_rsUP9mUJD__UsMi24xz0CpCFbtVdRQ0UI65kfJfQPDiI8i93vLYn8c81daCIekQ5zLgYfk604nTua16gIJi2liqog2qbuRjR6QYn7jTV50HLrUa7Ogkw09P3Ch9FGJ1cyunXk4Gi9y_zrStNmDXhC0nB7jwI1eRoZrXyXObAAioSIGao8V_qqHHSzOCPIRrpdeMSns7A55SlRBfqHoEWAOCmAPeyB-DNRe_vePYt5Yi3CL8bZ41UTHr3_v7mRstCCAaRiR3ntoIOAwqObnmJ5J2kG3aqOHgeq99epT9AzF5jscTbrwKZQ3a5aPBSPz_I12LAJ6bnANF3s20K9bN3vdkAtiYgcpiQUqxlJUq-C4rlPQu0g546kClAofI1lrMvu6jsDhgjXO3IQWw5GVifUhxB_fduQDuOv4HCAQofbvkjOpDdFkQGCDvxDvuOdBC1ghmUcIHQKEjLPSrZApDSNbvUffkx8z3svd0oJIw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.5472,25.337911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5R1fhxsyj8k_1hOtIOtcNbmUevxyWS0OMUANqA59Ot-uzChd9Czhdm3arhiVIv8-UukcfNRCNslLUUF_UCiWuyho7DLZZZyqoEB2zUmNfrsvPt_X6yyZ5igyIiJuIOmbqn7wf4HjAJG3gO2qYy0ktM_HO4C0HR3aEXUV1a8v3DSGZwcGcE1JA5VCBdTGzms-BYaoFy0t-Zk8w_CUTJ7eyOdO3tkLdh4vm9XNAOFRTTDR4hwGC0zvBxqxQj6YCACKcHUljMXOk0hwmsdO8crhwcIWhHZ_THuzgo4h6Ao7e40_1jw2j9gBjoEf-1ZAHcCUxAvwKaHM3GAS6m85YazlmeZMxmCYO2I0LfpHiRJYBLYxZwTZN0HCuDIvChYhkGkGQ77WzGRqH5HdXZj-HUa63kIu7aUmvBF6in9ojXAFkDYUu4bIZ1oVTJ7f4BjTMvSRwxxMJYgG6jEf4s4Bns6H5L0nxqoier1cPW7eN5e8l68QZG2hUm9V0B26_7XlvtkCkq41o-zrHeeh7juBabZf6GSn8Te3wVyRGRFt-Jbx9UuydV5yltQ1-1Vj-IHr3_1Cx4ycWbF3hDM3YnhK3rM4nHZ1ddpBr421EYp966YP_0y8Y8Um2bwuASagtTJakikTdScvp3vMdrBg" height="200" width="auto" /><br><br>الوصف: <br><br>9-	يبلغ عرض القوس حوالي 8 أمتار، وارتفاع فتحة القوس حوالي 3 أمتار، ويشكل أحد المظاهر الطبيعية المميزة لتضاريس وادي أويص وتفرعاته.<br>X: 10.5617252<br>Y: 25.3064607<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+9-	يبلغ عرض القوس حوالي 8 أمتار، وارتفاع فتحة القوس حوالي 3 أمتار، ويشكل أحد المظاهر الطبيعية المميزة لتضاريس وادي أويص وتفرعاته.</value>
+          </Data>
+          <Data name="X">
+            <value>10.5617252</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3064607</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5R1fhxsyj8k_1hOtIOtcNbmUevxyWS0OMUANqA59Ot-uzChd9Czhdm3arhiVIv8-UukcfNRCNslLUUF_UCiWuyho7DLZZZyqoEB2zUmNfrsvPt_X6yyZ5igyIiJuIOmbqn7wf4HjAJG3gO2qYy0ktM_HO4C0HR3aEXUV1a8v3DSGZwcGcE1JA5VCBdTGzms-BYaoFy0t-Zk8w_CUTJ7eyOdO3tkLdh4vm9XNAOFRTTDR4hwGC0zvBxqxQj6YCACKcHUljMXOk0hwmsdO8crhwcIWhHZ_THuzgo4h6Ao7e40_1jw2j9gBjoEf-1ZAHcCUxAvwKaHM3GAS6m85YazlmeZMxmCYO2I0LfpHiRJYBLYxZwTZN0HCuDIvChYhkGkGQ77WzGRqH5HdXZj-HUa63kIu7aUmvBF6in9ojXAFkDYUu4bIZ1oVTJ7f4BjTMvSRwxxMJYgG6jEf4s4Bns6H5L0nxqoier1cPW7eN5e8l68QZG2hUm9V0B26_7XlvtkCkq41o-zrHeeh7juBabZf6GSn8Te3wVyRGRFt-Jbx9UuydV5yltQ1-1Vj-IHr3_1Cx4ycWbF3hDM3YnhK3rM4nHZ1ddpBr421EYp966YP_0y8Y8Um2bwuASagtTJakikTdScvp3vMdrBg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.561725,25.306461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6Phfz1-Qx7ICEyd8neh09pWwSr5wnIc59Ls3OugQutA6VRh4pVw8S4kUGw7o6zBL4llctI-ZPd9pyyBA7iShBuHtSJK6ix4TWglL2WjOWGIhRsgVUsgEnpbvcZ40TS5OIBIfJa1SrIKFl-iLgnmuHmjRjpMBhprd-jeGCSBbXr8PoETgzZazwGrtO809n-GTjZ8JA8rnEo8nZB9vsoZDszGronCIfbTVwokIYKIhmYZH21tFlEBY5ssTC-Jx53roak5bZurkEegbZu0BDf3IImWUz5w8KE-F7ZY9xGJvDZwLuAsRDfyi4WwOkakWZpzTkoKQ7wg3K9wfe6LM2r0djkjRqjYEduYCuYc4uWRcfCVt1dCOMOS3FWUsAUsKuQPD55VHQ0fx3PrS6Zat6gXBwPhD1ITc-rLKKiyvk-PgndKb6I5kh87FQHz92-_eHSZgxYQc2fBmeHJx7HS5JqwbfbTQRT9UUJkyFdnh1kaBrXDohg3OG-VnzeHbcXBL9-fPByOi_TkfzwrqjoSmIoIyQh2pKn4gNzskgfeJuW-r1VO4U_nlQ4_0fq5EMnKdSw_uxcV7vob6Ilm5-Y_pCaUZWaM4ecK098OTd8QqnSfY8TalMWrE1STav3hmrWpiqDDbY59ZzP9b10ng" height="200" width="auto" /><br><br>الوصف: <br><br>10-	يقع القوس فوق مرتفع وسط تفرعات وادي أويص، وهو قوس صغير يبلغ ارتفاع فتحته حوالي 3 أمتار، وبارتفاع يصل إلى مترين.‎<br>X: 10.5542209<br>Y: 25.3081436<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+10-	يقع القوس فوق مرتفع وسط تفرعات وادي أويص، وهو قوس صغير يبلغ ارتفاع فتحته حوالي 3 أمتار، وبارتفاع يصل إلى مترين.‎</value>
+          </Data>
+          <Data name="X">
+            <value>10.5542209</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3081436</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6Phfz1-Qx7ICEyd8neh09pWwSr5wnIc59Ls3OugQutA6VRh4pVw8S4kUGw7o6zBL4llctI-ZPd9pyyBA7iShBuHtSJK6ix4TWglL2WjOWGIhRsgVUsgEnpbvcZ40TS5OIBIfJa1SrIKFl-iLgnmuHmjRjpMBhprd-jeGCSBbXr8PoETgzZazwGrtO809n-GTjZ8JA8rnEo8nZB9vsoZDszGronCIfbTVwokIYKIhmYZH21tFlEBY5ssTC-Jx53roak5bZurkEegbZu0BDf3IImWUz5w8KE-F7ZY9xGJvDZwLuAsRDfyi4WwOkakWZpzTkoKQ7wg3K9wfe6LM2r0djkjRqjYEduYCuYc4uWRcfCVt1dCOMOS3FWUsAUsKuQPD55VHQ0fx3PrS6Zat6gXBwPhD1ITc-rLKKiyvk-PgndKb6I5kh87FQHz92-_eHSZgxYQc2fBmeHJx7HS5JqwbfbTQRT9UUJkyFdnh1kaBrXDohg3OG-VnzeHbcXBL9-fPByOi_TkfzwrqjoSmIoIyQh2pKn4gNzskgfeJuW-r1VO4U_nlQ4_0fq5EMnKdSw_uxcV7vob6Ilm5-Y_pCaUZWaM4ecK098OTd8QqnSfY8TalMWrE1STav3hmrWpiqDDbY59ZzP9b10ng</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.554221,25.308144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5Uot9U2bPFvd-SYxBsD3_w7JUD-O1KJGngSQj5fYxM2r55au9_czp5TLS4oC-pwuHqPKyL77Sx683aE3MrpiKFuRabQI4QQFyPVoHpLpsJHwaBHJutX8BSmOEI5uxaG91X91tanIn-RFNwZim3-ZCNyYD0RWxU5PROYj32J4nlqQJk9Ibo3bWCtH-NvFp1BTvryNJhVYA7JhxemAhhW78I0lvR0SsX1KtkQLVYTtlVBkidU8Qp84YWEkKWPCYVQdqo8OWW9SycO84s9Jgb3S8mKdqYuMsIqLyBfLh1WHioZJjTsRk7RAfy4V1FPxuOFeS9kBGIQ7zQfZLPKduoB2w8F2NwgHhR5MfcX-qzLUjYwENOeXQbrp0wdcAq0HFigZQAtKucX5SzIoyGgnaSI6MiwuvlNsmnBqc61l0-XV-R3eHHBwxj0U2eSvA1ClBq_LuGWAiY_hGT2zkEqPqCtjLkuk1dNC2PIgGKrp08_XeCju3_171CD-Xq8v98igPx2q8sQhQ8m_S3DE0xtOEBpTWxH1LweZ9oOB712FQUSSSURXYsc9dSW7lX2leSo0ADQ0A2PyKtsDduC8144axZ1uuDu_fctFZdLJWJOcC9NKWMDGlQjlkEucrnJKyfziNtFrUrU5xU3PyRcA" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.5598188<br>Y: 25.3114496<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.5598188</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3114496</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5Uot9U2bPFvd-SYxBsD3_w7JUD-O1KJGngSQj5fYxM2r55au9_czp5TLS4oC-pwuHqPKyL77Sx683aE3MrpiKFuRabQI4QQFyPVoHpLpsJHwaBHJutX8BSmOEI5uxaG91X91tanIn-RFNwZim3-ZCNyYD0RWxU5PROYj32J4nlqQJk9Ibo3bWCtH-NvFp1BTvryNJhVYA7JhxemAhhW78I0lvR0SsX1KtkQLVYTtlVBkidU8Qp84YWEkKWPCYVQdqo8OWW9SycO84s9Jgb3S8mKdqYuMsIqLyBfLh1WHioZJjTsRk7RAfy4V1FPxuOFeS9kBGIQ7zQfZLPKduoB2w8F2NwgHhR5MfcX-qzLUjYwENOeXQbrp0wdcAq0HFigZQAtKucX5SzIoyGgnaSI6MiwuvlNsmnBqc61l0-XV-R3eHHBwxj0U2eSvA1ClBq_LuGWAiY_hGT2zkEqPqCtjLkuk1dNC2PIgGKrp08_XeCju3_171CD-Xq8v98igPx2q8sQhQ8m_S3DE0xtOEBpTWxH1LweZ9oOB712FQUSSSURXYsc9dSW7lX2leSo0ADQ0A2PyKtsDduC8144axZ1uuDu_fctFZdLJWJOcC9NKWMDGlQjlkEucrnJKyfziNtFrUrU5xU3PyRcA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.559819,25.31145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v40BzFHHP29xepB-eEiRctR8nZlBYc4VD7HCtCCHZlbyz7vlILVdnLkVWy4DUz8ntkmwZZOcwAQ6CZGCypmSsNgBr0fIElNIGdSYIp4H7MXG8vm-xewY37e86U_IqWVXfSGS4MWSoR-Gu5KH_KWe2mlZ6CWlowIjsygk-pcI8_-pism_-QIiLZUiaHcChpczG6IFV4uHGdosBE_kPGYYMr8aKOJXLE-iekhUGCc1kWC1IkIL4P1mHcUHRS6Nvjqz-08nC6LSBLsSt1s4R7QMpI2UoL7rVC4atbcna1GcJSlyIbDM3x0rMbwb1K7AkNJuD9e2SykLmpr-7Bj40vWaNwIfFgI3FS-qkcnxXD9R-xSAUDjCC3e5D4jq-oWSnOiNnOOowGy1KU3ZpSYxeDvU84T4pompiN8OSyM6KzY0OzuYF91DCAMiieCsr2LttY-fj42mUS5KSL9z1sI_ALuv23ffqlP5aTmM2E4Aj9E8LeWY4Mc90WqRGRtR7hsxTwkyTCI_yymxKUa_DJwp-RR6yA9cctBKbxoypYVw5AiwTDNJ5YwLyMjqwn0S5ot4xdk9AKSc0dtnFcv4auW4VeyCxp0dzKMuQvu7gV6PouiP3xMMuJVwB6xNtJK46SVVgRTx-w3OZryOFHx" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.5600566<br>Y: 25.311701<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.5600566</value>
+          </Data>
+          <Data name="Y">
+            <value>25.311701</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v40BzFHHP29xepB-eEiRctR8nZlBYc4VD7HCtCCHZlbyz7vlILVdnLkVWy4DUz8ntkmwZZOcwAQ6CZGCypmSsNgBr0fIElNIGdSYIp4H7MXG8vm-xewY37e86U_IqWVXfSGS4MWSoR-Gu5KH_KWe2mlZ6CWlowIjsygk-pcI8_-pism_-QIiLZUiaHcChpczG6IFV4uHGdosBE_kPGYYMr8aKOJXLE-iekhUGCc1kWC1IkIL4P1mHcUHRS6Nvjqz-08nC6LSBLsSt1s4R7QMpI2UoL7rVC4atbcna1GcJSlyIbDM3x0rMbwb1K7AkNJuD9e2SykLmpr-7Bj40vWaNwIfFgI3FS-qkcnxXD9R-xSAUDjCC3e5D4jq-oWSnOiNnOOowGy1KU3ZpSYxeDvU84T4pompiN8OSyM6KzY0OzuYF91DCAMiieCsr2LttY-fj42mUS5KSL9z1sI_ALuv23ffqlP5aTmM2E4Aj9E8LeWY4Mc90WqRGRtR7hsxTwkyTCI_yymxKUa_DJwp-RR6yA9cctBKbxoypYVw5AiwTDNJ5YwLyMjqwn0S5ot4xdk9AKSc0dtnFcv4auW4VeyCxp0dzKMuQvu7gV6PouiP3xMMuJVwB6xNtJK46SVVgRTx-w3OZryOFHx</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.560057,25.311701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري 13‎‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7Gy6ciRY3uTgdWTHfPRm1IZMrbwCFY3oq-nvYKUKjGwUaCUl_v0jb9YpsdJnYlQW9u92Vi_7OD5WyXwseDR-QJ8h4V7ZQ50P3uQ_dzSdem2lts-ZJrn5PJHXBSfyT858A61RCuhi6Wu2yjLicUGzXyuQ05WMGmeGVEEtOShntV8r4_BkV6GYyjLFfVQTNBHxaLEavi-86pFOZ_eHrGjYZankcAto8DJogw_KYcjXAxNHAIbkGx6HWn3K1qgEXN70qxyxYca9FPt6uOwymSk4gPnCxjjq-oH43WLc2i-u4-0GWe5TQfnmNtNZuJ4wEWLxt4xDN5u3IZ7-OhE62MJl6tbcZF1Kn5mfWOmkCbb9dP55jpDGMN_UTznyn1pqnfC4P1tyWn03fqd08ihjke0bRmSBINZhDmtNZ-sCNgrc78KrphzqAqG_e1RD5BeVh0nOJQoOqNH-w5kpY-DmSJcgHwg7Qd56GfeOqjy2ibwVWbj294nsaswocBTkMzx5ANqcDlA4vi7EpF45mGO89QhzMcLGDGbu94clfV5XSFaQ-ZZQfRM8rbQRCxJL-UNVpmCAoBh2j9bhvIjWXMCkMlG_dORriGz5aSbZFIAbiM4cFB-wAJQHcRk8ATGxVNy4mCx1bSJnJDCQzzYw" height="200" width="auto" /><br><br>الوصف: <br><br>13-	ينهض القوس وسط وادي أنشال، بارتفاع 12 متر، وعرض 5 أمتار، ويشكل أحد المناظر الطبيعية والظواهر الجيولوجية في الوادي.<br>X: 10.6648946<br>Y: 24.9125613<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+13-	ينهض القوس وسط وادي أنشال، بارتفاع 12 متر، وعرض 5 أمتار، ويشكل أحد المناظر الطبيعية والظواهر الجيولوجية في الوادي.</value>
+          </Data>
+          <Data name="X">
+            <value>10.6648946</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9125613</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7Gy6ciRY3uTgdWTHfPRm1IZMrbwCFY3oq-nvYKUKjGwUaCUl_v0jb9YpsdJnYlQW9u92Vi_7OD5WyXwseDR-QJ8h4V7ZQ50P3uQ_dzSdem2lts-ZJrn5PJHXBSfyT858A61RCuhi6Wu2yjLicUGzXyuQ05WMGmeGVEEtOShntV8r4_BkV6GYyjLFfVQTNBHxaLEavi-86pFOZ_eHrGjYZankcAto8DJogw_KYcjXAxNHAIbkGx6HWn3K1qgEXN70qxyxYca9FPt6uOwymSk4gPnCxjjq-oH43WLc2i-u4-0GWe5TQfnmNtNZuJ4wEWLxt4xDN5u3IZ7-OhE62MJl6tbcZF1Kn5mfWOmkCbb9dP55jpDGMN_UTznyn1pqnfC4P1tyWn03fqd08ihjke0bRmSBINZhDmtNZ-sCNgrc78KrphzqAqG_e1RD5BeVh0nOJQoOqNH-w5kpY-DmSJcgHwg7Qd56GfeOqjy2ibwVWbj294nsaswocBTkMzx5ANqcDlA4vi7EpF45mGO89QhzMcLGDGbu94clfV5XSFaQ-ZZQfRM8rbQRCxJL-UNVpmCAoBh2j9bhvIjWXMCkMlG_dORriGz5aSbZFIAbiM4cFB-wAJQHcRk8ATGxVNy4mCx1bSJnJDCQzzYw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.664895,24.912561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس تين لوبو</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5y2H8Nkz03treUUOVuQ0blQzKNQmonizhXA-HDtE7_LHktWi8V3OsXCtIE5vTapnn4W72v2KGvnAlFHh_dg2W0SbK7f5nELA0p6DnjC8U2lY-Gj5cylRqJmaC6rUjGbgS52fn2HgBIa4ztxYsy4Yyac_ZPyEjRwxeCLHhLf8NBnHNp016kJyuzUoocodeWFVwGIaAIneKKbsjK9JFQ0g9bl6PU7kPjiDbE39XtYEz-ZJ6Nrm7vrgLRzHQ_zpqJ4zlmbfcpKnD_MOMbtCgLtKqwf3iRV5_D2AIojhxkTPEZsDGAKldBnz7KZru1wsJm4LH6btCIDxrcMyM-pkw6ii_VaXPjgLHgTB_QAe-s_VVCSlfcMh_rWv6K11nSaWBxE7DhO5zpncODniARx2rP6PixCjT7zx4uW5Vh91S1J4cPLM6zcIzUcmYCleZLb1ZoTfy-bH6rRLqdgmtK3EZrzz87Ib9KaA0MrPa0BzEYV2cdzU_IlV3nkkYngxpHVBzH_IlMFCeuAdvTeprZSLUB3uZc3Ko1vKtv8fOSx2pMUx-nLPZNIsZksz494e7BiItfhZqiTNrq2dhjSGM9xIGCrgOQDq0Ns6c3pMjyOqbDNJ6Q8EpAQ6oCWdmxe19MFgWRzFgT8GJjAPTf" height="200" width="auto" /><br><br>الوصف: <br><br>14-	قوس تين لوبو : يصف زوار الموقع بأنه يشبه قدم الفيل، وهو أحد المناظر الأكثر استقطابًا للزوار، وسط وادي تانشالت، ويبلغ ارتفاع فتحة القوس حوالي 14 مترًا، وعرض 12 متر.‎<br>X: 10.6456230277778<br>Y: 24.9189143055556<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+14-	قوس تين لوبو : يصف زوار الموقع بأنه يشبه قدم الفيل، وهو أحد المناظر الأكثر استقطابًا للزوار، وسط وادي تانشالت، ويبلغ ارتفاع فتحة القوس حوالي 14 مترًا، وعرض 12 متر.‎</value>
+          </Data>
+          <Data name="X">
+            <value>10.6456230277778</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9189143055556</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5y2H8Nkz03treUUOVuQ0blQzKNQmonizhXA-HDtE7_LHktWi8V3OsXCtIE5vTapnn4W72v2KGvnAlFHh_dg2W0SbK7f5nELA0p6DnjC8U2lY-Gj5cylRqJmaC6rUjGbgS52fn2HgBIa4ztxYsy4Yyac_ZPyEjRwxeCLHhLf8NBnHNp016kJyuzUoocodeWFVwGIaAIneKKbsjK9JFQ0g9bl6PU7kPjiDbE39XtYEz-ZJ6Nrm7vrgLRzHQ_zpqJ4zlmbfcpKnD_MOMbtCgLtKqwf3iRV5_D2AIojhxkTPEZsDGAKldBnz7KZru1wsJm4LH6btCIDxrcMyM-pkw6ii_VaXPjgLHgTB_QAe-s_VVCSlfcMh_rWv6K11nSaWBxE7DhO5zpncODniARx2rP6PixCjT7zx4uW5Vh91S1J4cPLM6zcIzUcmYCleZLb1ZoTfy-bH6rRLqdgmtK3EZrzz87Ib9KaA0MrPa0BzEYV2cdzU_IlV3nkkYngxpHVBzH_IlMFCeuAdvTeprZSLUB3uZc3Ko1vKtv8fOSx2pMUx-nLPZNIsZksz494e7BiItfhZqiTNrq2dhjSGM9xIGCrgOQDq0Ns6c3pMjyOqbDNJ6Q8EpAQ6oCWdmxe19MFgWRzFgT8GJjAPTf</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.645623,24.918914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5IQvQVCGTO-LjXAprmIdiCR21yP2tVR7Nr2AD-S3r9CkM94w9GMlqDxFQTG-RQBpgLPFEXmDEyvXu1for2agJWlZoYtHMdg7LeuYvrpqGno1IM86gc5-bKVi-cn5z1AXQuV6nNHippqjGMCIoWJEBEH1YITeJpE30-qlLZm_c2QoHNzANHWuJATKoPdIiv5hYHkXVA8K-X9UG0QDMFeZuFnHbG9uNk_KyFFQoXySXY1CNummJnlOo34eWuR2nBB7PGwSlVq_k_RO0RXOV39a_ljHIcwxi2h5meWnqJG4sNBnSjZeL9c89v0a3df3fX9vGPmUQ-BVcKGSoty2s9mkIL4ns2EJKU8ANZU0TTHJ6Jv_79tXkXtZZQKw-FXPMzx3lr0Wc9c8Grtm2MpPrg8WT1FlF2zPakY8LfMjnb_qvFEotUFB-CFyMB7RKx25nMc2QkJ_p-lT7drNOx9vb7LZfq_L6h6xcH7_MC9oJQcqSlMk7TU5hvlg5LPfk10HNLiZlc0omaB7wcgwWUjf-oYjK6KfOo4HT5I5yL6aX9CYM41HZ00xWtKe6jKPjfMuXfBpEgT5iolmK0k6MCqytdvQGNqNnLdEJCxiefZZPxQKicLxhcDyzdl1yT5O-gfGqQE8tIiw42iFiXLg" height="200" width="auto" /><br><br>الوصف: <br><br>15-	تشكيلة صخرية على شكل قوس يبلغ ارتفاع فتحة القوس حوالي 2.5 متر، ويتجاوز عرضه 8 أمتار، ويقع القوس ضمن نطاق وادي أنشال.<br>X: 10.646391<br>Y: 24.9223186944444<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+15-	تشكيلة صخرية على شكل قوس يبلغ ارتفاع فتحة القوس حوالي 2.5 متر، ويتجاوز عرضه 8 أمتار، ويقع القوس ضمن نطاق وادي أنشال.</value>
+          </Data>
+          <Data name="X">
+            <value>10.646391</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9223186944444</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5IQvQVCGTO-LjXAprmIdiCR21yP2tVR7Nr2AD-S3r9CkM94w9GMlqDxFQTG-RQBpgLPFEXmDEyvXu1for2agJWlZoYtHMdg7LeuYvrpqGno1IM86gc5-bKVi-cn5z1AXQuV6nNHippqjGMCIoWJEBEH1YITeJpE30-qlLZm_c2QoHNzANHWuJATKoPdIiv5hYHkXVA8K-X9UG0QDMFeZuFnHbG9uNk_KyFFQoXySXY1CNummJnlOo34eWuR2nBB7PGwSlVq_k_RO0RXOV39a_ljHIcwxi2h5meWnqJG4sNBnSjZeL9c89v0a3df3fX9vGPmUQ-BVcKGSoty2s9mkIL4ns2EJKU8ANZU0TTHJ6Jv_79tXkXtZZQKw-FXPMzx3lr0Wc9c8Grtm2MpPrg8WT1FlF2zPakY8LfMjnb_qvFEotUFB-CFyMB7RKx25nMc2QkJ_p-lT7drNOx9vb7LZfq_L6h6xcH7_MC9oJQcqSlMk7TU5hvlg5LPfk10HNLiZlc0omaB7wcgwWUjf-oYjK6KfOo4HT5I5yL6aX9CYM41HZ00xWtKe6jKPjfMuXfBpEgT5iolmK0k6MCqytdvQGNqNnLdEJCxiefZZPxQKicLxhcDyzdl1yT5O-gfGqQE8tIiw42iFiXLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.646391,24.922319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[الوصف: <br>X: 10.5831103611111<br>Y: 24.8794213333333<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="X">
+            <value>10.5831103611111</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8794213333333</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.58311,24.879421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v77ZpYeNr12WRTN58QJKbi8J0dFAFjXSIbiNGC1rk-JjY5YRoW7Z71rknhf0iqXvDGbvgurqHgpXW1yYLwPKAqsxARKgBPnYBAKK8BItxAlbsAs8vRRO2hpEUSL74SqbEds1P38eOjTeMUQI6uiMVRTTBNA200xlGrcrkWSZyK5ZwM_TxWT14PLU-Zf3FdmSDHPyBBtXyY1vlvD8vY363V7_JR28ZgX7QtJEQTf_YNYxfody_bPe5ZUFV6mqgHS7dTg1EK1bUNH8BW15lDGOz1CNGNvoopSQVazOkcTBtN2qWwumreduvNsmBYCIoiOxOnLLUwQ7xiY4I-F03lNH5uGKROU-VNFnSlUOskrVq_nhBsm_yBXm7CexSMEZeXXGDxQyFZL7UtN2SKxO14U8vXwl3961dVOS0KgNUH_ogcOTVWueXtRpd7AZVG9rZPefIPylhGASbgb-PPtS7T9U0zqnhi4pudFiLDRH3o32O5mNQdUWo2K5XpYb3wnVrFAkY9ebAFUmhAaBDj2FttYhOufjCWGsw7ocr-DyeQ3yZSlZs99q_cSofbwlu1XuoaXDIHD3ADOljcpFpzoOg56UVvaK07UgQrpjms2I9DHob75Sz2umxADNUAMu8X2iGljvaSjA1wm0KDo" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6541822<br>Y: 24.8271006<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6541822</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8271006</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v77ZpYeNr12WRTN58QJKbi8J0dFAFjXSIbiNGC1rk-JjY5YRoW7Z71rknhf0iqXvDGbvgurqHgpXW1yYLwPKAqsxARKgBPnYBAKK8BItxAlbsAs8vRRO2hpEUSL74SqbEds1P38eOjTeMUQI6uiMVRTTBNA200xlGrcrkWSZyK5ZwM_TxWT14PLU-Zf3FdmSDHPyBBtXyY1vlvD8vY363V7_JR28ZgX7QtJEQTf_YNYxfody_bPe5ZUFV6mqgHS7dTg1EK1bUNH8BW15lDGOz1CNGNvoopSQVazOkcTBtN2qWwumreduvNsmBYCIoiOxOnLLUwQ7xiY4I-F03lNH5uGKROU-VNFnSlUOskrVq_nhBsm_yBXm7CexSMEZeXXGDxQyFZL7UtN2SKxO14U8vXwl3961dVOS0KgNUH_ogcOTVWueXtRpd7AZVG9rZPefIPylhGASbgb-PPtS7T9U0zqnhi4pudFiLDRH3o32O5mNQdUWo2K5XpYb3wnVrFAkY9ebAFUmhAaBDj2FttYhOufjCWGsw7ocr-DyeQ3yZSlZs99q_cSofbwlu1XuoaXDIHD3ADOljcpFpzoOg56UVvaK07UgQrpjms2I9DHob75Sz2umxADNUAMu8X2iGljvaSjA1wm0KDo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.654182,24.827101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4zxHkdbVFCA6fhwKK7OG-7kLaKdXWcA8vDwTyi1kVCOSNQFxIQO5Dzhxkrih9ZvIDGeYhfdP5k90eHhvBpOhefNy3D-a7CR_tYF3-Eh-AsNcb2v8IQsWzZvDxTrQ_RU_ShfJCAew3lNpaKVKwQuWDhggklbLEMCJ97ulKP8yAUdGFNfH3dSxDRRM50nsnSwyw_f4p9gY_nGephac1Vh_2sazvEDi063tj9tbNZeYH2YVMffOENU7UKyiAf_UaaeUpQKpvA8raMp_PYIaGmf0C0puglTTstXvVR9mqHxLOVh4R-h2NjxA7g7UNyadPZxOglsTLEhyMXM9bTHyj0gEWThNYSJWnTEenxCwUpAQsl5g0iroAwSFEv43P-Q-p6C9-SLNZ872u9t2eMo-QqtNmcKRU1-6RGzd5SDQwkex9R_Xutg5acl0kmfNnhvoaK8T16DJpEX4HcU0gX5pMDP88JvcZqFMlnRf_vsAIz-k1GzxBGUA1KWxkSTH91XJSUpeHWy1zNIEqhzPymp4BJ2IXU6zHW1grAh8C32hqc3oeIkfZHC7UI3xRlIwD1o8wb6j_jhnyXlx-f9AaTOmaMRYt0dk40uKWvu2Kum-y3Nn_OflZgXCUdR7MJsOykbxPQ4pqqsIhNK9swdg" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6435371<br>Y: 24.8048501<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6435371</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8048501</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v4zxHkdbVFCA6fhwKK7OG-7kLaKdXWcA8vDwTyi1kVCOSNQFxIQO5Dzhxkrih9ZvIDGeYhfdP5k90eHhvBpOhefNy3D-a7CR_tYF3-Eh-AsNcb2v8IQsWzZvDxTrQ_RU_ShfJCAew3lNpaKVKwQuWDhggklbLEMCJ97ulKP8yAUdGFNfH3dSxDRRM50nsnSwyw_f4p9gY_nGephac1Vh_2sazvEDi063tj9tbNZeYH2YVMffOENU7UKyiAf_UaaeUpQKpvA8raMp_PYIaGmf0C0puglTTstXvVR9mqHxLOVh4R-h2NjxA7g7UNyadPZxOglsTLEhyMXM9bTHyj0gEWThNYSJWnTEenxCwUpAQsl5g0iroAwSFEv43P-Q-p6C9-SLNZ872u9t2eMo-QqtNmcKRU1-6RGzd5SDQwkex9R_Xutg5acl0kmfNnhvoaK8T16DJpEX4HcU0gX5pMDP88JvcZqFMlnRf_vsAIz-k1GzxBGUA1KWxkSTH91XJSUpeHWy1zNIEqhzPymp4BJ2IXU6zHW1grAh8C32hqc3oeIkfZHC7UI3xRlIwD1o8wb6j_jhnyXlx-f9AaTOmaMRYt0dk40uKWvu2Kum-y3Nn_OflZgXCUdR7MJsOykbxPQ4pqqsIhNK9swdg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.643537,24.80485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري‎</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6ztt1PlebN373m_f4xVTRCHro2GD7DhdUkuVfmq8qquyjzkHv6mChqM3lGvFZJ-gF55pQHPjBrZQiwuee6nWT-W4JrBye7QAPs0jkE56gdSmSyxiZiPp6LUdx8ziHhTb9ilc5PRa6IawoPeveQTnAhFw59kbXKlwryjdTtwGJF3-lJtn1y3mphIK2-9KbbcVdZQjGC3EffpDiktWhiIVCBN6wdpHwGhvXdYhbErDXCTRrqwoPXpqhdxnz7F7Ai_GEluOgjPnDr7aVC3F7YgOzzkM9T2Gh2c2APnt2Ox9FXjC3hEgFwkLNV3Ee2qfHgJPTCJfAAduq0YArLfzMUlCAajX76dMblZARRimHK1j9OnkOqNbp2yEU-McC8RUIGpNN67WXbbpRTwHTXt2UBzMOEklqgkmcP7YzuBLWzffx48Go0vjWb8WxcDJaYDvsD-n8IKemb6L0xVkESyufhxn71wHvVxd-NHCgtuoydJ51byABq8igooqrtyqLRgMrzN9zavHH846FoczQaUdsvr8qnIdGKfrCaQMx0cfCFG-NwZZ1sc-n2o0n1a7nKEOPqffyhWfF23h-7Wc5xPj8t44BYfJa1nnsnu5PR-TnWeYPlwoxxWd3aQaEtHWxsKomTd0Lxuox-GCv_EQ" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6384730277778<br>Y: 24.6908142222222<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6384730277778</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6908142222222</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v6ztt1PlebN373m_f4xVTRCHro2GD7DhdUkuVfmq8qquyjzkHv6mChqM3lGvFZJ-gF55pQHPjBrZQiwuee6nWT-W4JrBye7QAPs0jkE56gdSmSyxiZiPp6LUdx8ziHhTb9ilc5PRa6IawoPeveQTnAhFw59kbXKlwryjdTtwGJF3-lJtn1y3mphIK2-9KbbcVdZQjGC3EffpDiktWhiIVCBN6wdpHwGhvXdYhbErDXCTRrqwoPXpqhdxnz7F7Ai_GEluOgjPnDr7aVC3F7YgOzzkM9T2Gh2c2APnt2Ox9FXjC3hEgFwkLNV3Ee2qfHgJPTCJfAAduq0YArLfzMUlCAajX76dMblZARRimHK1j9OnkOqNbp2yEU-McC8RUIGpNN67WXbbpRTwHTXt2UBzMOEklqgkmcP7YzuBLWzffx48Go0vjWb8WxcDJaYDvsD-n8IKemb6L0xVkESyufhxn71wHvVxd-NHCgtuoydJ51byABq8igooqrtyqLRgMrzN9zavHH846FoczQaUdsvr8qnIdGKfrCaQMx0cfCFG-NwZZ1sc-n2o0n1a7nKEOPqffyhWfF23h-7Wc5xPj8t44BYfJa1nnsnu5PR-TnWeYPlwoxxWd3aQaEtHWxsKomTd0Lxuox-GCv_EQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.638473,24.690814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7ngTCbAkweF7_1N4OzSVwg7RJiKI9Za37QXabGmPx-5dMaxDaiqBj45g6u1FsDnIdw7vP1V2rpbjMZ3rklGZRYDgWT3TSim_JirjsXsV71J-0URZn88QhsmZ4R0iupnYGCHBDxy6Wo7fgFRk3_u0jfrTr6qPIdXqXf-PPWwY_qhLrPqe1L36p4JdWwmSgSZemPzaF13JWsd2IToT-xr6VPVeUc71Ro8whZsy3wH7razH1hJgX5Qz1-EN1_ETf3NMzMiiHoqbP1lLcUbQHItV1nlw8wh3owMjEM_IeKIaypJs3t9mQajJXfEVmRtLjVJoI0WAmq2O5g4F0C13tJiAlQGsPYKDbD5WFrhc1bEYrCDTTEFPHICmsbSQ88VmBPs1yDA85C05LQu_-bc23lLQYvsH1RTUPlc3q_53bCJLru97zPuc8CB-hI1sLLFlEGkjigbU4F0gUX6w44UeKjaJDb5CMK-giUwMZoQy3SLDcYVx1HJRIK1CeMUa90iY0mtp9wATtAxEIrho7VTFxDtD6vK42t9G6eeNuj1-BnpRHPwypXUTB5oxKXJ6YO9PdTt7s-r4JSa5UY70-ImU2nKyQKqwHwDJMZ7UGINTMMC_1ldGvBUn5P_0f5vxQgH14rC2rLOoL6VxhpnA" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6072055<br>Y: 24.7218265<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6072055</value>
+          </Data>
+          <Data name="Y">
+            <value>24.7218265</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7ngTCbAkweF7_1N4OzSVwg7RJiKI9Za37QXabGmPx-5dMaxDaiqBj45g6u1FsDnIdw7vP1V2rpbjMZ3rklGZRYDgWT3TSim_JirjsXsV71J-0URZn88QhsmZ4R0iupnYGCHBDxy6Wo7fgFRk3_u0jfrTr6qPIdXqXf-PPWwY_qhLrPqe1L36p4JdWwmSgSZemPzaF13JWsd2IToT-xr6VPVeUc71Ro8whZsy3wH7razH1hJgX5Qz1-EN1_ETf3NMzMiiHoqbP1lLcUbQHItV1nlw8wh3owMjEM_IeKIaypJs3t9mQajJXfEVmRtLjVJoI0WAmq2O5g4F0C13tJiAlQGsPYKDbD5WFrhc1bEYrCDTTEFPHICmsbSQ88VmBPs1yDA85C05LQu_-bc23lLQYvsH1RTUPlc3q_53bCJLru97zPuc8CB-hI1sLLFlEGkjigbU4F0gUX6w44UeKjaJDb5CMK-giUwMZoQy3SLDcYVx1HJRIK1CeMUa90iY0mtp9wATtAxEIrho7VTFxDtD6vK42t9G6eeNuj1-BnpRHPwypXUTB5oxKXJ6YO9PdTt7s-r4JSa5UY70-ImU2nKyQKqwHwDJMZ7UGINTMMC_1ldGvBUn5P_0f5vxQgH14rC2rLOoL6VxhpnA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.607206,24.721826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4lkqWKTvXc84cuiZPFLgnvP19ffEVkHkKyTkVPmJzGi73OFZEYc1SWa-1Jyxp2wXldrjVa8IxSmQOA0sx_sjlZh8LOqHb2getb-MWGX4SJ86PruX19KgNKMw7aMaKoUvqbTmZ9fHkTAVG7p2LxiWWNuQ4iWTcSeyhPquzj--ASWysuYqWl22q0OYMi3ofsnE7A8P0lAiQ4og4oS_L2GC9g5oDRyPu1YGBV6AuefkipaUhzdy0O0s4hyQwKf9S1D_lHy0ZQJPo8xvyK3Siq_56-Ui8qbdeMygl9DW-iYX9Cq4jGhjU4hpXkBj4ZjRQn6NVqVs-MNqeZ7gC-NFo8OYEhOPsG2NSLZQYZ8jFuvAerTD72Ee_T4q6F_tOqXd7aWhtNEvVz4BO6a1rvOD8A6T3ie04yFI-HC-1XQzSSyCSXIeRcghuFSvhGGU_-CcHlQ_p75GYjW38pKOyoOhP6In-IF24uY9NF0nnrnM1uVFk4ovybV3vixZNPnVYtGd34kGFNgmjYkaB3R6OgmbmthzCNEXCzC6EIOJ-tieNbNoFKGgr7OXqmpO6mPDRzgSqOHbStjPY5nnEVvQIMhENF-iW4GKIVnFiUMuLcNE6ATohd8CqyIj5M21vqfBxFmKceFq6TiOLQJomy2Q" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.584348<br>Y: 24.7240611<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.584348</value>
+          </Data>
+          <Data name="Y">
+            <value>24.7240611</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v4lkqWKTvXc84cuiZPFLgnvP19ffEVkHkKyTkVPmJzGi73OFZEYc1SWa-1Jyxp2wXldrjVa8IxSmQOA0sx_sjlZh8LOqHb2getb-MWGX4SJ86PruX19KgNKMw7aMaKoUvqbTmZ9fHkTAVG7p2LxiWWNuQ4iWTcSeyhPquzj--ASWysuYqWl22q0OYMi3ofsnE7A8P0lAiQ4og4oS_L2GC9g5oDRyPu1YGBV6AuefkipaUhzdy0O0s4hyQwKf9S1D_lHy0ZQJPo8xvyK3Siq_56-Ui8qbdeMygl9DW-iYX9Cq4jGhjU4hpXkBj4ZjRQn6NVqVs-MNqeZ7gC-NFo8OYEhOPsG2NSLZQYZ8jFuvAerTD72Ee_T4q6F_tOqXd7aWhtNEvVz4BO6a1rvOD8A6T3ie04yFI-HC-1XQzSSyCSXIeRcghuFSvhGGU_-CcHlQ_p75GYjW38pKOyoOhP6In-IF24uY9NF0nnrnM1uVFk4ovybV3vixZNPnVYtGd34kGFNgmjYkaB3R6OgmbmthzCNEXCzC6EIOJ-tieNbNoFKGgr7OXqmpO6mPDRzgSqOHbStjPY5nnEVvQIMhENF-iW4GKIVnFiUMuLcNE6ATohd8CqyIj5M21vqfBxFmKceFq6TiOLQJomy2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.584348,24.724061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري وأن أفودا</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5xnyjV4JnTGrnJZYXNKmHdUqyl2tBQ50M3fnDyDheYpw-FwO0IfTL-KIDh_fmJX7Tspnb6q8kt-c0KGcTxojdtvRkSSnXCjO9cN6UnBFNHu2x_-M-lt29xPU5FSnq-QkMsYpvi11lkfSnQYFJg-n6th9nhOyD95NVplWZOU5dLwQsmShNceNy0lqaTCS6WtsPp11GAhsgx37U5O6HiOXAmPr261jUj7JOPpKwTzMNLcsg8uU3quGRlE8x2M7nDKRu1eH5gR1VEW7ag2HtrGCiyPH9oZ0B0e3hQj7yrXt_myhP9-MzG2t7T6Xzg-4EiNVWEXVWgX3wrttIvOWfmONQDu641BSPkPawqZfRci14C0WbPOrDYAZsNE_5BRKeN3I2Fi7SK05AfmP8uKwd1FNII0Sp8g-cuT2g7N-f7APAWWW6rfncvTan-hT7NQRRbgjFdJzjPpx_SV7KPrJofTVhqypy_Wp2nKbpwIpFmGTy2zf6L_Xz-FuTuqrx8q4Qq_TWLvHwOEGDnL7tjc4RskpPw1bP7GWU7A8JA23e9GOZcmLF2XrY97wqd_2fOUow2Wq7wOcGV5V996Zj6UJBMXm_0rD1FAPtrYDOUL_g7UkmsnY45uw2r6WfopSap3vJewXfDL6C_B63wQw" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6736137<br>Y: 24.6916641<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6736137</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6916641</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5xnyjV4JnTGrnJZYXNKmHdUqyl2tBQ50M3fnDyDheYpw-FwO0IfTL-KIDh_fmJX7Tspnb6q8kt-c0KGcTxojdtvRkSSnXCjO9cN6UnBFNHu2x_-M-lt29xPU5FSnq-QkMsYpvi11lkfSnQYFJg-n6th9nhOyD95NVplWZOU5dLwQsmShNceNy0lqaTCS6WtsPp11GAhsgx37U5O6HiOXAmPr261jUj7JOPpKwTzMNLcsg8uU3quGRlE8x2M7nDKRu1eH5gR1VEW7ag2HtrGCiyPH9oZ0B0e3hQj7yrXt_myhP9-MzG2t7T6Xzg-4EiNVWEXVWgX3wrttIvOWfmONQDu641BSPkPawqZfRci14C0WbPOrDYAZsNE_5BRKeN3I2Fi7SK05AfmP8uKwd1FNII0Sp8g-cuT2g7N-f7APAWWW6rfncvTan-hT7NQRRbgjFdJzjPpx_SV7KPrJofTVhqypy_Wp2nKbpwIpFmGTy2zf6L_Xz-FuTuqrx8q4Qq_TWLvHwOEGDnL7tjc4RskpPw1bP7GWU7A8JA23e9GOZcmLF2XrY97wqd_2fOUow2Wq7wOcGV5V996Zj6UJBMXm_0rD1FAPtrYDOUL_g7UkmsnY45uw2r6WfopSap3vJewXfDL6C_B63wQw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.673614,24.691664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قوس صخري</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5nWYZkM3BKja2F204A_RRn5Ya8u622xO_bbqPIcl43WjFpNhK7n3PmpeyRJhX2HknDVQiQXX4wF7JwAIw9X9XODw4VobaB0c_0E1HcKa_mDOjcR7F6CcUTzFzdamaWrWHJz5v-vYVDJNnU8QrVkTntdqHGVPDZ4pEM6LHNPR61p6zYO01YbF4FuN4rU0wtC8hYwcZLCllAjPNVPjzphjfBA9dUYEhStlXD4gxydysWnYQSs-bWruzDbrSUUkuboLuamiakp7xD_mNiFaGZoa6m0Ej0I1BjDYxmxEmuAfr_fnPcD7YyNbcG_CGjNb-8HkAxZmsdEnsmGbMfnUUqoK6ugCR1rUfms4wOGBnC5h_FYXNbrmIjSgr4QIfAUteZWaNCBq06OlKRgB5pYh_Lec_rsMXcm5-gVsfkwqbHVsOJZG0Lx-gLj2IjuzVKJ5Shlyvprq_-MKzBnmPofvw4gRQSBQCy628yyaOfsAZ69JqQ0W9U8c1VNrai79UWtk9tj1GgCQxMO3ru3biSV_uaMTz4F_9wttVGTb9KNUnyjUoGPEkk2GmKL6baMDNwPZO3BRGhSguoKdeF8GqdVtAjlu32QzntEm_cINjHuv1u2EDiEoIRoTAMc4QJuxqdtQM-N1r332XMYsVuWA" height="200" width="auto" /><br><br>الوصف: <br><br><br>X: 10.6871481<br>Y: 24.6809232<br>cat: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value>
+
+</value>
+          </Data>
+          <Data name="X">
+            <value>10.6871481</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6809232</value>
+          </Data>
+          <Data name="cat">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5nWYZkM3BKja2F204A_RRn5Ya8u622xO_bbqPIcl43WjFpNhK7n3PmpeyRJhX2HknDVQiQXX4wF7JwAIw9X9XODw4VobaB0c_0E1HcKa_mDOjcR7F6CcUTzFzdamaWrWHJz5v-vYVDJNnU8QrVkTntdqHGVPDZ4pEM6LHNPR61p6zYO01YbF4FuN4rU0wtC8hYwcZLCllAjPNVPjzphjfBA9dUYEhStlXD4gxydysWnYQSs-bWruzDbrSUUkuboLuamiakp7xD_mNiFaGZoa6m0Ej0I1BjDYxmxEmuAfr_fnPcD7YyNbcG_CGjNb-8HkAxZmsdEnsmGbMfnUUqoK6ugCR1rUfms4wOGBnC5h_FYXNbrmIjSgr4QIfAUteZWaNCBq06OlKRgB5pYh_Lec_rsMXcm5-gVsfkwqbHVsOJZG0Lx-gLj2IjuzVKJ5Shlyvprq_-MKzBnmPofvw4gRQSBQCy628yyaOfsAZ69JqQ0W9U8c1VNrai79UWtk9tj1GgCQxMO3ru3biSV_uaMTz4F_9wttVGTb9KNUnyjUoGPEkk2GmKL6baMDNwPZO3BRGhSguoKdeF8GqdVtAjlu32QzntEm_cINjHuv1u2EDiEoIRoTAMc4QJuxqdtQM-N1r332XMYsVuWA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.687148,24.680923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>الوديان</name>
+      <Placemark>
+        <name>تين الشيخ</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5167722<br>Y: 24.9572727]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5167722</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9572727</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.516772,24.957273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تيهيدن</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5982954<br>Y: 25.2667577]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5982954</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2667577</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.598295,25.266758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي رحملالين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6578554<br>Y: 25.01601]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6578554</value>
+          </Data>
+          <Data name="Y">
+            <value>25.01601</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.657855,25.01601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي وان أهيد</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5080733<br>Y: 24.8210931]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5080733</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8210931</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.508073,24.821093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي سيندار</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6740392<br>Y: 25.0502407]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6740392</value>
+          </Data>
+          <Data name="Y">
+            <value>25.0502407</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.674039,25.050241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تانشالت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.59597<br>Y: 24.66386]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.59597</value>
+          </Data>
+          <Data name="Y">
+            <value>24.66386</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.59597,24.66386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تين قويما</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 12<br>X_COORD: 11.67142<br>Y: 25.24124]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>12</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>11.67142</value>
+          </Data>
+          <Data name="Y">
+            <value>25.24124</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.67142,25.24124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أويس</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5390565<br>Y: 25.3572856]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5390565</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3572856</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.539056,25.357286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أفاغ</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.63673<br>Y: 24.63179]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.63673</value>
+          </Data>
+          <Data name="Y">
+            <value>24.63179</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.63673,24.63179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تاشوينات</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.4607<br>Y: 24.80699]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.4607</value>
+          </Data>
+          <Data name="Y">
+            <value>24.80699</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.4607,24.80699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي آمها</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5557529<br>Y: 24.7684976]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5557529</value>
+          </Data>
+          <Data name="Y">
+            <value>24.7684976</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.555753,24.768498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي بوبو</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6251469<br>Y: 24.5912982]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6251469</value>
+          </Data>
+          <Data name="Y">
+            <value>24.5912982</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.625147,24.591298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أمها</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6359<br>Y: 24.76286]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6359</value>
+          </Data>
+          <Data name="Y">
+            <value>24.76286</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.6359,24.76286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أفظجار</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.63467<br>Y: 24.69134]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.63467</value>
+          </Data>
+          <Data name="Y">
+            <value>24.69134</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.63467,24.69134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي البركات</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.58908<br>Y: 24.85341]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.58908</value>
+          </Data>
+          <Data name="Y">
+            <value>24.85341</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.58908,24.85341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أمركا</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.64956<br>Y: 24.81276]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.64956</value>
+          </Data>
+          <Data name="Y">
+            <value>24.81276</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.64956,24.81276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تلووات</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.672206<br>Y: 24.9661254]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.672206</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9661254</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.672206,24.966125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي توجين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.83462<br>Y: 25.06071]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.83462</value>
+          </Data>
+          <Data name="Y">
+            <value>25.06071</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.83462,25.06071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ايكومسين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6959632<br>Y: 25.2286394]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6959632</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2286394</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.695963,25.228639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تيتا</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.93085<br>Y: 24.85867]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.93085</value>
+          </Data>
+          <Data name="Y">
+            <value>24.85867</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.93085,24.85867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أورزاق</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.49755<br>Y: 24.56726]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.49755</value>
+          </Data>
+          <Data name="Y">
+            <value>24.56726</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.49755,24.56726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>رملة تخرخوري</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.4204154<br>Y: 24.5352725]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.4204154</value>
+          </Data>
+          <Data name="Y">
+            <value>24.5352725</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.420415,24.535272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ابهوها</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 11.16967<br>Y: 25.11614]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>11.16967</value>
+          </Data>
+          <Data name="Y">
+            <value>25.11614</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.16967,25.11614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تين أوينين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5414347<br>Y: 24.9547643]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5414347</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9547643</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.541435,24.954764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي سوقد</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6745784<br>Y: 25.2000223]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6745784</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2000223</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.674578,25.200022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تسبا</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.471202<br>Y: 25.2966347]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.471202</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2966347</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.471202,25.296635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أنشال</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.59408<br>Y: 24.91477]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.59408</value>
+          </Data>
+          <Data name="Y">
+            <value>24.91477</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.59408,24.91477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تين لالان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.4804392<br>Y: 24.9812465]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.4804392</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9812465</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.480439,24.981246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ارلالان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.43283<br>Y: 25.56951]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.43283</value>
+          </Data>
+          <Data name="Y">
+            <value>25.56951</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.43283,25.56951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تيهت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5833633<br>Y: 25.2739485]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5833633</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2739485</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.583363,25.273948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي كيسان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.49297<br>Y: 24.90278]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.49297</value>
+          </Data>
+          <Data name="Y">
+            <value>24.90278</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.49297,24.90278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي أنجاكور</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.33529<br>Y: 25.1226]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.33529</value>
+          </Data>
+          <Data name="Y">
+            <value>25.1226</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.33529,25.1226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وان جارين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.52226<br>Y: 25.33266]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.52226</value>
+          </Data>
+          <Data name="Y">
+            <value>25.33266</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.52226,25.33266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تين طرة</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5248483<br>Y: 25.3335418]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5248483</value>
+          </Data>
+          <Data name="Y">
+            <value>25.3335418</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.524848,25.333542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي قرقور</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.61878<br>Y: 25.23828]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.61878</value>
+          </Data>
+          <Data name="Y">
+            <value>25.23828</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.61878,25.23828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي غلاشم</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.39612<br>Y: 25.1775]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.39612</value>
+          </Data>
+          <Data name="Y">
+            <value>25.1775</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.39612,25.1775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ايسين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.2<br>Y: 24.86667]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.2</value>
+          </Data>
+          <Data name="Y">
+            <value>24.86667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.2,24.86667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ايضر</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.23456<br>Y: 24.6386]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.23456</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6386</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.23456,24.6386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تين الكوم</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.2178565<br>Y: 24.6075359]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.2178565</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6075359</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.217856,24.607536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تاجنرؤوت‎</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.3957055<br>Y: 24.5407792]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.3957055</value>
+          </Data>
+          <Data name="Y">
+            <value>24.5407792</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.395706,24.540779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي سلفوفيت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.79999<br>Y: 24.5630791]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.79999</value>
+          </Data>
+          <Data name="Y">
+            <value>24.5630791</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.79999,24.563079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تكظالت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.5206708<br>Y: 24.8463745]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.5206708</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8463745</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.520671,24.846374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>جبل تين بب</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.20833<br>Y: 24.72916]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.20833</value>
+          </Data>
+          <Data name="Y">
+            <value>24.72916</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.20833,24.72916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تنسو</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.0639001<br>Y: 25.199184]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.0639001</value>
+          </Data>
+          <Data name="Y">
+            <value>25.199184</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0639,25.199184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>جبل ايدينان - كاف الجنون</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.22552<br>Y: 25.26705]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.22552</value>
+          </Data>
+          <Data name="Y">
+            <value>25.26705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.22552,25.26705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قارة تزول</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.18539<br>Y: 25.61072]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.18539</value>
+          </Data>
+          <Data name="Y">
+            <value>25.61072</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.18539,25.61072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>رمال تيتغسين أو صحراء تهاريت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.18432<br>Y: 25.72073]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.18432</value>
+          </Data>
+          <Data name="Y">
+            <value>25.72073</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.18432,25.72073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>أغرم نودان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.2883467<br>Y: 25.8743526]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.2883467</value>
+          </Data>
+          <Data name="Y">
+            <value>25.8743526</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.288347,25.874353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي ميغدت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.03494<br>Y: 25.76468]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.03494</value>
+          </Data>
+          <Data name="Y">
+            <value>25.76468</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.03494,25.76468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>جبل مفتغت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 9.94048<br>Y: 25.83705]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>9.94048</value>
+          </Data>
+          <Data name="Y">
+            <value>25.83705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.94048,25.83705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ميغدت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 9.9408233<br>Y: 25.8188116]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>9.9408233</value>
+          </Data>
+          <Data name="Y">
+            <value>25.8188116</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.940823,25.818812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وان تكوفي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.60991<br>Y: 26.20319]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.60991</value>
+          </Data>
+          <Data name="Y">
+            <value>26.20319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.60991,26.20319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>الغابة المتحجرة</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 11.41026<br>Y: 25.9625]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>11.41026</value>
+          </Data>
+          <Data name="Y">
+            <value>25.9625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.41026,25.9625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مساك مللت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 12<br>X_COORD: 11.6410587<br>Y: 25.4668852]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>12</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>11.6410587</value>
+          </Data>
+          <Data name="Y">
+            <value>25.4668852</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.641059,25.466885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>طريق يفضي إلى برجوج</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 13<br>X_COORD: 13.0648891<br>Y: 26.5263411]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>13</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>13.0648891</value>
+          </Data>
+          <Data name="Y">
+            <value>26.5263411</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.064889,26.526341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي لانجوسي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6931999<br>Y: 24.9109843]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6931999</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9109843</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.6932,24.910984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي اشناتين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.3907326<br>Y: 24.9209481]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.3907326</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9209481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.390733,24.920948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي اميتالي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11<br>X_COORD: 10.6287557<br>Y: 24.6122121]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.6287557</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6122121</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.628756,24.612212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تنسو</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10<br>X_COORD: 10.0479461<br>Y: 25.1114188]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10</value>
+          </Data>
+          <Data name="X_COORD">
+            <value>10.0479461</value>
+          </Data>
+          <Data name="Y">
+            <value>25.1114188</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.047946,25.111419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ابار</name>
+      <Placemark>
+        <name>بئر وادي الخير</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.0108792<br>Y: 25.4610419]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.0108792</value>
+          </Data>
+          <Data name="Y">
+            <value>25.4610419</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.010879,25.461042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر تللوات</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.77752<br>Y: 25.22815]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.77752</value>
+          </Data>
+          <Data name="Y">
+            <value>25.22815</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.77752,25.22815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر أباناكور</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.35<br>Y: 25.31666]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.35</value>
+          </Data>
+          <Data name="Y">
+            <value>25.31666</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.35,25.31666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر امينينغ</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.66083<br>Y: 24.85944]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.66083</value>
+          </Data>
+          <Data name="Y">
+            <value>24.85944</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.66083,24.85944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.49872<br>Y: 24.78918]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.49872</value>
+          </Data>
+          <Data name="Y">
+            <value>24.78918</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.49872,24.78918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة تين تراريت</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5122773<br>Y: 25.2914886]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5122773</value>
+          </Data>
+          <Data name="Y">
+            <value>25.2914886</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.512277,25.291489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة ايوانين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5783339<br>Y: 24.9619263]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5783339</value>
+          </Data>
+          <Data name="Y">
+            <value>24.9619263</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.578334,24.961926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر تلووا</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.43968<br>Y: 25.4575]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.43968</value>
+          </Data>
+          <Data name="Y">
+            <value>25.4575</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.43968,25.4575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر عليوين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.7775<br>Y: 25.8055555555556]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.7775</value>
+          </Data>
+          <Data name="Y">
+            <value>25.8055555555556</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.7775,25.805556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر تيلالان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.6287<br>Y: 25.61103]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.6287</value>
+          </Data>
+          <Data name="Y">
+            <value>25.61103</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.6287,25.61103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر سلماجين‎</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.0057555<br>Y: 25.4826356]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.0057555</value>
+          </Data>
+          <Data name="Y">
+            <value>25.4826356</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.005756,25.482636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بئر تيترزين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 9.9289747<br>Y: 25.5199225]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>9.9289747</value>
+          </Data>
+          <Data name="Y">
+            <value>25.5199225</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.928975,25.519922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة تين اميتيلي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.6466397<br>Y: 24.6032768]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.6466397</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6032768</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.64664,24.603277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة بوبو</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.6378348<br>Y: 24.5799032]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.6378348</value>
+          </Data>
+          <Data name="Y">
+            <value>24.5799032</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.637835,24.579903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة تيبستين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5558641<br>Y: 24.894657]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5558641</value>
+          </Data>
+          <Data name="Y">
+            <value>24.894657</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.555864,24.894657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة انتريكي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5412635<br>Y: 24.7432667]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5412635</value>
+          </Data>
+          <Data name="Y">
+            <value>24.7432667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.541264,24.743267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>الفوار الساخن</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.25588<br>Y: 25.17864]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.25588</value>
+          </Data>
+          <Data name="Y">
+            <value>25.17864</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.25588,25.17864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلتة تيقلتري</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5817294<br>Y: 25.0416571]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5817294</value>
+          </Data>
+          <Data name="Y">
+            <value>25.0416571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.581729,25.041657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>وادي تيهرين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5532873<br>Y: 24.906083]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5532873</value>
+          </Data>
+          <Data name="Y">
+            <value>24.906083</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.553287,24.906083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدخل  تين لالان</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.0034562<br>Y: 25.8246694]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.0034562</value>
+          </Data>
+          <Data name="Y">
+            <value>25.8246694</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.003456,25.824669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>المداخل</name>
+      <Placemark>
+        <name>نقطة مراقبة الشرطة السياحية</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.6645793<br>Y: 24.8606097]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.6645793</value>
+          </Data>
+          <Data name="Y">
+            <value>24.8606097</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.664579,24.86061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدخل حقل الفيل</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.5463137<br>Y: 25.9385472]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.5463137</value>
+          </Data>
+          <Data name="Y">
+            <value>25.9385472</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.546314,25.938547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدخل يفضي إلى مساك ستافت‎</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.77604<br>Y: 25.81492]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.77604</value>
+          </Data>
+          <Data name="Y">
+            <value>25.81492</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.77604,25.81492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدخل تخرخوري</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.1961285<br>Y: 24.6808745]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.1961285</value>
+          </Data>
+          <Data name="Y">
+            <value>24.6808745</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.196128,24.680874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ممر تلمسين</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.58233<br>Y: 24.77426]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.58233</value>
+          </Data>
+          <Data name="Y">
+            <value>24.77426</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.58233,24.77426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>المثلث الحدودي</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 12.00009<br>Y: 23.49846]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>12.00009</value>
+          </Data>
+          <Data name="Y">
+            <value>23.49846</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.00009,23.49846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>متخندوش</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.93451<br>Y: 25.68827]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.93451</value>
+          </Data>
+          <Data name="Y">
+            <value>25.68827</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.93451,25.68827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>تفرع يفضي إلى الأكاكوس</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5625679<br>Y: 25.7798742]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5625679</value>
+          </Data>
+          <Data name="Y">
+            <value>25.7798742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.562568,25.779874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قرية تين أظاريف</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 10.5658185<br>Y: 25.7428855]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>10.5658185</value>
+          </Data>
+          <Data name="Y">
+            <value>25.7428855</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.565818,25.742886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدخل حقل الفيل</name>
+        <description><![CDATA[الوصف: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>X: 11.5321972<br>Y: 26.0901512]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="الوصف">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="X">
+            <value>11.5321972</value>
+          </Data>
+          <Data name="Y">
+            <value>26.0901512</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.532197,26.090151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>الفن الصخري والتراث الثقافي</name>
+      <Placemark>
+        <name>مدينة غات القديمة</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.179683,24.965854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع تين الشيخ</name>
+        <description>فن صخري</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.541697,24.955968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.515549,24.95715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.503531,24.959418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري أويس</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6007,25.522422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.537751,25.325897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدينة بركت القديمة</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.179331,24.896048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.477319,24.98241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.535949,25.326587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>رسوم فن صخري - تاهوين</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.60012,25.42324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري أويس</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.600959,25.521704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.329763,25.015363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.595863,25.266652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.581232,25.286949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.526397,25.334942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري تين الشيخ</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.51573,24.958082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.645977,24.919298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قلعة كوكمنت</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18052,24.96695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.536291,25.3266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.48327,24.981842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.549325,25.023916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.603027,25.520186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.603824,25.520984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري وادي تيسبت</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.522067,25.333376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.476111,24.982528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع فن صخري ‎</name>
+        <description>تين لالان</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.515686,25.355281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>القلعة الايطالية</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.17706,24.96497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>القلعة الفرنسية</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56405,25.77872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>جامع أغرم العتيق</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56635,25.7794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>حصن آغرم نظاريف</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.20214,24.88365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع جرمنتي - تين أفلا</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.07945,24.94937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدافن جرمنتية</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.20755,24.88722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدافن أثرية</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.00139,25.42642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدافن حجرية</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.003034,25.425717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مساك مللت</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.531693,24.46094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>تجمعات سكانية وخدمات</name>
+      <Placemark>
+        <name>البركت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.181487,24.887673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم الفيوت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.082024,24.945741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>فندق تاسيلي</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.174318,24.961389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ايسين</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.21364,24.78679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم آناي</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.20712,24.97157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع مخيم ازيل سنة 2006</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.567235,25.54071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة تزود بالوقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18744,24.97892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة تزود بالوقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18584,24.89893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بحيرة اجراجير</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.15694,24.7712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>المركز الصحي الفيوت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.082,24.95092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>الفيوت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.08332,24.950106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>غات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.180169,24.962304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم رفاق الصحراء</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.186142,24.987479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>بيوت الشباب غات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18331,24.95593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>المدينة الرياضية - غات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18494,24.95506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مصرف شمال افريقيا</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.176711,24.96561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>فندق الواحة</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.17682,24.96402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>موقع مخيم متنقل </name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.564725,25.016641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مكتب الخطوط الجوية الليبية</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.17649,24.96355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مصرف التجاري الوطني</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.17473,24.959536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مطار غات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.1481,25.13689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة وقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.37477,25.41227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مشروع تهالة الزراعي</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.350909,25.434356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مركز تهالة الصحي</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.35634,25.41569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة تزود بالوقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.54832,25.79273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم الفاو 2 - منتزه اين أزان‎</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.549388,25.790812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>المدينة الرياضية - العوينات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.55888,25.78527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم الفاو</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56985,25.78316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مخيم صحراوي</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.573932,25.784968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>فندق المهاري - العوينات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56684,25.78043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مكتب بريد العوينات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56274,25.78031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>العوينات</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.563706,25.779444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>حديقة الشجرة</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.56342,25.77865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مطار حقل الفيل</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.04556,26.03765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>حقل الفيل</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.97346,26.05107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>فندق أكاكوس</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.18259,24.95834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مستشفى غات العام</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.176528,24.962528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مستشفى البركت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.183245,24.896286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مكتب بريد البركت</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.184161,24.895961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة وقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.221346,24.793331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>محطة وقود</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.157354,24.960244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>قارة وادي اميسراجن</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.64213,25.38336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>نقطة حدود بين ليبيا والجزائر</name>
+        <styleUrl>#icon-1899-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.422547,26.208559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>الكهوف والملاجىء</name>
+      <Placemark>
+        <name>وان أفودا</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.507315,24.861402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف في وادي تانشالت</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.579423,24.678869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف وان موهجاج</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.50444,24.84138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف يحتوي أعمال فنية صخرية</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.494658,24.827832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>مدافن جرمنتية</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.089432,24.948392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>نقش صخري</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.51905,24.852067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.616836,24.881262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.575906,24.858849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>كهف وان أفودا</name>
+        <styleUrl>#icon-1899-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.500716,24.867866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
