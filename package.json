@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build:kml": "node scripts/build-unified-kml.mjs && node scripts/preserve-source-fields.mjs",
+    "validate:kml": "node scripts/validate-kml-layers.mjs",
+    "test:atlas": "node scripts/smoke-test-atlas.mjs"
+  }
+}
+

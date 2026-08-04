@@ -1,10 +1,12 @@
-﻿'use strict';
+'use strict';
+
+const PLACEHOLDER_IMAGE = resolveAssetPath('assets/images/placeholders/location-placeholder.svg');
 
 const layers = [
   {
     id: 'heritage',
     name: 'مواقع التراث العالمي',
-    file: 'data/kml/world-heritage.kml',
+    file: 'data/kml/final/world-heritage.kml',
     icon: '🏛️',
     color: '#7c3aed',
     meta: 'التراث العالمي والصور المرتبطة'
@@ -12,7 +14,7 @@ const layers = [
   {
     id: 'akakus',
     name: 'تادرارت أكاكوس والفن الصخري',
-    file: 'data/kml/akakus.kml',
+    file: 'data/kml/final/akakus.kml',
     icon: '🪨',
     color: '#b45309',
     meta: 'الفن الصخري والمشهد الصحراوي'
@@ -20,7 +22,7 @@ const layers = [
 {
   id: 'oldTripoli',
   name: 'المدينة القديمة طرابلس',
-  file: 'data/kml/old-tripoli-local-images.kml',
+  file: 'data/kml/final/old-tripoli.kml',
   icon: '🕌',
   color: '#0891b2',
   meta: 'المعالم التاريخية والصور المحلية'
@@ -28,7 +30,7 @@ const layers = [
   {
     id: 'hotels',
     name: 'الفنادق',
-    file: 'data/kml/hotels.kml',
+    file: 'data/kml/final/hotels.kml',
     icon: '🏨',
     color: '#dc2626',
     meta: 'منشآت الإيواء السياحي'
@@ -36,7 +38,7 @@ const layers = [
   {
     id: 'resorts',
     name: 'القرى والمنتجعات السياحية',
-    file: 'data/kml/resorts.kml',
+    file: 'data/kml/final/resorts.kml',
     icon: '🏖️',
     color: '#0d9488',
     meta: 'القرى والمنتجعات والشاليهات'
@@ -44,7 +46,7 @@ const layers = [
   {
     id: 'investment',
     name: 'المشاريع وفرص الاستثمار',
-    file: 'data/kml/investment.kml',
+    file: 'data/kml/final/investment.kml',
     icon: '📈',
     color: '#ca8a04',
     meta: 'مواقع التنمية والفرص الاستثمارية'
@@ -62,12 +64,17 @@ const layers = [
   {
     id: 'national',
     name: 'السجل الوطني الموحد',
-    file: 'data/kml/national-atlas.kml',
+    file: 'data/kml/final/national-atlas.kml',
     icon: '🇱🇾',
     color: '#1d4ed8',
     meta: '24,454 سجلًا – يحمّل عند الطلب'
   }
 ];
+
+const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
+for (const cfg of layers) {
+  Object.assign(cfg, { nameAr: cfg.name, nameEn: layerNamesEn[cfg.id] || cfg.name, visibleByDefault: cfg.id === 'heritage', cluster: true, popupType: 'gallery' });
+}
 
 const map = L.map('map', {
   zoomControl: true,
@@ -276,7 +283,7 @@ function extractPhotoPaths(rawDescription, props = {}) {
     extractHtmlImages(text, paths);
   }
 
-  return Array.from(paths).filter(Boolean);
+  return Array.from(paths).map(url => normalizeMediaUrl(url)).filter(Boolean);
 }
 
 function extractJsonPhotoPaths(text, paths) {
@@ -389,33 +396,27 @@ function extractHtmlImages(text, paths) {
   }
 }
 
-function normalizeKmlPhotoPath(path) {
-  if (!path) {
-    return '';
-  }
-
-  let normalized = String(path)
-    .trim()
-    .replace(/\\/g, '/')
-    .replace(/^file:\/+/i, '')
-    .replace(/^\.?\//, '');
-
-  if (
-    normalized.startsWith('http://') ||
-    normalized.startsWith('https://') ||
-    normalized.startsWith('data:image/')
-  ) {
-    return normalized;
-  }
-
-  normalized = normalized
-    .split('/')
-    .filter(Boolean)
-    .map(segment => encodeURIComponent(decodeURIComponentSafe(segment)))
-    .join('/');
-
-  return `${getSiteBasePath()}${normalized}`;
+function resolveAssetPath(assetPath) {
+  return new URL(String(assetPath || '').replace(/^\/+/, ''), document.baseURI).href;
 }
+
+function normalizeMediaUrl(path, kmlFilePath = '') {
+  if (!path) return '';
+  let normalized = String(path)
+    .replace(/&amp;/gi, '&')
+    .replace(/\\u0026/gi, '&')
+    .replace(/[\u200B-\u200F\u202A-\u202E\u2060\uFEFF]/g, '')
+    .trim().replace(/\\/g, '/').replace(/^file:\/{0,3}/i, '');
+  if (/^(?:javascript|data:text\/html):/i.test(normalized)) return '';
+  if (/^https?:\/\//i.test(normalized) || /^data:image\//i.test(normalized)) return normalized;
+  const assetsIndex = normalized.toLowerCase().indexOf('assets/images/');
+  normalized = assetsIndex >= 0 ? normalized.slice(assetsIndex) : normalized.replace(/^\.?\//, '');
+  normalized = normalized.split('/').filter(Boolean)
+    .map(segment => encodeURIComponent(decodeURIComponentSafe(segment))).join('/');
+  return resolveAssetPath(normalized);
+}
+
+const normalizeKmlPhotoPath = normalizeMediaUrl;
 
 function decodeURIComponentSafe(value) {
   try {
@@ -683,7 +684,7 @@ async function toggleLayer(cfg, on) {
     } else {
       await new Promise((resolve, reject) => {
         const parser = omnivore.kml(
-          cfg.file,
+          resolveAssetPath(cfg.file),
           null,
           L.geoJSON(null, {
             pointToLayer: (feature, latLng) =>
@@ -899,5 +900,7 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
+
 
 
