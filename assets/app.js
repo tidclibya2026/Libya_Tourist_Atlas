@@ -104,6 +104,7 @@ baseLayers['خريطة فاتحة'].addTo(map);
 L.control.layers(baseLayers, null, { position: 'topleft' }).addTo(map);
 
 const state = {};
+window.__atlasTest = { state, layers, map };
 let loadingRequests = 0;
 
 const list = document.getElementById('layerList');
@@ -186,10 +187,16 @@ function cleanPopup(layer, cfg, placemark, kmlFileUrl) {
   layer.bindPopup(`<article class="tourism-popup" dir="rtl">${gallery}<div class="popup-body"><h3 class="popup-title">${escapeHtml(name)}</h3>${details}<div class="popup-description">${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}</div><div class="popup-source">${escapeHtml(cfg.name)} · نسخة عرض مؤسسية</div></div></article>`,{maxWidth:440,minWidth:300,className:'atlas-popup'});
   layer.on('popupopen', event => {
     const container=event.popup.getElement();if(!container)return;
-    container.querySelectorAll('.popup-image-button').forEach(button=>{const img=button.querySelector('img'),loader=button.querySelector('.popup-image-loader');
-      img?.addEventListener('load',()=>{img.classList.add('is-loaded');loader?.remove()},{once:true});
-      img?.addEventListener('error',()=>{if(img.dataset.fallback==='1'){button.remove();return}img.dataset.fallback='1';img.src=PLACEHOLDER_IMAGE},{once:false});
-      button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();openAtlasImage(button.dataset.image||'')});
+    const gallery=container.querySelector('.popup-gallery');
+    const buttons=[...container.querySelectorAll('.popup-image-button')];
+    let settled=0,loaded=0;
+    const finish=successful=>{settled+=1;if(successful)loaded+=1;if(settled===buttons.length&&loaded===0&&gallery){gallery.innerHTML=`<div class="popup-image-button popup-image-main popup-placeholder-only" aria-label="صورة غير متاحة"><img src="${escapeAttribute(PLACEHOLDER_IMAGE)}" alt="${escapeAttribute(name)} - صورة غير متاحة" loading="lazy" decoding="async" data-placeholder="true" class="is-loaded"></div>`;}};
+    buttons.forEach(button=>{const img=button.querySelector('img'),loader=button.querySelector('.popup-image-loader');
+      const mark=successful=>{if(!img||img.dataset.settled==='1')return;img.dataset.settled='1';if(successful){img.classList.add('is-loaded');loader?.remove();finish(true);}else{button.remove();finish(false);}};
+      img?.addEventListener('load',()=>mark(true),{once:true});
+      img?.addEventListener('error',()=>mark(false),{once:true});
+      if(img?.complete)queueMicrotask(()=>mark(img.naturalWidth>0));
+      button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();if(img?.dataset.settled==='1'&&img.naturalWidth>0)openAtlasImage(button.dataset.image||'')});
     });
   });
 }
@@ -810,6 +817,7 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
 
 
 
