@@ -1,5 +1,7 @@
 'use strict';
 
+const DEBUG_MEDIA = false;
+
 const PLACEHOLDER_IMAGE = resolveAssetPath('assets/images/placeholders/location-placeholder.svg');
 
 const layers = [
@@ -155,105 +157,39 @@ function markerIcon(cfg) {
   });
 }
 
-function cleanPopup(layer, cfg) {
-  const props = layer.feature?.properties || {};
+function extractPlacemarkProperties(placemark, kmlFileUrl) {
+  return AtlasMediaUtils.extractPlacemarkProperties(placemark, kmlFileUrl);
+}
 
-  const name =
-    props.name ||
-    props.ar_name ||
-    props.en_name ||
-    props.Name ||
-    'موقع سياحي';
+function extractPlacemarkImages(placemark, properties, kmlFileUrl) {
+  return AtlasMediaUtils.extractPlacemarkImages(placemark, properties, kmlFileUrl);
+}
 
-  let rawDescription =
-    props.description?.value ||
-    props.description ||
-    props.Description ||
-    '';
-
-  if (layer.getPopup()) {
-    const originalPopup = layer.getPopup().getContent();
-
-    if (originalPopup) {
-      rawDescription = String(originalPopup);
-    }
-  }
-
-  const photoPaths = extractPhotoPaths(rawDescription, props);
+function cleanPopup(layer, cfg, placemark, kmlFileUrl) {
+  const parsed = extractPlacemarkProperties(placemark, kmlFileUrl);
+  const featureProps = layer.feature?.properties || {};
+  const properties = { ...featureProps, ...parsed, _raw: parsed._raw };
+  const name = properties.nameAr || properties.nameEn || featureProps.name || 'موقع سياحي';
+  const rawDescription = properties.description || '';
+  const photoPaths = extractPlacemarkImages(placemark, properties, kmlFileUrl).slice(0, 6);
   const cleanText = cleanDescriptionText(rawDescription);
-
-  const gallery = photoPaths.length
-    ? `
-      <div class="popup-gallery">
-        ${photoPaths
-          .slice(0, 6)
-          .map(
-            (path, index) => `
-              <button
-                type="button"
-                class="popup-image-button"
-                data-image="${escapeAttribute(path)}"
-                aria-label="عرض صورة الموقع"
-              >
-                <span class="popup-image-loader"></span>
-                <img
-                  src="${escapeAttribute(path)}"
-                  alt="${escapeAttribute(name)} - صورة ${index + 1}"
-                  loading="lazy"
-                  referrerpolicy="no-referrer"
-                  onload="
-                    this.classList.add('is-loaded');
-                    const loader=this.previousElementSibling;
-                    if(loader){loader.remove();}
-                  "
-                  onerror="
-                    const button=this.closest('.popup-image-button');
-                    if(button){button.remove();}
-                  "
-                >
-              </button>
-            `
-          )
-          .join('')}
-      </div>
-    `
-    : '';
-
-  const popupContent = `
-    <article class="tourism-popup" dir="rtl">
-      ${gallery}
-
-      <div class="popup-body">
-        <h3 class="popup-title">${escapeHtml(name)}</h3>
-
-        <div class="popup-description">
-          ${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}
-        </div>
-
-        <div class="popup-source">
-          ${escapeHtml(cfg.name)} · نسخة عرض مؤسسية
-        </div>
-      </div>
-    </article>
-  `;
-
-  layer.bindPopup(popupContent, {
-    maxWidth: 440,
-    minWidth: 300,
-    className: 'atlas-popup'
-  });
-
+  if (DEBUG_MEDIA) {
+    console.group('[Atlas media debug]');
+    console.log({ layerId: cfg.id, placemarkName: name, rawImagesJson: properties.images_json || '', extractedImages: photoPaths, normalizedImages: photoPaths });
+    console.groupEnd();
+  }
+  const gallery = photoPaths.length ? `<div class="popup-gallery">${photoPaths.map((path,index)=>`
+    <button type="button" class="popup-image-button ${index===0?'popup-image-main':''}" data-image="${escapeAttribute(path)}" aria-label="عرض صورة الموقع">
+      <span class="popup-image-loader"></span><img src="${escapeAttribute(path)}" alt="${escapeAttribute(name)} - صورة ${index+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </button>`).join('')}</div>` : '';
+  const details = [properties.category, properties.city, properties.address, properties.phone].filter(Boolean).map(value=>`<div>${escapeHtml(value)}</div>`).join('');
+  layer.bindPopup(`<article class="tourism-popup" dir="rtl">${gallery}<div class="popup-body"><h3 class="popup-title">${escapeHtml(name)}</h3>${details}<div class="popup-description">${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}</div><div class="popup-source">${escapeHtml(cfg.name)} · نسخة عرض مؤسسية</div></div></article>`,{maxWidth:440,minWidth:300,className:'atlas-popup'});
   layer.on('popupopen', event => {
-    const container = event.popup.getElement();
-
-    if (!container) {
-      return;
-    }
-
-    container.querySelectorAll('.popup-image-button').forEach(button => {
-      button.addEventListener('click', () => {
-        openAtlasImage(button.dataset.image || '');
-      });
+    const container=event.popup.getElement();if(!container)return;
+    container.querySelectorAll('.popup-image-button').forEach(button=>{const img=button.querySelector('img'),loader=button.querySelector('.popup-image-loader');
+      img?.addEventListener('load',()=>{img.classList.add('is-loaded');loader?.remove()},{once:true});
+      img?.addEventListener('error',()=>{if(img.dataset.fallback==='1'){button.remove();return}img.dataset.fallback='1';img.src=PLACEHOLDER_IMAGE},{once:false});
+      button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();openAtlasImage(button.dataset.image||'')});
     });
   });
 }
@@ -400,20 +336,8 @@ function resolveAssetPath(assetPath) {
   return new URL(String(assetPath || '').replace(/^\/+/, ''), document.baseURI).href;
 }
 
-function normalizeMediaUrl(path, kmlFilePath = '') {
-  if (!path) return '';
-  let normalized = String(path)
-    .replace(/&amp;/gi, '&')
-    .replace(/\\u0026/gi, '&')
-    .replace(/[\u200B-\u200F\u202A-\u202E\u2060\uFEFF]/g, '')
-    .trim().replace(/\\/g, '/').replace(/^file:\/{0,3}/i, '');
-  if (/^(?:javascript|data:text\/html):/i.test(normalized)) return '';
-  if (/^https?:\/\//i.test(normalized) || /^data:image\//i.test(normalized)) return normalized;
-  const assetsIndex = normalized.toLowerCase().indexOf('assets/images/');
-  normalized = assetsIndex >= 0 ? normalized.slice(assetsIndex) : normalized.replace(/^\.?\//, '');
-  normalized = normalized.split('/').filter(Boolean)
-    .map(segment => encodeURIComponent(decodeURIComponentSafe(segment))).join('/');
-  return resolveAssetPath(normalized);
+function normalizeMediaUrl(path, kmlFileUrl = '') {
+  return AtlasMediaUtils.normalizeMediaUrl(path, kmlFileUrl);
 }
 
 const normalizeKmlPhotoPath = normalizeMediaUrl;
@@ -446,7 +370,7 @@ function cleanDescriptionText(rawHtml) {
     'text/html'
   );
 
-  doc.querySelectorAll('img, script, style').forEach(element => {
+  doc.querySelectorAll('img, iframe, script, style').forEach(element => {
     element.remove();
   });
 
@@ -682,36 +606,22 @@ async function toggleLayer(cfg, on) {
         }
       });
     } else {
-      await new Promise((resolve, reject) => {
-        const parser = omnivore.kml(
-          resolveAssetPath(cfg.file),
-          null,
-          L.geoJSON(null, {
-            pointToLayer: (feature, latLng) =>
-              L.marker(latLng, {
-                icon: markerIcon(cfg)
-              }),
-
-            onEachFeature: (feature, leafletLayer) => {
-              cleanPopup(leafletLayer, cfg);
-              count += 1;
-            }
-          })
-        );
-
-        parser.on('ready', () => {
-          parser.eachLayer(layer => {
-            cluster.addLayer(layer);
-          });
-
-          resolve();
-        });
-
-        parser.on('error', reject);
+      const kmlFileUrl = resolveAssetPath(cfg.file);
+      const response = await fetch(kmlFileUrl);
+      if (!response.ok) throw new Error(`KML ${response.status}: ${cfg.file}`);
+      const kmlText = await response.text();
+      const xml = new DOMParser().parseFromString(kmlText, 'application/xml');
+      if (xml.querySelector('parsererror')) throw new Error(`Invalid KML XML: ${cfg.file}`);
+      const placemarks = [...xml.getElementsByTagNameNS('*', 'Placemark')];
+      const parser = omnivore.kml.parse(kmlText, null, L.geoJSON(null, {
+        pointToLayer: (feature, latLng) => L.marker(latLng, { icon: markerIcon(cfg) })
+      }));
+      let index = 0;
+      parser.eachLayer(leafletLayer => {
+        cleanPopup(leafletLayer, cfg, placemarks[index] || '', kmlFileUrl);
+        cluster.addLayer(leafletLayer); index += 1; count += 1;
       });
-    }
-
-    state[cfg.id] = {
+    }    state[cfg.id] = {
       group: cluster,
       count
     };
@@ -900,6 +810,7 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
 
 
 
