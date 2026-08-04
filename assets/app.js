@@ -183,7 +183,28 @@ function cleanPopup(layer, cfg, placemark, kmlFileUrl) {
     <button type="button" class="popup-image-button ${index===0?'popup-image-main':''}" data-image="${escapeAttribute(path)}" aria-label="عرض صورة الموقع">
       <span class="popup-image-loader"></span><img src="${escapeAttribute(path)}" alt="${escapeAttribute(name)} - صورة ${index+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer">
     </button>`).join('')}</div>` : '';
-  const details = [properties.category, properties.city, properties.address, properties.phone].filter(Boolean).map(value=>`<div>${escapeHtml(value)}</div>`).join('');
+  const details = [
+    properties.category_ar ||
+      properties.category,
+
+    properties.subcategory_ar ||
+      properties.subcategory,
+
+    properties.tourism_role_ar,
+
+    properties.city_ar ||
+      properties.city,
+
+    properties.address,
+
+    properties.phone
+  ]
+    .filter(Boolean)
+    .map(
+      value =>
+        `<div>${escapeHtml(value)}</div>`
+    )
+    .join('');
   layer.bindPopup(`<article class="tourism-popup" dir="rtl">${gallery}<div class="popup-body"><h3 class="popup-title">${escapeHtml(name)}</h3>${details}<div class="popup-description">${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}</div><div class="popup-source">${escapeHtml(cfg.name)} · نسخة عرض مؤسسية</div></div></article>`,{maxWidth:440,minWidth:300,className:'atlas-popup'});
   layer.on('popupopen', event => {
     const container=event.popup.getElement();if(!container)return;
@@ -817,6 +838,7 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
 
 
 

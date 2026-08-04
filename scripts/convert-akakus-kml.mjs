@@ -176,7 +176,6 @@ function normalizeCategory(folderName) {
     .toLowerCase();
 
   const technicalFolders = new Set([
-    "lyshp",
     "shp",
     "layer",
     "layers",
@@ -188,6 +187,8 @@ function normalizeCategory(folderName) {
   }
 
   const categories = {
+    "lyshp":
+      "الفن الصخري والتراث الثقافي",
     "اقواس صخرية":
       "الأقواس الصخرية",
 
@@ -447,6 +448,7 @@ console.log(`Valid features: ${features.length}`);
 console.log(`Invalid features: ${invalidRows.length}`);
 console.log("");
 console.table(categoryCounts);
+
 
 
 
