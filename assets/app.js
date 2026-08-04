@@ -1,10 +1,14 @@
-﻿'use strict';
+'use strict';
+
+const DEBUG_MEDIA = false;
+
+const PLACEHOLDER_IMAGE = resolveAssetPath('assets/images/placeholders/location-placeholder.svg');
 
 const layers = [
   {
     id: 'heritage',
     name: 'مواقع التراث العالمي',
-    file: 'data/kml/world-heritage.kml',
+    file: 'data/kml/final/world-heritage.kml',
     icon: '🏛️',
     color: '#7c3aed',
     meta: 'التراث العالمي والصور المرتبطة'
@@ -12,7 +16,7 @@ const layers = [
   {
     id: 'akakus',
     name: 'تادرارت أكاكوس والفن الصخري',
-    file: 'data/kml/akakus.kml',
+    file: 'data/kml/final/akakus.kml',
     icon: '🪨',
     color: '#b45309',
     meta: 'الفن الصخري والمشهد الصحراوي'
@@ -20,7 +24,7 @@ const layers = [
 {
   id: 'oldTripoli',
   name: 'المدينة القديمة طرابلس',
-  file: 'data/kml/old-tripoli-local-images.kml',
+  file: 'data/kml/final/old-tripoli.kml',
   icon: '🕌',
   color: '#0891b2',
   meta: 'المعالم التاريخية والصور المحلية'
@@ -28,7 +32,7 @@ const layers = [
   {
     id: 'hotels',
     name: 'الفنادق',
-    file: 'data/kml/hotels.kml',
+    file: 'data/kml/final/hotels.kml',
     icon: '🏨',
     color: '#dc2626',
     meta: 'منشآت الإيواء السياحي'
@@ -36,7 +40,7 @@ const layers = [
   {
     id: 'resorts',
     name: 'القرى والمنتجعات السياحية',
-    file: 'data/kml/resorts.kml',
+    file: 'data/kml/final/resorts.kml',
     icon: '🏖️',
     color: '#0d9488',
     meta: 'القرى والمنتجعات والشاليهات'
@@ -44,7 +48,7 @@ const layers = [
   {
     id: 'investment',
     name: 'المشاريع وفرص الاستثمار',
-    file: 'data/kml/investment.kml',
+    file: 'data/kml/final/investment.kml',
     icon: '📈',
     color: '#ca8a04',
     meta: 'مواقع التنمية والفرص الاستثمارية'
@@ -62,12 +66,17 @@ const layers = [
   {
     id: 'national',
     name: 'السجل الوطني الموحد',
-    file: 'data/kml/national-atlas.kml',
+    file: 'data/kml/final/national-atlas.kml',
     icon: '🇱🇾',
     color: '#1d4ed8',
     meta: '24,454 سجلًا – يحمّل عند الطلب'
   }
 ];
+
+const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
+for (const cfg of layers) {
+  Object.assign(cfg, { nameAr: cfg.name, nameEn: layerNamesEn[cfg.id] || cfg.name, visibleByDefault: cfg.id === 'heritage', cluster: true, popupType: 'gallery' });
+}
 
 const map = L.map('map', {
   zoomControl: true,
@@ -148,105 +157,39 @@ function markerIcon(cfg) {
   });
 }
 
-function cleanPopup(layer, cfg) {
-  const props = layer.feature?.properties || {};
+function extractPlacemarkProperties(placemark, kmlFileUrl) {
+  return AtlasMediaUtils.extractPlacemarkProperties(placemark, kmlFileUrl);
+}
 
-  const name =
-    props.name ||
-    props.ar_name ||
-    props.en_name ||
-    props.Name ||
-    'موقع سياحي';
+function extractPlacemarkImages(placemark, properties, kmlFileUrl) {
+  return AtlasMediaUtils.extractPlacemarkImages(placemark, properties, kmlFileUrl);
+}
 
-  let rawDescription =
-    props.description?.value ||
-    props.description ||
-    props.Description ||
-    '';
-
-  if (layer.getPopup()) {
-    const originalPopup = layer.getPopup().getContent();
-
-    if (originalPopup) {
-      rawDescription = String(originalPopup);
-    }
-  }
-
-  const photoPaths = extractPhotoPaths(rawDescription, props);
+function cleanPopup(layer, cfg, placemark, kmlFileUrl) {
+  const parsed = extractPlacemarkProperties(placemark, kmlFileUrl);
+  const featureProps = layer.feature?.properties || {};
+  const properties = { ...featureProps, ...parsed, _raw: parsed._raw };
+  const name = properties.nameAr || properties.nameEn || featureProps.name || 'موقع سياحي';
+  const rawDescription = properties.description || '';
+  const photoPaths = extractPlacemarkImages(placemark, properties, kmlFileUrl).slice(0, 6);
   const cleanText = cleanDescriptionText(rawDescription);
-
-  const gallery = photoPaths.length
-    ? `
-      <div class="popup-gallery">
-        ${photoPaths
-          .slice(0, 6)
-          .map(
-            (path, index) => `
-              <button
-                type="button"
-                class="popup-image-button"
-                data-image="${escapeAttribute(path)}"
-                aria-label="عرض صورة الموقع"
-              >
-                <span class="popup-image-loader"></span>
-                <img
-                  src="${escapeAttribute(path)}"
-                  alt="${escapeAttribute(name)} - صورة ${index + 1}"
-                  loading="lazy"
-                  referrerpolicy="no-referrer"
-                  onload="
-                    this.classList.add('is-loaded');
-                    const loader=this.previousElementSibling;
-                    if(loader){loader.remove();}
-                  "
-                  onerror="
-                    const button=this.closest('.popup-image-button');
-                    if(button){button.remove();}
-                  "
-                >
-              </button>
-            `
-          )
-          .join('')}
-      </div>
-    `
-    : '';
-
-  const popupContent = `
-    <article class="tourism-popup" dir="rtl">
-      ${gallery}
-
-      <div class="popup-body">
-        <h3 class="popup-title">${escapeHtml(name)}</h3>
-
-        <div class="popup-description">
-          ${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}
-        </div>
-
-        <div class="popup-source">
-          ${escapeHtml(cfg.name)} · نسخة عرض مؤسسية
-        </div>
-      </div>
-    </article>
-  `;
-
-  layer.bindPopup(popupContent, {
-    maxWidth: 440,
-    minWidth: 300,
-    className: 'atlas-popup'
-  });
-
+  if (DEBUG_MEDIA) {
+    console.group('[Atlas media debug]');
+    console.log({ layerId: cfg.id, placemarkName: name, rawImagesJson: properties.images_json || '', extractedImages: photoPaths, normalizedImages: photoPaths });
+    console.groupEnd();
+  }
+  const gallery = photoPaths.length ? `<div class="popup-gallery">${photoPaths.map((path,index)=>`
+    <button type="button" class="popup-image-button ${index===0?'popup-image-main':''}" data-image="${escapeAttribute(path)}" aria-label="عرض صورة الموقع">
+      <span class="popup-image-loader"></span><img src="${escapeAttribute(path)}" alt="${escapeAttribute(name)} - صورة ${index+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+    </button>`).join('')}</div>` : '';
+  const details = [properties.category, properties.city, properties.address, properties.phone].filter(Boolean).map(value=>`<div>${escapeHtml(value)}</div>`).join('');
+  layer.bindPopup(`<article class="tourism-popup" dir="rtl">${gallery}<div class="popup-body"><h3 class="popup-title">${escapeHtml(name)}</h3>${details}<div class="popup-description">${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}</div><div class="popup-source">${escapeHtml(cfg.name)} · نسخة عرض مؤسسية</div></div></article>`,{maxWidth:440,minWidth:300,className:'atlas-popup'});
   layer.on('popupopen', event => {
-    const container = event.popup.getElement();
-
-    if (!container) {
-      return;
-    }
-
-    container.querySelectorAll('.popup-image-button').forEach(button => {
-      button.addEventListener('click', () => {
-        openAtlasImage(button.dataset.image || '');
-      });
+    const container=event.popup.getElement();if(!container)return;
+    container.querySelectorAll('.popup-image-button').forEach(button=>{const img=button.querySelector('img'),loader=button.querySelector('.popup-image-loader');
+      img?.addEventListener('load',()=>{img.classList.add('is-loaded');loader?.remove()},{once:true});
+      img?.addEventListener('error',()=>{if(img.dataset.fallback==='1'){button.remove();return}img.dataset.fallback='1';img.src=PLACEHOLDER_IMAGE},{once:false});
+      button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();openAtlasImage(button.dataset.image||'')});
     });
   });
 }
@@ -276,7 +219,7 @@ function extractPhotoPaths(rawDescription, props = {}) {
     extractHtmlImages(text, paths);
   }
 
-  return Array.from(paths).filter(Boolean);
+  return Array.from(paths).map(url => normalizeMediaUrl(url)).filter(Boolean);
 }
 
 function extractJsonPhotoPaths(text, paths) {
@@ -389,33 +332,15 @@ function extractHtmlImages(text, paths) {
   }
 }
 
-function normalizeKmlPhotoPath(path) {
-  if (!path) {
-    return '';
-  }
-
-  let normalized = String(path)
-    .trim()
-    .replace(/\\/g, '/')
-    .replace(/^file:\/+/i, '')
-    .replace(/^\.?\//, '');
-
-  if (
-    normalized.startsWith('http://') ||
-    normalized.startsWith('https://') ||
-    normalized.startsWith('data:image/')
-  ) {
-    return normalized;
-  }
-
-  normalized = normalized
-    .split('/')
-    .filter(Boolean)
-    .map(segment => encodeURIComponent(decodeURIComponentSafe(segment)))
-    .join('/');
-
-  return `${getSiteBasePath()}${normalized}`;
+function resolveAssetPath(assetPath) {
+  return new URL(String(assetPath || '').replace(/^\/+/, ''), document.baseURI).href;
 }
+
+function normalizeMediaUrl(path, kmlFileUrl = '') {
+  return AtlasMediaUtils.normalizeMediaUrl(path, kmlFileUrl);
+}
+
+const normalizeKmlPhotoPath = normalizeMediaUrl;
 
 function decodeURIComponentSafe(value) {
   try {
@@ -445,7 +370,7 @@ function cleanDescriptionText(rawHtml) {
     'text/html'
   );
 
-  doc.querySelectorAll('img, script, style').forEach(element => {
+  doc.querySelectorAll('img, iframe, script, style').forEach(element => {
     element.remove();
   });
 
@@ -681,36 +606,22 @@ async function toggleLayer(cfg, on) {
         }
       });
     } else {
-      await new Promise((resolve, reject) => {
-        const parser = omnivore.kml(
-          cfg.file,
-          null,
-          L.geoJSON(null, {
-            pointToLayer: (feature, latLng) =>
-              L.marker(latLng, {
-                icon: markerIcon(cfg)
-              }),
-
-            onEachFeature: (feature, leafletLayer) => {
-              cleanPopup(leafletLayer, cfg);
-              count += 1;
-            }
-          })
-        );
-
-        parser.on('ready', () => {
-          parser.eachLayer(layer => {
-            cluster.addLayer(layer);
-          });
-
-          resolve();
-        });
-
-        parser.on('error', reject);
+      const kmlFileUrl = resolveAssetPath(cfg.file);
+      const response = await fetch(kmlFileUrl);
+      if (!response.ok) throw new Error(`KML ${response.status}: ${cfg.file}`);
+      const kmlText = await response.text();
+      const xml = new DOMParser().parseFromString(kmlText, 'application/xml');
+      if (xml.querySelector('parsererror')) throw new Error(`Invalid KML XML: ${cfg.file}`);
+      const placemarks = [...xml.getElementsByTagNameNS('*', 'Placemark')];
+      const parser = omnivore.kml.parse(kmlText, null, L.geoJSON(null, {
+        pointToLayer: (feature, latLng) => L.marker(latLng, { icon: markerIcon(cfg) })
+      }));
+      let index = 0;
+      parser.eachLayer(leafletLayer => {
+        cleanPopup(leafletLayer, cfg, placemarks[index] || '', kmlFileUrl);
+        cluster.addLayer(leafletLayer); index += 1; count += 1;
       });
-    }
-
-    state[cfg.id] = {
+    }    state[cfg.id] = {
       group: cluster,
       count
     };
@@ -899,5 +810,8 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+
+
+
 
 

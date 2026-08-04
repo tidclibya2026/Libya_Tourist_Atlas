@@ -37,3 +37,6 @@ build/
 backup/
 backups/
 *.bak
+# Local safety snapshots
+backup/
+
