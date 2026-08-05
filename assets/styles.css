@@ -818,3 +818,143 @@ main {
     font-size: 16px;
   }
 }
+
+
+/* =========================================================
+   طبقة مواقع التراث العالمي — الدمج المؤسسي 2026
+   ========================================================= */
+
+.heritage-hierarchy {
+  margin: -2px 8px 8px;
+  padding: 8px 10px;
+  border: 1px solid #ddd6fe;
+  border-top: 0;
+  border-radius: 0 0 12px 12px;
+  background: #faf8ff;
+}
+
+.heritage-hierarchy[hidden] {
+  display: none !important;
+}
+
+.heritage-hierarchy-loading {
+  padding: 7px;
+  color: #6b7280;
+  font-size: 11px;
+  text-align: center;
+}
+
+.heritage-site-row {
+  display: grid;
+  grid-template-columns: 20px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  border-bottom: 1px solid #ede9fe;
+  cursor: pointer;
+}
+
+.heritage-site-row:last-child {
+  border-bottom: 0;
+}
+
+.heritage-site-row input {
+  width: 16px;
+  height: 16px;
+  accent-color: #7c3aed;
+}
+
+.heritage-site-name {
+  display: grid;
+  gap: 2px;
+  color: #312e81;
+  font-size: 12.5px;
+  font-weight: 700;
+}
+
+.heritage-site-name small {
+  color: #b45309;
+  font-size: 9.5px;
+  font-weight: 600;
+}
+
+.heritage-site-count {
+  min-width: 30px;
+  padding: 3px 7px;
+  border-radius: 999px;
+  background: #ede9fe;
+  color: #6d28d9;
+  font-size: 11px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.popup-approval-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 7px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.popup-approval-badge.is-approved {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.popup-approval-badge.is-review {
+  background: #fff7ed;
+  color: #b45309;
+  border: 1px solid #fed7aa;
+}
+
+.popup-detail-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 5px;
+  margin-bottom: 4px;
+  color: #475569;
+  font-size: 11.5px;
+  line-height: 1.55;
+}
+
+.popup-detail-row strong {
+  color: #1e3a5f;
+}
+
+.leaflet-interactive:focus {
+  outline: 3px solid rgba(124, 58, 237, 0.25);
+  outline-offset: 2px;
+}
+
+
+.popup-gallery-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 6px 0 2px;
+}
+
+.popup-gallery-controls button {
+  min-width: 32px;
+  min-height: 28px;
+  border: 0;
+  border-radius: 8px;
+  color: #fff;
+  background: #334155;
+  cursor: pointer;
+}
+
+.popup-gallery-counter {
+  min-width: 52px;
+  text-align: center;
+  font-size: 12px;
+  color: #475569;
+}
+
+.popup-gallery .popup-image-button[hidden] {
+  display: none;
+}

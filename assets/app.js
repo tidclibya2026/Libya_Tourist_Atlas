@@ -4,14 +4,17 @@ const DEBUG_MEDIA = false;
 
 const PLACEHOLDER_IMAGE = resolveAssetPath('assets/images/placeholders/location-placeholder.svg');
 
+
 const layers = [
   {
     id: 'heritage',
     name: 'مواقع التراث العالمي',
-    file: 'data/kml/final/world-heritage.kml',
+    type: 'geojson',
+    url: 'data/layers/world-heritage.geojson',
+    hierarchical: true,
     icon: '🏛️',
     color: '#7c3aed',
-    meta: 'التراث العالمي والصور المرتبطة'
+    meta: '303 عناصر: 5 مواقع رئيسية، 235 معتمدة، 63 قيد المراجعة'
   },
   {
     id: 'akakus',
@@ -107,6 +110,96 @@ const state = {};
 window.__atlasTest = { state, layers, map };
 let loadingRequests = 0;
 
+const hierarchyStyle =
+  document.createElement('style');
+
+hierarchyStyle.textContent = `
+  .heritage-hierarchy {
+    margin:
+      -4px 12px 14px 12px;
+    padding:
+      8px 12px 10px;
+    border-right:
+      3px solid #7c3aed;
+    border-radius:
+      0 0 12px 12px;
+    background:
+      rgba(124, 58, 237, 0.06);
+  }
+
+  .heritage-site-row {
+    display:
+      grid;
+    grid-template-columns:
+      20px 1fr auto;
+    align-items:
+      center;
+    gap:
+      8px;
+    min-height:
+      34px;
+    cursor:
+      pointer;
+    border-bottom:
+      1px solid rgba(124, 58, 237, 0.1);
+  }
+
+  .heritage-site-row:last-child {
+    border-bottom:
+      0;
+  }
+
+  .heritage-site-row input {
+    width:
+      16px;
+    height:
+      16px;
+    accent-color:
+      #7c3aed;
+  }
+
+  .heritage-site-name {
+    font-size:
+      13px;
+    font-weight:
+      600;
+    color:
+      #312e81;
+  }
+
+  .heritage-site-count {
+    min-width:
+      27px;
+    padding:
+      2px 7px;
+    border-radius:
+      999px;
+    text-align:
+      center;
+    font-size:
+      11px;
+    font-weight:
+      700;
+    color:
+      #6d28d9;
+    background:
+      #ede9fe;
+  }
+
+  .heritage-site-row:has(
+    input:disabled
+  ) {
+    opacity:
+      0.48;
+    cursor:
+      default;
+  }
+`;
+
+document.head.appendChild(
+  hierarchyStyle
+);
+
 const list = document.getElementById('layerList');
 
 for (const cfg of layers) {
@@ -128,6 +221,19 @@ for (const cfg of layers) {
   `;
 
   list.appendChild(card);
+
+  if (cfg.id === 'heritage') {
+    const hierarchy = document.createElement('div');
+    hierarchy.id = 'heritageHierarchy';
+    hierarchy.className = 'heritage-hierarchy';
+    hierarchy.hidden = true;
+    hierarchy.innerHTML = `
+      <div class="heritage-hierarchy-loading">
+        تُبنى قائمة المواقع بعد تحميل الطبقة.
+      </div>
+    `;
+    list.appendChild(hierarchy);
+  }
 
   card.querySelector('input').addEventListener('change', event => {
     toggleLayer(cfg, event.target.checked);
@@ -166,38 +272,582 @@ function extractPlacemarkImages(placemark, properties, kmlFileUrl) {
   return AtlasMediaUtils.extractPlacemarkImages(placemark, properties, kmlFileUrl);
 }
 
-function cleanPopup(layer, cfg, placemark, kmlFileUrl) {
-  const parsed = extractPlacemarkProperties(placemark, kmlFileUrl);
-  const featureProps = layer.feature?.properties || {};
-  const properties = { ...featureProps, ...parsed, _raw: parsed._raw };
-  const name = properties.nameAr || properties.nameEn || featureProps.name || 'موقع سياحي';
-  const rawDescription = properties.description || '';
-  const photoPaths = extractPlacemarkImages(placemark, properties, kmlFileUrl).slice(0, 6);
-  const cleanText = cleanDescriptionText(rawDescription);
-  if (DEBUG_MEDIA) {
-    console.group('[Atlas media debug]');
-    console.log({ layerId: cfg.id, placemarkName: name, rawImagesJson: properties.images_json || '', extractedImages: photoPaths, normalizedImages: photoPaths });
-    console.groupEnd();
+function cleanGeoJsonDescription(value) {
+  let text = String(value || '');
+
+  text = text
+    .replace(/FID:\s*\d+/gi, '')
+    .replace(/en_name:\s*[^،\n]+/gi, '')
+    .replace(/popupinfo:\s*\{[\s\S]*$/gi, '')
+    .replace(/___json[\s\S]*$/gi, '')
+    .replace(/\{\s*"pathname"[\s\S]*$/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return text;
+}
+
+function getFinalCategory(properties) {
+  return (
+    properties.final_category_ar ||
+    properties.proposed_category_ar ||
+    properties.component_category_ar ||
+    properties.category_ar ||
+    properties.category ||
+    ''
+  );
+}
+
+function getFinalRole(properties) {
+  return (
+    properties.final_site_role ||
+    properties.proposed_site_role ||
+    properties.site_role ||
+    ''
+  );
+}
+
+function approvalLabel(properties) {
+  const status = properties.approval_status || '';
+
+  if (status === 'pending_review') {
+    return 'قيد المراجعة';
   }
-  const gallery = photoPaths.length ? `<div class="popup-gallery">${photoPaths.map((path,index)=>`
-    <button type="button" class="popup-image-button ${index===0?'popup-image-main':''}" data-image="${escapeAttribute(path)}" aria-label="عرض صورة الموقع">
-      <span class="popup-image-loader"></span><img src="${escapeAttribute(path)}" alt="${escapeAttribute(name)} - صورة ${index+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer">
-    </button>`).join('')}</div>` : '';
-  const details = [properties.category, properties.city, properties.address, properties.phone].filter(Boolean).map(value=>`<div>${escapeHtml(value)}</div>`).join('');
-  layer.bindPopup(`<article class="tourism-popup" dir="rtl">${gallery}<div class="popup-body"><h3 class="popup-title">${escapeHtml(name)}</h3>${details}<div class="popup-description">${cleanText || 'بيانات الموقع ضمن طبقة أطلس ليبيا السياحي.'}</div><div class="popup-source">${escapeHtml(cfg.name)} · نسخة عرض مؤسسية</div></div></article>`,{maxWidth:440,minWidth:300,className:'atlas-popup'});
-  layer.on('popupopen', event => {
-    const container=event.popup.getElement();if(!container)return;
-    const gallery=container.querySelector('.popup-gallery');
-    const buttons=[...container.querySelectorAll('.popup-image-button')];
-    let settled=0,loaded=0;
-    const finish=successful=>{settled+=1;if(successful)loaded+=1;if(settled===buttons.length&&loaded===0&&gallery){gallery.innerHTML=`<div class="popup-image-button popup-image-main popup-placeholder-only" aria-label="صورة غير متاحة"><img src="${escapeAttribute(PLACEHOLDER_IMAGE)}" alt="${escapeAttribute(name)} - صورة غير متاحة" loading="lazy" decoding="async" data-placeholder="true" class="is-loaded"></div>`;}};
-    buttons.forEach(button=>{const img=button.querySelector('img'),loader=button.querySelector('.popup-image-loader');
-      const mark=successful=>{if(!img||img.dataset.settled==='1')return;img.dataset.settled='1';if(successful){img.classList.add('is-loaded');loader?.remove();finish(true);}else{button.remove();finish(false);}};
-      img?.addEventListener('load',()=>mark(true),{once:true});
-      img?.addEventListener('error',()=>mark(false),{once:true});
-      if(img?.complete)queueMicrotask(()=>mark(img.naturalWidth>0));
-      button.addEventListener('click',event=>{event.preventDefault();event.stopPropagation();if(img?.dataset.settled==='1'&&img.naturalWidth>0)openAtlasImage(button.dataset.image||'')});
+
+  if (status === 'approved_primary') {
+    return 'موقع رئيسي معتمد';
+  }
+
+  if (status === 'approved_ready') {
+    return 'معتمد';
+  }
+
+  return '';
+}
+
+function heritagePolygonStyle(feature, cfg) {
+  const pending =
+    feature?.properties?.approval_status === 'pending_review';
+
+  return {
+    color: pending ? '#d97706' : cfg.color,
+    weight: pending ? 2.5 : 2,
+    opacity: 0.95,
+    fillColor: pending ? '#f59e0b' : cfg.color,
+    fillOpacity: pending ? 0.12 : 0.09,
+    dashArray: pending ? '7 5' : null
+  };
+}
+
+function eachAtlasFeature(container, callback) {
+  if (!container || typeof container.eachLayer !== 'function') {
+    return;
+  }
+
+  container.eachLayer(layer => {
+    if (layer.feature) {
+      callback(layer);
+      return;
+    }
+
+    if (typeof layer.eachLayer === 'function') {
+      eachAtlasFeature(layer, callback);
+    }
+  });
+}
+
+function buildHeritageHierarchy(heritageState) {
+  const container = document.getElementById('heritageHierarchy');
+
+  if (!container || !heritageState?.siteLayers) {
+    return;
+  }
+
+  const preferredOrder = [
+    'WH-LY-001',
+    'WH-LY-002',
+    'WH-LY-003',
+    'WH-LY-004',
+    'WH-LY-005',
+    'MASTER'
+  ];
+
+  const siteIds = Object.keys(heritageState.siteLayers).sort(
+    (a, b) =>
+      preferredOrder.indexOf(a) - preferredOrder.indexOf(b)
+  );
+
+  container.innerHTML = siteIds.map(siteId => {
+    const info = heritageState.siteInfo[siteId];
+    const reviewText = info.pendingReview
+      ? `<small>${info.pendingReview.toLocaleString('ar')} قيد المراجعة</small>`
+      : '';
+
+    return `
+      <label class="heritage-site-row">
+        <input
+          type="checkbox"
+          data-heritage-site="${escapeAttribute(siteId)}"
+          checked
+        >
+        <span class="heritage-site-name">
+          ${escapeHtml(info.name)}
+          ${reviewText}
+        </span>
+        <span class="heritage-site-count">
+          ${info.total.toLocaleString('ar')}
+        </span>
+      </label>
+    `;
+  }).join('');
+
+  container.hidden = false;
+
+  container.querySelectorAll('[data-heritage-site]').forEach(input => {
+    input.addEventListener('change', event => {
+      toggleHeritageSite(
+        event.target.dataset.heritageSite,
+        event.target.checked
+      );
     });
+  });
+}
+
+function cleanPopup(
+  layer,
+  cfg,
+  placemark = '',
+  kmlFileUrl = ''
+) {
+  const parsed = placemark
+    ? extractPlacemarkProperties(
+        placemark,
+        kmlFileUrl
+      )
+    : {};
+
+  const featureProps =
+    layer.feature?.properties || {};
+
+  const properties = {
+    ...parsed,
+    ...featureProps
+  };
+
+  const firstValue = (...values) =>
+    values.find(value =>
+      value !== undefined &&
+      value !== null &&
+      String(value).trim() !== ''
+    ) || '';
+
+  const name = firstValue(
+    properties.name_ar,
+    properties.nameAr,
+    properties.name,
+    properties.source_name_ar,
+    properties.name_en,
+    properties.nameEn,
+    'موقع سياحي'
+  );
+
+  const rawDescription = firstValue(
+    properties.description_ar,
+    properties.description,
+    properties.description?.value,
+    properties.popupinfo,
+    properties.PopupInfo
+  );
+
+  const localImages = Array.isArray(properties.local_images)
+    ? properties.local_images.filter(path =>
+        typeof path === 'string' &&
+        !/^(?:[a-z]+:)?\/\//i.test(path) &&
+        !path.startsWith('data:') &&
+        !path.startsWith('blob:')
+      )
+    : [];
+
+  const mediaValues = [
+    properties.external_images,
+    properties.images,
+    properties.photos,
+    properties.photo,
+    properties.image,
+    properties.images_json
+  ];
+
+  const directMedia = [];
+
+  for (const value of mediaValues) {
+    if (!value) {
+      continue;
+    }
+
+    if (Array.isArray(value)) {
+      directMedia.push(...value);
+      continue;
+    }
+
+    if (typeof value === 'string') {
+      const trimmed = value.trim();
+
+      if (
+        trimmed.startsWith('[') &&
+        trimmed.endsWith(']')
+      ) {
+        try {
+          const parsedImages =
+            JSON.parse(trimmed);
+
+          if (Array.isArray(parsedImages)) {
+            directMedia.push(
+              ...parsedImages
+            );
+
+            continue;
+          }
+        } catch {
+          // Keep processing as a normal value.
+        }
+      }
+
+      directMedia.push(trimmed);
+    }
+  }
+
+  const kmlMedia = placemark
+    ? extractPlacemarkImages(
+        placemark,
+        properties,
+        kmlFileUrl
+      )
+    : [];
+
+  const photoPaths = [
+    ...localImages,
+    ...directMedia,
+    ...kmlMedia
+  ]
+    .map(path =>
+      normalizeMediaUrl(
+        path,
+        kmlFileUrl
+      )
+    )
+    .filter(Boolean)
+    .filter(
+      (path, index, values) =>
+        values.indexOf(path) === index
+    )
+    .slice(0, 6);
+
+  const cleanText =
+    cleanGeoJsonDescription(
+      cleanDescriptionText(
+        rawDescription
+      )
+    );
+
+  const detailsData = [
+    [
+      'الموقع التراثي',
+      properties.parent_site_name_ar
+    ],
+    [
+      'التصنيف',
+      getFinalCategory(properties)
+    ],
+    [
+      'النوع',
+      getFinalRole(properties) === 'primary'
+        ? 'الموقع الرئيسي'
+        : getFinalRole(properties) === 'service'
+          ? 'خدمة تابعة'
+          : getFinalRole(properties) === 'route'
+            ? 'مسار تابع'
+            : getFinalRole(properties) === 'area'
+              ? 'منطقة أو حدود'
+              : getFinalRole(properties) === 'component'
+                ? 'معلم تابع'
+                : ''
+    ],
+    [
+      'حالة الاعتماد',
+      approvalLabel(properties)
+    ],
+    [
+      'الاسم بالإنجليزية',
+      properties.name_en
+    ],
+    [
+      'المدينة أو البلدية',
+      firstValue(
+        properties.city,
+        properties.municipality
+      )
+    ],
+    [
+      'العنوان',
+      properties.address
+    ],
+    [
+      'الاتصال',
+      firstValue(
+        properties.phone,
+        properties.contact
+      )
+    ]
+  ];
+
+  const details = detailsData
+    .filter(([, value]) =>
+      value !== undefined &&
+      value !== null &&
+      String(value).trim() !== ''
+    )
+    .map(([label, value]) => `
+      <div class="popup-detail-row">
+        <strong>${escapeHtml(label)}:</strong>
+        <span>${escapeHtml(String(value))}</span>
+      </div>
+    `)
+    .join('');
+
+  const gallery = photoPaths.length
+    ? `
+      <div class="popup-gallery">
+        ${photoPaths
+          .map((path, index) => `
+            <button
+              type="button"
+              class="popup-image-button ${
+                index === 0
+                  ? 'popup-image-main'
+                  : ''
+              }"
+              data-image="${escapeAttribute(path)}"
+              aria-label="عرض صورة الموقع"
+            >
+              <span class="popup-image-loader"></span>
+              <img
+                src="${escapeAttribute(path)}"
+                alt="${escapeAttribute(name)} - صورة ${index + 1}"
+                loading="lazy"
+                decoding="async"
+                referrerpolicy="no-referrer"
+              >
+            </button>
+          `)
+          .join('')}
+        ${photoPaths.length > 1 ? `
+          <div class="popup-gallery-controls" role="group" aria-label="التنقل بين صور الموقع">
+            <button type="button" class="popup-gallery-prev" aria-label="الصورة السابقة">‹</button>
+            <span class="popup-gallery-counter" aria-live="polite">1 / ${photoPaths.length}</span>
+            <button type="button" class="popup-gallery-next" aria-label="الصورة التالية">›</button>
+          </div>
+        ` : ''}
+      </div>
+    `
+    : `
+      <div class="popup-gallery">
+        <div
+          class="popup-image-button popup-image-main popup-placeholder-only"
+          aria-label="صورة غير متاحة"
+        >
+          <img
+            src="${escapeAttribute(PLACEHOLDER_IMAGE)}"
+            alt="${escapeAttribute(name)} - صورة غير متاحة"
+            loading="lazy"
+            decoding="async"
+            data-placeholder="true"
+            class="is-loaded"
+          >
+        </div>
+      </div>
+    `;
+
+  layer.bindPopup(
+    `
+      <article
+        class="tourism-popup"
+        dir="rtl"
+      >
+        ${gallery}
+
+        <div class="popup-body">
+          ${
+            approvalLabel(properties)
+              ? `
+                <span class="popup-approval-badge ${
+                  properties.approval_status === 'pending_review'
+                    ? 'is-review'
+                    : 'is-approved'
+                }">
+                  ${escapeHtml(approvalLabel(properties))}
+                </span>
+              `
+              : ''
+          }
+          <h3 class="popup-title">
+            ${escapeHtml(String(name))}
+          </h3>
+
+          ${details}
+
+          <div class="popup-description">
+            ${
+              cleanText ||
+              'لا يتوفر وصف تفصيلي لهذا الموقع حاليًا.'
+            }
+          </div>
+
+          <div class="popup-source">
+            ${escapeHtml(cfg.name)}
+            · أطلس ليبيا السياحي
+          </div>
+        </div>
+      </article>
+    `,
+    {
+      maxWidth: 440,
+      minWidth: 300,
+      className: 'atlas-popup'
+    }
+  );
+
+  layer.on('popupopen', event => {
+    const container =
+      event.popup.getElement();
+
+    if (!container) {
+      return;
+    }
+
+    const galleryElement =
+      container.querySelector(
+        '.popup-gallery'
+      );
+
+    const buttons = [
+      ...container.querySelectorAll(
+        '.popup-image-button:not(.popup-placeholder-only)'
+      )
+    ];
+
+    let settled = 0;
+    let loaded = 0;
+
+    const finish = successful => {
+      settled += 1;
+
+      if (successful) {
+        loaded += 1;
+      }
+
+      if (
+        settled === buttons.length &&
+        loaded === 0 &&
+        galleryElement
+      ) {
+        galleryElement.innerHTML = `
+          <div
+            class="popup-image-button popup-image-main popup-placeholder-only"
+            aria-label="صورة غير متاحة"
+          >
+            <img
+              src="${escapeAttribute(PLACEHOLDER_IMAGE)}"
+              alt="${escapeAttribute(name)} - صورة غير متاحة"
+              loading="lazy"
+              decoding="async"
+              data-placeholder="true"
+              class="is-loaded"
+            >
+          </div>
+        `;
+      }
+    };
+
+    buttons.forEach(button => {
+      const img =
+        button.querySelector('img');
+
+      const loader =
+        button.querySelector(
+          '.popup-image-loader'
+        );
+
+      const mark = successful => {
+        if (
+          !img ||
+          img.dataset.settled === '1'
+        ) {
+          return;
+        }
+
+        img.dataset.settled = '1';
+
+        if (successful) {
+          img.classList.add('is-loaded');
+          loader?.remove();
+          finish(true);
+        } else {
+          button.remove();
+          finish(false);
+        }
+      };
+
+      img?.addEventListener(
+        'load',
+        () => mark(true),
+        { once: true }
+      );
+
+      img?.addEventListener(
+        'error',
+        () => mark(false),
+        { once: true }
+      );
+
+      if (img?.complete) {
+        queueMicrotask(() =>
+          mark(img.naturalWidth > 0)
+        );
+      }
+
+      button.addEventListener(
+        'click',
+        event => {
+          event.preventDefault();
+          event.stopPropagation();
+
+          if (
+            img?.dataset.settled === '1' &&
+            img.naturalWidth > 0
+          ) {
+            openAtlasImage(
+              button.dataset.image || ''
+            );
+          }
+        }
+      );
+    });
+
+    if (buttons.length > 1) {
+      let activeIndex = 0;
+      const counter = container.querySelector('.popup-gallery-counter');
+      const showImage = index => {
+        activeIndex = (index + buttons.length) % buttons.length;
+        buttons.forEach((button, buttonIndex) => {
+          button.classList.toggle('popup-image-main', buttonIndex === activeIndex);
+          button.hidden = buttonIndex !== activeIndex;
+        });
+        if (counter) counter.textContent = `${activeIndex + 1} / ${buttons.length}`;
+      };
+      container.querySelector('.popup-gallery-prev')?.addEventListener('click', () => showImage(activeIndex - 1));
+      container.querySelector('.popup-gallery-next')?.addEventListener('click', () => showImage(activeIndex + 1));
+      showImage(0);
+    }
   });
 }
 
@@ -210,6 +860,8 @@ function extractPhotoPaths(rawDescription, props = {}) {
     props.photos,
     props.image,
     props.images,
+    props.local_images,
+    props.external_images,
     props.popupinfo,
     props.PopupInfo
   ];
@@ -344,7 +996,42 @@ function resolveAssetPath(assetPath) {
 }
 
 function normalizeMediaUrl(path, kmlFileUrl = '') {
-  return AtlasMediaUtils.normalizeMediaUrl(path, kmlFileUrl);
+  const value = String(path || '')
+    .replaceAll('\\', '/')
+    .trim();
+
+  if (!value) {
+    return '';
+  }
+
+  if (
+    value.startsWith('data:') ||
+    value.startsWith('blob:') ||
+    /^https?:\/\//i.test(value)
+  ) {
+    return value;
+  }
+
+  if (
+    value.startsWith('assets/') ||
+    value.startsWith('/assets/')
+  ) {
+    return value.replace(/^\/+/, '');
+  }
+
+  if (
+    value.startsWith('LIBYA/') ||
+    value.startsWith('/LIBYA/')
+  ) {
+    return `assets/media/${
+      value.replace(/^\/+/, '')
+    }`;
+  }
+
+  return AtlasMediaUtils.normalizeMediaUrl(
+    value,
+    kmlFileUrl
+  );
 }
 
 const normalizeKmlPhotoPath = normalizeMediaUrl;
@@ -560,18 +1247,31 @@ function naturalFeature(feature) {
 }
 
 async function toggleLayer(cfg, on) {
+  const existing = state[cfg.id];
+
   if (!on) {
-    if (state[cfg.id]?.group) {
-      map.removeLayer(state[cfg.id].group);
+    if (existing?.group) {
+      map.removeLayer(existing.group);
       updateStats();
+    }
+
+    if (cfg.id === 'heritage') {
+      const hierarchy = document.getElementById('heritageHierarchy');
+      if (hierarchy) hierarchy.hidden = true;
     }
 
     return;
   }
 
-  if (state[cfg.id]?.group) {
-    state[cfg.id].group.addTo(map);
-    fit(state[cfg.id].group);
+  if (existing?.group) {
+    existing.group.addTo(map);
+
+    if (cfg.id === 'heritage') {
+      const hierarchy = document.getElementById('heritageHierarchy');
+      if (hierarchy) hierarchy.hidden = false;
+    }
+
+    fit(existing.group);
     updateStats();
     return;
   }
@@ -579,21 +1279,27 @@ async function toggleLayer(cfg, on) {
   beginLoading();
 
   try {
-    const cluster = L.markerClusterGroup({
-      chunkedLoading: true,
-      maxClusterRadius: 48
-    });
-
-    let count = 0;
-
     if (cfg.type === 'geojson') {
       const response = await fetch(cfg.url);
 
       if (!response.ok) {
-        throw new Error(`GitHub ${response.status}`);
+        throw new Error(`GeoJSON ${response.status}: ${cfg.url}`);
       }
 
       const data = await response.json();
+      const pointCluster = L.markerClusterGroup({
+        chunkedLoading: true,
+        maxClusterRadius: 48
+      });
+      const shapeGroup = L.featureGroup();
+      const compositeGroup = L.featureGroup([
+        pointCluster,
+        shapeGroup
+      ]);
+
+      let count = 0;
+      const siteLayers = {};
+      const siteInfo = {};
 
       L.geoJSON(data, {
         filter: feature =>
@@ -606,36 +1312,137 @@ async function toggleLayer(cfg, on) {
             icon: markerIcon(cfg)
           }),
 
+        style: feature =>
+          heritagePolygonStyle(feature, cfg),
+
         onEachFeature: (feature, leafletLayer) => {
           cleanPopup(leafletLayer, cfg);
-          cluster.addLayer(leafletLayer);
+
+          const isPoint =
+            feature.geometry?.type === 'Point';
+
+          leafletLayer.__atlasContainer =
+            isPoint ? pointCluster : shapeGroup;
+
+          leafletLayer.__atlasSiteId =
+            feature.properties?.parent_site_id || 'UNASSIGNED';
+
+          leafletLayer.__atlasSiteName =
+            feature.properties?.parent_site_name_ar ||
+            'غير مصنف';
+
+          leafletLayer.__atlasApprovalStatus =
+            feature.properties?.approval_status || '';
+
+          leafletLayer.__atlasContainer.addLayer(leafletLayer);
+
+          const siteId = leafletLayer.__atlasSiteId;
+
+          if (!siteLayers[siteId]) {
+            siteLayers[siteId] = [];
+            siteInfo[siteId] = {
+              name: leafletLayer.__atlasSiteName,
+              total: 0,
+              pendingReview: 0
+            };
+          }
+
+          siteLayers[siteId].push(leafletLayer);
+          siteInfo[siteId].total += 1;
+
+          if (
+            leafletLayer.__atlasApprovalStatus ===
+            'pending_review'
+          ) {
+            siteInfo[siteId].pendingReview += 1;
+          }
+
           count += 1;
         }
       });
+
+      state[cfg.id] = {
+        group: compositeGroup,
+        pointCluster,
+        shapeGroup,
+        siteLayers,
+        siteInfo,
+        count,
+        visibleCount: count
+      };
+
+      compositeGroup.addTo(map);
+
+      if (cfg.id === 'heritage') {
+        buildHeritageHierarchy(state[cfg.id]);
+      }
+
+      fit(compositeGroup);
+      updateStats();
     } else {
+      const cluster = L.markerClusterGroup({
+        chunkedLoading: true,
+        maxClusterRadius: 48
+      });
+
+      let count = 0;
       const kmlFileUrl = resolveAssetPath(cfg.file);
       const response = await fetch(kmlFileUrl);
-      if (!response.ok) throw new Error(`KML ${response.status}: ${cfg.file}`);
-      const kmlText = await response.text();
-      const xml = new DOMParser().parseFromString(kmlText, 'application/xml');
-      if (xml.querySelector('parsererror')) throw new Error(`Invalid KML XML: ${cfg.file}`);
-      const placemarks = [...xml.getElementsByTagNameNS('*', 'Placemark')];
-      const parser = omnivore.kml.parse(kmlText, null, L.geoJSON(null, {
-        pointToLayer: (feature, latLng) => L.marker(latLng, { icon: markerIcon(cfg) })
-      }));
-      let index = 0;
-      parser.eachLayer(leafletLayer => {
-        cleanPopup(leafletLayer, cfg, placemarks[index] || '', kmlFileUrl);
-        cluster.addLayer(leafletLayer); index += 1; count += 1;
-      });
-    }    state[cfg.id] = {
-      group: cluster,
-      count
-    };
 
-    cluster.addTo(map);
-    fit(cluster);
-    updateStats();
+      if (!response.ok) {
+        throw new Error(`KML ${response.status}: ${cfg.file}`);
+      }
+
+      const kmlText = await response.text();
+      const xml = new DOMParser().parseFromString(
+        kmlText,
+        'application/xml'
+      );
+
+      if (xml.querySelector('parsererror')) {
+        throw new Error(`Invalid KML XML: ${cfg.file}`);
+      }
+
+      const placemarks = [
+        ...xml.getElementsByTagNameNS('*', 'Placemark')
+      ];
+
+      const parser = omnivore.kml.parse(
+        kmlText,
+        null,
+        L.geoJSON(null, {
+          pointToLayer: (feature, latLng) =>
+            L.marker(latLng, {
+              icon: markerIcon(cfg)
+            })
+        })
+      );
+
+      let index = 0;
+
+      parser.eachLayer(leafletLayer => {
+        cleanPopup(
+          leafletLayer,
+          cfg,
+          placemarks[index] || '',
+          kmlFileUrl
+        );
+
+        cluster.addLayer(leafletLayer);
+        index += 1;
+        count += 1;
+      });
+
+      state[cfg.id] = {
+        group: cluster,
+        count,
+        visibleCount: count
+      };
+
+      cluster.addTo(map);
+      fit(cluster);
+      updateStats();
+    }
   } catch (error) {
     console.error(error);
     alert(`تعذر تحميل طبقة: ${cfg.name}`);
@@ -676,7 +1483,9 @@ function updateStats() {
       map.hasLayer(value.group)
     ) {
       loaded += 1;
-      visible += value.count || 0;
+      visible += Number.isFinite(value.visibleCount)
+        ? value.visibleCount
+        : value.count || 0;
     }
   }
 
@@ -723,6 +1532,11 @@ document.getElementById('clearBtn').onclick = () => {
     }
   });
 
+  const hierarchy = document.getElementById('heritageHierarchy');
+  if (hierarchy) {
+    hierarchy.hidden = true;
+  }
+
   updateStats();
 };
 
@@ -736,6 +1550,49 @@ document.getElementById('searchInput').addEventListener(
     }
   }
 );
+
+function toggleHeritageSite(
+  siteId,
+  visible
+) {
+  const heritageState = state.heritage;
+
+  if (
+    !heritageState ||
+    !heritageState.group ||
+    !heritageState.siteLayers
+  ) {
+    return;
+  }
+
+  const layers = heritageState.siteLayers[siteId] || [];
+
+  for (const leafletLayer of layers) {
+    const target = leafletLayer.__atlasContainer;
+
+    if (!target) {
+      continue;
+    }
+
+    if (visible) {
+      if (!target.hasLayer(leafletLayer)) {
+        target.addLayer(leafletLayer);
+      }
+    } else if (target.hasLayer(leafletLayer)) {
+      target.removeLayer(leafletLayer);
+    }
+  }
+
+  heritageState.visibleCount =
+    Object.values(heritageState.siteLayers)
+      .flat()
+      .filter(layer =>
+        layer.__atlasContainer?.hasLayer(layer)
+      )
+      .length;
+
+  updateStats();
+}
 
 function search() {
   const query = document
@@ -758,7 +1615,7 @@ function search() {
 
     let found = null;
 
-    value.group.eachLayer(layer => {
+    eachAtlasFeature(value.group, layer => {
       if (found) {
         return;
       }
@@ -767,9 +1624,16 @@ function search() {
         layer.feature?.properties || {};
 
       const searchable = [
+        props.name_ar,
+        props.source_name_ar,
         props.name,
         props.ar_name,
+        props.name_en,
         props.en_name,
+        props.parent_site_name_ar,
+        props.final_category_ar,
+        props.proposed_category_ar,
+        props.description_ar,
         props.description?.value,
         props.description
       ]
@@ -783,6 +1647,13 @@ function search() {
     });
 
     if (found) {
+      if (found.__atlasContainer && typeof found.getLatLng === 'function') {
+        if (found.__atlasContainer.hasLayer(found)) {
+          found.__atlasContainer.removeLayer(found);
+        }
+        found.addTo(map);
+      }
+
       if (typeof found.getLatLng === 'function') {
         map.setView(found.getLatLng(), 14);
       } else if (
@@ -793,7 +1664,7 @@ function search() {
         });
       }
 
-      found.openPopup();
+      setTimeout(() => found.openPopup(), 0);
       return;
     }
   }
@@ -817,9 +1688,3 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
-
-
-
-
-
-
