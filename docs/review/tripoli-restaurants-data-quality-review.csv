@@ -1,0 +1,76 @@
+﻿id,name_ar,quality_status,completeness_percent,missing_fields,review_status,notes
+LY-FNB-RES-TRI-00001,مطعم براون للوجبات السريعة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00002,مطعم النبراس,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00003,مطعم لارمبلا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00004,مطعم فتوش للمأكولات اللبنانية حي الأندلس,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00005,مطعم تك أوي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00006,مطعم بيت الختيار,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00007,مطعم الأثار,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00008,مطعم فور سيزونز,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00009,مطعم ميلانو للوجبات السريعة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00010,الأخطبوط للمشاوى والوجبات السريعة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00011,دا ميت هاوس,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00012,مطعم الزرقاني للمأكولات الشعبية و الشرقية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00013,بيتزا الفورنو شارع الجمهورية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00014,مطعم السفير,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00015,مطعم لاباديلا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00016,الاخطبوط للمشاوي و الوجبات السريعة و فواكه البحر - الظهر,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00017,الانيا قريل- شواية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00018,مذاق بكستاني - مطعم,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00019,مطعم شوايا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00020,مطعم القصر,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00021,مطعم أورجينال,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00022,VIA MERCATO LY,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00023,مطعم مراحب، مطعم,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00024,المطعم السنيورة التركي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00025,مطعم الطاجين للماكولات الليبية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00026,مطعم الزرقاني للمأكولات الطرابلسية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00027,مطعم لاروكا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00028,بيج بوس برجر,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00029,لا كوتشينا إيطاليانو,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00030,شنابو الدهماني زاوية,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00031,مطعم كوستيليا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00032,أيلا كافي,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00033,لاتينو,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00034,ماكس قريل ماكس جريل,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00035,إنديامو,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00036,Olympic restaurant,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00037,مطعم قصر الوالي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00038,مطعم وكافيه فلانيل | مطعم فلانيل ومقهي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00039,مطعم النخلة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00040,مطعم المنسف,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00041,كينج فرايد تشيكن,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00042,مطعم البحباح,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00043,بيتزا فيرا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00044,مطعم الروبيان للمأكولات البحرية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00045,مطعم الزهراء 3,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00046,Hk pizza,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00047,Pamplona cafe,low,36,district|address|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00048,Bono restaurant المطعم التركي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00049,مقهى البريوشة,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00050,بيتزا الفورنو شارع الجمهورية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00051,Kudo restaurant,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00052,Maracana fast food,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00053,مطعم أضنة ADANA,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00054,مطعم على الفحم,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00055,De Capri Cafe And Restaurant,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00056,مطعم بورصة التركي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00057,مطعم الضاحية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00058,Pizza Restaurant,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00059,مطعم الضيافة للوجبات السريعة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00060,Lavina House,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00061,بيكانتي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00062,مطعم بيلو,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00063,مطعم بونا بيتي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00064,شاورما ومشاوي قوستوزو,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00065,مطعم ديوان الامير,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00066,برانش كافي - برنش كافيه,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00067,مطعم ميلانو للوجبات السريعة,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00068,تاكور قريل,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00069,هامبوربو جاجا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00070,مطعم الأزرقاني للمأكولات الشعبية و الشرقية,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00071,ديفيو سبان,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00072,مطعم المدينة التركية - شارع سليمان الباروني,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00073,مطعم المدق الدمشقي,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00074,مطعم بيت جدي للخدمات التمونية ، طرابلس ، ليبيا,medium,45,district|website|cuisine|opening_hours|license|image,integrated,Complete official fields; verify classification where flagged
+LY-FNB-RES-TRI-00075,شيزي زياد فرع زناتة,low,36,classification|district|website|cuisine|opening_hours|license|image,review_required,Complete official fields; verify classification where flagged

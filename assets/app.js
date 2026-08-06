@@ -42,6 +42,15 @@ const layers = [
     meta: 'منشآت الإيواء السياحي'
   },
   {
+    id: 'tripoliRestaurants',
+    name: 'مطاعم طرابلس',
+    type: 'geojson',
+    url: 'data/layers/tripoli-restaurants.geojson',
+    icon: '🍽️',
+    color: '#ea580c',
+    meta: 'مطاعم ومنشآت طعام في طرابلس'
+  },
+  {
     id: 'resorts',
     name: 'القرى والمنتجعات السياحية',
     file: 'data/kml/final/resorts.kml',
@@ -77,7 +86,7 @@ const layers = [
   }
 ];
 
-const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
+const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', tripoliRestaurants: 'Tripoli Restaurants', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
 for (const cfg of layers) {
   Object.assign(cfg, { nameAr: cfg.name, nameEn: layerNamesEn[cfg.id] || cfg.name, visibleByDefault: cfg.id === 'heritage', cluster: true, popupType: 'gallery' });
 }
@@ -595,6 +604,9 @@ function cleanPopup(
       'العنوان',
       firstValue(properties.address_ar, properties.address)
     ],
+    ['الحي أو المنطقة', properties.district_ar],
+    ['نوع المطبخ', properties.cuisine_type_ar],
+    ['ساعات العمل', properties.opening_hours],
     ['النجوم', properties.stars],
     ['عدد الغرف', properties.rooms],
     ['عدد الأسرة', properties.beds],
