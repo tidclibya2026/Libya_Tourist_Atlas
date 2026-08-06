@@ -59,3 +59,11 @@ external recovery backup created outside the repository (path recorded in the ex
 تشمل GeoJSON وJavaScript وCSS وHTML ومجلدات الصور السابقة الموجودة ونسخة المصدر الرسمي.
 
 لم يتم تنفيذ `git commit` أو `git push` أو deploy.
+
+## Actual clicked feature image correction
+
+The feature opened by the map click for “آثار قورينا” is `WH-LY-003-C0005` (not the primary feature `WH-WORLD-C0002`). Its KML geometry and identifier were preserved. The component now uses the two confirmed public main-site images, with institutional ownership metadata, so its popup renders the real gallery instead of the placeholder. Its descriptive fields were normalized without embedding coordinates.
+
+- `CYRENE_SCREENSHOT_FEATURE_ID`: `WH-LY-003-C0005`
+- `local_images`: two relative `published/main-site` paths
+- overlap with primary marker: no coordinate overlap; separate component retained
