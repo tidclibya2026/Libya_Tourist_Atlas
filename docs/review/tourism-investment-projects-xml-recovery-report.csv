@@ -1,0 +1,14 @@
+﻿line,column,level,domain,type,message
+9638,1318,FATAL,PARSER,ERR_CDATA_NOT_FINISHED,"CData section not finished
+<img src=""https://mymaps.usercontent.google.com/ho"
+9638,1318,FATAL,PARSER,ERR_INVALID_CHAR,PCDATA invalid Char value 11
+9638,1707,FATAL,PARSER,ERR_ENTITYREF_SEMICOL_MISSING,EntityRef: expecting ';'
+9638,2088,FATAL,PARSER,ERR_ENTITYREF_SEMICOL_MISSING,EntityRef: expecting ';'
+9638,2125,FATAL,PARSER,ERR_MISPLACED_CDATA_END,Sequence ']]>' not allowed in content
+9638,2141,FATAL,PARSER,ERR_TAG_NAME_MISMATCH,Opening and ending tag mismatch: br line 9638 and description
+9685,66,FATAL,PARSER,ERR_INVALID_CHAR,PCDATA invalid Char value 11
+9699,19,FATAL,PARSER,ERR_TAG_NAME_MISMATCH,Opening and ending tag mismatch: br line 9638 and Placemark
+32595,14,FATAL,PARSER,ERR_TAG_NAME_MISMATCH,Opening and ending tag mismatch: br line 9638 and Folder
+94985,14,FATAL,PARSER,ERR_TAG_NAME_MISMATCH,Opening and ending tag mismatch: br line 9638 and Document
+94986,7,FATAL,PARSER,ERR_TAG_NAME_MISMATCH,Opening and ending tag mismatch: br line 9638 and kml
+94987,1,FATAL,PARSER,ERR_TAG_NOT_FINISHED,Premature end of data in tag description line 9638

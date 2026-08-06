@@ -1,0 +1,674 @@
+﻿id,name_ar,name_en,geometry_type,investment_type_code,project_status_code,municipality_ar,centroid_longitude,centroid_latitude,investment_readiness_level,preliminary_priority_level,data_quality_status,data_review_status,match_status
+LY-INV-RES-ZUW-00001,قرية إدوس السياحية,,Point,resort_project,unknown,زوارة,11.998442,32.9900855,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-TRI-00001,قرية مرمرة السياحية,,Point,resort_project,unknown,طرابلس,12.00665,32.98545,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00002,قرية فيرونا السياحية,,Point,resort_project,unknown,زوارة,12.01095,32.97933,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00003,قرية البرتقالة,,Point,resort_project,unknown,زوارة,12.0234337,32.9749453,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00004,قرية شط النخيل زوارة,,Point,resort_project,unknown,زوارة,12.0486794,32.955312,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00005,قرية أوليڤيا السياحية - زوارة,,Point,resort_project,unknown,زوارة,12.0248071,32.9751944,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00006,منتجع رياض المنصوري,,Point,resort_project,unknown,زوارة,12.0565,32.95211,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00007,إقامة تولين السياحية,,Point,resort_project,unknown,زوارة,12.0211239,32.978893,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00008,VILLA HAYA,,Point,resort_project,unknown,زوارة,12.06513,32.94623,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00009,منتجع زين السياحي,,Point,resort_project,unknown,زوارة,12.0418755,32.961648,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00010,قرية تيبودا السياحيه,,Point,resort_project,unknown,زوارة,12.05311,32.9545,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00011,منتجع سيتي بارك زوارة,,Point,resort_project,unknown,زوارة,12.10216,32.93167,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SAB-00001,قرية جوهرة صبراتة السياحية,,Point,resort_project,unknown,صبراتة,12.45843,32.8107,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SAB-00001,قرية المغرب العربي صبراتة,,Point,hotel_project,unknown,صبراتة,12.3285944,32.8259566,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SAB-00002,مركب تليل السياحي_صبراتة,,Point,resort_project,unknown,صبراتة,12.37648,32.81694,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00001,القرية السياحية جنزور,,Point,resort_project,unknown,,13.00864,32.83712,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-TRI-00002,قرية بالم سيتي/قرية النخيل السياحية طرابلس,,Point,resort_project,unknown,طرابلس,13.041687,32.848441,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-TRI-00003,القرية السياحية الريقاتة,,Point,resort_project,unknown,طرابلس,13.05782,32.8521,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00001,مركب شيراتون - النقاط الأربعة,,Point,hotel_project,unknown,طرابلس,13.146279,32.880963,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00002,القرية السياحية تاجوراء,,Point,resort_project,unknown,,13.42962,32.86297,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00003,منتجع سمرلاند المائي,,Point,resort_project,unknown,,13.582164,32.79624,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00001,مصيف قرية مارينا السياحية,,Point,resort_project,unknown,الخمس,14.3535,32.5956358,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00002,قرية قصر سيلين العائلية,,Point,resort_project,unknown,الخمس,14.1871872,32.7041884,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00003,قرية حدائق غنيمة,,Point,resort_project,unknown,الخمس,14.0588067,32.7198825,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00004,إستراحة شط غنيمة,,Point,resort_project,unknown,الخمس,14.0287912,32.7217682,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-TRI-00004,قرية المتوسط العائلية,,Point,resort_project,unknown,طرابلس,14.0296077,32.7266548,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00005,قرية قوس غنيمة السياحية,,Point,resort_project,unknown,الخمس,14.05611,32.72302,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00006,قرية لؤلؤة غنيمة العائلية,,Point,resort_project,unknown,الخمس,14.03409,32.72176,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00007,قرية شمس البحر,,Point,resort_project,unknown,الخمس,14.0591948,32.7217781,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00008,قرية الشاطيء الذهبي,,Point,resort_project,unknown,الخمس,14.05915,32.71876,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00009,منتجع سي شيلز,,Point,resort_project,unknown,الخمس,14.1902606,32.7048271,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00010,منتجع حوض البحر Seapool Resort,,Point,resort_project,unknown,الخمس,14.0607489,32.7222509,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00011,قرية الخمس السياحية,,Point,resort_project,unknown,الخمس,14.2779222,32.6457684,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00012,قريه غنيمه العائليه,,Point,resort_project,unknown,الخمس,14.27806,32.64588,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00013,قرية اكوا مارين السياحية,,Point,resort_project,unknown,الخمس,14.034,32.72555,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00001,قرية جنيف العائلية غنيمة,,Point,hotel_project,unknown,الخمس,14.03118,32.72632,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00014,منتجع شاطئ غنيمة,,Point,resort_project,unknown,الخمس,14.0540747,32.7210539,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00015,شاليهات بن حمودة العائلي,,Point,resort_project,unknown,الخمس,14.036992,32.724932,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00004,منتجع كريستال السياحي,,Point,resort_project,unknown,,13.6352738,32.7875341,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00005,منتجع رويال السياحي,,Point,resort_project,unknown,,13.6649677,32.7880725,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00006,القويعة,,Point,resort_project,unknown,,13.63224,32.788705,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00007,منتجع فيلا دريم هاوس,,Point,resort_project,unknown,,13.6725922,32.786663,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00008,منتجع شط مريم,,Point,resort_project,unknown,,13.6623284,32.7888939,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00009,استراحة الجود القويعه,,Point,resort_project,unknown,,13.6329856,32.7884131,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00010,منتجع اتش تي السياحي,,Point,resort_project,unknown,,13.63298,32.7864,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00011,منتجع اتش تي 3,,Point,resort_project,unknown,,13.6428593,32.7865142,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00012,منتجع شاليهات للاجار,,Point,resort_project,unknown,,13.6444767,32.787918,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00013,قرية العطايا العائلية,,Point,resort_project,unknown,,13.675653,32.789468,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00014,منتجع برستيج,,Point,resort_project,unknown,,13.6673395,32.7870038,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00015,قرية القويعة السياحية,,Point,resort_project,unknown,,13.6343097,32.7871612,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00016,شاليهات بن بية,,Point,resort_project,unknown,,13.6443505,32.7879279,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00017,قرية ميار البحر العائليه,,Point,resort_project,unknown,,13.68749,32.789744,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00018,قرية أغيث السياحية,,Point,resort_project,unknown,,13.6456806,32.7876536,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00019,قرية الخلة السياحية العائلية,,Point,resort_project,unknown,,13.679539,32.789005,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00020,مجمع جواهر لاند,,Point,resort_project,unknown,,13.646366,32.787247,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00021,منتجع دار البحر,,Point,resort_project,unknown,,13.6470901,32.7876215,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00022,منتجع وادي بالنور,,Point,resort_project,unknown,,13.59408,32.7926442,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00023,منتجع بيتش هاوس,,Point,resort_project,unknown,,14.058072,32.7174075,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00024,قرية قوس غنيمة السياحية,,Point,resort_project,unknown,,14.05612,32.722872,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00025,منتجع ايليت السياحي,,Point,resort_project,unknown,,13.6588969,32.7889728,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00026,قرية شمس البحر,,Point,resort_project,unknown,,14.058758,32.721782,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00016,قرية لؤلؤة غنيمة العائلية,,Point,resort_project,unknown,الخمس,14.058367,32.720385,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00027,شاليهات ركن النيروز,,Point,resort_project,unknown,,13.647632,32.788222,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00028,قرية رأس الحمراء العائلية,,Point,resort_project,unknown,,13.935119,32.774035,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00017,قرية شاطئ النخيل الذهبي,,Point,resort_project,unknown,الخمس,13.9354831,32.7733773,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZLI-00001,قرية أصيل السياحية,,Point,resort_project,unknown,زليتن,14.6145187,32.4896379,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZLI-00002,قرية الهُزم السياحية,,Point,resort_project,unknown,زليتن,14.6200546,32.489371,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00001,منتجع الأمان السياحي,,Point,hotel_project,unknown,مصراتة,15.001973,32.413207,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-MIS-00001,منتجع مصراتة,,Point,resort_project,unknown,مصراتة,15.114877,32.405137,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-MIS-00002,منتجع فينيسيا/مصراتة,,Point,resort_project,unknown,مصراتة,15.030501,32.410642,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-MIS-00003,قرية زريق السياحية,,Point,resort_project,unknown,مصراتة,14.929789,32.431147,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00029,حي قصور الضيافة_سرت,,Point,resort_project,unknown,,16.6152747,31.2077676,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00001,شاليهات ريماس,,Point,resort_project,unknown,بنغازي,19.949189,31.9031676,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00002,قرية شاطيء النخيل,,Point,resort_project,unknown,بنغازي,19.954158,31.942865,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00003,منتجع مارينا بنغازي السياحي,,Point,resort_project,unknown,بنغازي,19.959256,31.982998,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00004,منتجع الصفوة السياحي,,Point,resort_project,unknown,بنغازي,19.964499,31.992255,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00005,منتجع ماربيلا السياحي,,Point,resort_project,unknown,بنغازي,19.971313,31.993245,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00006,مجمع الاصالة السياحي,,Point,resort_project,unknown,بنغازي,19.974266,31.99976,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00007,قرية الفاضل,,Point,resort_project,unknown,بنغازي,20.009364,32.032708,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00008,منتجع الأسيل,,Point,resort_project,unknown,بنغازي,19.996643,32.01888,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00009,منتجع الماسة السياحي,,Point,resort_project,unknown,بنغازي,20.137676,32.069522,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00010,منتجع قاريونس العائلي,,Point,resort_project,unknown,بنغازي,20.039029,32.061734,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00011,منتجع النخلة الذهبية,,Point,resort_project,unknown,بنغازي,20.040787,32.069285,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00012,منتجع فايا لارجو,,Point,resort_project,unknown,بنغازي,20.042231,32.07227,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BEN-00013,قرية قمرت السياحية,,Point,resort_project,unknown,بنغازي,20.212382,32.278478,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00030,منتجع التلال الحمامة,,Point,resort_project,unknown,,21.615861,32.911311,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00031,منتجع الجراري السياحي - للعائلات,,Point,resort_project,unknown,,21.604209,32.905579,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00032,منتجع ومصيف الحمامة,,Point,resort_project,unknown,,21.621093,32.916555,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00033,قرية إيلاف السياحية,,Point,resort_project,unknown,,20.9638155,32.7194631,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BAY-00001,شاليهات الحدائق الملكية,,Point,resort_project,unknown,البيضاء,21.5950836,32.8752309,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-BAY-00002,منتجع وادي الكوف,,Point,resort_project,unknown,البيضاء,21.563798,32.702,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00034,منتجع إيلاند السياحي,,Point,resort_project,unknown,,21.940156,32.895682,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00035,منتجع كنزي السياحي,,Point,resort_project,unknown,,21.9725655,32.9008844,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00036,منتجع سوسه,,Point,resort_project,unknown,,22.0249434,32.9025146,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00037,مصيف القريه/رأس الهلال,,Point,resort_project,unknown,,22.1691686,32.9017744,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00038,منتجع الينابيع السياحي,,Point,resort_project,unknown,,22.190223,32.881896,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00039,منتجع الاثرون السياحي,,Point,resort_project,unknown,,22.279024,32.869423,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-DER-00001,منتجع إيميليا السياحي,,Point,resort_project,unknown,درنة,22.5622359,32.7982606,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-DER-00002,مصيف 1805,,Point,resort_project,unknown,درنة,22.56117,32.790435,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00040,منتجع الابرق السياحي,,Point,resort_project,unknown,,21.954304,32.825786,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00001,منتج شحات السياحي,,Point,resort_project,unknown,شحات,21.879472,32.824524,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00002,منتجع وموتيل الأمان 1,,Point,resort_project,unknown,شحات,21.894591,32.801446,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00003,منتجع وموتيل الأمان 3,,Point,resort_project,unknown,شحات,21.9234664,32.8263417,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00004,شاليهات بوعطية,,Point,resort_project,unknown,شحات,21.897302,32.842844,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00005,منتجع جود السياحي,,Point,resort_project,unknown,شحات,21.88843,32.840597,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-KHO-00018,إستراحات فردية درجة أولى,,Point,resort_project,unknown,الخمس,21.867999,32.847121,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00006,إستراحات فردية,,Point,resort_project,unknown,شحات,21.8672957,32.8470731,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00007,منتجع الاسرة السعيدة,,Point,resort_project,unknown,شحات,21.873265,32.816855,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00008,شاليهات بومؤمن,,Point,resort_project,unknown,شحات,21.84664,32.858583,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00009,منتجع سيف للسياحه ولاستثمار,,Point,resort_project,unknown,شحات,21.903627,32.796428,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00001,منتجع وفندق ريفان السياحي,,Point,hotel_project,unknown,طبرق,23.959161,32.0372928,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00012,قرية سبتيموس السياحية - زوارة,,Point,resort_project,unknown,زوارة,12.0089054,32.9846754,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZUW-00001,قرية سيمو السياحية - زوارة,,Point,hotel_project,unknown,زوارة,12.0038519,32.9863612,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZLI-00003,منتجع الهادريان زليتن,,Point,resort_project,unknown,زليتن,14.5157198,32.5025172,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00041,منتجع سفارى السياحى,,Point,resort_project,unknown,,15.042599,32.3512844,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00013,قرية اوديسا السياحية,,Point,resort_project,unknown,زوارة,11.9792196,32.998387,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00014,Azul house استراحة ازول,,Point,resort_project,unknown,زوارة,12.0191798,32.9804213,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00015,DiVano Resort,,Point,resort_project,unknown,زوارة,12.0684328,32.9457822,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00016,منتجع لاجون Lagoon Resort,,Point,resort_project,unknown,زوارة,11.9844267,32.9979566,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-ZUW-00017,Barracuda Village - منتجع باراكودا,,Point,resort_project,unknown,زوارة,12.0243031,32.9757798,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00042,Oea Village - Diar Al Bahr,,Point,resort_project,unknown,,13.016186,32.839058,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-NAT-00043,قرية قوس غنيمة السياحية,,Point,resort_project,unknown,,14.0569472,32.7147012,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00002,فندق كورنثيا,,Point,hotel_project,unknown,طرابلس,13.170402,32.89692,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00001,فندق بينثابوليس,,Point,hotel_project,unknown,البيضاء,21.7604108,32.76474,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00001,فندق جوهرة الواحة,,Point,hotel_project,unknown,غدامس,9.5073291,30.1319382,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00003,فندق تبرس,,Point,hotel_project,unknown,طرابلس,11.327179,31.777558,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00010,منتجع شحات السياحي,,Point,resort_project,unknown,شحات,21.87935,32.82451,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00001,فندق المنارة,,Point,hotel_project,unknown,,21.964767,32.900626,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00002,فندق لؤلؤة الخليج,,Point,hotel_project,unknown,البيضاء,21.77744,32.76469,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00003,فندق التلال الوسيطة البيضاء,,Point,hotel_project,unknown,البيضاء,21.733303,32.793224,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00002,العنود للشقق الفندقية,,Point,hotel_project,unknown,,21.7417,32.7664,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00003,فندق الثريا,,Point,hotel_project,unknown,,21.75694,32.764375,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-EXP-SHA-00001,منتجع الينابيع السياحي,,Point,existing_project_expansion,expansion,شحات,22.19025,32.8815,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00004,فندق برقة,,Point,hotel_project,unknown,,21.756955,32.765259,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00005,فندق الهديل,,Point,hotel_project,unknown,,21.754296,32.763233,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00002,فندق بن يدر,,Point,hotel_project,unknown,غدامس,9.49361,30.13057,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00003,فندق نجوم غدامس,,Point,hotel_project,unknown,غدامس,9.492807,30.130444,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-GHA-00001,Hotel bab al fatah,,Point,review_required,unknown,غدامس,9.495953,30.129669,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TRI-00004,فندق فكتوريا,,Point,hotel_project,unknown,طرابلس,13.1943866,32.8913655,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00005,فندق الطاووس,,Point,hotel_project,unknown,طرابلس,13.3175408,32.8737835,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00006,فندق المهاري,,Point,hotel_project,unknown,طرابلس,13.1997894,32.8960393,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00007,فندق الودان,,Point,hotel_project,unknown,طرابلس,13.1909208,32.893187,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00008,فندق بلازما,,Point,hotel_project,unknown,طرابلس,13.163972,32.885667,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00002,فندق دار السلام,,Point,hotel_project,unknown,طبرق,23.968133,32.073038,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00003,فندق سان جورج,,Point,hotel_project,unknown,طبرق,23.9734318,32.0798526,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00002,فندق الحسنين الكبير,,Point,hotel_project,unknown,الخمس,14.251271,32.643382,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-SHA-00001,بيوت الشباب,,Point,review_required,unknown,شحات,21.863206,32.812983,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-BAY-00004,فندق بلاغراي السياحي ( التلال سابقا ),,Point,hotel_project,unknown,البيضاء,21.7177134,32.7617367,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-DER-00003,منتجع ايميليا,,Point,resort_project,unknown,درنة,22.562225,32.798444,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-RES-SHA-00011,منتجع وموتيل الأمان,,Point,resort_project,unknown,شحات,21.894339,32.801784,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-GHA-00002,بيوت شباب غدامس,,Point,review_required,unknown,غدامس,9.4980544,30.1205014,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-GHA-00004,نالوت غدامس فندق باب العز,,Point,hotel_project,unknown,غدامس,10.9706174,31.8876627,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00006,فندق أبراج الوسطى,,Point,hotel_project,unknown,,16.5549527,31.204718,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SEB-00001,فندق طيبة,,Point,hotel_project,unknown,سبها,14.421323,27.053601,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00009,فندق قصر الفيروز,,Point,hotel_project,unknown,طرابلس,13.192323,32.849774,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00007,فندق ابونواس,,Point,hotel_project,unknown,,13.0914425,32.86352,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00008,فندق احواص,,Point,hotel_project,unknown,,13.1790752,32.8954197,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00009,فندق الانوار,,Point,hotel_project,unknown,,12.7337333,32.748233,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00010,فندق الأخوة,,Point,hotel_project,unknown,طرابلس,13.1740605,32.8916446,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00011,فندق الأصالة,,Point,hotel_project,unknown,طرابلس,13.1788459,32.8918811,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00010,فندق الأصيل,,Point,hotel_project,unknown,,13.1860743,32.8819303,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00011,فندق الأندلس,,Point,hotel_project,unknown,,13.1726487,32.8920769,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00002,فندق البركة,,Point,hotel_project,unknown,مصراتة,15.0959067,32.3760478,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00012,فندق البستان,,Point,hotel_project,unknown,,13.0783524,32.8023006,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00003,التاج للشقق الفندقية,,Point,hotel_project,unknown,مصراتة,15.0878259,32.3740071,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00013,فندق التاجوري,,Point,hotel_project,unknown,,13.1783129,32.8958455,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00014,فندق الجبل,,Point,hotel_project,unknown,,15.095,32.371113,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SAB-00002,فندق جوهرة صبراتة السياحي,,Point,hotel_project,unknown,صبراتة,12.4775131,32.7947757,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00015,فندق الجوهرة الزاوية,,Point,hotel_project,unknown,,12.726081,32.751953,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00016,فندق الحديقة,,Point,hotel_project,unknown,,13.179292,32.891087,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00017,فندق الحمام السياحي,,Point,hotel_project,unknown,,12.393222,32.734657,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00018,فندق الحياة,,Point,hotel_project,unknown,,13.176502,32.888706,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00012,فندق الخان الطرابلسي,,Point,hotel_project,unknown,طرابلس,13.176539,32.898502,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00019,فندق الخليج,,Point,hotel_project,unknown,,13.1756918,32.8891584,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00020,فندق الخليل السياحي,,Point,hotel_project,unknown,,12.485278,32.796391,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00013,فندق الدبلوماسي,,Point,hotel_project,unknown,طرابلس,13.1736393,32.8891424,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00021,فندق الدوحة,,Point,hotel_project,unknown,,13.171915,32.892017,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00022,فندق الديار,,Point,hotel_project,unknown,,13.1744904,32.8915652,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00023,فندق الرابطة,,Point,hotel_project,unknown,,13.0142817,32.1697271,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00024,فندق الرفيع,,Point,hotel_project,unknown,,13.1725882,32.8935211,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00014,فندق الريان,,Point,hotel_project,unknown,طرابلس,13.172645,32.89056,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00025,فندق الزهر,,Point,hotel_project,unknown,,13.179107,32.896046,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00026,فندق الزيتونة,,Point,hotel_project,unknown,,14.0148,31.756525,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00027,فندق السرايا,,Point,hotel_project,unknown,,13.170639,32.888588,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZUW-00002,فندق زوارة,,Point,hotel_project,unknown,زوارة,12.098621,32.924809,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00015,فندق السندباد,,Point,hotel_project,unknown,طرابلس,13.1626912,32.8859872,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00028,فندق السهم,,Point,hotel_project,unknown,,13.17269,32.892365,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00029,فندق السياحي,,Point,hotel_project,unknown,,13.174013,32.891529,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00030,فندق الشاطىء,,Point,hotel_project,unknown,,12.104337,32.930157,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00031,فندق الشجرة,,Point,hotel_project,unknown,,13.1950688,32.8935126,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00032,فندق الشرق,,Point,hotel_project,unknown,,13.1760293,32.8873583,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00016,فندق الشمس,,Point,hotel_project,unknown,طرابلس,13.1733207,32.8924857,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00033,فندق الصحراوي,,Point,hotel_project,unknown,,12.0825,32.933887,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00034,فندق الصفوة,,Point,hotel_project,unknown,,13.1882578,32.8902261,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00004,فندق الصناعية مصراتة,,Point,hotel_project,unknown,مصراتة,15.090645,32.373493,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00017,فندق الصولجان,,Point,hotel_project,unknown,طرابلس,13.1629409,32.8857364,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00035,فندق الضيافة,,Point,hotel_project,unknown,,13.1719276,32.8922674,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00018,فندق العاصمة,,Point,hotel_project,unknown,طرابلس,13.1741981,32.8896366,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00005,فندق الغدامسية,,Point,hotel_project,unknown,غدامس,13.178981,32.895485,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00036,فندق القرقني,,Point,hotel_project,unknown,,13.1792077,32.8947514,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00037,فندق القوس,,Point,hotel_project,unknown,,13.1935389,32.8930785,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00038,فندق الكبير,,Point,hotel_project,unknown,,15.0953709,32.3738003,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00039,فندق الكرومة,,Point,hotel_project,unknown,,11.892359,31.864727,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00040,فندق الماسة,,Point,hotel_project,unknown,,15.085841,32.3734736,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00041,فندق المتوسط,,Point,hotel_project,unknown,,14.26402,32.652981,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00042,فندق المدينة,,Point,hotel_project,unknown,,12.726944,32.753613,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00043,فندق المرقب,,Point,hotel_project,unknown,,14.252599,32.642418,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00044,فندق المشكاة,,Point,hotel_project,unknown,,13.179752,32.891571,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00045,فندق المنامة,,Point,hotel_project,unknown,,13.1729932,32.8935411,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00046,فندق النخلة,,Point,hotel_project,unknown,,13.196285,32.890724,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00003,فندق النقازة الخمس,,Point,hotel_project,unknown,الخمس,14.098898,32.694199,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00047,فندق النهر,,Point,hotel_project,unknown,,13.1710949,32.8936604,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00048,فندق الهنشيري,,Point,hotel_project,unknown,,13.177876,32.897038,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00049,فندق الهيشة,,Point,hotel_project,unknown,,15.258722,31.453671,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00050,فندق الواحات,,Point,hotel_project,unknown,,13.168939,32.887352,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00051,فندق الياسمين,,Point,hotel_project,unknown,,13.1842,32.887569,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00052,فندق أجنحة قرطاج,,Point,hotel_project,unknown,,13.177596,32.890884,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00053,فندق أفريقيا,,Point,hotel_project,unknown,,15.092281,32.378033,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00054,فندق أوال,,Point,hotel_project,unknown,,13.172092,32.888885,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00019,فندق باب البحر,,Point,hotel_project,unknown,طرابلس,13.165054,32.894688,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00055,فندق بلازما,,Point,hotel_project,unknown,,13.163955,32.88559,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00056,فندق بن يدر,,Point,hotel_project,unknown,,9.493617,30.130571,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00057,فندق بنت السيد,,Point,hotel_project,unknown,,13.175939,32.900146,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00058,فندق بودلغوسة,,Point,hotel_project,unknown,,13.178583,32.894421,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00059,فندق بيت الأمان,,Point,hotel_project,unknown,,13.1922573,32.8904901,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00060,فندق بيت الشرق,,Point,hotel_project,unknown,,13.1723136,32.8923696,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00061,فندق تابكت,,Point,hotel_project,unknown,,15.084174,32.373779,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00062,فندق توباكتس,,Point,hotel_project,unknown,,13.16473,32.88607,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00063,فندق جي دبليو ماريوت,,Point,hotel_project,unknown,,13.164378,32.89019,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00006,فندق دار غدامس,,Point,hotel_project,unknown,غدامس,9.4908575,30.1142113,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00064,فندق ديار الهناء,,Point,hotel_project,unknown,,15.0905614,32.3781743,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00065,فندق ليبوس,,Point,hotel_project,unknown,,13.206903,32.897114,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00066,فندق ريكسوس,,Point,hotel_project,unknown,,13.193808,32.859509,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZLI-00001,فندق زليتن,,Point,hotel_project,unknown,زليتن,14.559985,32.475266,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00067,فندق زميت,,Point,hotel_project,unknown,,13.175705,32.899632,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00068,فندق زهرة الخليج,,Point,hotel_project,unknown,,13.171682,32.893105,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZUW-00003,فندق زوارة,,Point,hotel_project,unknown,زوارة,12.099145,32.92326,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00069,فندق سرايا الليبو,,Point,hotel_project,unknown,,13.179074,32.893341,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00070,فندق سفاري,,Point,hotel_project,unknown,,15.1019467,32.3736977,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00071,فندق سفاري 2,,Point,hotel_project,unknown,,15.04225,32.351223,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00072,فندق سفيروس,,Point,hotel_project,unknown,,14.250641,32.644596,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00073,فندق شروق افريقيا,,Point,hotel_project,unknown,,13.182145,32.890488,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00074,فندق صحارى ليبيا,,Point,hotel_project,unknown,,13.162944,32.885353,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00075,فندق ضيافة ونيس,,Point,hotel_project,unknown,,13.173898,32.674606,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00020,فندق طرابلس الدولي,,Point,hotel_project,unknown,طرابلس,13.1751286,32.8899351,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00076,فندق طليطلة,,Point,hotel_project,unknown,,13.203761,32.892212,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00077,فندق طيبة,,Point,hotel_project,unknown,,13.1718009,32.8919262,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00078,فندق عمير,,Point,hotel_project,unknown,,13.1723443,32.8921759,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00079,فندق عين الفرس,,Point,hotel_project,unknown,,9.4961384,30.1342023,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00080,فندق غابة الكشافة,,Point,hotel_project,unknown,,12.315046,31.951923,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00081,فندق غريان السياحي,,Point,hotel_project,unknown,,13.030462,32.172661,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00082,فندق قرطاج,,Point,hotel_project,unknown,,13.179976,32.889549,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00083,فندق قصر الظهرة,,Point,hotel_project,unknown,,13.193874,32.888687,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00084,فندق قصر الفيروز,,Point,hotel_project,unknown,,13.194599,32.853401,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SAB-00003,فندق قمر صبراتة,,Point,hotel_project,unknown,صبراتة,12.486354,32.792946,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00085,فندق كونتنتال,,Point,hotel_project,unknown,,13.176499,32.890827,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00004,فندق لبدة السياحي الخمس,,Point,hotel_project,unknown,الخمس,14.2789568,32.6404567,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00086,فندق ليالي قرطاج,,Point,hotel_project,unknown,,13.175961,32.882137,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00087,فندق ليبيا,,Point,hotel_project,unknown,,13.164703,32.887112,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00088,فندق مادي الحسان,,Point,hotel_project,unknown,,13.178001,32.89735,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00007,فندق نجوم غدامس,,Point,hotel_project,unknown,غدامس,9.492831,30.130453,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00089,فندق نور الثريا,,Point,hotel_project,unknown,,13.1723844,32.889447,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00090,فندق واستراحة جادو,,Point,hotel_project,unknown,,12.087632,31.939745,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00091,فندق ومطعم الامتياز,,Point,hotel_project,unknown,,15.0992917,32.3543987,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00092,فندق ومطعم النزهة,,Point,hotel_project,unknown,,12.749993,32.757835,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00093,فندق يفرن,,Point,hotel_project,unknown,,12.518972,32.059994,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00021,طرابلس للشقق الفندقية,,Point,hotel_project,unknown,طرابلس,13.203281,32.878799,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-TRI-00001,نزل طرابلس الحديث,,Point,review_required,unknown,طرابلس,13.177862,32.898422,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-NAT-00094,فندق الثريا السياحي,,Point,hotel_project,unknown,,21.53529,29.039751,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00095,فندق الأنيس,,Point,hotel_project,unknown,,20.058214,32.118919,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00096,فندق البتراء,,Point,hotel_project,unknown,,13.1737584,32.8885353,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00097,فندق البردي,,Point,hotel_project,unknown,,25.087399,31.753349,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00098,فندق التلال,,Point,hotel_project,unknown,,21.7161393,32.7598593,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00099,فندق الجبل,,Point,hotel_project,unknown,,15.095,32.371113,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00100,فندق الجبل الأخضر,,Point,hotel_project,unknown,,22.640741,32.763145,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00101,فندق الجغبوب,,Point,hotel_project,unknown,,23.97657,32.080338,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00102,فندق الجلاء,,Point,hotel_project,unknown,,23.972946,32.080662,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00103,فندق الحديقة,,Point,hotel_project,unknown,,13.179292,32.891087,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00104,فندق الحمام السياحي,,Point,hotel_project,unknown,,12.393222,32.734657,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00105,فندق الحياة,,Point,hotel_project,unknown,,13.176502,32.888706,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00022,فندق الخان الطرابلسي,,Point,hotel_project,unknown,طرابلس,13.176539,32.898502,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00106,فندق الخليل السياحي,,Point,hotel_project,unknown,,12.485278,32.796391,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00107,فندق الدوحة,,Point,hotel_project,unknown,,13.171915,32.892017,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00108,فندق الرحاب,,Point,hotel_project,unknown,,13.1732458,32.8932035,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00109,فندق الزهر,,Point,hotel_project,unknown,,13.179107,32.896046,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00110,فندق الزيتونة,,Point,hotel_project,unknown,,14.0148,31.756525,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00111,فندق السرايا,,Point,hotel_project,unknown,,13.170639,32.888588,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00112,فندق السلام,,Point,hotel_project,unknown,,12.098621,32.924809,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00113,فندق السهم,,Point,hotel_project,unknown,,13.17269,32.892365,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00114,فندق السياحي,,Point,hotel_project,unknown,,13.174013,32.891529,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00023,فندق ابن الرومي,,Point,hotel_project,unknown,طرابلس,13.1721514,32.8931095,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00115,فندق اجدابيا,,Point,hotel_project,unknown,,20.22291,30.7570668,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00005,فندق الحياة,,Point,hotel_project,unknown,مصراتة,15.0838204,32.3740231,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00116,فندق الصحراوي,,Point,hotel_project,unknown,,12.0825,32.933887,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00006,فندق الصناعية مصراتة,,Point,hotel_project,unknown,مصراتة,15.090645,32.373493,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00117,فندق العوينات,,Point,hotel_project,unknown,,10.566841,25.780432,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00118,فندق الفردوس,,Point,hotel_project,unknown,,22.637859,32.767277,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00119,فندق الفضيل,,Point,hotel_project,unknown,,20.049503,32.09071,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00120,فندق الفضيل رأس لانوف,,Point,hotel_project,unknown,,18.420834,30.589722,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00121,فندق الفلك,,Point,hotel_project,unknown,,23.976387,32.080894,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00122,فندق القرضابية,,Point,hotel_project,unknown,,16.622601,31.211296,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00123,فندق القلعة,,Point,hotel_project,unknown,,14.432752,27.033804,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00124,فندق الكاظم,,Point,hotel_project,unknown,,14.428192,27.037169,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00125,فندق الكرومة,,Point,hotel_project,unknown,,11.892359,31.864727,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00126,فندق المبروك,,Point,hotel_project,unknown,,13.1723998,32.8928497,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00005,فندق المتوسط الخمس,,Point,hotel_project,unknown,الخمس,14.26402,32.652981,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00005,فندق المدينة,,Point,hotel_project,unknown,البيضاء,21.785664,32.767067,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00127,فندق المدينة,,Point,hotel_project,unknown,,16.588852,31.206654,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00128,فندق المدينة,,Point,hotel_project,unknown,,12.726944,32.753613,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00129,فندق المدينة,,Point,hotel_project,unknown,,20.22394,30.757528,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00130,فندق المرج السياحي,,Point,hotel_project,unknown,,20.836086,32.49588,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00131,فندق المرقب,,Point,hotel_project,unknown,,14.252599,32.642418,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00132,فندق المسيرة,,Point,hotel_project,unknown,,23.968134,32.073318,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00133,فندق المشكاة,,Point,hotel_project,unknown,,13.179752,32.891571,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00134,فندق المغرب العربي,,Point,hotel_project,unknown,,12.456023,32.7966499,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00135,فندق المنار,,Point,hotel_project,unknown,,13.1729455,32.891778,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00136,فندق النادي الليبي,,Point,hotel_project,unknown,,20.077461,32.136784,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00137,فندق النخلة السياحي,,Point,hotel_project,unknown,,13.196285,32.890724,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00138,فندق النخيل - مغلق,,Point,hotel_project,unknown,,15.938066,29.123215,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00139,فندق النوران,,Point,hotel_project,unknown,,20.075045,32.127663,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00140,فندق الهاروج,,Point,hotel_project,unknown,,15.950174,29.130289,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00141,فندق الهاني/ نزل,,Point,hotel_project,unknown,,13.1722217,32.8923289,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00142,فندق الهناء,,Point,hotel_project,unknown,,13.175102,32.8919643,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00143,فندق الهنشيري,,Point,hotel_project,unknown,,13.177876,32.897038,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00144,فندق الهيشة,,Point,hotel_project,unknown,,15.258722,31.453671,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00145,فندق الواحات,,Point,hotel_project,unknown,,13.168939,32.887352,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00146,فندق الوادي,,Point,hotel_project,unknown,,13.1806374,32.888648,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00147,فندق الياسمين,,Point,hotel_project,unknown,,13.1842,32.887569,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00148,فندق الياقوتة,,Point,hotel_project,unknown,,13.176236,32.8912782,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00149,فندق الياقوتة,,Point,hotel_project,unknown,,20.180843,32.249558,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00150,فندق اليقين,,Point,hotel_project,unknown,,13.1723093,32.8919209,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00151,فندق اليمامة,,Point,hotel_project,unknown,,13.1743183,32.8923215,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00152,فندق اوزو,,Point,hotel_project,unknown,,20.058546,32.101406,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00153,فندق ايلاف,,Point,hotel_project,unknown,,22.643206,32.770733,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00154,فندق أبراج المدينة,,Point,hotel_project,unknown,,13.1730256,32.8898923,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00155,فندق أجنحة قرطاج,,Point,hotel_project,unknown,,13.177596,32.890884,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00156,فندق أفريقيا,,Point,hotel_project,unknown,,14.438138,27.02809,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00157,فندق أفريقيا,,Point,hotel_project,unknown,,20.221619,30.758682,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00158,فندق أكاكوس,,Point,hotel_project,unknown,,10.182599,24.958349,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00159,فندق أكاكوس,,Point,hotel_project,unknown,,13.1914822,32.8923315,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00160,فندق أمال ليبيا,,Point,hotel_project,unknown,,20.23069,30.780668,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00161,فندق أوال,,Point,hotel_project,unknown,,13.172092,32.888886,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00162,فندق أوجلة السياحي,,Point,hotel_project,unknown,,21.292574,29.168243,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00163,فندق أويا,,Point,hotel_project,unknown,,13.1772685,32.8892155,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00164,فندق باب البحر,,Point,hotel_project,unknown,,13.165054,32.894688,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00165,فندق براك,,Point,hotel_project,unknown,,14.286153,27.53722,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00166,فندق برينيتشي,,Point,hotel_project,unknown,,20.059597,32.113476,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00167,فندق بلازما,,Point,hotel_project,unknown,,13.163955,32.88559,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00168,فندق بن يدر,,Point,hotel_project,unknown,,9.493617,30.130571,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00169,فندق بنت السيد,,Point,hotel_project,unknown,,13.175939,32.900146,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BEN-00001,فندق بنغازي,,Point,hotel_project,unknown,بنغازي,20.076538,32.13039,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00170,فندق بودلغوسة,,Point,hotel_project,unknown,,13.178583,32.894421,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00171,فندق تابكت,,Point,hotel_project,unknown,,15.084174,32.373779,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00172,فندق توباكتس,,Point,hotel_project,unknown,,13.16473,32.88607,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00173,فندق تيبستي,,Point,hotel_project,unknown,,20.068462,32.11058,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00174,فندق جاكرتا,,Point,hotel_project,unknown,,13.1866518,32.8887047,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00175,فندق جالو السياحي,,Point,hotel_project,unknown,,21.545835,29.032753,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00176,فندق جرمة السياحي,,Point,hotel_project,unknown,,13.068645,26.526762,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00177,فندق جليانة,,Point,hotel_project,unknown,,20.045986,32.084225,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00178,فندق جي دبليو ماريوت,,Point,hotel_project,unknown,,13.164378,32.89019,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00179,فندق دار جرمة,,Point,hotel_project,unknown,,13.06489,26.524315,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00180,فندق دبي,,Point,hotel_project,unknown,,13.1738857,32.892092,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00181,فندق دوجال السياحي,,Point,hotel_project,unknown,,20.06068,32.122803,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00182,فندق ديار الهناء,,Point,hotel_project,unknown,,15.0961666,32.3739393,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00183,فندق رواسي,,Point,hotel_project,unknown,,15.915834,29.117167,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00184,فندق رويال,,Point,hotel_project,unknown,,13.1852943,32.8882638,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00185,فندق ريباس,,Point,hotel_project,unknown,,13.206903,32.897114,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00186,فندق ريكسوس,,Point,hotel_project,unknown,,13.193808,32.859509,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZLI-00002,فندق زليتن,,Point,hotel_project,unknown,زليتن,14.559985,32.475266,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00187,فندق زميت,,Point,hotel_project,unknown,,13.175705,32.899632,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00188,فندق زهرة البطنان,,Point,hotel_project,unknown,,23.976208,32.083584,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00189,فندق زهرة الخليج,,Point,hotel_project,unknown,,13.171682,32.893105,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-ZUW-00004,فندق زوارة,,Point,hotel_project,unknown,زوارة,12.099145,32.92326,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00190,فندق زين,,Point,hotel_project,unknown,,23.941698,32.0741,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00191,فندق سرايا الليبو,,Point,hotel_project,unknown,,13.179074,32.893341,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00192,فندق سفاري 2,,Point,hotel_project,unknown,,15.04225,32.351223,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00006,فندق سفيروس الخمس,,Point,hotel_project,unknown,الخمس,14.250641,32.644596,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00193,فندق شروق افريقيا,,Point,hotel_project,unknown,,13.182145,32.890488,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00194,فندق صحارى ليبيا,,Point,hotel_project,unknown,,13.162944,32.885353,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00195,فندق ضيافة ونيس,,Point,hotel_project,unknown,,13.173898,32.674606,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00196,فندق طليطلة,,Point,hotel_project,unknown,,13.203761,32.892212,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00197,فندق عمر الخيام,,Point,hotel_project,unknown,,20.056427,32.117958,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00198,فندق غابة الكشافة,,Point,hotel_project,unknown,,12.315046,31.951923,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00199,فندق غريان السياحي,,Point,hotel_project,unknown,,13.030462,32.172661,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00200,فندق فيلا النوران,,Point,hotel_project,unknown,,20.208708,32.107414,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00201,فندق قاطش,,Point,hotel_project,unknown,,22.62608,32.771667,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00202,فندق قرطاج,,Point,hotel_project,unknown,,13.179976,32.889549,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00006,فندق قصر البيضاء,,Point,hotel_project,unknown,البيضاء,21.743811,32.762676,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00203,فندق قصر الظهرة,,Point,hotel_project,unknown,,13.193874,32.888687,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00204,فندق قصر الفضيل,,Point,hotel_project,unknown,,20.050541,32.093102,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00205,فندق قصر الفيروز,,Point,hotel_project,unknown,,13.194599,32.853401,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00206,فندق قصر النيل,,Point,hotel_project,unknown,,20.056025,32.119003,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00207,فندق قصر الواحة,,Point,hotel_project,unknown,,13.18655,32.888051,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00208,فندق قصور الضيافة,,Point,hotel_project,unknown,,16.573889,31.193056,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00209,فندق قصي للشقق المفروشة,,Point,hotel_project,unknown,,23.971741,32.085758,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SAB-00004,فندق قمر صبراتة,,Point,hotel_project,unknown,صبراتة,12.486354,32.792946,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00210,فندق قورينا,,Point,hotel_project,unknown,,13.1935561,32.8909951,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00211,فندق كونتنتال,,Point,hotel_project,unknown,,13.176499,32.890827,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00007,فندق لؤلؤة درنة,,Point,hotel_project,unknown,الخمس,22.654371,32.754139,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00212,فندق ليالي قرطاج,,Point,hotel_project,unknown,,13.175961,32.882137,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00213,فندق ليبيا,,Point,hotel_project,unknown,,13.164703,32.887112,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00214,فندق مادي الحسان,,Point,hotel_project,unknown,,13.178001,32.89735,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00215,فندق ميزران,,Point,hotel_project,unknown,,13.1789116,32.8946926,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-GHA-00008,فندق نجوم غدامس,,Point,hotel_project,unknown,غدامس,9.492831,30.130453,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00216,فندق هارون,,Point,hotel_project,unknown,,13.1916399,32.8905375,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00217,فندق واستراحة جادو,,Point,hotel_project,unknown,,12.087632,31.939745,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00218,فندق ومطعم النزهة,,Point,hotel_project,unknown,,12.749993,32.757835,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00219,فندق يفرن,,Point,hotel_project,unknown,,12.518972,32.059994,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00220,الفندق السياحي,,Point,hotel_project,unknown,,15.091389,32.375557,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00221,الفندق القديم,,Point,hotel_project,unknown,,20.891672,32.500561,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00222,الفندق الكبير,,Point,hotel_project,unknown,,20.060369,32.114559,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00001,القرية السياحية قاريونس,,Point,review_required,unknown,,20.037174,32.060608,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TRI-00024,طرابلس للشقق الفندقية,,Point,hotel_project,unknown,طرابلس,13.203281,32.878799,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00002,نزل المدينة,,Point,review_required,unknown,,10.176822,24.964026,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00003,نزل أمباي,,Point,review_required,unknown,,13.521364,26.079599,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00004,نزل بيروت,,Point,review_required,unknown,,13.1749888,32.8918641,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-TRI-00002,نزل طرابلس الحديث,,Point,review_required,unknown,طرابلس,13.177862,32.898422,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00005,نزل مرحبا,,Point,review_required,unknown,,13.1935209,32.8919963,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-NAT-00223,الماسة للشقق الفندقية,,Point,hotel_project,unknown,,15.0987266,32.3568465,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SEB-00002,فندق فزان,,Point,hotel_project,unknown,سبها,14.42566,27.04336,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00224,فندق المختار,,Point,hotel_project,unknown,,13.1715279,32.8921534,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00225,فندق قصر كاباو,,Point,hotel_project,unknown,,11.32759,31.845286,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-DER-00001,فندق الأفريقي,,Point,hotel_project,unknown,درنة,22.664324,32.75209,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00025,فندق قرطاج السياحى1,,Point,hotel_project,unknown,طرابلس,13.175625,32.887489,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00026,فندق السارة,,Point,hotel_project,unknown,طرابلس,13.173311,32.887004,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00027,فندق الفصول الاربعة 3,,Point,hotel_project,unknown,طرابلس,13.17393,32.889742,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00028,فندق أوال,,Point,hotel_project,unknown,طرابلس,13.1718143,32.8878386,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00029,فندق المتوسط,,Point,hotel_project,unknown,طرابلس,13.184983,32.8892822,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00030,فندق صحراء ليبيا,,Point,hotel_project,unknown,طرابلس,13.163043,32.88532,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00031,فندق قرطاج السياحى2,,Point,hotel_project,unknown,طرابلس,13.1752506,32.8874305,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00032,فندق التوفيق 2,,Point,hotel_project,unknown,طرابلس,13.193296,32.891418,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00033,فندق النعيم,,Point,hotel_project,unknown,طرابلس,13.246278,32.890007,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00034,فندق الخليج,,Point,hotel_project,unknown,طرابلس,13.171983,32.892891,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00035,فندق نور الثرياء,,Point,hotel_project,unknown,طرابلس,13.172246,32.889765,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-TRI-00003,نزل كيلو بتراء,,Point,review_required,unknown,طرابلس,13.192921,32.8921349,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TRI-00036,فندق الفصول الاربعة 2,,Point,hotel_project,unknown,طرابلس,13.1739232,32.891864,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00037,فندق السفير,,Point,hotel_project,unknown,طرابلس,13.172765,32.8912822,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00038,فندق الثريا,,Point,hotel_project,unknown,طرابلس,13.172944,32.891377,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00039,فندق الشاطئ الذهبى,,Point,hotel_project,unknown,طرابلس,13.1625194,32.8863583,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00040,فندق الصافي,,Point,hotel_project,unknown,طرابلس,13.1740356,32.8893511,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00041,فندق بوابة أفريقيا,,Point,hotel_project,unknown,طرابلس,13.1763095,32.8885476,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00042,فندق الفصول الابعة 1,,Point,hotel_project,unknown,طرابلس,13.173452,32.890845,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00043,فندق سفارى,,Point,hotel_project,unknown,طرابلس,13.1711906,32.8931445,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00044,فندق زهرة الخليج,,Point,hotel_project,unknown,طرابلس,13.1720159,32.8931501,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00045,فندق السلاسل الذهبية,,Point,hotel_project,unknown,طرابلس,13.16218,32.885084,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00046,فندق بلازما,,Point,hotel_project,unknown,طرابلس,13.163823,32.885736,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00047,فندق النورس,,Point,hotel_project,unknown,طرابلس,13.1926886,32.8912918,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00048,فندق التوفيق 1,,Point,hotel_project,unknown,طرابلس,13.1928056,32.8911975,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00049,فندق اليسر,,Point,hotel_project,unknown,طرابلس,13.193206,32.892294,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00050,فندق الخيام العربية,,Point,hotel_project,unknown,طرابلس,13.1940483,32.890968,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00051,فندق توباكتس,,Point,hotel_project,unknown,طرابلس,13.164341,32.886222,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00052,فندق الرشيد,,Point,hotel_project,unknown,طرابلس,13.170814,32.889625,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00226,فندق أسامة,,Point,hotel_project,unknown,,13.175385,32.8876882,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00053,فندق الزيتونة,,Point,hotel_project,unknown,طرابلس,13.1920339,32.8906349,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00054,فندق ريباس,,Point,hotel_project,unknown,طرابلس,13.207075,32.897097,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00055,فندق طليطلة,,Point,hotel_project,unknown,طرابلس,13.200475,32.892241,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-SAB-00005,فندق صبراتة,,Point,hotel_project,unknown,صبراتة,13.1740441,32.8922209,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00227,فندق تاج,,Point,hotel_project,unknown,,13.1731117,32.8922796,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00228,فندق الكندي,,Point,hotel_project,unknown,,13.17305,32.8923765,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00229,فندق أضواء قرطاج,,Point,hotel_project,unknown,,13.1726163,32.8922677,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00230,فندق البشير,,Point,hotel_project,unknown,,13.1716706,32.891744,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00231,فندق الهاني,,Point,hotel_project,unknown,,13.1714031,32.8926098,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00232,فندق القنصل فندق القنصل,,Point,hotel_project,unknown,,13.1713689,32.8923043,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00233,فندق الجبل الاخضر,,Point,hotel_project,unknown,,13.1726831,32.894653,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00006,الفتح,,Point,review_required,unknown,,13.1735296,32.8942127,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TRI-00056,فندق قصر ليبيا,,Point,hotel_project,unknown,طرابلس,13.1942321,32.8931426,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00007,Hotel Haroun 2,,Point,review_required,unknown,,13.1937607,32.8927146,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-NAT-00234,فندق الغزالة,,Point,hotel_project,unknown,,13.1896398,32.8931827,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00057,فندق كيان طرابلس,,Point,hotel_project,unknown,طرابلس,13.1947142,32.8905545,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00235,فندق الديوان,,Point,hotel_project,unknown,,13.1774381,32.8878424,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00236,فندق نيو ستي New City hotel,,Point,hotel_project,unknown,,13.176395,32.8879439,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00237,فندق الدالي,,Point,hotel_project,unknown,,13.1747996,32.8879432,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00008,زهرة الشمس,,Point,review_required,unknown,,13.1762696,32.8896902,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TRI-00058,فندق ضيافة طرابلس,,Point,hotel_project,unknown,طرابلس,13.176255,32.8898242,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00238,فندق الفتح شارع الرشيد,,Point,hotel_project,unknown,,13.17786,32.88945,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00239,فندق بلخير,,Point,hotel_project,unknown,,13.1773658,32.8907858,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00240,فندق السرايا,,Point,hotel_project,unknown,,13.175881,32.8916346,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00241,فندق الوحدة العربية,,Point,hotel_project,unknown,,13.1748524,32.8917214,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00242,فندق الكنوز الذهبية,,Point,hotel_project,unknown,,13.1743796,32.8913495,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00243,فندق الوطن العربي,,Point,hotel_project,unknown,,13.1740089,32.8937076,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00244,فندق الشراع,,Point,hotel_project,unknown,,13.1729514,32.8921902,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-TRI-00004,الحبايب,,Point,review_required,unknown,طرابلس,15.084422,32.371804,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-MIS-00007,هوم بلازا_للشقق الفندقية,,Point,hotel_project,unknown,مصراتة,15.0775397,32.3753528,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00245,فندق الرحال,,Point,hotel_project,unknown,,15.0822656,32.3806625,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00008,الوادي 2 للشقق الفندقية,,Point,hotel_project,unknown,مصراتة,15.0871152,32.387677,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00246,الأطلس للشقق الفندقية,,Point,hotel_project,unknown,,15.0868561,32.3879622,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-MIS-00009,الفاخر للشقق الفندقية,,Point,hotel_project,unknown,مصراتة,15.1081937,32.3852196,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00247,فندق بيزا السياحي,,Point,hotel_project,unknown,,15.115341,32.4023253,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00248,فندق قوز التيك,,Point,hotel_project,unknown,,15.083572,32.3802154,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00249,النجمة الذهبية لشقق الفندقية,,Point,hotel_project,unknown,,15.0937323,32.3757126,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-TRI-00005,الفخامه للشقق المفروشه,,Point,review_required,unknown,طرابلس,12.4785845,32.7942777,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00009,اوس لشقق المفروشه,,Point,review_required,unknown,,12.4773899,32.7951705,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-SAB-00006,فندق الساحل,,Point,hotel_project,unknown,صبراتة,12.4346148,32.8018422,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00250,فندق الشاطىء الذهبي,,Point,hotel_project,unknown,,13.163174,32.885551,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00251,الجوهرة للشقق الفندقية,,Point,hotel_project,unknown,,20.22385,30.7575,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00252,فندق اجدابيا السياحي,,Point,hotel_project,unknown,,20.223,30.75706,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00253,فندق الراحة اجدابيا,,Point,hotel_project,unknown,,20.1988509669461,30.760416719515,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00254,عمار او المجد للشقق الفندقية,,Point,hotel_project,unknown,,20.221715,30.760196,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00255,فندق مزايا اجدابيا,,Point,hotel_project,unknown,,20.221715,30.760196,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00256,فندق التوجان السياحي,,Point,hotel_project,unknown,,20.233088,30.761777,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00004,نزل وقاعة الهاشمي,,Point,hotel_project,unknown,طبرق,23.93866044,32.0344745,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00010,نزل وقاعة زهرة الخليج,,Point,review_required,unknown,,23.96997993,32.02618042,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-HOT-TOB-00005,الهضبة للشقق الفندقية,,Point,hotel_project,unknown,طبرق,23.97583881,32.07927549,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00006,الامان للشقق الفندقية,,Point,hotel_project,unknown,طبرق,23.93943131,32.07351395,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TOB-00007,نزل ماريا MARIYA,,Point,hotel_project,unknown,طبرق,23.99551,32.03109,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00257,فندق الرابطة,,Point,hotel_project,unknown,,13.0145,32.16981,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00258,فندق سمر قند,,Point,hotel_project,unknown,,13.0097734,32.1679087,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00259,فندق غريان السياحي,,Point,hotel_project,unknown,,13.03046,32.17267,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00260,فندق روايال غريان,,Point,hotel_project,unknown,,13.023293,32.177538,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00261,فندق حوش بوغنوش,,Point,hotel_project,unknown,,13.0105374,32.2111368,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00262,فندق اللؤلؤة السياحي البضاء,,Point,hotel_project,unknown,,21.73757862,32.75895966,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00007,فندق لؤلؤة الخليج البيضاء,,Point,hotel_project,unknown,البيضاء,21.77686134,32.76512885,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00008,فندق قصر البيضاء,,Point,hotel_project,unknown,البيضاء,21.73796,32.75924,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00009,فندق القاهرة البيضاء,,Point,hotel_project,unknown,البيضاء,21.74344,32.76199,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00010,النوران_ للشقق_الفندقية,,Point,hotel_project,unknown,البيضاء,21.7382384,32.7686802,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00011,مكة للشقق الفندقية البيضاء,,Point,hotel_project,unknown,البيضاء,21.7528908,32.7602407,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00012,برج المدينة للشقق الفندقية البيضاء,,Point,hotel_project,unknown,البيضاء,21.7881184,32.7696656,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00013,فندق اية الجبل البيضاء,,Point,hotel_project,unknown,البيضاء,21.754817,32.763852,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00263,فندق برقة السياحي,,Point,hotel_project,unknown,,21.7567193,32.765152,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00014,فندق افريقيا البيضاء,,Point,hotel_project,unknown,البيضاء,21.7549977,32.7641295,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00015,فندق برونتو البيضاء,,Point,hotel_project,unknown,البيضاء,21.771261,32.770748,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00264,عمارة الجوري للشقق الفندقية,,Point,hotel_project,unknown,,21.75352,32.75384,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00016,فندق العنود البيضاء,,Point,hotel_project,unknown,البيضاء,21.75517,32.76448,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00017,فندق الفردوس للشقق الفندقية,,Point,hotel_project,unknown,البيضاء,21.7475863,32.7642035,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00018,فندق قصر الضيافة للشقق الفندقية البيضاء,,Point,hotel_project,unknown,البيضاء,21.729493,32.762472,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00019,فندق مرحبا للخدمات السياحية,,Point,hotel_project,unknown,البيضاء,21.788587,32.7682006,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-BAY-00020,عمارة اضواء ليبيا للشقق الفندقية البيضاء,,Point,hotel_project,unknown,البيضاء,21.79002669,32.7703838,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-TRI-00059,فندق الاندلس السياحي الخمس,,Point,hotel_project,unknown,طرابلس,14.2777119,32.6326796,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00008,فندق المرقب السياحي الخمس,,Point,hotel_project,unknown,الخمس,14.2824311,32.6297785,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00009,فندق التوليب السياحي الخمس,,Point,hotel_project,unknown,الخمس,14.2492876,32.6508044,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00010,فندق بيت سباب الخمس,,Point,hotel_project,unknown,الخمس,14.24756,32.648142,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-KHO-00011,فندق الاخوة السياحي الخمس,,Point,hotel_project,unknown,الخمس,14.2631514,32.6551959,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-HOT-NAT-00265,فندق الليلك,,Point,hotel_project,unknown,,13.196468,32.89431,insufficient_data,insufficient_data,low,integrated,exact_match
+LY-INV-REV-NAT-00011,أبوزاهية,,Polygon,review_required,unknown,,16.759613760354203,31.20977124850486,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00012,زعفران,,Polygon,review_required,unknown,,16.420665173062382,31.21410490336048,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00013,القبيبة,,Polygon,review_required,unknown,,16.331143520851423,31.221423834441296,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00014,سلطان,,Polygon,review_required,unknown,,17.145257468918494,31.12147864513516,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00015,النقازة,,Polygon,review_required,unknown,,14.108146057897788,32.715036179280155,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00016,غنيمة,,Polygon,review_required,unknown,,14.066932941067567,32.72090492442937,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00017,فلفول,,Polygon,review_required,unknown,,14.081778122001458,32.7181114615485,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00018,فيللا سيلين,,Polygon,review_required,unknown,,14.157454205063498,32.708990785671915,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00019,قريم,,Polygon,review_required,unknown,,14.007110174880932,32.72937151229321,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00020,الطويبية,,Polygon,review_required,unknown,,14.438333106385581,32.54413894759187,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00021,هانيبال,,Polygon,review_required,unknown,,14.280520830728557,32.64374598090033,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00022,ماتشوك,,Polygon,review_required,unknown,,12.029082514898557,32.970431433352445,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00023,ملليتة-2,,Polygon,review_required,unknown,,12.345143747255534,32.821983703744664,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00024,ملليتة-1,,Polygon,review_required,unknown,,12.33226541820556,32.812647011447275,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00025,تلليل-غرب,,Polygon,review_required,unknown,,12.36107622234059,32.81923806554237,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00026,تلليل-شرق,,Polygon,review_required,unknown,,12.393534338270824,32.81071003351727,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00027,الجرف,,Polygon,review_required,unknown,,12.408989590542564,32.81416351240384,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00028,صرمان,,Polygon,review_required,unknown,,12.566598396740007,32.79397495882846,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00029,المطرد,,Polygon,review_required,unknown,,12.620938626243747,32.79247716248719,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00030,السياحية,,Polygon,review_required,unknown,,13.00438847694046,32.83560914657707,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00031,أوياء,,Polygon,review_required,unknown,,13.01710707902823,32.83948137556684,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00032,جنزور-1,,Polygon,review_required,unknown,,13.001189741416988,32.83501847846853,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00033,جنزور-2,,Polygon,review_required,unknown,,12.99758601815993,32.834192172672225,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00034,جنزور-3,,Polygon,review_required,unknown,,12.994218413580137,32.83276142970508,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00035,سيدي عبدالجليل-1,,Polygon,review_required,unknown,,13.036020201326398,32.847717631492195,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00036,سيدي عبدالجليل-2,,Polygon,review_required,unknown,,13.034519738820352,32.847372052331956,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00037,سيدي عبدالجليل-3,,Polygon,review_required,unknown,,13.03333662889013,32.84692227626642,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00038,سيدي عبدالجليل-4,,Polygon,review_required,unknown,,13.030821305687168,32.84616012756176,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00039,سيدي عبدالجليل-5,,Polygon,review_required,unknown,,13.028258413812289,32.84501484849956,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00040,سيدي عبدالجليل-6,,Polygon,review_required,unknown,,13.026221137868012,32.84383892396949,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-TRI-00006,محطة غرب طرابلس,,Polygon,review_required,unknown,طرابلس,12.983909655474285,32.83029434476458,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00041,مصيف جربة,,Polygon,review_required,unknown,,12.99014128046232,32.83154878634413,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00042,مصيف جنزور-1,,Polygon,review_required,unknown,,13.024687258631443,32.84222411457873,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00043,مصيف جنزور-2,,Polygon,review_required,unknown,,13.022323368583525,32.84102525020911,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00044,الغيران,,Polygon,review_required,unknown,,13.052798072084972,32.847198983904,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00045,حي الأندلس-2,,Polygon,review_required,unknown,,13.145649407491256,32.88081229759653,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00046,حي الأندلس-1,,Polygon,review_required,unknown,,13.150047452570963,32.8807533298437,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00047,الدلفين,,Polygon,review_required,unknown,,13.275305255880856,32.90886096454372,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00048,النادي البحري,,Polygon,review_required,unknown,,13.236903445166345,32.90981569216583,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00049,شاطيء النخيل,,Polygon,review_required,unknown,,13.242939938812267,32.90964114108908,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00050,الدخلة الشمالية,,Polygon,review_required,unknown,,13.389955653787695,32.89458174952074,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00051,الدخلة الجنوبية,,Polygon,review_required,unknown,,13.393326093971941,32.8913209146466,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00052,الفوار,,Polygon,review_required,unknown,,13.313186205163218,32.89897625771524,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00053,الجولف,,Polygon,review_required,unknown,,13.325810723925114,32.895248513872886,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00054,الحرية,,Polygon,review_required,unknown,,13.342192461448713,32.895167435069865,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00055,المنارة,,Polygon,review_required,unknown,,13.383067614528072,32.89584885598162,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00056,الحميدية,,Polygon,review_required,unknown,,13.399700905781636,32.88261229119096,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00057,مصيف تاجوراء,,Polygon,review_required,unknown,,13.414295442499387,32.87043502486065,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00058,النصر,,Polygon,review_required,unknown,,13.442089086324705,32.85642755276085,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00059,الأندلسي,,Polygon,review_required,unknown,,13.361880934424926,32.8952160534566,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00060,النشيع,,Polygon,review_required,unknown,,13.552050014803093,32.81099994716297,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00061,غوط الرمان,,Polygon,review_required,unknown,,13.502958052476654,32.83049562371544,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00062,السليسلة,,Polygon,review_required,unknown,,13.572903018161572,32.80081817141942,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00063,العطايا,,Polygon,review_required,unknown,,13.699979024331538,32.78973470042477,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00064,الكراوة-3,,Polygon,review_required,unknown,,13.721030440048619,32.79112969599457,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00065,الكراوة-1,,Polygon,review_required,unknown,,13.80703585804262,32.78399256146536,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00066,الكراوة-2,,Polygon,review_required,unknown,,13.778859997310306,32.787080120217716,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00067,سيدي عمير-1,,Polygon,review_required,unknown,,13.83543006199671,32.784326919273354,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00068,سيدي عمير-2,,Polygon,review_required,unknown,,13.892323223451767,32.77730329067146,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00069,المثلث الرملي,,Polygon,review_required,unknown,,13.743310229986347,32.78581836340371,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00070,الشعاب,,Polygon,review_required,unknown,,13.212294581425027,32.89986986873307,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00071,أبيار السبابيل,,Polygon,review_required,unknown,,13.46293454726204,32.84741544131704,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00072,ملليتة 3,,Polygon,review_required,unknown,,12.318179760127988,32.82895522208573,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00073,البريقاء,,Polygon,review_required,unknown,,11.629658240330318,33.10775073899853,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00074,أبوكشفة,,Polygon,review_required,unknown,,11.943872607804643,33.02022124441152,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00075,مصيف بياض,,Polygon,review_required,unknown,,24.025136942194006,32.0435977997222,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00076,البردي-1,,Polygon,review_required,unknown,,25.098962571727043,31.748425026659824,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00077,العزلية,,Polygon,review_required,unknown,,22.236610525901124,32.87365048067605,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00078,دليس,,Polygon,review_required,unknown,,22.516674155922995,32.80437364516255,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00079,راس التين,,Polygon,review_required,unknown,,23.09335284081055,32.39839458885065,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00080,الاترون,,Polygon,review_required,unknown,,22.3255953599621,32.8716176247045,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00081,قاريونس,,Polygon,review_required,unknown,,20.043748396515248,32.07133620330694,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00082,عين زيانة,,Polygon,review_required,unknown,,20.156993715731012,32.22854576329419,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00083,سيدي خليفة,,Polygon,review_required,unknown,,20.200601466841086,32.27086828209296,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00084,أبوترابة,,Polygon,review_required,unknown,,20.76477280972611,32.62012785820169,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00085,مصيف طلميثة,,Polygon,review_required,unknown,,20.953451658313643,32.715029495723705,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00086,طلميثة,,Polygon,review_required,unknown,,20.91822357477168,32.692482798199855,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00087,جرجارامه,,Polygon,review_required,unknown,,21.442553125819213,32.79960210739601,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00088,مويلح,,Polygon,review_required,unknown,,21.53543716181097,32.85545657801803,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00089,الحمامة,,Polygon,review_required,unknown,,21.630709187055004,32.924570055488644,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00090,أبوشيبة,,Polygon,review_required,unknown,,19.951056269499503,31.97464666533441,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00091,المريسة,,Polygon,review_required,unknown,,19.94592832839663,31.95550957036334,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00092,قمينس,,Polygon,review_required,unknown,,19.955248465592813,31.6701320221024,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00093,جاروتة,,Polygon,review_required,unknown,,19.932287046169275,31.812666345622088,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00094,الساحل الغربي,,Polygon,review_required,unknown,,20.13753794625039,31.258641263157497,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00095,حبيب,,Polygon,review_required,unknown,,20.020730428905193,31.454218056038908,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00096,كركورة,,Polygon,review_required,unknown,,19.965135605334897,31.61397039413881,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00097,الحليسي,,Polygon,review_required,unknown,,19.95391985743614,31.923746350816593,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00098,سيدي علي,,Polygon,review_required,unknown,,20.25845303698701,32.31872681951895,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00099,دريانة,,Polygon,review_required,unknown,,20.320037493159205,32.36699875746424,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00100,مبنى,,Polygon,review_required,unknown,,20.40519547048334,32.43312462983648,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00101,البرسس,,Polygon,review_required,unknown,,20.468685195805502,32.47522228725181,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00102,العقورية,,Polygon,review_required,unknown,,20.576156955810937,32.539021993625035,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00103,بابا طلميثة,,Polygon,review_required,unknown,,20.93747280792345,32.70721814406297,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00104,عقلة,,Polygon,review_required,unknown,,21.345011104581893,32.77360670637857,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00105,نوطة سوسة,,Polygon,review_required,unknown,,21.819190676313927,32.909990646563024,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00106,مهبول,,Polygon,review_required,unknown,,22.144327823787343,32.926153964255064,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00107,بركة ناصر,,Polygon,review_required,unknown,,22.17380236667438,32.89383221308204,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00108,كرسة,,Polygon,review_required,unknown,,22.423612550463734,32.848881251666256,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00109,الناقة,,Polygon,review_required,unknown,,22.558490519215546,32.80055894935414,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00110,بومسافر,,Polygon,review_required,unknown,,22.567701802026523,32.787615225725666,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00111,الشاطيء,,Polygon,review_required,unknown,,22.61384158442725,32.77305498430495,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-OPP-NAT-00001,فرصة استثمارية تحتاج تعريف – 0638,,Polygon,investment_opportunity,unknown,,22.924982915619662,32.666034016553475,insufficient_data,insufficient_data,low,review_required,new_feature
+LY-INV-REV-NAT-00112,المقرون,,Polygon,review_required,unknown,,20.082090550137803,31.3456561053692,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00113,البردي-3,,Polygon,review_required,unknown,,25.11640073619706,31.71643617407465,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00114,البردي-2,,Polygon,review_required,unknown,,25.041810893766556,31.856826746169443,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00115,عزاز,,Polygon,review_required,unknown,,24.99470112268509,31.953789093645582,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00116,الجدي,,Polygon,review_required,unknown,,24.932313665732224,31.96971318588655,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00117,شويمر,,Polygon,review_required,unknown,,24.85336074757961,31.983817057438443,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00118,مرسة دفنة,,Polygon,review_required,unknown,,24.769970955702423,32.007771077896955,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00119,بئرالأشهب,,Polygon,review_required,unknown,,24.612591398495777,31.999305070625763,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00120,قابس,,MultiPolygon,review_required,unknown,,24.57452293874068,31.98769973679603,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00121,كمبوت,,Polygon,review_required,unknown,,24.532444432722684,31.976517483464626,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00122,العقلة,,Polygon,review_required,unknown,,24.26145420196206,32.00223246146027,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00123,العودا,,Polygon,review_required,unknown,,23.880382320272695,32.119584099425666,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00124,المرصص,,Polygon,review_required,unknown,,23.706914064358816,32.161449103522365,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00125,بلخاتر,,Polygon,review_required,unknown,,23.530625762409784,32.16975367570067,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00126,عين الغزال,,MultiPolygon,review_required,unknown,,23.26801217535817,32.198296239361824,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00127,التميمي,,Polygon,review_required,unknown,,23.227628642988748,32.24076012373116,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00128,بالقردان,,MultiPolygon,review_required,unknown,,23.14558336606351,32.304894855014815,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00129,راس التين-2,,Polygon,review_required,unknown,,23.112896326854358,32.51119453771878,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00130,خبطة,,Polygon,review_required,unknown,,23.036497348026383,32.63864769808797,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00131,بوهريشيمة,,Polygon,review_required,unknown,,20.171544418313307,31.11280167596828,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00132,الزويتينة الشمالي,,Polygon,review_required,unknown,,20.137567449968383,30.997459710760687,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00133,الزويتينة الجنوبي,,Polygon,review_required,unknown,,20.101639714421356,30.934159724335824,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00134,مرير قابس,,Polygon,review_required,unknown,,19.914163301581077,30.667000807796075,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00135,بشر,,Polygon,review_required,unknown,,19.393654191339863,30.32452957746827,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00136,العقيلة,,Polygon,review_required,unknown,,19.161169840522785,30.268152530321192,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00137,راس لانوف,,MultiPolygon,review_required,unknown,,18.485610748081726,30.551920619719336,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00138,السدرة,,Polygon,review_required,unknown,,18.437854813424583,30.58097612501049,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00139,بن جواد,,Polygon,review_required,unknown,,18.197869771988138,30.773122181201035,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00140,عسيلة الغربي,,Polygon,review_required,unknown,,17.442653039331095,31.041371194828436,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00141,هراوة,,Polygon,review_required,unknown,,17.292271036000624,31.08642761093855,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00142,السميدة,,Polygon,review_required,unknown,,15.350277512211468,32.041109777421774,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00143,قصر أحمد,,Polygon,review_required,unknown,,15.334328305632102,32.18987767483263,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00144,الدافنية,,Polygon,review_required,unknown,,14.970994289420355,32.417743264528426,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00145,العويجة,,Polygon,review_required,unknown,,17.86347639998603,30.910906353457566,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00146,أم الخنفس,,Polygon,review_required,unknown,,17.74290707883225,30.93730300578312,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00147,عسيلة الشرقي,,Polygon,review_required,unknown,,17.509869687741677,31.00865903056148,insufficient_data,insufficient_data,low,review_required,exact_match
+LY-INV-REV-NAT-00148,القرضابية,,Polygon,review_required,unknown,,16.850777957196776,31.187341834299247,insufficient_data,insufficient_data,low,review_required,exact_match
