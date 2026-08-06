@@ -226,6 +226,7 @@ const list = document.getElementById('layerList');
 for (const cfg of layers) {
   const card = document.createElement('div');
   card.className = 'layer-card';
+  card.setAttribute('role', 'listitem');
 
   card.innerHTML = `
     <div class="layer-icon" style="background:${cfg.color}">
@@ -234,6 +235,7 @@ for (const cfg of layers) {
     <div>
       <div class="layer-name">${cfg.name}</div>
       <div class="layer-meta">${cfg.meta}</div>
+      <span class="layer-count-badge" data-layer-count="${cfg.id}">—</span>
     </div>
     <label class="switch">
       <input type="checkbox" data-id="${cfg.id}">
@@ -669,6 +671,7 @@ function cleanPopup(
     ['الجاهزية الاستثمارية الأولية', properties.investment_readiness_level],
     ['الأولوية الأولية', properties.preliminary_priority_level],
     ['حالة الترخيص', properties.license_status],
+    ['حالة البيانات', firstValue(properties.data_review_status, properties.data_quality_status)],
     [
       'الاتصال',
       firstValue(
@@ -777,6 +780,10 @@ function cleanPopup(
             <div class="popup-investment-warning">
               التقييم أولي ويعكس اكتمال البيانات المتاحة، ولا يمثل اعتمادًا قانونيًا أو قرارًا استثماريًا.
             </div>
+          ` : ''}
+
+          ${['review_required', 'pending_review'].includes(properties.data_review_status) ? `
+            <div class="popup-data-review-warning">هذا السجل يحتاج مراجعة وتحققًا مؤسسيًا قبل الاعتماد.</div>
           ` : ''}
 
           ${details}
@@ -1457,6 +1464,9 @@ async function toggleLayer(cfg, on) {
         visibleCount: count
       };
 
+      const countBadge = document.querySelector(`[data-layer-count="${cfg.id}"]`);
+      if (countBadge) countBadge.textContent = count.toLocaleString('ar');
+
       compositeGroup.addTo(map);
 
       if (cfg.id === 'heritage') {
@@ -1524,6 +1534,9 @@ async function toggleLayer(cfg, on) {
         count,
         visibleCount: count
       };
+
+      const countBadge = document.querySelector(`[data-layer-count="${cfg.id}"]`);
+      if (countBadge) countBadge.textContent = count.toLocaleString('ar');
 
       cluster.addTo(map);
       fit(cluster);
@@ -1733,11 +1746,16 @@ function search() {
     });
 
     if (found) {
-      if (found.__atlasContainer && typeof found.getLatLng === 'function') {
-        if (found.__atlasContainer.hasLayer(found)) {
-          found.__atlasContainer.removeLayer(found);
-        }
-        found.addTo(map);
+      if (
+        found.__atlasContainer &&
+        typeof found.getLatLng === 'function' &&
+        typeof found.__atlasContainer.zoomToShowLayer === 'function'
+      ) {
+        found.__atlasContainer.zoomToShowLayer(
+          found,
+          () => found.openPopup()
+        );
+        return;
       }
 
       if (typeof found.getLatLng === 'function') {

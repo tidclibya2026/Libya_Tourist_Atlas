@@ -1,0 +1,6 @@
+﻿layer_id,layer_file,feature_count,verified_count,high_quality_count,medium_quality_count,low_quality_count,review_required_count,with_coordinates_count,with_description_count,with_contact_count,with_images_count,with_local_images_count,with_license_status_count,completeness_average,duplicate_candidates_count
+hotels,data/layers/hotels.geojson,572,567,161,406,5,5,572,572,160,239,235,0,63.85,176
+tripoliRestaurants,data/layers/tripoli-restaurants.geojson,75,65,0,65,10,10,75,75,75,71,0,0,43.8,3
+tripoliCafes,data/layers/tripoli-cafes.geojson,404,1,0,1,403,403,404,311,1,6,0,0,24.22,0
+resorts,data/layers/tourist-villages-resorts.geojson,262,162,0,81,181,100,262,262,122,89,0,0,32.43,2
+investment,data/layers/tourism-investment-projects.geojson,673,515,0,0,673,158,673,673,0,274,0,0,0,107
