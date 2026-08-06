@@ -1,0 +1,6 @@
+﻿layer_id,features_before,features_after,true_duplicates_merged,false_positives_closed,records_linked_as_related,review_items_before,review_items_resolved,review_items_remaining,p1_remaining,p2_remaining,p3_remaining,field_conflicts,temporary_names,completeness_before,completeness_after,local_images,cleaning_status
+hotels,572,528,44,0,616,5,0,5,0,5,0,0,0,63.85,63.85,230,complete_with_open_reviews
+tripoliRestaurants,75,75,0,0,3,10,0,10,0,9,1,0,0,43.8,43.8,0,complete_with_open_reviews
+tripoliCafes,404,404,0,0,3,403,0,403,0,128,275,0,0,24.22,24.22,0,complete_with_open_reviews
+resorts,262,262,0,0,133,100,0,100,0,100,0,0,0,32.43,32.43,0,complete_with_open_reviews
+investment,673,615,58,0,739,158,1,157,157,0,0,0,1,0,0,0,complete_with_open_reviews

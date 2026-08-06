@@ -4,7 +4,15 @@
   "metadata": {
     "source": "data/incoming/tripoli-restaurants.kml",
     "generated_at": "2026-08-06",
-    "feature_count": 75
+    "feature_count": 75,
+    "cleaning_phase": "national_data_cleaning_phase_1",
+    "cleaning_date": "2026-08-06",
+    "features_before": 75,
+    "features_after": 75,
+    "true_duplicates_merged": 0,
+    "records_retained": 75,
+    "review_items_remaining": 10,
+    "methodology_version": "1.0.0"
   },
   "features": [
     {
@@ -33,7 +41,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 1,
-        "description_ar": "المدينة/العنوان: شارع الظل\nالهاتف: 091-0045344",
+        "description_ar": "المدينة/العنوان: شارع الظل الهاتف: 091-0045344",
         "description_en": null,
         "phone": "091-0045344",
         "email": null,
@@ -75,7 +83,20 @@
         "original_coordinates": [
           13.2116343,
           32.8777699
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00001",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +132,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 2,
-        "description_ar": "المدينة/العنوان: قرب من شارع المدار\nالخدمات المتوفرة: للوجبات الشعبية مع التنوع الخاص بالمطابخ التركية والمغربية والمشاوي و المقبلات والعصائر الطبيعة\nالهاتف: 092-1119290",
+        "description_ar": "المدينة/العنوان: قرب من شارع المدار الخدمات المتوفرة: للوجبات الشعبية مع التنوع الخاص بالمطابخ التركية والمغربية والمشاوي و المقبلات والعصائر الطبيعة الهاتف: 092-1119290",
         "description_en": null,
         "phone": "092-1119290",
         "email": null,
@@ -153,7 +174,20 @@
         "original_coordinates": [
           13.202387,
           32.868285
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00002",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +223,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 3,
-        "description_ar": "المدينة/العنوان: شارع بن عاشور\nالهاتف: 091-2120651",
+        "description_ar": "المدينة/العنوان: شارع بن عاشور الهاتف: 091-2120651",
         "description_en": null,
         "phone": "091-2120651",
         "email": null,
@@ -231,7 +265,20 @@
         "original_coordinates": [
           13.207352,
           32.880459
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00003",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +314,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 4,
-        "description_ar": "المدينة/العنوان: حي الأندلس\nالخدمات المتوفرة: مطعم فتوش يقدم أشهى وألذ المأكولات اللبنانية والشامية, مع تجربة ثقافية تجمع بين عراقة المطبخ الشامي\nالهاتف: 091-1990800",
+        "description_ar": "المدينة/العنوان: حي الأندلس الخدمات المتوفرة: مطعم فتوش يقدم أشهى وألذ المأكولات اللبنانية والشامية, مع تجربة ثقافية تجمع بين عراقة المطبخ الشامي الهاتف: 091-1990800",
         "description_en": null,
         "phone": "091-1990800",
         "email": null,
@@ -309,7 +356,20 @@
         "original_coordinates": [
           13.12428,
           32.872808
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00004",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +447,20 @@
         "original_coordinates": [
           13.19369,
           32.872239
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00005",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -465,7 +538,20 @@
         "original_coordinates": [
           13.195834,
           32.890244
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00006",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +587,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 7,
-        "description_ar": "المدينة/العنوان: طرابلس\nالهاتف: 091-2123106",
+        "description_ar": "المدينة/العنوان: طرابلس الهاتف: 091-2123106",
         "description_en": null,
         "phone": "091-2123106",
         "email": null,
@@ -543,7 +629,20 @@
         "original_coordinates": [
           13.175679,
           32.900152
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00007",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +678,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 8,
-        "description_ar": "المدينة/العنوان: طريق المشتل\nالخدمات المتوفرة: للمأكولات الليبية والعالمية\nالهاتف: 092-7504444",
+        "description_ar": "المدينة/العنوان: طريق المشتل الخدمات المتوفرة: للمأكولات الليبية والعالمية الهاتف: 092-7504444",
         "description_en": null,
         "phone": "092-7504444",
         "email": null,
@@ -621,7 +720,20 @@
         "original_coordinates": [
           13.209478,
           32.886332
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00008",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -699,7 +811,20 @@
         "original_coordinates": [
           13.1784986,
           32.8746942
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00009",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -777,7 +902,20 @@
         "original_coordinates": [
           13.1896814,
           32.8830634
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00010",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +993,20 @@
         "original_coordinates": [
           13.2032859,
           32.8758394
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00011",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -933,7 +1084,20 @@
         "original_coordinates": [
           13.1850769,
           32.8826957
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00012",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -969,7 +1133,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 13,
-        "description_ar": "المدينة/العنوان: طرابلس شارع الجمهورية\nالهاتف: 091-8806005",
+        "description_ar": "المدينة/العنوان: طرابلس شارع الجمهورية الهاتف: 091-8806005",
         "description_en": null,
         "phone": "091-8806005",
         "email": null,
@@ -1011,7 +1175,20 @@
         "original_coordinates": [
           13.1836263,
           32.8804167
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00013",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1089,7 +1266,20 @@
         "original_coordinates": [
           13.1843559,
           32.8928658
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00014",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1315,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 15,
-        "description_ar": "النوع: متنوع\nالهاتف: 0928479090\nالعنوان: النوفليين",
+        "description_ar": "النوع: متنوع الهاتف: 0928479090 العنوان: النوفليين",
         "description_en": null,
         "phone": "0928479090",
         "email": null,
@@ -1167,7 +1357,20 @@
         "original_coordinates": [
           13.209313,
           32.887671
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00015",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1448,20 @@
         "original_coordinates": [
           13.197489,
           32.890678
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00016",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1497,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 17,
-        "description_ar": "النوع:\nالهاتف: 091-6649090\nالعنوان: طرابلس – النوفليين\nالخدمات المتوفرة: مطعم يقدم أطباق اللحم المشوي",
+        "description_ar": "النوع: الهاتف: 091-6649090 العنوان: طرابلس – النوفليين الخدمات المتوفرة: مطعم يقدم أطباق اللحم المشوي",
         "description_en": null,
         "phone": "091-6649090",
         "email": null,
@@ -1323,7 +1539,20 @@
         "original_coordinates": [
           13.209232,
           32.892975
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00017",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1588,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 18,
-        "description_ar": "النوع:\nالهاتف: 0918002803\nالعنوان: زاوية الدهماني\nالخدمات المتوفرة: مطعم باكستاني اصيل في ليبيا ، يقدم أفضل طعم للمأكولات الباكستانية بطابع باكستاني كامل",
+        "description_ar": "النوع: الهاتف: 0918002803 العنوان: زاوية الدهماني الخدمات المتوفرة: مطعم باكستاني اصيل في ليبيا ، يقدم أفضل طعم للمأكولات الباكستانية بطابع باكستاني كامل",
         "description_en": null,
         "phone": "0918002803",
         "email": null,
@@ -1401,7 +1630,20 @@
         "original_coordinates": [
           13.203065,
           32.894209
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00018",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1721,20 @@
         "original_coordinates": [
           13.20639,
           32.875296
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00019",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1557,7 +1812,20 @@
         "original_coordinates": [
           13.188201,
           32.889291
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00020",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1635,7 +1903,20 @@
         "original_coordinates": [
           13.191188,
           32.885937
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00021",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1952,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 22,
-        "description_ar": "الهاتف: 094-2111011\nالنوع: إفطار إيطالي\nالعنوان: الظهرة - مقابل دار الافتاء",
+        "description_ar": "الهاتف: 094-2111011 النوع: إفطار إيطالي العنوان: الظهرة - مقابل دار الافتاء",
         "description_en": null,
         "phone": "094-2111011",
         "email": null,
@@ -1713,7 +1994,20 @@
         "original_coordinates": [
           13.190645,
           32.886498
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00022",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1749,7 +2043,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 23,
-        "description_ar": "الهاتف: 091-4647777\nالنوع: مأكولات ليبية و شعبية\nالعنوان: النوفليين شارع الكهربائيه",
+        "description_ar": "الهاتف: 091-4647777 النوع: مأكولات ليبية و شعبية العنوان: النوفليين شارع الكهربائيه",
         "description_en": null,
         "phone": "091-4647777",
         "email": null,
@@ -1791,7 +2085,20 @@
         "original_coordinates": [
           13.216568,
           32.883433
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00023",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1827,7 +2134,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 24,
-        "description_ar": "الهاتف: 091-4272119\nالنوع: مأكولات تركية\nالعنوان: باب بن غشير",
+        "description_ar": "الهاتف: 091-4272119 النوع: مأكولات تركية العنوان: باب بن غشير",
         "description_en": null,
         "phone": "091-4272119",
         "email": null,
@@ -1869,7 +2176,20 @@
         "original_coordinates": [
           13.196109,
           32.86964
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00024",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1905,7 +2225,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 25,
-        "description_ar": "الهاتف: 094-5961010\nالنوع: للمأكـولات الليبيـة التقليديـة\nالعنوان: بن عاشور",
+        "description_ar": "الهاتف: 094-5961010 النوع: للمأكـولات الليبيـة التقليديـة العنوان: بن عاشور",
         "description_en": null,
         "phone": "094-5961010",
         "email": null,
@@ -1947,7 +2267,20 @@
         "original_coordinates": [
           13.199141,
           32.881308
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00025",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -1983,7 +2316,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 26,
-        "description_ar": "الهاتف: 091-2110912\nالنوع: مأكولات متنوعه\nالعنوان: شارع الجمهورية",
+        "description_ar": "الهاتف: 091-2110912 النوع: مأكولات متنوعه العنوان: شارع الجمهورية",
         "description_en": null,
         "phone": "091-2110912",
         "email": null,
@@ -2025,7 +2358,20 @@
         "original_coordinates": [
           13.195024,
           32.886101
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00026",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2407,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 27,
-        "description_ar": "النوع: مقهى و مطعم\nالعنوان: طريق الشط\nالهاتف: 091-0388833",
+        "description_ar": "النوع: مقهى و مطعم العنوان: طريق الشط الهاتف: 091-0388833",
         "description_en": null,
         "phone": "091-0388833",
         "email": null,
@@ -2103,7 +2449,20 @@
         "original_coordinates": [
           13.23441,
           32.898353
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00027",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2139,7 +2498,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 28,
-        "description_ar": "النوع: مطعم طعام سريع\nالعنوان: النوفليين\nالهاتف: 094-4274967",
+        "description_ar": "النوع: مطعم طعام سريع العنوان: النوفليين الهاتف: 094-4274967",
         "description_en": null,
         "phone": "094-4274967",
         "email": null,
@@ -2181,7 +2540,20 @@
         "original_coordinates": [
           13.209228,
           32.893162
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00028",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2259,7 +2631,20 @@
         "original_coordinates": [
           13.197367,
           32.887588
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00029",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2338,7 +2723,31 @@
         "original_coordinates": [
           13.212874,
           32.894429
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00030",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -2416,7 +2825,20 @@
         "original_coordinates": [
           13.212127,
           32.893137
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00031",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2452,7 +2874,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 32,
-        "description_ar": "النوع:\nالعنوان: شارع خالد بن الوليد ، الظهرة\nالهاتف: 091-8890888",
+        "description_ar": "النوع: العنوان: شارع خالد بن الوليد ، الظهرة الهاتف: 091-8890888",
         "description_en": null,
         "phone": "091-8890888",
         "email": null,
@@ -2495,7 +2917,31 @@
         "original_coordinates": [
           13.193842,
           32.887823
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00032",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -2574,7 +3020,31 @@
         "original_coordinates": [
           13.202001,
           32.863291
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00033",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -2610,7 +3080,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 34,
-        "description_ar": "النوع:\nالعنوان: الظهره شارع الإلكترونات\nالهاتف: 091-0750606",
+        "description_ar": "النوع: العنوان: الظهره شارع الإلكترونات الهاتف: 091-0750606",
         "description_en": null,
         "phone": "091-0750606",
         "email": null,
@@ -2652,7 +3122,20 @@
         "original_coordinates": [
           13.197205,
           32.892275
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00034",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2688,7 +3171,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 35,
-        "description_ar": "النوع: مأكولات متنوعة\nالعنوان: طرابلس تاجوراء\nالهاتف: 092-7502525",
+        "description_ar": "النوع: مأكولات متنوعة العنوان: طرابلس تاجوراء الهاتف: 092-7502525",
         "description_en": null,
         "phone": "092-7502525",
         "email": null,
@@ -2731,7 +3214,31 @@
         "original_coordinates": [
           13.206833,
           32.8728884
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00035",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -2809,7 +3316,20 @@
         "original_coordinates": [
           13.165638,
           32.887482
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00036",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2845,7 +3365,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 37,
-        "description_ar": "النوع: مأكولات متنوعة\nالعنوان: طرابلس حي الاندلس\nالهاتف: 091-1926666",
+        "description_ar": "النوع: مأكولات متنوعة العنوان: طرابلس حي الاندلس الهاتف: 091-1926666",
         "description_en": null,
         "phone": "091-1926666",
         "email": null,
@@ -2887,7 +3407,20 @@
         "original_coordinates": [
           13.134065,
           32.875599
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00037",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -2923,7 +3456,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 38,
-        "description_ar": "النوع: مطعم يقدم افضل الاطباق الفرنسية والإيطالية\nالعنوان: طرابلس شارع الجرابة\nالهاتف: 094-0207010",
+        "description_ar": "النوع: مطعم يقدم افضل الاطباق الفرنسية والإيطالية العنوان: طرابلس شارع الجرابة الهاتف: 094-0207010",
         "description_en": null,
         "phone": "094-0207010",
         "email": null,
@@ -2965,7 +3498,20 @@
         "original_coordinates": [
           13.205742,
           32.880592
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00038",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3001,7 +3547,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 39,
-        "description_ar": "النوع: بيتزا ومعجنات\nالعنوان: طرابلس\nزناته\nالهاتف: 091-9092201",
+        "description_ar": "النوع: بيتزا ومعجنات العنوان: طرابلس زناته الهاتف: 091-9092201",
         "description_en": null,
         "phone": "091-9092201",
         "email": null,
@@ -3043,7 +3589,20 @@
         "original_coordinates": [
           13.231752,
           32.862614
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00039",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3079,7 +3638,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 40,
-        "description_ar": "النوع: مأكولات متنوعه\nالعنوان: طرابلس جامع الصقع\nالهاتف: 091-5884444",
+        "description_ar": "النوع: مأكولات متنوعه العنوان: طرابلس جامع الصقع الهاتف: 091-5884444",
         "description_en": null,
         "phone": "091-5884444",
         "email": null,
@@ -3121,7 +3680,20 @@
         "original_coordinates": [
           13.216041,
           32.882389
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00040",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3157,7 +3729,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 41,
-        "description_ar": "النوع:\nالعنوان: طرابلس النوفليين\nوسائل الاتصال:\nالهاتف: 092-1828222",
+        "description_ar": "النوع: العنوان: طرابلس النوفليين وسائل الاتصال: الهاتف: 092-1828222",
         "description_en": null,
         "phone": "092-1828222",
         "email": null,
@@ -3199,7 +3771,20 @@
         "original_coordinates": [
           13.216434,
           32.890299
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00041",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3235,7 +3820,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 42,
-        "description_ar": "النوع: مأكولات متنوعة\nالعنوان: طرابلس فرع الظهرة\nالهاتف: 0914441116",
+        "description_ar": "النوع: مأكولات متنوعة العنوان: طرابلس فرع الظهرة الهاتف: 0914441116",
         "description_en": null,
         "phone": "0914441116",
         "email": null,
@@ -3277,7 +3862,20 @@
         "original_coordinates": [
           13.197686,
           32.891206
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00042",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3313,7 +3911,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 43,
-        "description_ar": "النوع: بيتزا ومعجنات\nالعنوان: طرابلس\nالهاتف: 091-8487691",
+        "description_ar": "النوع: بيتزا ومعجنات العنوان: طرابلس الهاتف: 091-8487691",
         "description_en": null,
         "phone": "091-8487691",
         "email": null,
@@ -3355,7 +3953,20 @@
         "original_coordinates": [
           13.197493,
           32.877181
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00043",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3391,7 +4002,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 44,
-        "description_ar": "النوع: مأكولات بحرية\nالعنوان: طرابلس طريق الشط\nالهاتف: 0910332000",
+        "description_ar": "النوع: مأكولات بحرية العنوان: طرابلس طريق الشط الهاتف: 0910332000",
         "description_en": null,
         "phone": "0910332000",
         "email": null,
@@ -3433,7 +4044,20 @@
         "original_coordinates": [
           13.143308,
           32.878142
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00044",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3511,7 +4135,20 @@
         "original_coordinates": [
           13.16477,
           32.886567
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00045",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3589,7 +4226,20 @@
         "original_coordinates": [
           13.211462,
           32.891481
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00046",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3625,7 +4275,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 47,
-        "description_ar": "النوع: مطعم وجبات سريعة\nالعنوان:\nالهاتف: 091-1939250",
+        "description_ar": "النوع: مطعم وجبات سريعة العنوان: الهاتف: 091-1939250",
         "description_en": null,
         "phone": "091-1939250",
         "email": null,
@@ -3668,7 +4318,30 @@
         "original_coordinates": [
           13.200491,
           32.892862
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00047",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "license_review"
+        ],
+        "review_priority": "P3",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -3704,7 +4377,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 48,
-        "description_ar": "النوع: للوجبات السريعة\nالعنوان: بن عاشور الجرابه\nالهاتف: 091-0404689",
+        "description_ar": "النوع: للوجبات السريعة العنوان: بن عاشور الجرابه الهاتف: 091-0404689",
         "description_en": null,
         "phone": "091-0404689",
         "email": null,
@@ -3746,7 +4419,20 @@
         "original_coordinates": [
           13.176297,
           32.891514
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00048",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3782,7 +4468,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 49,
-        "description_ar": "النوع: مقهى\nالعنوان: ميدان الشهداء\nالهاتف: 091-0402500",
+        "description_ar": "النوع: مقهى العنوان: ميدان الشهداء الهاتف: 091-0402500",
         "description_en": null,
         "phone": "091-0402500",
         "email": null,
@@ -3825,7 +4511,31 @@
         "original_coordinates": [
           13.180983,
           32.894226
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00049",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +4571,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 50,
-        "description_ar": "النوع: مطعم بيتزا\nالعنوان: تاجوراء\nالهاتف: 091-8806005",
+        "description_ar": "النوع: مطعم بيتزا العنوان: تاجوراء الهاتف: 091-8806005",
         "description_en": null,
         "phone": "091-8806005",
         "email": null,
@@ -3903,7 +4613,20 @@
         "original_coordinates": [
           13.183626,
           32.880417
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00050",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -3939,7 +4662,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 51,
-        "description_ar": "النوع: وجبات سريعة\nالعنوان: السياحية\nالهاتف: 0948021818",
+        "description_ar": "النوع: وجبات سريعة العنوان: السياحية الهاتف: 0948021818",
         "description_en": null,
         "phone": "0948021818",
         "email": null,
@@ -3981,7 +4704,20 @@
         "original_coordinates": [
           13.181427,
           32.894281
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00051",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4017,7 +4753,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 52,
-        "description_ar": "النوع: وجبات سريعة\nالعنوان: نادي الظهرة، شارع الالكترونات طرابلس\nالهاتف: 0923432010",
+        "description_ar": "النوع: وجبات سريعة العنوان: نادي الظهرة، شارع الالكترونات طرابلس الهاتف: 0923432010",
         "description_en": null,
         "phone": "0923432010",
         "email": null,
@@ -4059,7 +4795,20 @@
         "original_coordinates": [
           13.197512,
           32.891594
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00052",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4095,7 +4844,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 53,
-        "description_ar": "النوع: أكل تركي\nالعنوان: طرابلس\nالهاتف: 0911711482",
+        "description_ar": "النوع: أكل تركي العنوان: طرابلس الهاتف: 0911711482",
         "description_en": null,
         "phone": "0911711482",
         "email": null,
@@ -4137,7 +4886,20 @@
         "original_coordinates": [
           13.17619,
           32.89182
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00053",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4173,7 +4935,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 54,
-        "description_ar": "النوع: مأكولات سريعة\nالعنوان: عمر المختار\nالهاتف: 0924139722",
+        "description_ar": "النوع: مأكولات سريعة العنوان: عمر المختار الهاتف: 0924139722",
         "description_en": null,
         "phone": "0924139722",
         "email": null,
@@ -4215,7 +4977,20 @@
         "original_coordinates": [
           13.165136,
           32.886017
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00054",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +5026,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 55,
-        "description_ar": "النوع: أطباق الإيطالية\nالعنوان: الظهرة\nالهاتف: 093-1997641",
+        "description_ar": "النوع: أطباق الإيطالية العنوان: الظهرة الهاتف: 093-1997641",
         "description_en": null,
         "phone": "093-1997641",
         "email": null,
@@ -4293,7 +5068,20 @@
         "original_coordinates": [
           13.193646,
           32.888671
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00055",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4329,7 +5117,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 56,
-        "description_ar": "النوع: يقدم افضل المشاوي علي الطريقة التركية\nالعنوان: عين زاره المشتل\nالهاتف: 092-6194804",
+        "description_ar": "النوع: يقدم افضل المشاوي علي الطريقة التركية العنوان: عين زاره المشتل الهاتف: 092-6194804",
         "description_en": null,
         "phone": "092-6194804",
         "email": null,
@@ -4371,7 +5159,20 @@
         "original_coordinates": [
           13.188237,
           32.890929
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00056",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4407,7 +5208,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 57,
-        "description_ar": "النوع: وجبات سريعة\nالعنوان: خلة الفرجان طرابلس\nالهاتف: 091-8105154",
+        "description_ar": "النوع: وجبات سريعة العنوان: خلة الفرجان طرابلس الهاتف: 091-8105154",
         "description_en": null,
         "phone": "091-8105154",
         "email": null,
@@ -4449,7 +5250,20 @@
         "original_coordinates": [
           13.187186,
           32.887711
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00057",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4485,7 +5299,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 58,
-        "description_ar": "النوع: مأكولات إيطالية\nالعنوان: طرابلس\nالهاتف: 091-1706565",
+        "description_ar": "النوع: مأكولات إيطالية العنوان: طرابلس الهاتف: 091-1706565",
         "description_en": null,
         "phone": "091-1706565",
         "email": null,
@@ -4527,7 +5341,20 @@
         "original_coordinates": [
           13.181219,
           32.894018
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00058",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4563,7 +5390,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 59,
-        "description_ar": "النوع: وجبات السريعـة\nالعنوان: الصريم\nالهاتف: 0 92-5292761",
+        "description_ar": "النوع: وجبات السريعـة العنوان: الصريم الهاتف: 0 92-5292761",
         "description_en": null,
         "phone": "0 92-5292761",
         "email": null,
@@ -4605,7 +5432,20 @@
         "original_coordinates": [
           13.175281,
           32.885651
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00059",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4641,7 +5481,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 60,
-        "description_ar": "النوع: مأكولات متنوعة\nالعنوان: كورنيش حي الأندلس\nالهاتف: 092-2162016",
+        "description_ar": "النوع: مأكولات متنوعة العنوان: كورنيش حي الأندلس الهاتف: 092-2162016",
         "description_en": null,
         "phone": "092-2162016",
         "email": null,
@@ -4684,7 +5524,31 @@
         "original_coordinates": [
           13.142667,
           32.879215
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00060",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -4720,7 +5584,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 61,
-        "description_ar": "النوع: مأكولات إيطالية\nالعنوان: الظهرة\nالهاتف: 094-5314040",
+        "description_ar": "النوع: مأكولات إيطالية العنوان: الظهرة الهاتف: 094-5314040",
         "description_en": null,
         "phone": "094-5314040",
         "email": null,
@@ -4762,7 +5626,20 @@
         "original_coordinates": [
           13.195502,
           32.890278
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00061",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4798,7 +5675,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 62,
-        "description_ar": "النوع: متخصص بأفخر اصناف الحلويات والعصائر الطبيعة\nالعنوان: الجرابة مول\nالهاتف: 092-4894833",
+        "description_ar": "النوع: متخصص بأفخر اصناف الحلويات والعصائر الطبيعة العنوان: الجرابة مول الهاتف: 092-4894833",
         "description_en": null,
         "phone": "092-4894833",
         "email": null,
@@ -4840,7 +5717,20 @@
         "original_coordinates": [
           13.188322,
           32.890738
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00062",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4876,7 +5766,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 63,
-        "description_ar": "النوع: مأكولات حارة\nالعنوان: شارع عشرين طرابلس\nالهاتف: 092-7455947",
+        "description_ar": "النوع: مأكولات حارة العنوان: شارع عشرين طرابلس الهاتف: 092-7455947",
         "description_en": null,
         "phone": "092-7455947",
         "email": null,
@@ -4918,7 +5808,20 @@
         "original_coordinates": [
           13.206439,
           32.894614
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00063",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -4954,7 +5857,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 64,
-        "description_ar": "النوع: مأكولات سريعة\nالعنوان: النوفلين /شارع مقابل لي شنابو\nالهاتف: 091-5220111",
+        "description_ar": "النوع: مأكولات سريعة العنوان: النوفلين /شارع مقابل لي شنابو الهاتف: 091-5220111",
         "description_en": null,
         "phone": "091-5220111",
         "email": null,
@@ -4996,7 +5899,20 @@
         "original_coordinates": [
           13.212695,
           32.893394
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00064",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5032,7 +5948,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 65,
-        "description_ar": "النوع:\nالعنوان: طرابلس\nالهاتف: 091-3166989",
+        "description_ar": "النوع: العنوان: طرابلس الهاتف: 091-3166989",
         "description_en": null,
         "phone": "091-3166989",
         "email": null,
@@ -5074,7 +5990,20 @@
         "original_coordinates": [
           13.19553,
           32.864032
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00065",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5110,7 +6039,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 66,
-        "description_ar": "النوع: مأكولات متنوعة\nالعنوان: طريق الشط\nالهاتف: 092-8881211",
+        "description_ar": "النوع: مأكولات متنوعة العنوان: طريق الشط الهاتف: 092-8881211",
         "description_en": null,
         "phone": "092-8881211",
         "email": null,
@@ -5153,7 +6082,31 @@
         "original_coordinates": [
           13.207182,
           32.899774
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00066",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -5189,7 +6142,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 67,
-        "description_ar": "النوع: للوجبات السريعة\nالعنوان: طرابلس\nالهاتف: 091-1139535",
+        "description_ar": "النوع: للوجبات السريعة العنوان: طرابلس الهاتف: 091-1139535",
         "description_en": null,
         "phone": "091-1139535",
         "email": null,
@@ -5231,7 +6184,20 @@
         "original_coordinates": [
           13.178499,
           32.874695
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00067",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5309,7 +6275,20 @@
         "original_coordinates": [
           13.186712,
           32.884072
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00068",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5387,7 +6366,20 @@
         "original_coordinates": [
           13.181797,
           32.889634
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00069",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5465,7 +6457,20 @@
         "original_coordinates": [
           13.185077,
           32.882696
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00070",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5501,7 +6506,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 71,
-        "description_ar": "النوع:\nالعنوان: حي الاندلس\nالهاتف: 0924111801",
+        "description_ar": "النوع: العنوان: حي الاندلس الهاتف: 0924111801",
         "description_en": null,
         "phone": "0924111801",
         "email": null,
@@ -5544,7 +6549,31 @@
         "original_coordinates": [
           13.186459,
           32.883961
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00071",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",
@@ -5622,7 +6651,20 @@
         "original_coordinates": [
           13.179431,
           32.884117
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00072",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5700,7 +6742,20 @@
         "original_coordinates": [
           13.183296,
           32.889619
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00073",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5778,7 +6833,20 @@
         "original_coordinates": [
           13.211537,
           32.894756
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00074",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null
       },
       "geometry": {
         "type": "Point",
@@ -5814,7 +6882,7 @@
         "source": "Tripoli restaurants team KML",
         "source_kml": "data/incoming/tripoli-restaurants.kml",
         "source_record_index": 75,
-        "description_ar": "النوع:\nالعنوان: طرابلس زناتة\nالهاتف: 091-4565647",
+        "description_ar": "النوع: العنوان: طرابلس زناتة الهاتف: 091-4565647",
         "description_en": null,
         "phone": "091-4565647",
         "email": null,
@@ -5857,7 +6925,31 @@
         "original_coordinates": [
           13.229538,
           32.868994
-        ]
+        ],
+        "legacy_ids": [],
+        "alias_ids": [],
+        "source_records": [],
+        "source_files": [],
+        "merged_from_ids": [],
+        "related_feature_ids": [],
+        "relationship_types": [],
+        "canonical_id": "LY-FNB-RES-TRI-00075",
+        "merge_status": "not_merged",
+        "merge_confidence": null,
+        "merge_date": null,
+        "merge_method": null,
+        "merge_notes": null,
+        "review_reason_codes": [
+          "classification_review",
+          "license_review"
+        ],
+        "review_priority": "P2",
+        "review_owner_required": "وزارة السياحة أو البلدية أو الجهة المالكة حسب الاختصاص",
+        "review_action_required": "institutional verification of flagged fields",
+        "review_status": "open",
+        "temporary_name_status": "not_temporary",
+        "temporary_name_reason": null,
+        "official_name_required": false
       },
       "geometry": {
         "type": "Point",

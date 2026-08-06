@@ -672,6 +672,7 @@ function cleanPopup(
     ['الأولوية الأولية', properties.preliminary_priority_level],
     ['حالة الترخيص', properties.license_status],
     ['حالة البيانات', firstValue(properties.data_review_status, properties.data_quality_status)],
+    ['المعرف الوطني', firstValue(properties.canonical_id, properties.id)],
     [
       'الاتصال',
       firstValue(
@@ -1723,6 +1724,10 @@ function search() {
         layer.feature?.properties || {};
 
       const searchable = [
+        props.id,
+        props.canonical_id,
+        ...(Array.isArray(props.legacy_ids) ? props.legacy_ids : []),
+        ...(Array.isArray(props.alias_ids) ? props.alias_ids : []),
         props.name_ar,
         props.source_name_ar,
         props.name,
