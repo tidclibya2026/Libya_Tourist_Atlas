@@ -1,0 +1,177 @@
+﻿record_a_id,record_a_name,record_b_id,record_b_name,distance_meters,name_similarity,duplicate_classification,recommended_action,notes
+LY-HOT-000017,فندق فكتوريا,LY-HOT-000536,فندق فكتوريا,7.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000019,فندق الودان,LY-HOT-000492,فندق الودان,49.8,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000036,فندق الأخوة,LY-HOT-000418,فندق الاخوة,6.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000037,فندق الأصالة,LY-HOT-000419,فندق الاصالة,18.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000039,فندق الأندلس,LY-HOT-000420,فندق الاندلس,16.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000048,فندق الحمام السياحي,LY-HOT-000136,فندق الحمام السياحي,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000049,فندق الخان الطرابلسي,LY-HOT-000137,فندق الخان الطرابلسي,5.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000049,فندق الخان الطرابلسي,LY-HOT-000428,فندق الخان الطرابلسي,6.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000050,فندق الخليج,LY-HOT-000375,فندق الخليج,5.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000050,فندق الخليج,LY-HOT-000429,فندق الخليج,1.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000051,فندق الدبلوماسي,LY-HOT-000432,فندق الدبلوماسي,1.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000052,فندق الدوحة,LY-HOT-000433,فندق الدوحة,19.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000053,فندق الديار,LY-HOT-000434,فندق الديار,2.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000054,فندق الرابطة,LY-HOT-000340,فندق الرابطة,3.6,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000055,فندق الرفيع,LY-HOT-000442,فندق الرفيع,12.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000056,فندق الريان,LY-HOT-000444,فندق الريان,3.6,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000057,فندق الزهر,LY-HOT-000139,فندق الزهر,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000059,فندق السرايا,LY-HOT-000141,فندق السرايا,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000060,فندق زوارة,LY-HOT-000142,فندق السلام,0.0,0.353,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000061,فندق السندباد,LY-HOT-000453,فندق السندباد,4.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000062,فندق الشجرة,LY-HOT-000455,فندق الشجرة,14.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000064,فندق الشمس,LY-HOT-000456,فندق الشمس,8.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000065,فندق الصفوة,LY-HOT-000572,فندق الصفوة,16.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000066,فندق الصناعية مصراتة,LY-HOT-000147,فندق الصناعية مصراتة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000067,فندق الصولجان,LY-HOT-000459,فندق الصولجان,1.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000068,فندق العاصمة,LY-HOT-000462,فندق العاصمة,23.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000071,فندق القوس,LY-HOT-000470,فندق القوس,11.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000073,فندق الكرومة,LY-HOT-000156,فندق الكرومة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000075,فندق المتوسط,LY-HOT-000158,فندق المتوسط الخمس,0.0,0.833,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000076,فندق المدينة,LY-HOT-000161,فندق المدينة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000077,فندق المشكاة,LY-HOT-000165,فندق المشكاة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000077,فندق المشكاة,LY-HOT-000482,فندق المشكاة,11.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000078,فندق المنامة,LY-HOT-000483,فندق المنامة,29.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000079,فندق النخلة,LY-HOT-000169,فندق النخلة السياحي,0.0,0.75,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000081,فندق النهر,LY-HOT-000486,فندق النهر,4.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000082,فندق الهنشيري,LY-HOT-000173,فندق الهنشيري,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000083,فندق الهيشة,LY-HOT-000174,فندق الهيشة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000084,فندق الواحات,LY-HOT-000175,فندق الواحات,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000084,فندق الواحات,LY-HOT-000490,فندق الواحات,3.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000085,فندق الياسمين,LY-HOT-000177,فندق الياسمين,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000085,فندق الياسمين,LY-HOT-000493,فندق الياسمينة,88.7,0.957,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000086,فندق أجنحة قرطاج,LY-HOT-000185,فندق أجنحة قرطاج,10.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000088,فندق بنت السيد,LY-HOT-000197,فندق بنت السيد,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000089,فندق بودلغوسة,LY-HOT-000199,فندق بودلغوسة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000090,فندق بيت الأمان,LY-HOT-000509,فندق بيت الامان,33.9,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000091,فندق بيت الشرق,LY-HOT-000510,فندق بيت الشرق,14.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000092,فندق تابكت,LY-HOT-000200,فندق تابكت,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000093,لانكاستر برج الحياة ( ماريوت سابقا),LY-HOT-000569,لانكاستر برج الحياة (ماريوت سابقا),69.6,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000096,فندق ليبوس,LY-HOT-000212,فندق ريباس,0.0,0.5,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000097,فندق ريكسوس,LY-HOT-000213,فندق ريكسوس,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000098,فندق زليتن,LY-HOT-000214,فندق زليتن,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000099,فندق زميت,LY-HOT-000215,فندق زميت,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000100,فندق زوارة,LY-HOT-000217,فندق زوارة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000101,فندق سرايا الليبو,LY-HOT-000219,فندق سرايا الليبو,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000103,فندق سفاري 2,LY-HOT-000220,فندق سفاري 2,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000104,فندق شروق افريقيا,LY-HOT-000222,فندق شروق افريقيا,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000105,فندق ضيافة ونيس,LY-HOT-000224,فندق ضيافة ونيس,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000105,فندق ضيافة ونيس,LY-HOT-000530,فندق ضيافة ونيس,10.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000106,فندق طرابلس الدولي,LY-HOT-000531,فندق طرابلس الدولى,16.7,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000107,فندق طليطلة,LY-HOT-000225,فندق طليطلة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000107,فندق طليطلة,LY-HOT-000532,فندق طليطلة,22.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000108,فندق طيبة,LY-HOT-000533,فندق طيبة,3.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000109,فندق عمير,LY-HOT-000534,فندق عمير,12.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000111,فندق غابة الكشافة,LY-HOT-000227,فندق غابة الكشافة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000112,فندق غريان السياحي,LY-HOT-000228,فندق غريان السياحي,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000112,فندق غريان السياحي,LY-HOT-000342,فندق غريان السياحي,1.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000113,فندق قرطاج,LY-HOT-000231,فندق قرطاج,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000114,فندق قصر الظهرة,LY-HOT-000233,فندق قصر الظهرة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000115,فندق قصر الفيروز,LY-HOT-000235,فندق قصر الفيروز,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000116,فندق قمر صبراتة,LY-HOT-000240,فندق قمر صبراتة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000117,فندق كونتنتال,LY-HOT-000242,فندق كونتنتال,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000119,فندق ليالي قرطاج,LY-HOT-000244,فندق ليالي قرطاج,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000121,فندق مادي الحسان,LY-HOT-000245,فندق مادي الحسان,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000122,فندق واستراحة جادو,LY-HOT-000248,فندق واستراحة جادو,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000124,فندق ومطعم النزهة,LY-HOT-000249,فندق ومطعم النزهة,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000125,فندق يفرن,LY-HOT-000250,فندق يفرن,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000126,طرابلس للشقق الفندقية,LY-HOT-000255,طرابلس للشقق الفندقية,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000127,نزل طرابلس الحديث,LY-HOT-000259,نزل طرابلس الحديث,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000130,فندق البتراء,LY-HOT-000421,فندق البتراء,22.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000137,فندق الخان الطرابلسي,LY-HOT-000428,فندق الخان الطرابلسي,0.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000138,فندق الرحاب,LY-HOT-000439,فندق الرحاب,33.3,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000138,فندق الرحاب,LY-HOT-000440,فندق الرحاب 1,23.9,0.947,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000138,فندق الرحاب,LY-HOT-000441,فندق الرحاب 2,64.4,0.947,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000157,فندق المبروك,LY-HOT-000476,فندق المبروك,22.4,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000165,فندق المشكاة,LY-HOT-000482,فندق المشكاة,11.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000169,فندق النخلة السياحي,LY-HOT-000485,فندق النخلة السياحي,13.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000175,فندق الواحات,LY-HOT-000490,فندق الواحات,3.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000176,فندق الوادي,LY-HOT-000491,فندق الوادي,21.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000177,فندق الياسمين,LY-HOT-000493,فندق الياسمينة,88.7,0.957,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000178,فندق الياقوتة,LY-HOT-000494,فندق الياقوتة,7.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000180,فندق اليقين,LY-HOT-000495,فندق اليقين,83.6,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000181,فندق اليمامة,LY-HOT-000571,فندق اليمامة,3.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000185,فندق أجنحة قرطاج,LY-HOT-000377,فندق اجنحة قرطاج,92.6,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000189,فندق أكاكوس,LY-HOT-000417,فندق اكاكوس,5.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000192,فندق أويا,LY-HOT-000390,فندق أويا,20.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000193,فندق باب البحر,LY-HOT-000502,فندق باب البحر,12.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000196,فندق بلازما,LY-HOT-000506,فندق بلازما,5.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000201,فندق توباكتس,LY-HOT-000514,فندق توباكتس,61.8,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000203,فندق جاكرتا,LY-HOT-000515,فندق جاكرتا,8.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000212,فندق ريباس,LY-HOT-000292,فندق ريباس,16.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000224,فندق ضيافة ونيس,LY-HOT-000530,فندق ضيافة ونيس,10.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000225,فندق طليطلة,LY-HOT-000532,فندق طليطلة,22.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000228,فندق غريان السياحي,LY-HOT-000342,فندق غريان السياحي,1.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000241,فندق قورينا,LY-HOT-000544,فندق قورينا,7.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000247,فندق هارون,LY-HOT-000543,فندق هارون,8.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000263,فندق المختار,LY-HOT-000481,فندق المختار,4.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000266,فندق قرطاج السياحى1,LY-HOT-000271,فندق قرطاج السياحى2,35.5,0.938,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000268,فندق الفصول الاربعة 3,LY-HOT-000467,فندق الفصول الأربعة ( 3 ),12.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000270,فندق المتوسط,LY-HOT-000477,فندق المتوسط,8.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000270,فندق المتوسط,LY-HOT-000478,فندق المتوسط,9.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000270,فندق المتوسط,LY-HOT-000479,فندق المتوسط,8.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000270,فندق المتوسط,LY-HOT-000480,فندق المتوسط,9.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000272,فندق التوفيق 2,LY-HOT-000286,فندق التوفيق 1,51.9,0.909,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000275,فندق الفصول الاربعة 2,LY-HOT-000466,فندق الفصول الأربعة ( 2 ),18.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000276,فندق السفير,LY-HOT-000448,فندق السفير,15.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000278,فندق الشاطئ الذهبى,LY-HOT-000454,فندق الشاطئ الذهبي,9.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000279,فندق الصافي,LY-HOT-000457,فندق الصافي,21.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000281,فندق الفصول الابعة 1,LY-HOT-000465,فندق الفصول الأربعة ( 1 ),8.7,0.897,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000282,فندق سفارى,LY-HOT-000526,فندق سفارى,28.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000283,فندق زهرة الخليج,LY-HOT-000523,فندق زهرة الخليج,55.4,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000284,فندق السلاسل الذهبية,LY-HOT-000450,فندق السلاسل الذهبية,28.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000285,فندق النورس,LY-HOT-000487,فندق النورس,6.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000290,فندق أسامة,LY-HOT-000498,فندق أسامة,60.1,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000290,فندق أسامة,LY-HOT-000499,فندق أسامة,73.3,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000290,فندق أسامة,LY-HOT-000500,فندق أسامة,68.1,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000290,فندق أسامة,LY-HOT-000501,فندق أسامة,46.1,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000291,فندق الزيتونة,LY-HOT-000445,فندق الزيتونة,28.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000294,فندق صبراتة,LY-HOT-000387,فندق صبراتة,2.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000296,فندق الكندي,LY-HOT-000471,فندق الكندي,26.2,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000297,فندق أضواء قرطاج,LY-HOT-000376,فندق أضواء قرطاج,1.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000298,فندق البشير,LY-HOT-000422,فندق البشير,3.4,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000299,فندق الهاني,LY-HOT-000488,فندق الهاني,31.7,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000300,فندق القنصل فندق القنصل,LY-HOT-000469,فندق القنصل,2.6,0.947,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000301,فندق الجبل الاخضر,LY-HOT-000426,فندق الجبل الأخضر,33.9,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000303,فندق قصر ليبيا,LY-HOT-000541,فندق قصر ليبيا,9.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000307,فندق الديوان,LY-HOT-000435,فندق الديوان,3.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000307,فندق الديوان,LY-HOT-000436,فندق الديوان,3.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000307,فندق الديوان,LY-HOT-000437,فندق الديوان,3.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000307,فندق الديوان,LY-HOT-000438,فندق الديوان,3.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000309,فندق الدالي,LY-HOT-000431,فندق الدالي,12.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000310,زهرة الشمس,LY-HOT-000385,فندق زهرة الشمس,0.2,0.8,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000313,فندق بلخير,LY-HOT-000507,فندق بلخير,12.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000314,فندق السرايا,LY-HOT-000446,فندق السرايا,12.8,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000316,فندق الكنوز الذهبية,LY-HOT-000472,فندق الكنوز الدهبية,10.7,0.867,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000317,فندق الشراع,LY-HOT-000570,فندق الشراع,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000332,عمار او المجد للشقق الفندقية,LY-HOT-000333,فندق مزايا اجدابيا,0.0,0.222,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000375,فندق الخليج,LY-HOT-000429,فندق الخليج,6.3,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000435,فندق الديوان,LY-HOT-000436,فندق الديوان,0.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000435,فندق الديوان,LY-HOT-000437,فندق الديوان,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000435,فندق الديوان,LY-HOT-000438,فندق الديوان,0.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000436,فندق الديوان,LY-HOT-000437,فندق الديوان,0.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000436,فندق الديوان,LY-HOT-000438,فندق الديوان,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000437,فندق الديوان,LY-HOT-000438,فندق الديوان,0.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000439,فندق الرحاب,LY-HOT-000440,فندق الرحاب 1,15.5,0.947,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000439,فندق الرحاب,LY-HOT-000441,فندق الرحاب 2,49.6,0.947,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000440,فندق الرحاب 1,LY-HOT-000441,فندق الرحاب 2,43.6,0.9,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000440,فندق الرحاب 1,LY-HOT-000483,فندق المنامة,0.0,0.5,possible_duplicate,retain_and_review,No automatic merge performed
+LY-HOT-000477,فندق المتوسط,LY-HOT-000478,فندق المتوسط,1.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000477,فندق المتوسط,LY-HOT-000479,فندق المتوسط,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000477,فندق المتوسط,LY-HOT-000480,فندق المتوسط,1.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000478,فندق المتوسط,LY-HOT-000479,فندق المتوسط,1.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000478,فندق المتوسط,LY-HOT-000480,فندق المتوسط,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000479,فندق المتوسط,LY-HOT-000480,فندق المتوسط,1.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000498,فندق أسامة,LY-HOT-000499,فندق أسامة,21.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000498,فندق أسامة,LY-HOT-000500,فندق أسامة,8.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000498,فندق أسامة,LY-HOT-000501,فندق أسامة,14.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000499,فندق أسامة,LY-HOT-000500,فندق أسامة,14.9,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000499,فندق أسامة,LY-HOT-000501,فندق أسامة,31.6,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000500,فندق أسامة,LY-HOT-000501,فندق أسامة,22.5,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000527,فندق سما و بلقيس,LY-HOT-000528,فندق سما وبلقيس,44.8,1,review_required,retain_and_review,No automatic merge performed
+LY-HOT-000563,مساكن القدس للشقق الفندقية,LY-HOT-000564,مساكن القدس للشقق الفندقية,2.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000563,مساكن القدس للشقق الفندقية,LY-HOT-000565,مساكن القدس للشقق الفندقية,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000563,مساكن القدس للشقق الفندقية,LY-HOT-000566,مساكن القدس للشقق الفندقية,2.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000564,مساكن القدس للشقق الفندقية,LY-HOT-000565,مساكن القدس للشقق الفندقية,2.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000564,مساكن القدس للشقق الفندقية,LY-HOT-000566,مساكن القدس للشقق الفندقية,0.0,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed
+LY-HOT-000565,مساكن القدس للشقق الفندقية,LY-HOT-000566,مساكن القدس للشقق الفندقية,2.1,1,confirmed_duplicate,merge_after_manual_confirmation,No automatic merge performed

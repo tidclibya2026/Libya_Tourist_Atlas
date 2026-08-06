@@ -34,8 +34,9 @@ const layers = [
 },
   {
     id: 'hotels',
-    name: 'الفنادق',
-    file: 'data/kml/final/hotels.kml',
+    name: 'الفنادق والإيواء',
+    type: 'geojson',
+    url: 'data/layers/hotels.geojson',
     icon: '🏨',
     color: '#dc2626',
     meta: 'منشآت الإيواء السياحي'
@@ -560,7 +561,8 @@ function cleanPopup(
     ],
     [
       'النوع',
-      getFinalRole(properties) === 'primary'
+      properties.subcategory_ar ||
+      (getFinalRole(properties) === 'primary'
         ? 'الموقع الرئيسي'
         : getFinalRole(properties) === 'service'
           ? 'خدمة تابعة'
@@ -570,7 +572,7 @@ function cleanPopup(
               ? 'منطقة أو حدود'
               : getFinalRole(properties) === 'component'
                 ? 'معلم تابع'
-                : ''
+                : '')
     ],
     [
       'حالة الاعتماد',
@@ -583,21 +585,29 @@ function cleanPopup(
     [
       'المدينة أو البلدية',
       firstValue(
+        properties.city_ar,
+        properties.municipality_ar,
         properties.city,
         properties.municipality
       )
     ],
     [
       'العنوان',
-      properties.address
+      firstValue(properties.address_ar, properties.address)
     ],
+    ['النجوم', properties.stars],
+    ['عدد الغرف', properties.rooms],
+    ['عدد الأسرة', properties.beds],
+    ['حالة الترخيص', properties.license_status],
     [
       'الاتصال',
       firstValue(
         properties.phone,
         properties.contact
       )
-    ]
+    ],
+    ['الموقع الإلكتروني', properties.website],
+    ['مصدر البيانات', properties.source]
   ];
 
   const details = detailsData

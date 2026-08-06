@@ -1,0 +1,573 @@
+﻿id,name_ar,facility_type_code,municipality_ar,longitude,latitude,match_status,data_quality_status,completeness_percent,image_status
+LY-HOT-000001,فندق كورنثيا,hotel,طرابلس - طريق الكورنيش,13.170402,32.89692,exact_match,high,100,temporary_google_url
+LY-HOT-000002,فندق بينثابوليس,hotel,شارع العروبة,21.760411,32.76474,exact_match,high,100,temporary_google_url
+LY-HOT-000003,فندق جوهرة الواحة,hostel,غدامس,9.5073294,30.1414398,exact_match,high,100,temporary_google_url
+LY-HOT-000004,فندق تبرس,hostel,كاباو,11.327179,31.777558,exact_match,high,100,temporary_google_url
+LY-HOT-000005,منتجع شحات السياحي,resort,شحات,21.87935,32.82451,exact_match,high,100,temporary_google_url
+LY-HOT-000006,فندق المنارة,hotel,سوسة,21.964767,32.900626,exact_match,high,100,temporary_google_url
+LY-HOT-000007,فندق لؤلؤة الخليج,hostel,"يقع الفندق في منطقة حيوية بالقرب من ""المنفذ/مفوز الحرية"" وبجوار مسجد مكة. البيضاء ليبيا شارع العروبة",21.77744,32.76469,exact_match,high,88,temporary_google_url
+LY-HOT-000008,فندق التلال الوسيطة البيضاء,resort,شارع عمر المختار- الوسيطة,21.733303,32.793224,exact_match,high,100,temporary_google_url
+LY-HOT-000009,العنود للشقق الفندقية,hotel,البيضاء ليبيا شارع طه حسين,21.7417,32.7664,exact_match,high,100,temporary_google_url
+LY-HOT-000010,فندق الثريا,hotel,"مقابل الادارة العامة للادارة المصارف التجارية, Al-Baida, Libya,",21.75694,32.764375,exact_match,high,100,temporary_google_url
+LY-HOT-000011,منتجع الينابيع السياحي,resort,درنة ليبيا,22.19025,32.8815,exact_match,high,100,temporary_google_url
+LY-HOT-000012,فندق برقة,hotel,"Al Bayda, Libya, https://ly.arabplaces.com/jabal-al- مقابل من مصرف تجاري الوطني ادارة المصارف, Al Bayda', Libya akhdar/63682",21.756955,32.765259,exact_match,high,100,temporary_google_url
+LY-HOT-000013,فندق الهديل,hostel,"شارع القهاوي خلف مصرف الجمهورية , Al Bayda', Libya",21.754296,32.763233,exact_match,high,88,no_image
+LY-HOT-000014,فندق بن يدر,hotel,غدامس,9.5108003,30.1222996,exact_match,high,88,temporary_google_url
+LY-HOT-000015,فندق نجوم غدامس,hotel,غدامس,9.3918572,30.1874247,exact_match,high,88,temporary_google_url
+LY-HOT-000016,فندق باب الفتح,hostel,ليبيا غدامس,9.1691024,30.0869095,exact_match,high,75,no_image
+LY-HOT-000017,فندق فكتوريا,hotel,شارع الظهرة الكبيرة,13.194387,32.891366,exact_match,high,75,temporary_google_url
+LY-HOT-000018,فندق الطاووس,hostel,تاجوراء - الساحلي,13.317541,32.873784,exact_match,high,88,temporary_google_url
+LY-HOT-000019,فندق الودان,hotel,شارع سيدي عيسى - الظهرة,13.1908995,32.8926825,exact_match,high,88,temporary_google_url
+LY-HOT-000020,فندق دار السلام ( المسيرة سابقا ),hotel,الشارع الرئيسي: طريق بنغازي (الطريق الساحلي).المدينة: طبرق، ليبيا.Map data ©2026 Terms200 m,23.968133,32.073038,exact_match,high,88,temporary_google_url
+LY-HOT-000021,فندق سان جورج,hotel,"مقابل ميناء طبرق البحري, Tobruk, Libya",23.973432,32.079853,exact_match,high,100,temporary_google_url
+LY-HOT-000022,فندق الحسنين الكبير,hostel,الخمس,14.2378814,32.6436711,exact_match,high,100,temporary_google_url
+LY-HOT-000023,بيوت الشباب,hostel,"شحات - خلف مديرية أمن شحات, Shahhat, Libya شحات",21.863206,32.812983,exact_match,high,88,temporary_google_url
+LY-HOT-000024,فندق بلاغراي السياحي ( التلال سابقا ),hostel,يقع على يمين الطريق المؤدي غرباً للادارة العامة لجامعة عمر المختاربجوار السكن الجامعي، البيضاء ليبيا,21.717713,32.761737,exact_match,high,88,temporary_google_url
+LY-HOT-000025,منتجع ايميليا,resort,يقع المنتجع مباشرة على شاطئ بحر مدينة درنة بالقرب من ملعب درنة البلدي.درنة,22.562225,32.798444,exact_match,high,100,temporary_google_url
+LY-HOT-000026,منتجع وموتيل الأمان,resort,طريق الأبرق شحات,21.894339,32.801784,exact_match,high,100,temporary_google_url
+LY-HOT-000027,بيوت شباب غدامس,review_required,يقع البيت في مدينة غدامس بالقرب من المثلث الحدودي المشترك بين ليبيا وتونس والجزائر,9.2282079,30.2053928,exact_match,medium,88,temporary_google_url
+LY-HOT-000028,نالوت غدامس فندق باب العز,hotel,يقع الفندق في شارع الزفزاف، نالوت، بالقرب من محطة البنزين,10.970617,31.887663,exact_match,high,88,temporary_google_url
+LY-HOT-000029,فندق أبراج الوسطى,hotel,"الشارع الرئيسي مقابل محطة الاقمار الصناعية, Sert, Libya",16.5532364,31.2045712,exact_match,high,88,temporary_google_url
+LY-HOT-000030,فندق طيبة,hostel,سبها حي عبدالكافي.. جزيرة التقويم والقياس,14.4217629,27.0540692,exact_match,high,88,temporary_google_url
+LY-HOT-000031,فندق قصر الفيروز,hostel,حي دمشق، بالقرب من مستشفى الخضراء ومحلات البيت المعمور للمواد المنزلية.طرابلس,13.192323,32.849774,exact_match,high,100,temporary_google_url
+LY-HOT-000032,Royal Gardens Hotels,hostel,العنوان: كازا لانجس - بجانب المؤسسة الوطنية للنفط و مقابل دار الافتاء جنة العريفطرابلس,13.190115,32.886288,exact_match,high,88,temporary_google_url
+LY-HOT-000033,فندق ابونواس,hotel,لا يوجد معلومات عن مرفق,13.091442,32.86352,exact_match,high,75,no_image
+LY-HOT-000034,فندق احواص,hostel,يقع الفندق في شارع الفنيدقة، تحديداً في الجهة المقابلة لمبنى جامع الناقة (ويعرف أيضاً بمقابلته لجامع الفنيدقة),13.179075,32.89542,exact_match,high,88,temporary_google_url
+LY-HOT-000035,فندق الانوار,hotel,فندق الانوار بالزاوية يقع علي الطريق الساحلي بالقرب من الاشارة الضوئية القرضابية,12.733733,32.748233,exact_match,high,100,temporary_google_url
+LY-HOT-000036,فندق الأخوة,hotel,"Omer almokhtar, Omer almokhtar، طرابلس",13.17406,32.891645,exact_match,high,100,temporary_google_url
+LY-HOT-000037,فندق الأصالة,hotel,طرابلس شارع بالخير مقابل مسجد بالخير,13.178744,32.8919441,exact_match,high,100,temporary_google_url
+LY-HOT-000038,فندق الأصيل,hotel,طرابلس، شارع الجمهورية، بالقرب من جامع مولاي محمد وخلف المختبر الصحي المرجعي,13.1859935,32.8820246,exact_match,high,100,temporary_google_url
+LY-HOT-000039,فندق الأندلس,hotel,شارع الكندي، متفرع من شارع عمر المختار، طرابلس، ليبيا,13.1725203,32.8920905,exact_match,high,88,temporary_google_url
+LY-HOT-000040,فندق البركة,hotel,شارع سناء محيدلي، مصراتة,15.095907,32.3760978,exact_match,high,100,temporary_google_url
+LY-HOT-000041,فندق البستان,hotel,السراج، طرابلس، ليبيا,13.078352,32.802301,exact_match,high,88,temporary_google_url
+LY-HOT-000042,التاج للشقق الفندقية,hotel,شارع طرابلس، أمام ميدان الشهداء، مصراتة، ليبيا,15.087767,32.3739209,exact_match,high,88,temporary_google_url
+LY-HOT-000043,(فندق الطُبجية )فندق التاجوري,hotel,المدينة القديمة طرابلس,13.1783666,32.8957919,exact_match,high,75,no_image
+LY-HOT-000044,فندق الجبل,hotel,مصراتة,15.0943241,32.371258,exact_match,high,75,no_image
+LY-HOT-000045,فندق جوهرة صبراتة السياحي,hotel,يقع الفندق في وسط مدينة صبراتة، وتحديداً في شارع عمر المختار,12.477513,32.794776,exact_match,high,100,temporary_google_url
+LY-HOT-000046,فندق الجوهرة الزاوية,hotel,يقع الفندق في قلب مدينة الزاوية بميدان الشهداء,12.726081,32.751953,exact_match,high,88,temporary_google_url
+LY-HOT-000047,يعرف باسم (فندق الوادي ) فندق الحديقة,hotel,شارع الوادي، بالقرب من وسط البلاد وجزيرة الجرات، طرابلس، ليبيا,13.1793027,32.8909969,exact_match,high,88,no_image
+LY-HOT-000048,فندق الحمام السياحي,hotel,لا يعمل حالياً كفندق أو شقق إقامة متاحة للمواطنين,12.393222,32.734657,exact_match,high,75,no_image
+LY-HOT-000049,فندق الخان الطرابلسي,hotel,يقع في شارع أربعة عرصات بالمدينة القديمة,13.1765282,32.8982722,exact_match,high,100,temporary_google_url
+LY-HOT-000050,فندق الخليج,hostel,يقع في شارع جمال عبد الناصر، بالقرب من قلب العاصمة طرابلس,13.1756786,32.8891647,exact_match,high,100,temporary_google_url
+LY-HOT-000051,فندق الدبلوماسي,hotel,شارع شوقي، طرابلس,13.1735022,32.8891679,exact_match,high,100,temporary_google_url
+LY-HOT-000052,فندق الدوحة,hotel,يقع الفندق في وسط المدينة، تحديداً في شارع عمر المختار مقابل شارع العملة,13.1719284,32.8920328,exact_match,high,75,no_image
+LY-HOT-000053,فندق الديار,hotel,يقع الفندق في شارع جمال (شارع المفاتيح) وسط المدينة,13.17449,32.891565,exact_match,high,100,temporary_google_url
+LY-HOT-000054,فندق الرابطة,hotel,يتوسط الفندق مدينة غريان ويقع تحديداً في منطقة تغسات,13.014282,32.169727,exact_match,high,100,temporary_google_url
+LY-HOT-000055,فندق الرفيع,hostel,شارع الرشيد، خلف محكمة شمال طرابلس، طرابلس، ليبيا,13.172588,32.893521,exact_match,high,100,temporary_google_url
+LY-HOT-000056,فندق الريان,hotel,"طرابلس Omer almokhtar, Omer almokhtar، طرابلس",13.1725598,32.8906,exact_match,high,100,temporary_google_url
+LY-HOT-000057,فندق الزهر,hotel,يقع الفندق في سوق الترك، المدينة القديمة، طرابلس,13.179107,32.896046,exact_match,high,88,temporary_google_url
+LY-HOT-000058,فندق الزيتونة,hostel,مدينة بني وليد بليبيا,14.012063,31.7588773,exact_match,high,88,temporary_google_url
+LY-HOT-000059,فندق السرايا,hotel,يقع الفندق في شارع عمر المختار، مباشرةً أمام معرض طرابلس الدولي,13.170639,32.888588,exact_match,high,100,temporary_google_url
+LY-HOT-000060,فندق زوارة,hostel,مدينة زوارة مقابل المدينة الرياضية,12.098621,32.924809,exact_match,high,100,temporary_google_url
+LY-HOT-000061,فندق السندباد,hotel,طرابلس، شارع عمر المختار، مقابل مصيف الليدو (السندباد سابقاً).طرابلس,13.162691,32.885987,exact_match,high,88,temporary_google_url
+LY-HOT-000062,فندق الشجرة,hostel,شارع سيدي عيسى، منطقة الظهرة، طرابلس، ليبيا,13.195069,32.893513,exact_match,high,100,temporary_google_url
+LY-HOT-000063,فندق الشرق,hotel,,13.1760934,32.8871508,exact_match,medium,50,no_image
+LY-HOT-000064,فندق الشمس,hotel,شارع يعقوب بن إسحاق الكندي، طرابلس,13.173321,32.892486,exact_match,high,100,temporary_google_url
+LY-HOT-000065,فندق الصفوة,hostel,شارع البلدية طرابلس,13.188258,32.890226,exact_match,high,100,temporary_google_url
+LY-HOT-000066,فندق الصناعية مصراتة,hotel,,15.090645,32.373493,exact_match,medium,62,temporary_google_url
+LY-HOT-000067,فندق الصولجان,hotel,شارع عمر المختار، طرابلسطرابلس,13.162941,32.885736,exact_match,high,88,temporary_google_url
+LY-HOT-000068,فندق العاصمة,hotel,"شارع الرصافى, V5QF+RMV متفرع من عمر المختار الرئيسى, 50 متر،, طرابلس",13.1742892,32.8896055,exact_match,high,75,temporary_google_url
+LY-HOT-000069,فندق الغدامسية,hotel,,13.178981,32.895485,exact_match,medium,50,no_image
+LY-HOT-000070,فندق القرقني,hotel,,13.179208,32.894751,exact_match,medium,50,no_image
+LY-HOT-000071,فندق القوس,hotel,,13.193539,32.893078,exact_match,medium,62,temporary_google_url
+LY-HOT-000072,فندق الكبير,hotel,,15.095371,32.3738,exact_match,medium,62,temporary_google_url
+LY-HOT-000073,فندق الكرومة,hotel,,11.892359,31.864727,exact_match,medium,50,no_image
+LY-HOT-000074,فندق الماسة,hotel,,15.085841,32.373474,exact_match,medium,62,temporary_google_url
+LY-HOT-000075,فندق المتوسط,hotel,شارع 17 فبراير، بجوار الجامع الجديد، وسط مدينة الخمس، ليبيا,14.26402,32.652981,exact_match,high,88,temporary_google_url
+LY-HOT-000076,فندق المدينة,hotel,,12.726944,32.753613,exact_match,medium,50,no_image
+LY-HOT-000077,فندق المشكاة,hotel,,13.179752,32.891571,exact_match,medium,62,temporary_google_url
+LY-HOT-000078,فندق المنامة,hotel,فندق محلي يقع في قلب العاصمة الليبية طرابلس السويحلي,13.172993,32.893541,exact_match,high,88,temporary_google_url
+LY-HOT-000079,فندق النخلة,hotel,,13.196285,32.890724,exact_match,medium,62,temporary_google_url
+LY-HOT-000080,فندق النقازة الخمس,resort,طريق النهر، الخمس، ليبيا,14.098898,32.694199,exact_match,high,88,temporary_google_url
+LY-HOT-000081,فندق النهر,hostel,العنوان: طرابلس، شارع طارق بن زياد (الموازي لشارع المعري)، بالقرب من مسجد بورقيبة,13.1711084,32.8935913,exact_match,high,100,temporary_google_url
+LY-HOT-000082,فندق الهنشيري,hotel,,13.177876,32.897038,exact_match,medium,50,no_image
+LY-HOT-000083,فندق الهيشة,hotel,,15.258722,31.453671,exact_match,medium,50,no_image
+LY-HOT-000084,فندق الواحات,hotel,,13.168939,32.887352,exact_match,medium,62,temporary_google_url
+LY-HOT-000085,فندق الياسمين,hotel,,13.1842,32.887569,exact_match,medium,62,temporary_google_url
+LY-HOT-000086,فندق أجنحة قرطاج,hotel,,13.177545,32.8909651,exact_match,medium,62,temporary_google_url
+LY-HOT-000087,فندق أفريقيا,hotel,,15.092281,32.378033,exact_match,medium,50,no_image
+LY-HOT-000088,فندق بنت السيد,hotel,يقع الفندق في أول شارع سيدي يعقوب، تحديداً عند ناصية وسعاية مخزن الرخام داخل أسوار المدينة القديمة,13.175939,32.900146,exact_match,high,88,temporary_google_url
+LY-HOT-000089,فندق بودلغوسة,hotel,يقع الفندق في محلة المدينة القديمة، تحديداً عند طريق الحِلقة (أو زنقة جامع الدروج,13.178583,32.894421,exact_match,high,75,no_image
+LY-HOT-000090,فندق بيت الأمان,hostel,منطقة الظهرة، طرابلس، ليبيا,13.1922543,32.8904765,exact_match,high,100,temporary_google_url
+LY-HOT-000091,فندق بيت الشرق,hostel,يقع الفندق في شارع الرازي، وتحديداً خلف شارع الكندي في مدينة طرابلس,13.1722496,32.8922214,exact_match,high,88,temporary_google_url
+LY-HOT-000092,فندق تابكت,hotel,,15.084174,32.373779,exact_match,medium,50,no_image
+LY-HOT-000093,لانكاستر برج الحياة ( ماريوت سابقا),hotel,طرابلس امام مصيف flyboard سابقا,13.164378,32.89019,exact_match,high,100,temporary_google_url
+LY-HOT-000094,فندق دار غدامس,hostel,يقع بالقرب من المدينة القديمة,9.490862,30.0286488,exact_match,high,100,temporary_google_url
+LY-HOT-000095,فندق ديار الهناء,hotel,,15.090561,32.378174,exact_match,medium,62,temporary_google_url
+LY-HOT-000096,فندق ليبوس,hotel,,13.206903,32.897114,exact_match,medium,62,temporary_google_url
+LY-HOT-000097,فندق ريكسوس,hotel,,13.193808,32.859509,exact_match,medium,62,temporary_google_url
+LY-HOT-000098,فندق زليتن,hotel,,14.559985,32.475266,exact_match,medium,62,temporary_google_url
+LY-HOT-000099,فندق زميت,hotel,,13.175705,32.899632,exact_match,medium,62,temporary_google_url
+LY-HOT-000100,فندق زوارة,hotel,,12.099145,32.92326,exact_match,medium,62,temporary_google_url
+LY-HOT-000101,فندق سرايا الليبو,hotel,,13.179074,32.893341,exact_match,medium,50,no_image
+LY-HOT-000102,فندق سفاري,hotel,,15.101947,32.373698,exact_match,medium,62,temporary_google_url
+LY-HOT-000103,فندق سفاري 2,hotel,,15.04225,32.351223,exact_match,medium,62,temporary_google_url
+LY-HOT-000104,فندق شروق افريقيا,hotel,,13.182145,32.890488,exact_match,medium,50,no_image
+LY-HOT-000105,فندق ضيافة ونيس,hotel,,13.173898,32.674606,exact_match,medium,62,temporary_google_url
+LY-HOT-000106,فندق طرابلس الدولي,hotel,,13.1751773,32.8898719,exact_match,medium,62,temporary_google_url
+LY-HOT-000107,فندق طليطلة,hotel,,13.203761,32.892212,exact_match,medium,62,temporary_google_url
+LY-HOT-000108,فندق طيبة,hotel,الموقع: يقع وسط العاصمة طرابلس، وتحديداً في ميدان السويحلي - خلف شارع الرازي (شارع الكندي),13.171801,32.891926,exact_match,high,88,temporary_google_url
+LY-HOT-000109,فندق عمير,hostel,يقع الفندق في شارع الكندي، طرابلس، ليبيا,13.1724352,32.892131,exact_match,high,88,temporary_google_url
+LY-HOT-000110,فندق عين الفرس,hotel,,9.6417117,30.0343914,exact_match,medium,62,temporary_google_url
+LY-HOT-000111,فندق غابة الكشافة,hotel,,12.315046,31.951923,exact_match,medium,50,no_image
+LY-HOT-000112,فندق غريان السياحي,hotel,,13.030462,32.172661,exact_match,medium,62,temporary_google_url
+LY-HOT-000113,فندق قرطاج,hotel,,13.179976,32.889549,exact_match,medium,62,temporary_google_url
+LY-HOT-000114,فندق قصر الظهرة,hotel,,13.193874,32.888687,exact_match,medium,62,temporary_google_url
+LY-HOT-000115,فندق قصر الفيروز,hotel,,13.194599,32.853401,exact_match,medium,62,temporary_google_url
+LY-HOT-000116,فندق قمر صبراتة,hotel,,12.486354,32.792946,exact_match,medium,62,temporary_google_url
+LY-HOT-000117,فندق كونتنتال,hotel,,13.176499,32.890827,exact_match,medium,50,no_image
+LY-HOT-000118,فندق لبدة السياحي الخمس,hotel,يقع الفندق في مدينة الخمس بليبيا، بالقرب من مدخل مدينة لبدة الأثرية,14.278957,32.640457,exact_match,high,100,temporary_google_url
+LY-HOT-000119,فندق ليالي قرطاج,hotel,,13.175961,32.882137,exact_match,medium,62,temporary_google_url
+LY-HOT-000120,فندق ليبيا,hostel,قع في موقع حيوي يربط بين شارع المسعودي وشارع عمر المختار,13.164703,32.887112,exact_match,high,100,temporary_google_url
+LY-HOT-000121,فندق مادي الحسان,hotel,,13.178001,32.89735,exact_match,medium,62,temporary_google_url
+LY-HOT-000122,فندق واستراحة جادو,hotel,,12.087632,31.939745,exact_match,medium,50,no_image
+LY-HOT-000123,فندق ومطعم الامتياز,hotel,,15.099292,32.354399,exact_match,medium,62,temporary_google_url
+LY-HOT-000124,فندق ومطعم النزهة,hotel,,12.749993,32.757835,exact_match,medium,50,no_image
+LY-HOT-000125,فندق يفرن,hotel,,12.518972,32.059994,exact_match,medium,62,temporary_google_url
+LY-HOT-000126,طرابلس للشقق الفندقية,hotel,,13.203281,32.878799,exact_match,medium,50,no_image
+LY-HOT-000127,نزل طرابلس الحديث,hostel,,13.177862,32.898422,exact_match,medium,50,no_image
+LY-HOT-000128,فندق الثريا السياحي,hotel,,21.53529,29.039751,exact_match,medium,62,temporary_google_url
+LY-HOT-000129,فندق الأنيس,hotel,,20.058214,32.118919,exact_match,medium,50,no_image
+LY-HOT-000130,فندق البتراء,hotel,,13.173758,32.888535,exact_match,medium,62,temporary_google_url
+LY-HOT-000131,فندق البردي,hotel,,25.087399,31.753349,exact_match,medium,62,temporary_google_url
+LY-HOT-000132,فندق التلال,hotel,,21.716139,32.759859,exact_match,medium,62,temporary_google_url
+LY-HOT-000133,فندق الجبل الأخضر,hotel,,22.640741,32.763145,exact_match,medium,50,no_image
+LY-HOT-000134,فندق الجغبوب,hotel,,23.97657,32.080338,exact_match,medium,62,temporary_google_url
+LY-HOT-000135,فندق الجلاء,hotel,,23.972946,32.080662,exact_match,medium,62,temporary_google_url
+LY-HOT-000136,فندق الحمام السياحي,hotel,,12.393222,32.734657,exact_match,medium,50,no_image
+LY-HOT-000137,فندق الخان الطرابلسي,hotel,يقع في شارع أربعة عرصات بالمدينة القديمة,13.1765256,32.8983218,exact_match,high,100,temporary_google_url
+LY-HOT-000138,فندق الرحاب,hotel,يقع الفندق في شارع ابن مطروح، بالقرب من ميدان السويحلي، ويبعد حوالي 10 دقائق بالسيارة عن المدينة القديمة والقلعة الحمراء (السرايا الحمراء),13.173246,32.893204,exact_match,high,100,temporary_google_url
+LY-HOT-000139,فندق الزهر,hotel,,13.179107,32.896046,exact_match,medium,62,temporary_google_url
+LY-HOT-000140,فندق الزيتونة,hotel,,14.0148,31.756525,exact_match,medium,50,no_image
+LY-HOT-000141,فندق السرايا,hotel,,13.170639,32.888588,exact_match,medium,62,temporary_google_url
+LY-HOT-000142,فندق السلام,hotel,,12.098621,32.924809,exact_match,medium,50,no_image
+LY-HOT-000143,فندق ابن الرومي,hotel,فندق ابن الرومي طرابلس_شارع الرشيد,13.172151,32.89311,exact_match,high,100,temporary_google_url
+LY-HOT-000144,فندق اجدابيا,hotel,,20.22291,30.757067,exact_match,medium,50,no_image
+LY-HOT-000145,فندق الحياة,hotel,93FM+HG8، مصراتة,15.08382,32.374023,exact_match,high,75,temporary_google_url
+LY-HOT-000146,فندق الصحراوي,hotel,,12.0825,32.933887,exact_match,medium,50,no_image
+LY-HOT-000147,فندق الصناعية مصراتة,hotel,,15.090645,32.373493,exact_match,medium,62,temporary_google_url
+LY-HOT-000148,فندق العوينات,hotel,,10.566841,25.780432,exact_match,medium,62,temporary_google_url
+LY-HOT-000149,فندق الفردوس,hotel,يقع في منطقة المغار، وسط البلاد، درنة، ليبيا,22.637859,32.7646787,exact_match,medium,62,no_image
+LY-HOT-000150,فندق الفضيل,hotel,,20.049503,32.09071,exact_match,medium,62,temporary_google_url
+LY-HOT-000151,فندق الفضيل رأس لانوف,hotel,,18.420834,30.589722,exact_match,medium,62,temporary_google_url
+LY-HOT-000152,فندق الفلك,hotel,,23.976387,32.080894,exact_match,medium,62,temporary_google_url
+LY-HOT-000153,فندق القرضابية,hotel,,16.622601,31.211296,exact_match,medium,50,no_image
+LY-HOT-000154,فندق القلعة,hotel,,14.432752,27.033804,exact_match,medium,62,temporary_google_url
+LY-HOT-000155,فندق الكاظم,hotel,,14.428192,27.037169,exact_match,medium,62,temporary_google_url
+LY-HOT-000156,فندق الكرومة,hotel,,11.892359,31.864727,exact_match,medium,50,no_image
+LY-HOT-000157,فندق المبروك,hotel,يقع الفندق في شارع ابن الرومي، وهو متفرع من شارع الرشيد الشهير,13.1723517,32.892877,exact_match,high,88,temporary_google_url
+LY-HOT-000158,فندق المتوسط الخمس,hostel,"شارع 17 فبراير ...مقابل الجامع الجديد, Al Khums, Libya, 00218",14.26402,32.652981,exact_match,high,100,temporary_google_url
+LY-HOT-000159,فندق المدينة,hotel,,21.785664,32.767067,exact_match,medium,50,no_image
+LY-HOT-000160,فندق المدينة,hotel,,16.588852,31.206654,exact_match,medium,62,temporary_google_url
+LY-HOT-000161,فندق المدينة,hotel,,12.726944,32.753613,exact_match,medium,50,no_image
+LY-HOT-000162,فندق المدينة,hotel,اجدابيا ليبيا,20.22394,30.757528,exact_match,high,75,no_image
+LY-HOT-000163,فندق المرج السياحي,hotel,,20.836086,32.49588,exact_match,medium,62,temporary_google_url
+LY-HOT-000164,فندق المسيرة,hotel,,23.968134,32.073318,exact_match,medium,62,temporary_google_url
+LY-HOT-000165,فندق المشكاة,hotel,شارع عمرو بن العاص,13.179752,32.891571,exact_match,high,88,temporary_google_url
+LY-HOT-000166,فندق المغرب العربي,hotel,,12.4564481,32.7963896,exact_match,high,75,temporary_google_url
+LY-HOT-000167,فندق المنار,hotel,,13.172946,32.891778,exact_match,medium,50,no_image
+LY-HOT-000168,فندق النادي الليبي,hotel,,20.077461,32.136784,exact_match,medium,50,no_image
+LY-HOT-000169,فندق النخلة السياحي,hotel,,13.196285,32.890724,exact_match,high,75,temporary_google_url
+LY-HOT-000170,فندق النخيل - مغلق,hotel,,15.938066,29.123215,exact_match,medium,50,no_image
+LY-HOT-000171,فندق النوران,hotel,,20.075045,32.127663,exact_match,high,75,temporary_google_url
+LY-HOT-000172,فندق الهاروج,hotel,,15.950174,29.130289,exact_match,medium,50,no_image
+LY-HOT-000173,فندق الهنشيري,hotel,,13.177876,32.897038,exact_match,medium,50,no_image
+LY-HOT-000174,فندق الهيشة,hotel,,15.258722,31.453671,exact_match,medium,50,no_image
+LY-HOT-000175,فندق الواحات,hotel,,13.168939,32.887352,exact_match,medium,50,no_image
+LY-HOT-000176,فندق الوادي,hotel,,13.180637,32.888648,exact_match,medium,50,no_image
+LY-HOT-000177,فندق الياسمين,hotel,,13.1842,32.887569,exact_match,medium,50,no_image
+LY-HOT-000178,فندق الياقوتة,hotel,,13.176236,32.891278,exact_match,medium,50,no_image
+LY-HOT-000179,فندق الياقوتة,hotel,,20.180843,32.249558,exact_match,medium,50,no_image
+LY-HOT-000180,فندق اليقين,hostel,شارع المسيرة الكبرى,13.172309,32.891921,exact_match,high,75,no_image
+LY-HOT-000181,فندق اليمامة,hotel,ميدان السويحلي طرابلس,13.174318,32.8923265,exact_match,high,88,temporary_google_url
+LY-HOT-000182,فندق اوزو,hotel,,20.058546,32.101406,exact_match,medium,50,no_image
+LY-HOT-000183,فندق ايلاف,hotel,,22.643206,32.770733,exact_match,medium,50,no_image
+LY-HOT-000184,فندق أبراج المدينة,hotel,,13.1731091,32.8898132,exact_match,medium,50,no_image
+LY-HOT-000185,فندق أجنحة قرطاج,hotel,,13.177596,32.890884,exact_match,medium,50,no_image
+LY-HOT-000186,فندق أفريقيا,hotel,,14.438138,27.02809,exact_match,medium,50,no_image
+LY-HOT-000187,فندق أفريقيا,hotel,شارع الامام سحنون,20.221619,30.758682,exact_match,high,88,temporary_google_url
+LY-HOT-000188,فندق أكاكوس,hotel,,10.182599,24.958349,exact_match,medium,50,no_image
+LY-HOT-000189,فندق أكاكوس,hotel,,13.191482,32.892331,exact_match,medium,50,no_image
+LY-HOT-000190,فندق أمال ليبيا,hotel,الطريق الدائري جدابيا ليبيا Q6JJ+47X,20.23069,30.780668,exact_match,high,88,temporary_google_url
+LY-HOT-000191,فندق أوجلة السياحي,hotel,,21.292574,29.168243,exact_match,medium,50,no_image
+LY-HOT-000192,فندق أويا,hotel,,13.177268,32.889216,exact_match,medium,50,no_image
+LY-HOT-000193,فندق باب البحر,hotel,بجانب ذات العماد,13.1650299,32.8945957,exact_match,high,100,temporary_google_url
+LY-HOT-000194,فندق براك,hotel,,14.286153,27.53722,exact_match,medium,50,no_image
+LY-HOT-000195,فندق برينيتشي,hotel,,20.059597,32.113476,exact_match,medium,50,no_image
+LY-HOT-000196,فندق بلازما,hotel,428 شارع عمر المختار، طرابلس، ليبيا,13.1640086,32.8856711,exact_match,high,100,temporary_google_url
+LY-HOT-000197,فندق بنت السيد,hotel,,13.175939,32.900146,exact_match,medium,50,no_image
+LY-HOT-000198,فندق بنغازي,hotel,,20.076538,32.13039,exact_match,medium,50,no_image
+LY-HOT-000199,فندق بودلغوسة,hotel,,13.178583,32.894421,exact_match,medium,50,no_image
+LY-HOT-000200,فندق تابكت,hotel,,15.084174,32.373779,exact_match,medium,50,no_image
+LY-HOT-000201,فندق توباكتس,hotel,424 شارع عمر المختار، طرابلس، ليبيا (أمام محطة الوقود وبجانب مستشفى الجلاء),13.1653469,32.886025,exact_match,high,100,temporary_google_url
+LY-HOT-000202,فندق تيبستي,hotel,,20.068462,32.11058,exact_match,medium,50,no_image
+LY-HOT-000203,فندق جاكرتا,hotel,,13.186652,32.888705,exact_match,medium,50,no_image
+LY-HOT-000204,فندق جالو السياحي,hotel,,21.545835,29.032753,exact_match,medium,50,no_image
+LY-HOT-000205,فندق جرمة السياحي,hotel,,13.068645,26.526762,exact_match,medium,50,no_image
+LY-HOT-000206,فندق جليانة,hotel,,20.045986,32.084225,exact_match,medium,50,no_image
+LY-HOT-000207,فندق دار جرمة,hotel,,13.06489,26.524315,exact_match,medium,50,no_image
+LY-HOT-000208,فندق دوجال السياحي,hotel,,20.06068,32.122803,exact_match,medium,50,no_image
+LY-HOT-000209,فندق ديار الهناء,hotel,,15.096167,32.373939,exact_match,medium,62,temporary_google_url
+LY-HOT-000210,فندق رواسي,hotel,,15.915834,29.117167,exact_match,medium,50,no_image
+LY-HOT-000211,فندق رويال,hotel,,13.185294,32.888264,exact_match,medium,50,no_image
+LY-HOT-000212,فندق ريباس,hotel,,13.206903,32.897114,exact_match,medium,50,no_image
+LY-HOT-000213,فندق ريكسوس,hotel,,13.193808,32.859509,exact_match,medium,50,no_image
+LY-HOT-000214,فندق زليتن,hotel,,14.559985,32.475266,exact_match,medium,50,no_image
+LY-HOT-000215,فندق زميت,hotel,,13.175705,32.899632,exact_match,medium,50,no_image
+LY-HOT-000216,فندق زهرة البطنان,hotel,,23.976208,32.083584,exact_match,medium,50,no_image
+LY-HOT-000217,فندق زوارة,hotel,,12.099145,32.92326,exact_match,medium,50,no_image
+LY-HOT-000218,فندق زين,hotel,,23.941698,32.0741,exact_match,medium,50,no_image
+LY-HOT-000219,فندق سرايا الليبو,hotel,,13.179074,32.893341,exact_match,medium,50,no_image
+LY-HOT-000220,فندق سفاري 2,hotel,,15.04225,32.351223,exact_match,medium,50,no_image
+LY-HOT-000221,فندق سفيروس الخمس,hotel,يقع في منطقة المرقب بمدينة الخمس، ويتميز بكونه قريباً جداً من المواقع الأثرية الشهيرة مثل لبدة العظمى (Leptis Magna) وفيلا سيلين,14.2468644,32.6439455,exact_match,high,100,temporary_google_url
+LY-HOT-000222,فندق شروق افريقيا,hotel,,13.182145,32.890488,exact_match,medium,50,no_image
+LY-HOT-000223,فندق صحارى ليبيا,hotel,شارع عمر المختار، طرابلس، ليبيا (مقابل مستشفى الجلاء للأطفال,13.163813,32.8851818,exact_match,high,100,temporary_google_url
+LY-HOT-000224,فندق ضيافة ونيس,hotel,,13.173898,32.674606,exact_match,medium,62,temporary_google_url
+LY-HOT-000225,فندق طليطلة,hotel,,13.203761,32.892212,exact_match,medium,50,no_image
+LY-HOT-000226,فندق عمر الخيام,hotel,,20.056427,32.117958,exact_match,medium,50,no_image
+LY-HOT-000227,فندق غابة الكشافة,hotel,,12.315046,31.951923,exact_match,medium,50,no_image
+LY-HOT-000228,فندق غريان السياحي,hotel,,13.030462,32.172661,exact_match,medium,50,no_image
+LY-HOT-000229,فندق فيلا النوران,hotel,,20.208708,32.107414,exact_match,medium,50,no_image
+LY-HOT-000230,فندق قاطش,hotel,,22.62608,32.771667,exact_match,medium,50,no_image
+LY-HOT-000231,فندق قرطاج,hotel,,13.179976,32.889549,exact_match,medium,50,no_image
+LY-HOT-000232,فندق قصر البيضاء,hotel,,21.743811,32.762676,exact_match,medium,50,no_image
+LY-HOT-000233,فندق قصر الظهرة,hotel,,13.193874,32.888687,exact_match,medium,50,no_image
+LY-HOT-000234,فندق قصر الفضيل,hotel,,20.050541,32.093102,exact_match,medium,50,no_image
+LY-HOT-000235,فندق قصر الفيروز,hotel,,13.194599,32.853401,exact_match,medium,50,no_image
+LY-HOT-000236,فندق قصر النيل,hotel,,20.056025,32.119003,exact_match,medium,50,no_image
+LY-HOT-000237,فندق قصر الواحة,hotel,,13.18655,32.888051,exact_match,medium,50,no_image
+LY-HOT-000238,فندق قصور الضيافة,hotel,,16.573889,31.193056,exact_match,medium,50,no_image
+LY-HOT-000239,فندق قصي للشقق المفروشة,hotel,,23.971741,32.085758,exact_match,medium,50,no_image
+LY-HOT-000240,فندق قمر صبراتة,hotel,,12.486354,32.792946,exact_match,medium,50,no_image
+LY-HOT-000241,فندق قورينا,hotel,,13.193556,32.890995,exact_match,medium,50,no_image
+LY-HOT-000242,فندق كونتنتال,hotel,,13.176499,32.890827,exact_match,medium,50,no_image
+LY-HOT-000243,فندق لؤلؤة درنة,hotel,,22.654371,32.754139,exact_match,medium,50,no_image
+LY-HOT-000244,فندق ليالي قرطاج,hotel,,13.175961,32.882137,exact_match,medium,50,no_image
+LY-HOT-000245,فندق مادي الحسان,hotel,,13.178001,32.89735,exact_match,medium,50,no_image
+LY-HOT-000246,فندق ميزران,hotel,,13.178912,32.894693,exact_match,medium,50,no_image
+LY-HOT-000247,فندق هارون,hotel,,13.19164,32.890538,exact_match,medium,50,no_image
+LY-HOT-000248,فندق واستراحة جادو,hotel,,12.087632,31.939745,exact_match,medium,50,no_image
+LY-HOT-000249,فندق ومطعم النزهة,hotel,,12.749993,32.757835,exact_match,medium,50,no_image
+LY-HOT-000250,فندق يفرن,hotel,,12.518972,32.059994,exact_match,medium,50,no_image
+LY-HOT-000251,الفندق السياحي,hotel,,15.091389,32.375557,exact_match,medium,50,no_image
+LY-HOT-000252,الفندق القديم,hotel,,20.891672,32.500561,exact_match,medium,50,no_image
+LY-HOT-000253,الفندق الكبير,hotel,,20.060369,32.114559,exact_match,medium,50,no_image
+LY-HOT-000254,القرية السياحية قاريونس,tourist_village,,20.037174,32.060608,exact_match,medium,50,no_image
+LY-HOT-000255,طرابلس للشقق الفندقية,hotel,,13.203281,32.878799,exact_match,medium,50,no_image
+LY-HOT-000256,نزل المدينة,hostel,,10.176822,24.964026,exact_match,medium,50,no_image
+LY-HOT-000257,نزل أمباي,hostel,,13.521364,26.079599,exact_match,medium,50,no_image
+LY-HOT-000258,نزل بيروت,hostel,شارع الرفاعي، شارع عمر المختار طرابلس المركز,13.174871,32.8918347,exact_match,high,75,no_image
+LY-HOT-000259,نزل طرابلس الحديث,hostel,,13.177862,32.898422,exact_match,medium,50,no_image
+LY-HOT-000260,نزل مرحبا,hostel,,13.193521,32.891996,exact_match,medium,50,no_image
+LY-HOT-000261,الماسة للشقق الفندقية,hotel,,15.098727,32.356847,exact_match,medium,50,no_image
+LY-HOT-000262,فندق فزان,hotel,,14.42566,27.04336,exact_match,medium,50,no_image
+LY-HOT-000263,فندق المختار,hostel,يقع الفندق في شارع الكندي المتفرع قرب شارع الرشيد وشارع عمر المختار، طرابلس، ليبيا,13.171528,32.892153,exact_match,high,75,no_image
+LY-HOT-000264,فندق قصر كاباو,hotel,طريق قصر كاباو، كاباو,11.32759,31.845286,exact_match,medium,62,no_image
+LY-HOT-000265,فندق الأفريقي,hotel,,22.664324,32.75209,exact_match,medium,50,no_image
+LY-HOT-000266,فندق قرطاج السياحى1,hotel,,13.175625,32.887489,exact_match,medium,50,no_image
+LY-HOT-000267,فندق السارة,hotel,,13.173311,32.887004,exact_match,medium,50,no_image
+LY-HOT-000268,فندق الفصول الاربعة 3,hotel,,13.17393,32.889742,exact_match,medium,62,temporary_google_url
+LY-HOT-000269,فندق أوال,hotel,,13.171814,32.887839,exact_match,medium,50,no_image
+LY-HOT-000270,فندق المتوسط,hotel,,13.184983,32.889282,exact_match,medium,50,no_image
+LY-HOT-000271,فندق قرطاج السياحى2,hotel,,13.175251,32.88743,exact_match,medium,50,no_image
+LY-HOT-000272,فندق التوفيق 2,hotel,,13.193296,32.891418,exact_match,medium,50,no_image
+LY-HOT-000273,فندق النعيم,hostel,يقع في منطقة المغار، وسط البلاد، درنة، ليبيا,22.6337412,32.7658475,exact_match,high,100,temporary_google_url
+LY-HOT-000274,نزل كيلو بتراء,hostel,,13.192921,32.892135,exact_match,medium,50,no_image
+LY-HOT-000275,فندق الفصول الاربعة 2,resort,شارع الرصافي المتفرع من شارع عمر المختار الرئيسي، طرابلس، ليبيا,13.173923,32.891864,exact_match,high,100,temporary_google_url
+LY-HOT-000276,فندق السفير,hotel,"Omer almokhtar, Omer almokhtar، طرابلس",13.172765,32.891282,exact_match,high,75,temporary_google_url
+LY-HOT-000277,فندق نور الثريا,hotel,شارع عمر المختار، متفرع من شارع الأحواص (أو شارع المازني),13.172944,32.891377,exact_match,high,100,temporary_google_url
+LY-HOT-000278,فندق الشاطئ الذهبى,hotel,طريق الكورنيش (طريق الشط)، أمام مصيف السندباد سابقاً، طرابلس، ليبيا,13.162519,32.886358,exact_match,high,100,temporary_google_url
+LY-HOT-000279,فندق الصافي,hotel,طرابلس+218 21-4444011,13.174036,32.889351,exact_match,high,75,temporary_google_url
+LY-HOT-000280,فندق بوابة أفريقيا,hotel,,13.1763127,32.8884804,exact_match,medium,50,no_image
+LY-HOT-000281,فندق الفصول الابعة 1,hotel,شارع عمر المختار,13.173452,32.890845,exact_match,high,75,temporary_google_url
+LY-HOT-000282,فندق سفارى,hotel,يقع الفندق في شارع طارق بن زياد (بالقرب من محطة أبو رجيلة وجامع بورقيبة) في طرابلس، ليبيا,13.171191,32.893144,exact_match,high,100,temporary_google_url
+LY-HOT-000283,فندق زهرة الخليج,hotel,تفرع من شارع عمر المختار، شارع جمال عبد الناصر، طرابلس، ليبيا,13.1718122,32.8936004,exact_match,high,100,temporary_google_url
+LY-HOT-000284,فندق السلاسل الذهبية,hostel,"طرابلس شارع عمر المختار,",13.16218,32.885084,exact_match,high,100,temporary_google_url
+LY-HOT-000285,فندق النورس,hotel,,13.192689,32.891292,exact_match,medium,50,no_image
+LY-HOT-000286,فندق التوفيق 1,hotel,,13.192806,32.891197,exact_match,medium,50,no_image
+LY-HOT-000287,فندق اليسر,hotel,,13.193206,32.892294,exact_match,medium,50,no_image
+LY-HOT-000288,فندق الخيام العربية,hotel,,13.194048,32.890968,exact_match,medium,50,no_image
+LY-HOT-000289,فندق الرشيد,hotel,,13.170814,32.889625,exact_match,medium,50,no_image
+LY-HOT-000290,فندق أسامة,hotel,,13.175385,32.887688,exact_match,medium,50,no_image
+LY-HOT-000291,فندق الزيتونة,hotel,,13.192034,32.890635,exact_match,medium,50,no_image
+LY-HOT-000292,فندق ريباس,hotel,,13.207075,32.897097,exact_match,medium,50,no_image
+LY-HOT-000293,فندق طليطلة,hotel,,13.200475,32.892241,exact_match,medium,50,no_image
+LY-HOT-000294,فندق صبراتة,hotel,السويحلي طرابلس,13.174044,32.892221,exact_match,high,75,no_image
+LY-HOT-000295,فندق تاج,hostel,شارع كندي، متفرع من ميدان السويحلي، بجانب شارع عمر المختار,13.1730691,32.8923656,exact_match,high,100,temporary_google_url
+LY-HOT-000296,فندق الكندي,hotel,اربعة شوارع الكندي طرابلس ليبيا,13.1729588,32.8925652,exact_match,high,75,no_image
+LY-HOT-000297,فندق أضواء قرطاج,hotel,يقع في شارع الوادي (بعد جزيرة الجرات),13.1725731,32.8923502,exact_match,high,88,temporary_google_url
+LY-HOT-000298,فندق البشير,hotel,شارع الكندي، طرابلس، ليبيا,13.171671,32.891744,exact_match,high,75,no_image
+LY-HOT-000299,فندق الهاني,hostel,يقع الفندق في شارع أنطونيو ستوباني ما يعرف محليا ب بورقيبة,13.172213,32.8925379,exact_match,high,75,no_image
+LY-HOT-000300,فندق القنصل فندق القنصل,hotel,شارع الكندي طرابلس ليبيا,13.171369,32.892304,exact_match,high,75,no_image
+LY-HOT-000301,فندق الجبل الاخضر,hotel,يقع الفندق في وسط المدينة الحيوي، وتحديداً في شارع المأمون,13.172683,32.894653,exact_match,high,75,no_image
+LY-HOT-000302,الفتح,review_required,مغلق مؤقتا,13.17353,32.894213,exact_match,medium,62,no_image
+LY-HOT-000303,فندق قصر ليبيا,hotel,,13.194232,32.893143,exact_match,medium,50,no_image
+LY-HOT-000304,Hotel Haroun 2,hotel,,13.193761,32.892715,exact_match,medium,50,no_image
+LY-HOT-000305,فندق الغزالة,hotel,,13.18964,32.893183,exact_match,medium,62,temporary_google_url
+LY-HOT-000306,فندق كيان طرابلس,hotel,,13.194714,32.890554,exact_match,medium,50,no_image
+LY-HOT-000307,فندق الديوان,hotel,شارع سيدي منيذر,13.177438,32.887842,exact_match,high,88,temporary_google_url
+LY-HOT-000308,فندق نيو ستي New City hotel,hotel,,13.176395,32.887944,exact_match,medium,50,no_image
+LY-HOT-000309,فندق الدالي,hotel,,13.1748,32.887943,exact_match,medium,50,no_image
+LY-HOT-000310,زهرة الشمس,review_required,,13.1762593,32.8897486,exact_match,low,38,no_image
+LY-HOT-000311,فندق ضيافة طرابلس,hotel,,13.1760833,32.8898781,exact_match,medium,50,no_image
+LY-HOT-000312,فندق الفتح شارع الرشيد,hotel,,13.17786,32.88945,exact_match,medium,50,no_image
+LY-HOT-000313,فندق بلخير,hotel,,13.177366,32.890786,exact_match,medium,50,no_image
+LY-HOT-000314,فندق السرايا,hotel,يقع الفندق في شارع عمر المختار، وتحديداً أمام معرض طرابلس الدولي,13.175881,32.891635,exact_match,high,100,temporary_google_url
+LY-HOT-000315,فندق الوحدة العربية,hotel,يقع الفندق عند الإشارة الضوئية بشارع جمال عبد الناصر في طرابلس,13.1747769,32.891739,exact_match,medium,62,no_image
+LY-HOT-000316,فندق الكنوز الذهبية,hostel,شارع عمر المختار سيمافرو جمال عبد الناصر السويحلي,13.17438,32.891349,exact_match,medium,62,no_image
+LY-HOT-000317,فندق الشراع,hotel,لا يوجد معلومات متوافرة,13.172951,32.89219,exact_match,high,75,no_image
+LY-HOT-000318,الحبايب,review_required,+218 92-5512135,15.084422,32.371804,exact_match,medium,62,temporary_google_url
+LY-HOT-000319,هوم بلازا_للشقق الفندقية,hotel,مصراتة شارع،، المطبات,15.07754,32.375353,exact_match,high,88,temporary_google_url
+LY-HOT-000320,فندق الرحال,apartment_hotel,: مصراتة، بجوار فندق قوز التيك، مقابل مدخل كلية السياحة والضيافة,15.082266,32.380662,exact_match,high,100,temporary_google_url
+LY-HOT-000321,الوادي 2 للشقق الفندقية,hotel,مصراتة,15.0843684,32.3881119,exact_match,high,88,temporary_google_url
+LY-HOT-000322,الأطلس للشقق الفندقية,hotel,,15.086856,32.387962,exact_match,medium,62,temporary_google_url
+LY-HOT-000323,فندق بيزا السياحي,resort,مدينة مصراتة منطقة يدر طريق البحر (خط الساحل) مقابل منتجع مصراتة السياحي مباشرة,15.115341,32.402325,exact_match,high,100,temporary_google_url
+LY-HOT-000324,فندق قوز التيك,hotel,مصراتة,15.083572,32.380215,exact_match,high,88,temporary_google_url
+LY-HOT-000325,النجمة الذهبية لشقق الفندقية,hotel,,15.093732,32.375713,exact_match,medium,50,no_image
+LY-HOT-000326,الفخامه للشقق المفروشه,review_required,091-0343800,12.478584,32.794278,exact_match,medium,50,no_image
+LY-HOT-000327,اوس لشقق المفروشه,review_required,,12.47739,32.79517,exact_match,low,38,no_image
+LY-HOT-000328,فندق الساحل,apartment_hotel,صبراتة,12.434615,32.801842,exact_match,medium,62,no_image
+LY-HOT-000329,الجوهرة للشقق الفندقية,apartment_hotel,اجدابيا ليبيا طريق اوجلة,20.22385,30.7575,exact_match,medium,62,no_image
+LY-HOT-000330,فندق اجدابيا السياحي,hotel,,20.223,30.75706,exact_match,medium,62,no_image
+LY-HOT-000331,فندق الراحة اجدابيا,hotel,يقع بالقرب من صيدلية الرحيق الشافي في حي دمشق.اجدابيا ليبيا,20.198851,30.760417,exact_match,high,88,temporary_google_url
+LY-HOT-000332,عمار او المجد للشقق الفندقية,hotel,خلف مصرف الوحدة شارع عمر المختار اجدابيا ليبيا,20.221715,30.760196,exact_match,high,88,temporary_google_url
+LY-HOT-000333,فندق مزايا اجدابيا,hostel,في مدينة أجدابيا، تحديداً مقابل جزيرة السويسي,20.221715,30.760196,exact_match,high,88,temporary_google_url
+LY-HOT-000334,فندق التوجان السياحي,hostel,اجدابيا / شارع انتلات بجوار مطعم الديوان,20.233088,30.761777,exact_match,high,88,temporary_google_url
+LY-HOT-000335,نزل وقاعة الهاشمي,apartment_hotel,يقع في مدينة طبرق، منطقة 2WMQ+QF,23.93866,32.034474,exact_match,high,88,temporary_google_url
+LY-HOT-000336,نزل وقاعة زهرة الخليج,hostel,حي نجمة الخليج – مفترق فوزي مختار,23.96998,32.02618,exact_match,high,88,temporary_google_url
+LY-HOT-000337,الهضبة للشقق الفندقية,apartment_hotel,لفندق في مدينة طبرق على الطريق الدائري، ويتميز بقربه من ميناء طبرق البحري,23.975839,32.079275,exact_match,high,88,temporary_google_url
+LY-HOT-000338,الامان للشقق الفندقية,apartment_hotel,"مفترق رابعة, Tobruk, Libya",23.939431,32.073514,exact_match,high,88,temporary_google_url
+LY-HOT-000339,نزل ماريا MARIYA,apartment_hotel,طبرق، ليبيا (بالقرب من حي التسليح),23.99551,32.03109,exact_match,high,88,temporary_google_url
+LY-HOT-000340,فندق الرابطة,hostel,غريان /تغسات,13.0142673,32.1697572,exact_match,high,100,temporary_google_url
+LY-HOT-000341,فندق سمر قند,hotel,غريان، بالقرب من محطة الركوبة العامة,13.0097569,32.1679135,exact_match,high,75,no_image
+LY-HOT-000342,فندق غريان السياحي,hotel,"شارع النهضة, Gharyan, Libya, فندق غريان السياحي https://maps.app.goo.gl/UB87UsJ6Rh6bxvQv6",13.03046,32.17267,exact_match,high,88,temporary_google_url
+LY-HOT-000343,فندق روايال غريان,hostel,"Libya, Gharyan, Libya, Royal Hotel, 52GF+X7J، غريان مقابل كلية الطب البشري - جامعة غريان",13.023293,32.177538,exact_match,high,88,temporary_google_url
+LY-HOT-000344,فندق حوش بوغنوش,hotel,طريق الحمراء طريق البحرية، غريان,13.010537,32.211137,exact_match,high,100,temporary_google_url
+LY-HOT-000345,فندق اللؤلؤة السياحي البضاء,hotel,,21.737579,32.75896,exact_match,medium,62,temporary_google_url
+LY-HOT-000346,فندق لؤلؤة الخليج البيضاء,hotel,يقع في مدينة البيضاء، وتحديداً في منطقة مفوز الحرية,21.776861,32.765129,exact_match,high,88,temporary_google_url
+LY-HOT-000347,فندق قصر البيضاء,hotel,تم ازالته,21.73796,32.75924,exact_match,medium,62,no_image
+LY-HOT-000348,فندق القاهرة البيضاء,hotel,مغلق حاليا,21.74344,32.76199,exact_match,high,75,no_image
+LY-HOT-000349,النوران_ للشقق_الفندقية,hostel,طريق الدائري، بجوار محطة شيل ومقابل مستشفى السلام، البيضاء,21.738238,32.76868,exact_match,high,100,temporary_google_url
+LY-HOT-000350,مكة للشقق الفندقية البيضاء,apartment_hotel,,21.752891,32.760241,exact_match,medium,62,no_image
+LY-HOT-000351,برج المدينة للشقق الفندقية البيضاء,hotel,يقع البرج في شارع البكوش بمدينة البيضاء، ويتميز بموقع استراتيجي وحيوي,21.788118,32.769666,exact_match,high,75,no_image
+LY-HOT-000352,فندق اية الجبل البيضاء,apartment_hotel,يتوسط مدينة البيضاء، في شارع مدرسة الفاتح الثانوية. مما يجعله قريباً من أغلب المطاعم والمرافق الحيوية.خرائط جوجل: يمكنك الوصول إلى موقع الفندق عبر خرائط جوجل,21.754817,32.763852,exact_match,high,100,temporary_google_url
+LY-HOT-000353,فندق برقة السياحي,hotel,,21.756719,32.765152,exact_match,medium,50,no_image
+LY-HOT-000354,فندق افريقيا البيضاء,hostel,يقع الفندق في مدينة البيضاء، ويتميز بموقع هادئ وسهل الوصول إليه,21.754998,32.76413,exact_match,high,75,no_image
+LY-HOT-000355,فندق برونتو البيضاء,apartment_hotel,طريق الدائري بعد كوبري مول جواهر,21.771261,32.770748,exact_match,high,100,temporary_google_url
+LY-HOT-000356,عمارة الجوري للشقق الفندقية,hotel,"الغريقة قرب مدرسة عمر, Al Bayda', Libya, LY",21.75352,32.75384,exact_match,high,100,temporary_google_url
+LY-HOT-000357,فندق العنود البيضاء,apartment_hotel,لبيضاء الجبل الاخضر .ليبيا,21.75517,32.76448,exact_match,high,100,temporary_google_url
+LY-HOT-000358,فندق الفردوس للشقق الفندقية,apartment_hotel,مدينة البيضاء / شارع العروبة خلف مصرف الوحدة,21.747586,32.764204,exact_match,high,100,temporary_google_url
+LY-HOT-000359,فندق قصر الضيافة للشقق الفندقية البيضاء,apartment_hotel,يقع الفندق في المدخل الغربي لمدينة البيضاء، وتحديداً عند مفترق رويفع الأنصاري على الطريق المؤدية إلى الطريق الدائري,21.729493,32.762472,exact_match,high,88,no_image
+LY-HOT-000360,فندق مرحبا للخدمات السياحية,hotel,يقع الفندق في منطقة البيضاء الجديدة عند المدخل الشرقي للمدينة، وتحديداً خلف مجمع باب الحارة,21.788587,32.768201,exact_match,high,100,temporary_google_url
+LY-HOT-000361,عمارة اضواء ليبيا للشقق الفندقية البيضاء,hotel,"مدخل البيضاء الشرقي خلف مركز البكوش , Al Bayda', Libya",21.790027,32.770384,exact_match,high,100,temporary_google_url
+LY-HOT-000362,فندق الاندلس السياحي الخمس,hotel,يقع فندق الأندلس في مدينة الخمس بليبيا على الطريق الساحلي (طريق طرابلس),14.277712,32.63268,exact_match,high,75,no_image
+LY-HOT-000363,فندق المرقب السياحي الخمس,hostel,أحد خيارات الإقامة المعروفة في مدينة الخمس، ويتميز بموقعه الاستراتيجي على الطريق الساحلي بالقرب من الإشارة الضوئية (سيمافرو لبدة,14.282431,32.629778,exact_match,high,100,temporary_google_url
+LY-HOT-000364,فندق التوليب السياحي الخمس,apartment_hotel,في مدينة الخمس بليبيا، وتحديداً في شارع المدينة الرياضية على طريق كلية الآداب,14.249288,32.650804,exact_match,high,100,temporary_google_url
+LY-HOT-000365,فندق بيت سباب الخمس,hotel,"شارع الرياضية, Al Khums, Libya",14.24756,32.648142,exact_match,high,100,temporary_google_url
+LY-HOT-000366,فندق الاخوة السياحي الخمس,hotel,يقع في شارع الشط، وسط المدينة (بالقرب من منطقة المنتزه).الخمس، ليبيا,14.263151,32.655196,exact_match,high,100,temporary_google_url
+LY-HOT-000367,فندق الليلك ALlilac hotel,hotel,,13.196533,32.8942135,exact_match,medium,50,no_image
+LY-HOT-000368,فندق البحيرات السبعة السياحي,hotel,"بجوار مقهى الديوانية, بنغازي",20.0895891,32.1248781,exact_match,high,75,no_image
+LY-HOT-000369,فندق برنيتشي السياحي,hotel,,20.0893526,32.1259744,exact_match,high,75,no_image
+LY-HOT-000370,Sabratha youth hostel _بيت شباب صبراتة,review_required,,12.4890506,32.8001823,exact_match,low,38,no_image
+LY-HOT-000371,Lancaster Al Salam Resort - منتجع لانكستر السلام,resort,,12.3875354,32.8150919,exact_match,medium,50,no_image
+LY-HOT-000372,فندق الساحل,hotel,,12.457789,32.7965033,exact_match,medium,50,no_image
+LY-HOT-000373,المعهد القومي العلاج الأورام صبراتة,review_required,,12.4698415,32.8084762,exact_match,low,38,no_image
+LY-HOT-000374,السيلفيوم للشقق المفروشة,review_required,,12.4531777,32.8121581,exact_match,low,38,no_image
+LY-HOT-000375,فندق الخليج,hostel,,13.175709,32.889128,exact_match,medium,62,temporary_google_url
+LY-HOT-000376,فندق أضواء قرطاج,hotel,,13.17257,32.89236,exact_match,medium,62,temporary_google_url
+LY-HOT-000377,فندق اجنحة قرطاج,hotel,,13.17774,32.89006,exact_match,medium,62,temporary_google_url
+LY-HOT-000378,فندق الباشا,hotel,,13.17601,32.88716,exact_match,medium,62,temporary_google_url
+LY-HOT-000379,دار السلام للشقق الفندقية,hotel,,13.239475,32.853567,exact_match,medium,62,temporary_google_url
+LY-HOT-000380,فندق نيو سيتي,hotel,,13.17231,32.89235,exact_match,medium,62,temporary_google_url
+LY-HOT-000381,فندق الهانى,hotel,,13.174,32.8926,exact_match,medium,50,no_image
+LY-HOT-000382,فندق اليسر,hotel,,13.17601,32.8816,exact_match,medium,50,no_image
+LY-HOT-000383,فندق جنان النوار,hotel,,13.179595,32.890747,exact_match,medium,50,no_image
+LY-HOT-000384,فندق جولف,hotel,,13.19071,32.88649,exact_match,medium,62,temporary_google_url
+LY-HOT-000385,فندق زهرة الشمس,hotel,,13.17626,32.88975,exact_match,medium,62,temporary_google_url
+LY-HOT-000386,فندق سنترو,hotel,,13.18131,32.89369,exact_match,medium,62,temporary_google_url
+LY-HOT-000387,فندق صبراتة,hotel,,13.17402,32.89222,exact_match,medium,50,no_image
+LY-HOT-000388,فندق كيان 2,hostel,,13.17596,32.88216,exact_match,medium,62,temporary_google_url
+LY-HOT-000389,فندق نور الثريا السياحى,hostel,,13.1723954,32.8894048,exact_match,medium,62,temporary_google_url
+LY-HOT-000390,فندق أويا,hotel,,13.17718,32.88905,exact_match,medium,62,temporary_google_url
+LY-HOT-000391,فندق منتجع الطاووس,resort,,13.317558,32.873821,exact_match,medium,50,no_image
+LY-HOT-000392,اجنحة كراون للشقق الفندقية,apartment_hotel,,13.29381,32.8475,exact_match,medium,62,temporary_google_url
+LY-HOT-000393,الدلتا للشقق الفندقية 2,apartment_hotel,,13.29394,32.84882,exact_match,medium,62,temporary_google_url
+LY-HOT-000394,الدلتا للشقق الفندقية 1,apartment_hotel,,13.19749,32.86091,exact_match,medium,62,temporary_google_url
+LY-HOT-000395,الشاطي الذهبي,hotel,,13.162695,32.886058,exact_match,medium,62,temporary_google_url
+LY-HOT-000396,العنوان للشقق الفندقيه,apartment_hotel,,13.193034,32.889375,exact_match,medium,62,temporary_google_url
+LY-HOT-000397,تحت الصيانة الفندق الكبير,hotel,,13.18473,32.89343,exact_match,medium,50,no_image
+LY-HOT-000398,القبس لشقق الفندقيه,apartment_hotel,,13.26757,32.8519,exact_match,medium,62,temporary_google_url
+LY-HOT-000399,الماسة للأجنحة الفندقية,apartment_hotel,,13.18267,32.88728,exact_match,medium,62,temporary_google_url
+LY-HOT-000400,المجرة للشقق الفندقية,apartment_hotel,,13.31136,32.84615,exact_match,medium,62,temporary_google_url
+LY-HOT-000401,المكان للشقق الفندقية,apartment_hotel,,13.17589,32.88933,exact_match,medium,62,temporary_google_url
+LY-HOT-000402,اوكا لشقق الفندقيه vib,apartment_hotel,,13.180711,32.88827,exact_match,medium,62,temporary_google_url
+LY-HOT-000403,إقامة إيفا للشق الفندقية,apartment_hotel,,13.23122,32.83415,exact_match,medium,50,no_image
+LY-HOT-000404,إقامة قورينا الفاخرة,apartment_hotel,,13.19489,32.88687,exact_match,medium,62,temporary_google_url
+LY-HOT-000405,أجنحة الفوانيس للشقق الفندقية,apartment_hotel,,13.2047,32.8946,exact_match,medium,62,temporary_google_url
+LY-HOT-000406,بيت النوران للشقق الفندقية,apartment_hotel,,13.28782,32.84898,exact_match,medium,62,temporary_google_url
+LY-HOT-000407,بيوت العاصمة للشقق الفندقية,apartment_hotel,,13.248638,32.843787,exact_match,medium,62,temporary_google_url
+LY-HOT-000408,جواهر العاصمة للشقق الفندقية,hostel,,13.21042,32.891888,exact_match,medium,62,temporary_google_url
+LY-HOT-000409,جولايا للشقق الفندقية,apartment_hotel,,13.19665,32.88071,exact_match,medium,62,temporary_google_url
+LY-HOT-000410,جوهرة السلام للشقق الفندقية,apartment_hotel,,13.29389,32.84695,exact_match,medium,62,temporary_google_url
+LY-HOT-000411,حدائق المشتل للشقق الفندقية,apartment_hotel,,13.28383,32.85064,exact_match,medium,62,temporary_google_url
+LY-HOT-000412,دار الضيافة 2 للشقق الفندقية,apartment_hotel,,13.256248,32.83993,exact_match,medium,62,temporary_google_url
+LY-HOT-000413,شركة العميد لايجار الشقق الفندقية,apartment_hotel,,13.25056,32.82608,exact_match,medium,62,temporary_google_url
+LY-HOT-000414,شقق البرنس,apartment_hotel,,13.263127,32.836532,exact_match,medium,62,temporary_google_url
+LY-HOT-000415,شقق الرواد المفروشة,apartment_hotel,,13.1667,32.84575,exact_match,medium,62,temporary_google_url
+LY-HOT-000416,شقق فيلا ليبيا الفندقية,apartment_hotel,,13.259625,32.847428,exact_match,medium,62,temporary_google_url
+LY-HOT-000417,فندق اكاكوس,hostel,,13.19143,32.89236,exact_match,medium,62,temporary_google_url
+LY-HOT-000418,فندق الاخوة,hostel,,13.1741,32.8916,exact_match,medium,62,temporary_google_url
+LY-HOT-000419,فندق الاصالة,hostel,,13.1787384,32.8917799,exact_match,medium,62,temporary_google_url
+LY-HOT-000420,فندق الاندلس,hostel,,13.172675,32.892025,exact_match,medium,50,no_image
+LY-HOT-000421,فندق البتراء,hostel,,13.17352,32.888515,exact_match,medium,62,temporary_google_url
+LY-HOT-000422,فندق البشير,hotel,,13.17164,32.89176,exact_match,medium,50,no_image
+LY-HOT-000423,فندق البيت الراقي للشقق الفندقية,apartment_hotel,,13.257115,32.841437,exact_match,medium,62,temporary_google_url
+LY-HOT-000424,فندق التاج,hotel,,13.173142,32.892292,exact_match,medium,62,temporary_google_url
+LY-HOT-000425,فندق التوفيق بلازا,hostel,,13.19269,32.89108,exact_match,medium,62,temporary_google_url
+LY-HOT-000426,فندق الجبل الأخضر,hotel,,13.17295,32.89486,exact_match,medium,50,no_image
+LY-HOT-000427,فندق الجرات,hotel,,13.17827,32.890334,exact_match,medium,50,no_image
+LY-HOT-000428,فندق الخان الطرابلسي,hotel,,13.1765324,32.8983279,exact_match,medium,50,no_image
+LY-HOT-000429,فندق الخليج,hostel,,13.1756702,32.8891741,exact_match,medium,50,no_image
+LY-HOT-000430,فندق الخيام العربية,hotel,,13.206868,32.89736,exact_match,medium,50,no_image
+LY-HOT-000431,فندق الدالي,hotel,,13.17488,32.88785,exact_match,medium,50,no_image
+LY-HOT-000432,فندق الدبلوماسي,hotel,,13.1735146,32.8891665,exact_match,medium,62,temporary_google_url
+LY-HOT-000433,فندق الدوحة,hotel,,13.17177,32.89215,exact_match,medium,50,no_image
+LY-HOT-000434,فندق الديار,hotel,,13.174485,32.8915413,exact_match,medium,62,temporary_google_url
+LY-HOT-000435,فندق الديوان,hotel,,13.177471,32.88782,exact_match,medium,50,no_image
+LY-HOT-000436,فندق الديوان,hotel,,13.17747,32.88782,exact_match,medium,50,no_image
+LY-HOT-000437,فندق الديوان,hotel,,13.177471,32.88782,exact_match,medium,50,no_image
+LY-HOT-000438,فندق الديوان,hotel,,13.17747,32.88782,exact_match,medium,50,no_image
+LY-HOT-000439,فندق الرحاب,hotel,,13.17289,32.89318,exact_match,medium,50,no_image
+LY-HOT-000440,فندق الرحاب 1,hotel,,13.173006,32.89328,exact_match,medium,50,no_image
+LY-HOT-000441,فندق الرحاب 2,hotel,,13.172757,32.893612,exact_match,medium,50,no_image
+LY-HOT-000442,فندق الرفيع,hotel,,13.172712,32.893475,exact_match,medium,50,no_image
+LY-HOT-000443,فندق الرواد,hotel,,13.16672,32.84566,exact_match,medium,50,no_image
+LY-HOT-000444,فندق الريان,hotel,,13.1725981,32.8906052,exact_match,medium,62,temporary_google_url
+LY-HOT-000445,فندق الزيتونة,hostel,,13.1921066,32.8903909,exact_match,medium,62,temporary_google_url
+LY-HOT-000446,فندق السرايا,hotel,,13.1757505,32.8916005,exact_match,medium,62,temporary_google_url
+LY-HOT-000447,فندق السرايا السياحي,hotel,,13.17016,32.88849,exact_match,medium,50,no_image
+LY-HOT-000448,فندق السفير,hotel,,13.17289,32.89137,exact_match,medium,50,no_image
+LY-HOT-000449,فندق السفينة الزرقاء,hotel,,13.18844,32.89028,exact_match,medium,50,no_image
+LY-HOT-000450,فندق السلاسل الذهبية,hotel,,13.16231,32.88532,exact_match,medium,50,no_image
+LY-HOT-000451,فندق السلطان,hotel,,13.19688,32.89231,exact_match,medium,50,no_image
+LY-HOT-000452,فندق السلطان داون تاون,hotel,,13.173253,32.887215,exact_match,medium,50,no_image
+LY-HOT-000453,فندق السندباد,hotel,,13.16273,32.88596,exact_match,medium,50,no_image
+LY-HOT-000454,فندق الشاطئ الذهبي,hotel,,13.16243,32.8864,exact_match,medium,50,no_image
+LY-HOT-000455,فندق الشجرة,hotel,,13.19513,32.89339,exact_match,medium,50,no_image
+LY-HOT-000456,فندق الشمس,hotel,,13.173329,32.892407,exact_match,medium,50,no_image
+LY-HOT-000457,فندق الصافي,hotel,,13.1742,32.88948,exact_match,medium,50,no_image
+LY-HOT-000458,فندق الصفوة للشقق الفندقية,apartment_hotel,,13.1886,32.8903,exact_match,medium,50,no_image
+LY-HOT-000459,فندق الصولجان,hotel,,13.16296,32.88573,exact_match,medium,50,no_image
+LY-HOT-000460,فندق الضيافة,hotel,,13.172,32.89226,exact_match,medium,50,no_image
+LY-HOT-000461,فندق الطريق,hotel,,13.5800649,32.7974846,exact_match,medium,50,no_image
+LY-HOT-000462,فندق العاصمة,hotel,,13.17404,32.88959,exact_match,medium,50,no_image
+LY-HOT-000463,فندق الفتح,hotel,,13.17782,32.88943,exact_match,medium,50,no_image
+LY-HOT-000464,فندق الفردوس,hotel,,13.17684,32.89315,exact_match,medium,50,no_image
+LY-HOT-000465,فندق الفصول الأربعة ( 1 ),hotel,,13.17354,32.89087,exact_match,medium,50,no_image
+LY-HOT-000466,فندق الفصول الأربعة ( 2 ),hotel,,13.173947,32.892025,exact_match,medium,50,no_image
+LY-HOT-000467,فندق الفصول الأربعة ( 3 ),hotel,,13.173882,32.889845,exact_match,medium,50,no_image
+LY-HOT-000468,فندق القلعة السياحي للشقق المفروشة,apartment_hotel,,13.16694,32.84635,exact_match,medium,50,no_image
+LY-HOT-000469,فندق القنصل,hotel,,13.17139,32.89232,exact_match,medium,50,no_image
+LY-HOT-000470,فندق القوس,hotel,,13.19366,32.89311,exact_match,medium,50,no_image
+LY-HOT-000471,فندق الكندي,hotel,,13.17304,32.89234,exact_match,medium,50,no_image
+LY-HOT-000472,فندق الكنوز الدهبية,hotel,,13.174283,32.8914,exact_match,medium,50,no_image
+LY-HOT-000473,فندق اللؤلؤة,apartment_hotel,,13.16297,32.88663,exact_match,medium,50,no_image
+LY-HOT-000474,فندق الليلك,hotel,,13.196468,32.89431,exact_match,medium,50,no_image
+LY-HOT-000475,فندق المأمون,hotel,,13.17422,32.89429,exact_match,medium,50,no_image
+LY-HOT-000476,فندق المبروك,hotel,,13.17221,32.89304,exact_match,medium,50,no_image
+LY-HOT-000477,فندق المتوسط,hotel,,13.18494,32.88922,exact_match,medium,50,no_image
+LY-HOT-000478,فندق المتوسط,hotel,,13.18494,32.88921,exact_match,medium,50,no_image
+LY-HOT-000479,فندق المتوسط,hotel,,13.18494,32.88922,exact_match,medium,50,no_image
+LY-HOT-000480,فندق المتوسط,hotel,,13.18494,32.88921,exact_match,medium,50,no_image
+LY-HOT-000481,فندق المختار,hotel,,13.17151,32.89212,exact_match,medium,50,no_image
+LY-HOT-000482,فندق المشكاة,hotel,,13.17974,32.89147,exact_match,medium,50,no_image
+LY-HOT-000483,فندق المنامة,hotel,,13.173006,32.89328,exact_match,medium,50,no_image
+LY-HOT-000484,فندق المهاري رادسون بلو,resort,,13.1997991,32.8959784,exact_match,medium,62,temporary_google_url
+LY-HOT-000485,فندق النخلة السياحي,hotel,,13.19617,32.89079,exact_match,medium,50,no_image
+LY-HOT-000486,فندق النهر,hotel,,13.17116,32.8936,exact_match,medium,50,no_image
+LY-HOT-000487,فندق النورس,hotel,,13.19275,32.89127,exact_match,medium,50,no_image
+LY-HOT-000488,فندق الهاني,hotel,,13.172338,32.892273,exact_match,medium,50,no_image
+LY-HOT-000489,فندق الهناء,hotel,,13.17509,32.89193,exact_match,medium,50,no_image
+LY-HOT-000490,فندق الواحات,hotel,,13.16897,32.88737,exact_match,medium,50,no_image
+LY-HOT-000491,فندق الوادي,hotel,,13.18057,32.88846,exact_match,medium,50,no_image
+LY-HOT-000492,فندق الودان,hotel,,13.1909,32.89313,exact_match,medium,50,no_image
+LY-HOT-000493,فندق الياسمينة,hotel,,13.18507,32.88789,exact_match,medium,50,no_image
+LY-HOT-000494,فندق الياقوتة,hotel,,13.17631,32.89129,exact_match,medium,50,no_image
+LY-HOT-000495,فندق اليقين,hotel,,13.172999,32.8924,exact_match,medium,50,no_image
+LY-HOT-000496,فندق اوال,hotel,,13.17211,32.8888903,exact_match,medium,62,temporary_google_url
+LY-HOT-000497,فندق أجنحة الوليد,hotel,,13.19003,32.886231,exact_match,medium,50,no_image
+LY-HOT-000498,فندق أسامة,hotel,,13.1755605,32.8871678,exact_match,medium,50,no_image
+LY-HOT-000499,فندق أسامة,hotel,,13.1757843,32.8871208,exact_match,medium,50,no_image
+LY-HOT-000500,فندق أسامة,hotel,,13.1756249,32.8871093,exact_match,medium,50,no_image
+LY-HOT-000501,فندق أسامة,hotel,,13.1755107,32.8872874,exact_match,medium,50,no_image
+LY-HOT-000502,فندق باب البحر,hotel,,13.1649319,32.8945243,exact_match,medium,50,no_image
+LY-HOT-000503,فندق باب طرابلس,hotel,,13.17819,32.87239,exact_match,medium,50,no_image
+LY-HOT-000504,فندق برج المدينة,hotel,,13.17303,32.88987,exact_match,medium,50,no_image
+LY-HOT-000505,فندق برج كورنثيا باب أفريقيا,hotel,,13.170857,32.897016,exact_match,medium,50,no_image
+LY-HOT-000506,فندق بلازما,hotel,,13.16405,32.88571,exact_match,medium,50,no_image
+LY-HOT-000507,فندق بلخير,hotel,,13.17728,32.8907,exact_match,medium,50,no_image
+LY-HOT-000508,فندق بلخير السياحي,hotel,,13.177267,32.890687,exact_match,medium,50,no_image
+LY-HOT-000509,فندق بيت الامان,hotel,,13.1919,32.89041,exact_match,medium,50,no_image
+LY-HOT-000510,فندق بيت الشرق,hotel,,13.17232,32.89234,exact_match,medium,50,no_image
+LY-HOT-000511,فندق بيت الضيافة,hotel,,13.10091,32.8627,exact_match,medium,50,no_image
+LY-HOT-000512,فندق بيروت,hotel,,13.17501,32.89186,exact_match,medium,50,no_image
+LY-HOT-000513,فندق تاج دبي,hotel,,13.173948,32.892203,exact_match,medium,50,no_image
+LY-HOT-000514,فندق توباكتس,hotel,,13.16469,32.88609,exact_match,medium,50,no_image
+LY-HOT-000515,فندق جاكرتا,hotel,,13.18665,32.88863,exact_match,medium,50,no_image
+LY-HOT-000516,فندق جي دبليو ماروت,hotel,,13.164639,32.891567,exact_match,medium,50,no_image
+LY-HOT-000517,فندق دار طرابلس,hotel,,13.192052,32.891919,exact_match,medium,50,no_image
+LY-HOT-000518,فندق ديكنة,hotel,,13.17661,32.888213,exact_match,medium,50,no_image
+LY-HOT-000519,فندق ذا ريسدنس,hotel,,13.19399,32.88884,exact_match,medium,50,no_image
+LY-HOT-000520,فندق رويال جاردنس,hotel,,13.19012,32.88628,exact_match,medium,50,no_image
+LY-HOT-000521,فندق ريزيدينس,hotel,,13.19378,32.88867,exact_match,medium,50,no_image
+LY-HOT-000522,فندق زميت الأثري,hotel,,13.17576,32.89958,exact_match,medium,50,no_image
+LY-HOT-000523,فندق زهرة الخليج,hotel,,13.171917,32.89311,exact_match,medium,50,no_image
+LY-HOT-000524,فندق سارة,hotel,,13.163005,32.885297,exact_match,medium,50,no_image
+LY-HOT-000525,فندق سبراتا,hotel,,13.191319,32.88722,exact_match,medium,50,no_image
+LY-HOT-000526,فندق سفارى,hotel,,13.17149,32.89316,exact_match,medium,50,no_image
+LY-HOT-000527,فندق سما و بلقيس,hotel,,13.17925,32.88931,exact_match,medium,50,no_image
+LY-HOT-000528,فندق سما وبلقيس,hotel,,13.17881,32.88947,exact_match,medium,50,no_image
+LY-HOT-000529,فندق صحراء ليبيا,hotel,,13.16299,32.88533,exact_match,medium,50,no_image
+LY-HOT-000530,فندق ضيافة ونيس,hotel,,13.173872,32.674516,exact_match,medium,50,no_image
+LY-HOT-000531,فندق طرابلس الدولى,hotel,,13.17533,32.88995,exact_match,medium,50,no_image
+LY-HOT-000532,فندق طليطلة,hotel,,13.20382,32.89202,exact_match,medium,50,no_image
+LY-HOT-000533,فندق طيبة,hotel,,13.17181,32.89196,exact_match,medium,50,no_image
+LY-HOT-000534,فندق عمير,hotel,,13.172306,32.892162,exact_match,medium,50,no_image
+LY-HOT-000535,فندق غصن الذهب,hotel,,13.16923,32.89133,exact_match,medium,50,no_image
+LY-HOT-000536,فندق فكتوريا,hotel,,13.19444,32.89132,exact_match,medium,50,no_image
+LY-HOT-000537,فندق الاندلس /فندق فوربوينتس شيرتون,hotel,,13.146443,32.881078,exact_match,medium,50,no_image
+LY-HOT-000538,فندق قرطاج,hotel,,13.172593,32.892179,exact_match,medium,50,no_image
+LY-HOT-000539,فندق قصر الظهرة,hotel,,13.19423,32.89308,exact_match,medium,50,no_image
+LY-HOT-000540,فندق قصر الياقوت,hotel,,13.1778757,32.8916761,exact_match,medium,50,no_image
+LY-HOT-000541,فندق قصر ليبيا,hotel,,13.19433,32.89311,exact_match,medium,50,no_image
+LY-HOT-000542,فندق قلعة صفيت,hotel,,13.171082,32.893137,exact_match,medium,50,no_image
+LY-HOT-000543,فندق هارون,hotel,,13.19167,32.89047,exact_match,medium,50,no_image
+LY-HOT-000544,فندق قورينا,hotel,,13.1935,32.89095,exact_match,medium,50,no_image
+LY-HOT-000545,فندق كريستال,hotel,,13.177715,32.888509,exact_match,medium,50,no_image
+LY-HOT-000546,فندق كليوباترا,hotel,,13.19292,32.89206,exact_match,medium,50,no_image
+LY-HOT-000547,فندق كيان,hotel,,13.1948,32.89062,exact_match,medium,50,no_image
+LY-HOT-000548,فندق كيفالاي,hotel,,13.198579,32.855747,exact_match,medium,50,no_image
+LY-HOT-000549,فندق كيلو بترا,hotel,,13.193203,32.89192,exact_match,medium,50,no_image
+LY-HOT-000550,فندق ليبوس,hotel,,13.208031,32.897506,exact_match,medium,50,no_image
+LY-HOT-000551,فندق ليبيا السياحي,hotel,,13.16452,32.88714,exact_match,medium,50,no_image
+LY-HOT-000552,فندق ماريقولد,hotel,,13.192639,32.890861,exact_match,medium,50,no_image
+LY-HOT-000553,فندق مجد الضيافة,apartment_hotel,,13.135809,32.846506,exact_match,medium,50,no_image
+LY-HOT-000554,فندق مرحبا,hotel,,13.19337,32.89188,exact_match,medium,50,no_image
+LY-HOT-000555,فندق ناريـز ( NARIZ HOTEL),hotel,,13.20266,32.89559,exact_match,medium,50,no_image
+LY-HOT-000556,فندق نزهة,hotel,,13.20022,32.881335,exact_match,medium,50,no_image
+LY-HOT-000557,فندق نيو ستي,hotel,,13.176188,32.88784,exact_match,medium,50,no_image
+LY-HOT-000558,فندق هايتي,hotel,,13.172014,32.893914,exact_match,medium,50,no_image
+LY-HOT-000559,قرية تاجوراء السياحية,hotel,,13.42945,32.86274,exact_match,medium,50,no_image
+LY-HOT-000560,قصر العائلة للشقق الفندقية الفرع الثاني,apartment_hotel,,13.21628,32.89163,exact_match,medium,50,no_image
+LY-HOT-000561,لبدة إفريقيا للشقق الفندقية,apartment_hotel,,13.239434,32.853777,exact_match,medium,50,no_image
+LY-HOT-000562,لمسة للشقق الفندقية,apartment_hotel,,13.18492,32.88966,exact_match,medium,50,no_image
+LY-HOT-000563,مساكن القدس للشقق الفندقية,apartment_hotel,,13.179476,32.879495,exact_match,medium,50,no_image
+LY-HOT-000564,مساكن القدس للشقق الفندقية,apartment_hotel,,13.17949,32.87951,exact_match,medium,50,no_image
+LY-HOT-000565,مساكن القدس للشقق الفندقية,apartment_hotel,,13.179476,32.879495,exact_match,medium,50,no_image
+LY-HOT-000566,مساكن القدس للشقق الفندقية,apartment_hotel,,13.17949,32.87951,exact_match,medium,50,no_image
+LY-HOT-000567,منازل الشط للشقق الفندقية,apartment_hotel,,13.23361,32.90408,exact_match,medium,50,no_image
+LY-HOT-000568,والي للشقق الفندقية,apartment_hotel,,13.265857,32.905556,exact_match,medium,50,no_image
+LY-HOT-000569,لانكاستر برج الحياة (ماريوت سابقا),hotel,,13.164441,32.890814,exact_match,medium,62,temporary_google_url
+LY-HOT-000570,فندق الشراع,hotel,,13.172951,32.89219,exact_match,medium,50,no_image
+LY-HOT-000571,فندق اليمامة,hotel,,13.174335,32.892304,exact_match,medium,50,no_image
+LY-HOT-000572,فندق الصفوة,hotel,,13.188429,32.89027,exact_match,medium,50,no_image
