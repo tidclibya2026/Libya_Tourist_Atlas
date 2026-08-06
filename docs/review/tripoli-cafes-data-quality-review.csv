@@ -1,0 +1,405 @@
+﻿id,name_ar,quality_status,completeness_percent,missing_fields,review_status,notes
+LY-FNB-CAF-TRI-00001,كافي 92,medium,55,district|opening_hours|services|license|image,integrated,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00002,مقهى أسبانيول,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00003,إيّلا كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00004,Cave cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00005,كافي دي ماري,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00006,Café de Roma,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00007,كافي كيان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00008,لاتازا كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00009,Mondo Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00010,برانش كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00011,كافي تايم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00012,Le Corner Cafe Shop,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00013,مقهى سينابون,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00014,مقهى الحاج فتحي زاوية الدهماني,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00015,La Citta Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00016,كافيه كالدو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00017,Avero Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00018,كافي كورنيتو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00019,مقهى الزيتونة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00020,الباتشينو كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00021,aroma Caffe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00022,كافي كازا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00023,مقهى بيانكي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00024,مونتريال كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00025,كافي موكا ايطاليا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00026,ALMONDO CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00027,مقهى القادسية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00028,مقهي جردينه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00029,Milka Ly,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00030,Cafe twins,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00031,Mazaj cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00032,مقهى حب هان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00033,مقهي كافي لاتي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00034,كافي نيوتلا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00035,City CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00036,GARDEN CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00037,Papparoti Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00038,Caffe Vergnano 1882,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00039,Cafe 24,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00040,مقهى دا فيو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00041,كارفي كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00042,Estados coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00043,FIFTY CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00044,Elon Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00045,عصائر بي?اندا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00046,Café Solo,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00047,دكتور كيف,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00048,Commercial Caffe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00049,مقهى الجسر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00050,PALMS CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00051,مقهى التومى,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00052,مقهي باديه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00053,المقهى الرئاسي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00054,مقهي عين زاره,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00055,Atomo Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00056,Bono Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00057,كافي أربن,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00058,Mio Caffe and Resto,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00059,Tripoli Tur café,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00060,كافيه ميدان الجزائر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00061,Cafe Bali,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00062,حلويات اتش دبليو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00063,اوميجا كلوب,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00064,قهوة القصور,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00065,ثراء,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00066,ديب ان ديب ليبيا,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00067,فيول كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00068,كافي سويت,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00069,شيك أب,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00070,الحاج فتحي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00071,ساموراي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00072,مقهى ومطعم فلانيل,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00073,بونو كافيه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00074,مقهى رواق الوليد,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00075,1ONE DEGREE CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00076,كافي 33,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00077,Doctor Sweets,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00078,مقهى عصام,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00079,بولو كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00080,براند كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00081,روبوستا كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00082,CAFE EXPRESSO,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00083,مقهى الفنانين,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00084,مقهى العبسي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00085,مقهي هوقو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00086,مقهي مستر بودينق,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00087,AVERO,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00088,كافي فيتوريا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00089,مقهى الركن السياحي ( مقهى ارقيلة شيشة ),low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00090,حلويات شهرزاد,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00091,Covim Tripoli,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00092,Cafe Adam,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00093,NOTA cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00094,مقهى الدغيس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00095,كافي كافا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00096,مقهي الكشك,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00097,Country Boy Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00098,ميدي محار النوفليين,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00099,مقهى الفانوس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00100,مقهى مانقو السياحية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00101,لاشيتا كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00102,مطعم تقسيم جرابة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00103,مطعم زاوية الدهمانى,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00104,كيمو كافي السياحيه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00105,قهوة 11,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00106,مقهى لاكارايا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00107,كافيه كديلك,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00108,كافي716,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00109,البيك للحلويات والعصائر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00110,مقهى ميرال,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00111,كافي موتشي Cafe Motche,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00112,كافي مناف Manaf Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00113,كافي شمس الأندلس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00114,كافي لوقانو lugano,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00115,Gourmandise قورمانديز حي الاندلس,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00116,JOE & THE JUICE LIBYA,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00117,الحاج فتحي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00118,هافانا للعصائر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00119,SMASH Burger | سماش برجر,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00120,BigChefs,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00121,لوس أندلس حي الأندلس Los Andalos Hay Alandalos,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00122,Alzad Allibi for Catering Services - الزاد الليبي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00123,Lotche Cafe - مقهى لوتشي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00124,تاكوس قريل,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00125,شنابو جنزور,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00126,مقهى البناني,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00127,بيتزا بولبو,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00128,الحاج فتحي - جنزور,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00129,De keyff cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00130,WM JTV Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00131,مقهى الكروان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00132,كافي المشتل,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00133,DK COFFEE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00134,Mando Fastfood Janzur ماندو جنزور,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00135,الخيمة برجر - جنزور,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00136,مقهى المشتل,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00137,Be one cafe بي وان كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00138,قهوة حاتم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00139,Cafe 717,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00140,حلويات موزارت - السياحية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00141,كاسترو للوجبات السريعة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00142,بلبن فرع السياحية,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00143,مقهى بيتزا الفورنو غوط الشعال,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00144,نوتيلا السياحيه,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00145,مقهى - السراج,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00146,DOPAMIN,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00147,Aws coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00148,A K Caffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00149,مطحن بُـن تــوبـاز 3 - السراج,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00150,Snake KOFFE,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00151,مطحن الاجم لتحميص وطحن القهوة ومستلزمات المطاحن والمقاهي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00152,كافي أبوسنينة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00153,FoodPoint فود بوينت,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00154,نادي القهوة Club café,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00155,مطعم صفيحة ترابزون - Trabzon Pidesi,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00156,Kudo,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00157,O2 Café,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00158,مقهى هارون - حي الأندلس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00159,ORANGE COFFEE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00160,حلويات العسال,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00161,Black and white,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00162,كارفي حي الاندلس,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00163,مقهى اداليا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00164,Wees Cafe - ويس كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00165,إسبريسو لاب,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00166,عصير تايم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00167,مقهى آلينور,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00168,قوست برقر _ Ghost burger,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00169,كشك الهمبورقا عمر المختار,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00170,Smash Craft Burger سماش كرافت برجر,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00171,حلويات زهرة المدائن,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00172,مطعم 4 You,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00173,نوتيلا شارع النصر,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00174,مطعم طعميه ضوء,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00175,طعمية فرش - شارع سليمان الباروني,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00176,Green Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00177,شارع الجلاء,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00178,مقهي ابناء عشيبة للسندوتشات,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00179,AsROMA Caffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00180,مطعم سديم للمأكولات السريعة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00181,مقهي البيادر.مشاوي علي للفحم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00182,Ram Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00183,كافي شيش خان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00184,essse cafè,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00185,libya costa cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00186,عصائر هاواي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00187,Olympic Coffee - أولمبيك كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00188,بيتزا 99,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00189,كافي باب المدينة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00190,مطعم لبرتون,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00191,مقهى ثمانية وثمانون - 88,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00192,كافي 88 للوجبات السريعة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00193,اللموشي للسندوتشات,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00194,مطعم الطاهي للمأكولات البحرية,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00195,Cafe Latte,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00196,زهير بريش للحلويات الببو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00197,قهوة المسيرة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00198,كافي الوافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00199,Karo Café - كارو كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00200,Resto coffe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00201,مقهى تن,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00202,Big mac burger,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00203,THEGATE,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00204,كافي روت 66,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00205,كلاسيكو كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00206,8800,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00207,كودو - فرع حي دمشق,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00208,مقهى المجلس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00209,مقهى البوعة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00210,كافي مقيق,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00211,قهوة همبورقه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00212,Cafe bene,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00213,مطعم Andary فرع صلاح الدين,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00214,مقهى الوادي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00215,La Casa04,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00216,الحاج فتحي - عين زارة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00217,اشتيوي كافي خلة الفرجان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00218,مقهى العبسي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00219,مقهى بايو كافي في مقسم بن معتوق,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00220,مقهي وحلويات الكرم (الكشك),low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00221,كافي كوب,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00222,الدبشي كافيه - Dabshi coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00223,محمود للسندوتشات 777,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00224,كافي جزيل - JAZEEL CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00225,شيش زياد فرع زناتة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00226,شرمب نيشن _ليبيا,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00227,كباب زناتة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00228,شركة نون للعصائر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00229,معمل جاميلة البحباح,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00230,مطبخ العيلة - cucina famiglia,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00231,Vanilla Patisserie حلويات ڤانيليا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00232,Espressolab,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00233,Gustoso,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00234,Bubble Tea ببل تي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00235,Eleanor Pastries,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00236,Candy house كاندي هاوس,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00237,Pinkberry Libya,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00238,Buonissimo gelato Italiano,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00239,Nostro caffe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00240,كافي لاتي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00241,Alhofra Cafe - مقهي الحفرة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00242,ڤوگ كافيه ومطعم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00243,كلاسيكو ساندوتش,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00244,موندو جيلاتو - القادسية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00245,GOULZ,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00246,Ottimo Gusto Pizza & Pasta,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00247,مقهي كابو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00248,مقهى الشيباني,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00249,Sage Cafe - ساج كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00250,Costa Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00251,SUGAR Ben Ashur,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00252,Al DENTE Cafe M Hanka,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00253,دجاج كنتاكي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00254,Miss cake sweet shop and cafe 2,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00255,كافي مدريد,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00256,العمو الجرابة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00257,Bash Burger,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00258,Pink Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00259,THE MEATHOUSE,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00260,بـ لبن,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00261,تويستر,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00262,Diyar al-Sham ديار الشام,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00263,Burger Boss,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00264,Guns ‘n’ Buns,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00265,مطعم زيادة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00266,لاتينو,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00267,MOMANTO,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00268,S7S Burger مطعم سحس,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00269,كوب كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00270,Terrace café,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00271,مطحن جرابة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00272,Mammamia كافي ماماميا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00273,لافندر كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00274,فرايتس شيف,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00275,مقهى هارون فرع بن عاشور,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00276,مطعم طشطشة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00277,مقهى تشامبيون - Cafe champion,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00278,Bartato,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00279,مطعم الشامي 2- فرع رأس حسن,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00280,كباب عريبي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00281,ماندو Mando,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00282,مطعم 93,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00283,دولشي كيك,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00284,مقهى براون - Brown Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00285,عكسـة الرجـال,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00286,مقهى القيزاني - Cafe algezani,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00287,كافيتيريا كلية العلوم / جامعة طرابلس,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00288,Espresso Lab Cafe - مقهى إسبريسو لاب,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00289,Crown Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00290,بريوش عمر,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00291,الكردي كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00292,طرابلس,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00293,فلامينقو,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00294,كافي قمر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00295,WAKE UP COFFEE SHOP,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00296,cafe 99,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00297,Thaj Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00298,كافي أدجيم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00299,سيمافرو للوجبات الخفيفة و المعجنات,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00300,عالم القهوة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00301,بسبوسه الفقيه,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00302,Tasty Food,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00303,فطائر الكريكشي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00304,أورزو للأيسكريم orso ice cream,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00305,قهوة داكوردو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00306,مقهى MAIN GATE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00307,كاستيلو كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00308,مقهى الفنجان الذهبي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00309,قهوة الدقروني,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00310,IPSA ICE CREAM ابسا للمثلجات و الجيلاطي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00311,الزيتونة برجر 🍔 ALZETOUNA BURGER,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00312,فرشيلو كافي Farchilo Coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00313,مقهى ابو كتيف,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00314,ماندو | Mando,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00315,مقهى الديدو _ Café AlDido,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00316,كافي 2023,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00317,محمد 2,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00318,SUGAR,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00319,كودو تاجوراء,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00320,Naas Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00321,العالم للحلويات,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00322,B1 coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00323,مقهى و مطعم عصمان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00324,الحاج فتحي فرع تاجوراء,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00325,Café Motiv,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00326,مقهى المداق,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00327,7stars cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00328,مقهي الوطنية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00329,السبعة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00330,مقهى هارون فرع السبعة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00331,SamboCoffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00332,كوكيز,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00333,B&B Fast Food,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00334,كافي تشينو Chino Cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00335,Cafe 55,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00336,Vero caffe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00337,مقهى هارون,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00338,مقهى فينيسيا للبيتزا والمعجنات,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00339,بيانكا -BIANCA,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00340,بيتزا الفوار 2,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00341,تيك اوي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00342,Caffe 25,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00343,بانيني كافيه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00344,مقهى سيلفيوم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00345,معمل القشطة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00346,Malek cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00347,Habibi caffe & games,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00348,مقهى الوسام,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00349,مقهى الكبدة تاجوراء,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00350,Maram Kitchen,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00351,مقهى فيرونا VERONA CAFFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00352,مقهي بلاك اند وايت,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00353,مستر باسترس mr. Pastries,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00354,قهوة عصام الجديدة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00355,La Dolce Vita,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00356,كافي برقان,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00357,كافي شباب بلادي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00358,ويلا كافي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00359,مقهي الأرز,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00360,Como Coffee,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00361,Gelateria pinguino - مثلجات بنقوينو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00362,قهوة الببو دحي وجبنة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00363,VIA MERCATO LY,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00364,فوزي سندوتشات بانينا Fawzi Street food,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00365,البيت الموريسكي(كازا موريسكي),low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00366,مقهي باديه,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00367,Coofe Refrehs,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00368,شباك -shubbak.ly,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00369,MARSA CAFE قهوه على البحر,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00370,Old but gold,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00371,Caffè del Porto,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00372,مقهى السيدة مريم,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00373,قهوة ابوفينا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00374,فلافل الحموي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00375,مقهى ومطعم الميڨو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00376,مقهى صلاح,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00377,مقهى عمورة الكيلاني الثريا,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00378,مقهي أبو أحمد,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00379,مقهى كاره للوجبات السريعة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00380,البريوشة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00381,Saray Café مقهى سراي,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00382,Adnan cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00383,coffe malek,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00384,مقهى النخيل,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00385,Yahya sandwich,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00386,Nesma Cafe & Restaurant,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00387,مقهي ومطعم السرايا & Al Saraya Cafe and Restaurant,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00388,كافي اسامة,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00389,مقهى الكرنيش,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00390,مقهي فيراري Coffee ferrari,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00391,GROUP CAFE,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00392,الكشك العالمي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00393,مقهى طريق الشط,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00394,شهرزاد للحلويات الشرقية والعالمية,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00395,bona cake,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00396,GRILLZA للمعجنات والمشاوي,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00397,كافي تشينو,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00398,S&M cake,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00399,The cue cafe,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00400,دجاج تندوري فرع سوق الجمعة,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00401,مشاوي أبراج,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00402,معمل البركة للحلويات,low,27,district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00403,Big Boss Burger,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
+LY-FNB-CAF-TRI-00404,Gourmandise Libya,low,18,classification|district|address|phone|website|opening_hours|services|license|image,review_required,Complete official fields; verify ambiguous classifications
