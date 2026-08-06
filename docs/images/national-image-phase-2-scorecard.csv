@@ -1,0 +1,7 @@
+﻿layer_id,feature_count,local_images_before,local_images_after,verified_image_features,public_image_features,internal_only_image_features,primary_image_features,gallery_features,features_without_images,current_links_reviewed,current_links_verified,current_links_wrong,current_links_replaced,master_candidates_reviewed,master_images_approved,manual_reviews_completed,rights_cleared_images,rights_unknown_images,rights_rejected_images,high_quality_published,acceptable_published,thumbnail_only_used,corrupt_images_resolved,remote_only_features,remote_replacement_candidates,coverage_before,local_coverage_after,verified_coverage_after,public_coverage_after,primary_coverage_after,phase_status
+hotels,528,230,230,0,0,0,0,230,298,791,0,0,0,0,0,0,0,756,0,0,0,0,0,4,4,43.56,43.56,0,0,0,complete_with_open_reviews
+tourism-investment-projects,615,0,0,0,0,0,0,0,615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268,268,0.0,0.0,0,0,0,complete_with_open_reviews
+tourist-villages-resorts,262,0,0,0,0,0,0,0,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,89,0.0,0.0,0,0,0,complete_with_open_reviews
+tripoli-cafes,404,0,0,0,0,0,0,0,404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0.0,0.0,0,0,0,complete_with_open_reviews
+tripoli-restaurants,75,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,71,0.0,0.0,0,0,0,complete_with_open_reviews
+world-heritage,261,19,19,0,0,0,0,19,242,130,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,7.28,7.28,0,0,0,complete_with_open_reviews

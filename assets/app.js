@@ -502,7 +502,30 @@ function cleanPopup(
     properties.PopupInfo
   );
 
-  const localImages = Array.isArray(properties.local_images)
+  const publicRightsStatuses = new Set([
+    'center_owned',
+    'ministry_owned',
+    'government_owned',
+    'official_partner_permission',
+    'photographer_permission',
+    'open_license_documented',
+    'public_domain_documented'
+  ]);
+
+  const imagePublicationPermission =
+    properties.image_publication_status ||
+    properties.publication_permission ||
+    '';
+
+  const imageRightsStatus =
+    properties.image_rights_status || '';
+
+  const imageAllowedForMode = INTERNAL_ADMIN_MODE
+    ? ['public', 'internal_only'].includes(imagePublicationPermission)
+    : imagePublicationPermission === 'public' &&
+      publicRightsStatuses.has(imageRightsStatus);
+
+  const localImages = imageAllowedForMode && Array.isArray(properties.local_images)
     ? properties.local_images.filter(path =>
         typeof path === 'string' &&
         !/^(?:[a-z]+:)?\/\//i.test(path) &&
@@ -511,14 +534,14 @@ function cleanPopup(
       )
     : [];
 
-  const mediaValues = [
+  const mediaValues = imageAllowedForMode ? [
     properties.external_images,
     properties.images,
     properties.photos,
     properties.photo,
     properties.image,
     properties.images_json
-  ];
+  ] : [];
 
   const directMedia = [];
 
@@ -559,7 +582,7 @@ function cleanPopup(
     }
   }
 
-  const kmlMedia = placemark
+  const kmlMedia = imageAllowedForMode && placemark
     ? extractPlacemarkImages(
         placemark,
         properties,
