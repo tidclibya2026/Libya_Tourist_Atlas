@@ -135,7 +135,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -210,7 +212,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -254,7 +258,9 @@
         "extended_data": {
           "gx_media_links": "https://lh3.googleusercontent.com/umsh/AN6v0v6HxluBATwqJ1Vnm8XOf5p6Ba2QJ_ydJcTXhi1GowbT_OmyCDiVtq2Mgq1Rhy8t9fSouTZ4xwl4q9ABzBvHwuh4IQohl58_x8ao-K9Q0OZMm2hQ0d9LZLaytfiCV0Ml8uDFYgE8OnZxiVDIbs3wJDe3hObLPjRF2Zr4ErvYVZoNt85oSFzAVnOTTv-JacY-a2vPcYqN8PYI5M9qliOBrq0FAS3IadW5CbaSNTMj7vMI2UuCIDqXhzU3C1zWokz93Zxc-_7GKzMuAsfMd7WNyjMNHXQo2tO4QEKdh4ZQxzIAKKMsDanPWL2I0nWVFq1MxIDRmxoNJa_V3KRXkzvUVDqc3xqVRt7xEmwGwx7250BAlBbYONHzG2rg-BFoB96zowDDzDKuQCdf93kjLYb8W9YDhrQUcVR0Pz68mxXBTEFp7HckClJCs9bX0zwLGYaurdYxzVbU56kVWsOWYnZHoiMc0pcEAUEy4lSTswTMKtdY7de662t4pV4GhPnbMlMgjXoiNM2yW7dVyyI5ZbwZWue6BvtZ2icxi6cJaT-4aPyFJpFU9O13iEiVy7pqh5k_w2hlnqU01Xd6ccdTDrNQ-e-vtTnXfMxO7ZXt7MJRftdEHfM2urx6PzlR8vEgLeC8_UtIbEfMtjD6VjsOqoYqosCSRhntLhrZz5yAgkbIXePK2DsDsjugFH8DpjXuNzVn3SKBvomBMg https://lh3.googleusercontent.com/umsh/AN6v0v7zAzxSywb8KoKhf_3JnELeCFvSVNk5ipEAC4K0ZEtJsDX6OPQK1XkOXJnS5vO1_US-8rHh8xqH4bo8ELVzmObbDZ4wKDMcbt2JlL4ScFceCFrcRKinf_WCNgOCy0dcKNhLnZx1SCXknweYLWPddh_F4OxFZLWHQvZHKXo-KtWp7nFUshi0AwHyjfLACpong0O4MKyDKyUBLVG54Q7htlfwgmms9O4WsyLjqwy7TryPnlAW0kDnMh1Klr-LKT-aw5m9bYBiTAnL6aghbGJCLpFPp-lHhdm7cc2pAi1XGrcuLYIcAb69yUieSg1uc42xHGSppRThuSBFLg303nac1S-C21yckaLBPK8kGZkJLYTdi7sFouFB9DuANWQG_BneqU32jQ1iTy0sUGYzWUnfBQC8D_nEDj5Ytk5Csg9B3zGkkcRjl4bh4uB1mf78OKCEjJNh36U1prydBkDVxLEZ5Tg9XrnlDci0iuoTNwn3c1T9QOmJ2RGrL2QwBmFiOCmWQR4GGY1MqSZpYE5E0F0boUBfFMmL37PyeE2x6e_Pe37PLdaNg2IXHQks01-qoSafQMjFdUyVD5aqZ6FPYuyY5g1PzoCEx8kEnPxZMloql5W0W3Uloy1DC-b9G9NCsh9afs8KYEhFSt53sha8jAVYlr9FjajdwOOMDUpIcjNjYPEPnZQ73aO-w4x95IpBlEv3TdtYDpa6T24 https://lh3.googleusercontent.com/umsh/AN6v0v4o1ueSNgwY38ILBkfjfOuYfKOTfQH9kbPkRfgwJTzTRR4py7KQT6jN-BbIc5EoeaEGM45quyI60VjkyiWbmX_uZ8NOkIhFiim54WJRRz2-nDmT33rKI_Q-HKWxI2Em1Q8xOTX5hWFR0dYKf87Q8iRB-Xh3CXTxUUigCfBozQy49e3tfZsUC7VsCWd-xFukVMmEGYr9Df9oqKP7JwwZGX_-ZasnAElTS8rKgy2SXqcqQEKdSF--HCE3Lb26kW2m9bbYvSLfW3rQmXLaqoSrgz4V4ar3sfUSzoln32vmxwH9l5EhTFV4jmVQT7JyL4oBZ6JMvHKSzO1UuKWhX7a2hCQmrMHHDOz8QH6c4FXKt-lSc_4_sEbFD2v4FxLbuqqZq7IfSeXCE0QUfzBc8daIFu7U0QPQOjEQPtse5VMs3df9edlRWyclwkiDufCMCl7QMMuYhrYLHjz9N6oiBi25r4nRnTjenxCieSWbvTG5L7U4UwmgSyhlk1J55YHoeRD2Kiq8h7Jzq8-oHyFxhCtvVqlGZkQlSTjJcu-OGrRjiwkVgPI_GfKcPow-yabVIxNVJSqbYfRa_nAeAd_xK8OJpJ0c9XvvvP52Q8mjdfLgPFvUzvfe74yGIqTtd5dPv3Xo87svAsfv0jR1ay7bK9DNW6uarPB7JFbzgxCmWXe8hURSibZhFM45ZEx7HLIe1RHaf56figo4xzs https://lh3.googleusercontent.com/umsh/AN6v0v7D94FU5LJy6MhZb6u-VkBJVQnLwiW51-cG-CkiM-0eA9-7ghmKw7DRUifSASkeQIFiqGAsHRuSWNI8sWb5m6bomsA81bhbb51lO2jRuIz96OJwqp1EXk6MSlI--_tLgChD7rxmoz8yQ0eHgZQRlxjFeoXGw5cAprIYM_S36nqwH0Z2ci0FZBIBKngIX0kY4tCab09OE9bHMciWtQ5D82budwexhs7mEU_H9Ak6Uzp4D1rNDaBOcirQAvprbAwyg9Sfu1Y6SK0t7elo6se_iaLIxBnL2K1kJjECeT9U_IiLm8yboSfNdFdSs2NsQgGmwSveRElDpTqeaEnF3JjB8mHr-ZPSz7TsLTjS_8A-tJlbGPgkG2KQ5TKUAklYHjA6QyU66RncWw9sQu8EDjpFwWlSP6SShXoSmDMynsWZZED8oXzfbkmudnGUGC9O3QCt9YjL2sKxw7zyL03a4g4AQxg1L3zcXaB7Ud2smzaJxdZB6cq95ro-AzTKhtEyqQAI7d6ULPQ-LwplLuRacbtTt9L7UaCOSRiL9YsqjclqVpM7J6fucDP2hsIcyUluq_SRhBy_021sp6wN6VdUGpgchUCIrIYRFb25tCykFRBdoUOxCot21Aj5OQruFRXhWnrqeNYR2-Ihwlydt3hk5zmRBtzW4e1iS-4hGQFOPEBcEIXcYrvoCjUoV1mV4LU2T4rMUKbuptStjw"
         },
-        "source_index": 3
+        "source_index": 3,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -399,7 +405,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -2024,7 +2032,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -2161,7 +2171,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -3557,7 +3569,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -3703,7 +3717,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -4996,7 +5012,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6448,7 +6466,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6516,7 +6536,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6627,7 +6649,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6721,12 +6745,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسرح شحات الاثري",
         "extended_data": {
@@ -6740,7 +6767,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 104
+        "source_index": 104,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6770,12 +6799,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "متحف المنحوتات",
         "extended_data": {
@@ -6789,7 +6821,9 @@
           "info": "متحف شحات أو متحف المنحوتات في شحات في ليبيا. هو متحف قرب مدينة قوريني التاريخية",
           "EN_NAME": ""
         },
-        "source_index": 105
+        "source_index": 105,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6819,12 +6853,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "الحمامات الاغريقية",
         "extended_data": {
@@ -6838,7 +6875,9 @@
           "info": "الحمامات الأغريقية و تسمى إيضا حمامات الأميرات تقع في الجهة المقابلة و هي حمامات محفورة في الصخر و بعضها تحت مستوى سطح الأرض , مدينة وقورينا",
           "EN_NAME": ""
         },
-        "source_index": 106
+        "source_index": 106,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6868,12 +6907,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "المجلس المحلي شحات",
         "extended_data": {
@@ -6887,7 +6929,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 107
+        "source_index": 107,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6939,7 +6983,9 @@
           "info": "مدينة تاريخية أسسها الإغريق في الجبل الأخضر في أقصى شمال شرق ليبيا وتبعد عن مدينة البيضاء بحوالي بـ10كم",
           "EN_NAME": ""
         },
-        "source_index": 108
+        "source_index": 108,
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -6969,12 +7015,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "المسجد القديم",
         "extended_data": {
@@ -6988,7 +7037,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 109
+        "source_index": 109,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7018,12 +7069,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "منتزة شحات",
         "extended_data": {
@@ -7037,7 +7091,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 110
+        "source_index": 110,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7067,12 +7123,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "كهف يقع جنوب شرق مدينة شحات",
         "extended_data": {
@@ -7086,7 +7145,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 111
+        "source_index": 111,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7116,12 +7177,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسرح3",
         "extended_data": {
@@ -7135,7 +7199,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 112
+        "source_index": 112,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7165,12 +7231,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "سيزاريوم/ساحة بروكولوس المحيطة بالأروقة…",
         "extended_data": {
@@ -7184,7 +7253,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 113
+        "source_index": 113,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7214,12 +7285,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "غابة شحات",
         "extended_data": {
@@ -7233,7 +7307,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 114
+        "source_index": 114,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7263,12 +7339,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "هوا القاطر",
         "extended_data": {
@@ -7282,7 +7361,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 115
+        "source_index": 115,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7312,12 +7393,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسرح شحات",
         "extended_data": {
@@ -7331,7 +7415,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 116
+        "source_index": 116,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7361,12 +7447,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مقابر منحوتة في الصخر",
         "extended_data": {
@@ -7380,7 +7469,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 117
+        "source_index": 117,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7410,12 +7501,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "هوا احجري",
         "extended_data": {
@@ -7429,7 +7523,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 118
+        "source_index": 118,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7459,12 +7555,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "نبع أبولو",
         "extended_data": {
@@ -7478,7 +7577,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 119
+        "source_index": 119,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7508,12 +7609,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "شلال شحات",
         "extended_data": {
@@ -7527,7 +7631,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 120
+        "source_index": 120,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7557,12 +7663,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مدافن محفورة في الجبل",
         "extended_data": {
@@ -7576,7 +7685,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 121
+        "source_index": 121,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7606,12 +7717,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "معبد الكابيتوليوم",
         "extended_data": {
@@ -7625,7 +7739,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 122
+        "source_index": 122,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7655,12 +7771,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "اعمدة اثار شحات الخالدة",
         "extended_data": {
@@ -7674,7 +7793,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 123
+        "source_index": 123,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7704,12 +7825,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "معبد زيوس في قورينا",
         "extended_data": {
@@ -7723,7 +7847,9 @@
           "info": "",
           "EN_NAME": "Temple of Zeus"
         },
-        "source_index": 124
+        "source_index": 124,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7753,12 +7879,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "السوق اليوناني القديم اغورا",
         "extended_data": {
@@ -7772,7 +7901,9 @@
           "info": "",
           "EN_NAME": "Agora"
         },
-        "source_index": 125
+        "source_index": 125,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7802,12 +7933,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "Byzantine basilica",
         "extended_data": {
@@ -7821,7 +7955,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 126
+        "source_index": 126,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7851,12 +7987,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "شلال الدبوسية",
         "extended_data": {
@@ -7870,7 +8009,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 127
+        "source_index": 127,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7900,12 +8041,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "شلال رأس الهلال بافلو",
         "extended_data": {
@@ -7919,7 +8063,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 128
+        "source_index": 128,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7949,12 +8095,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "شلال بالفو",
         "extended_data": {
@@ -7968,7 +8117,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 129
+        "source_index": 129,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7998,12 +8149,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "Cyrene cemetery",
         "extended_data": {
@@ -8017,7 +8171,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 130
+        "source_index": 130,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -8047,12 +8203,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "بحيرة براك نوطا",
         "extended_data": {
@@ -8066,7 +8225,9 @@
           "info": "",
           "EN_NAME": ""
         },
-        "source_index": 131
+        "source_index": 131,
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -10968,12 +11129,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "بحيرة عين الذبان",
         "extended_data": {
@@ -10999,7 +11165,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11029,12 +11197,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "المسجد العتيق",
         "extended_data": {
@@ -11060,7 +11233,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11090,12 +11265,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "جبل الصحابة أو رأس الغولة",
         "extended_data": {
@@ -11121,7 +11301,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11184,7 +11366,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11214,12 +11398,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "برج مراقبة قديم",
         "extended_data": {
@@ -11243,7 +11432,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11273,12 +11464,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "تمسمودسن",
         "extended_data": {
@@ -11304,7 +11500,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11334,12 +11532,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "جامع يونس",
         "extended_data": {
@@ -11365,7 +11568,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11395,12 +11600,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "واحة تومس_غابات النخيل",
         "extended_data": {
@@ -11426,7 +11636,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11456,12 +11668,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مدرسة تيلوان",
         "extended_data": {
@@ -11487,7 +11704,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11517,12 +11736,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مدينة غدامس القديمة",
         "extended_data": {
@@ -11548,7 +11772,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11578,12 +11804,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "متحف غدامس",
         "extended_data": {
@@ -11609,7 +11840,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11639,12 +11872,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "البيت التراثي- دان دون يونس",
         "extended_data": {
@@ -11669,7 +11907,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11699,12 +11939,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مقهى توجدة",
         "extended_data": {
@@ -11730,7 +11975,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11760,12 +12007,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "القادوس",
         "extended_data": {
@@ -11790,7 +12042,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11820,12 +12074,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسجد السنوسية",
         "extended_data": {
@@ -11849,7 +12108,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11879,12 +12140,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "عين تالة",
         "extended_data": {
@@ -11908,7 +12174,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11938,12 +12206,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "بيت الحبيب بن عز الدين للثقافة",
         "extended_data": {
@@ -11968,7 +12241,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -11998,12 +12273,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "جامع عون الله",
         "extended_data": {
@@ -12028,7 +12308,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12058,12 +12340,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسجد سيدي عمران",
         "extended_data": {
@@ -12089,7 +12376,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12119,12 +12408,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مقبرة سيدي البدري",
         "extended_data": {
@@ -12149,7 +12443,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12179,12 +12475,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "فندق باب الفتح",
         "extended_data": {
@@ -12208,7 +12509,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12238,12 +12541,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "قرية تونين",
         "extended_data": {
@@ -12269,7 +12577,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12299,12 +12609,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "فندق بن يدر",
         "extended_data": {
@@ -12330,7 +12645,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12360,12 +12677,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسجد الظهرة",
         "extended_data": {
@@ -12389,7 +12711,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12419,12 +12743,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "الحوش الغدامسي",
         "extended_data": {
@@ -12450,7 +12779,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12480,12 +12811,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "فندق عين الفرس",
         "extended_data": {
@@ -12511,7 +12847,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12541,12 +12879,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "المقبرة الغربية",
         "extended_data": {
@@ -12570,7 +12913,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -12600,12 +12945,17 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "مسجد حي السلام",
         "extended_data": {
@@ -12630,7 +12980,9 @@
         },
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
-        ]
+        ],
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -14067,12 +14419,15 @@
         "source_index": 144,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "فندق التلال الوسيطة هو منشأة فندقية متوسطة المستوى تستقبل مختلف الفئات من الزوار والسياح، ويتميّز بموقعه الذي يوفّر سهولة الوصول إلى قلب المدينة والطرق الرئيسية المؤدية إلى الجبل الأخضر والمناطق السياحية المجاورة‎‎‎‎",
@@ -14083,7 +14438,9 @@
           "en_name": "Middle Hills Hotel",
           "info": "يقع فندق التلال الوسيطة في مدينة البيضاء – شرق ليبيا، ضمن منطقة الجبل الأخضر ذات الطبيعة الخلّابة، قريبًا من نقاط الجذب السياحية والخدمات الأساسية في المدينة‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7WCv9Zl2LdqxYFPw5HaPWKpBc73hYiK01XhiNgnVav2kU-ba54kh6yfpFGaJMsgpFTSNQKCI8QFnysiKFGwRWtTk1vv2A8SRbhhFAvgQg2DEfIF9i3yy3VLI60J53ZBkCznKOTM-gJzUvdigMWxF02FwEK4ZWB6LvHH1iujWoawo_rG-BudSl0bYcA796NXhRZWab9gbWKkGGpEnkZ5Fd0OHXqixLVKD3GhePY8FGHceCC1vtQHyKpKuw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6sh08cCwNMDXVM4uRbCbVOR8dFSTLb7_Y6BzSwcBWKz29HLj_NvDkVRil8Mi5oFfNzoohq2NFGI9X-LgV486j5KpSaP6veMFt5f8IYcQKg2sGo5p_U5-5KpJ24256tBBBGS4UNEn2_LzZkEltyJpKTriKTzGRoALXLOnSAeDS36hGoMTrEA4PK4pQ7ZtTR-qMmFXj6qmplka8UbFCvf9IHs-EtBLW9ZnN5XZAcNOIpiRXtkmBlZPNGUx0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5k6D7ZUZlDw6Q5vTwoF-OoMECPcnR5rEJUCYTKndAKsAHgnVj1gV9-mFP0yt2DYNBTWQpO3cOG-FImB1mc1xbJrZy4iIkpZVTsTjjcg-sp3rXQc-96AfflkfwbAOTtdkN5r9KXTEjUNG2ml13I8crp5LtBHqn82tkCCCZ-chIfSiS9bcp5JBZCKJej11uKNLPDD1-N9w9nifavlN_UpO9v8oZjcDCGUfc3FI6ZXOiOfATaMrM2YgNH8AU?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14115,12 +14472,15 @@
         "source_index": 145,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "تتميز الجهة الجنوبية والجنوبية الغربية من قورينا (شحات) بامتداد \"المقبرة القورينائية\" الضخمة التي تحيط بالمدينة‎‎‎‎‎",
@@ -14131,7 +14491,9 @@
           "en_name": "South Cyrene ruins",
           "info": "أبرز المعالم في القطاع الجنوبي\n المدافن المنحوتة في الصخر: تنتشر على المنحدرات الجنوبية، وتتنوع بين قبور فردية وعائلية بزخارف ونقوش جنائزية.\nبقايا مبانٍ سكنية ومنشآت خدمية: تدل على توسّع المدينة خارج المركز.\n مسارات وطرق قديمة: كانت تربط قورينا بالمناطق الزراعية والضواحي.\n جدران وأساسات حجرية: توضح تقنيات البناء المحلية وتكيّفها مع التضاريس‎‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7uJ-NEaN0aBRw7GSK9o95A18RObGsLXWK3Vr6zhjdputi7DV5lUSwlhwerXKog0Vbc2WcwWhO7QXdyko9pdQZRzjb6gf5SGPY_Qp1SvmO9Oa65ymUtdeEst46SAM1F2iQ2NZYjWKP_UMYEoY6bBtMjMgI2yz0T0TRqXqY56OqNplFuq_D_IHCG23yTpK4S6vebq6KjbuaYCqS6PQL-ablGpy9J0sz_88Yqrah_uKLAahHhs2i1NnKCXNs?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR47ZJ3SimZ4iQAarVUPLU6EelfHaDiUiqEJVwiQHoLMT57J7UUPhT3f9mrJ-gUgMC-4NAgFntaLqJ920KrKBTplbDyblEGVH4S_4mUUETF1To1tDVPG4ZFQrSa6KTfexU3S6RU2oKWeBFM7uXw5HJEP2LM9ClV3in0arYGnOQEdSlnbYTMUkDhL2FeDqACUduRfuyv2Rb-Kc87Us3XmfHIcALeqF8kxzyDcULTnCu1qbol4ZcX2PaToc4U?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14163,12 +14525,15 @@
         "source_index": 146,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "وادي بومليو هو واحد من المظاهر الطبيعية المميزة بالقرب من مدينة شحات في الجبل الأخضر بشمال-شرق ليبيا. يتميز الوادي بتضاريسه الجبلية الوعرة، وجريانه الموسمي للمياه، مما يجعله مقصدًا مفضلًا لمحبي الطبيعة والمغامرات ضمن المنطقة.‎‎‎",
@@ -14179,7 +14544,9 @@
           "en_name": "wadi bumilyu",
           "info": "الأهمية البيئية والسياحية\n•\tوادي بومليو موطن طبيعي للحياة البرية والنباتية المحلية. \n•\tموقع ممتاز لأنشطة مثل: \no\tالتنزه والمشي \no\tالتصوير السياحي \no\tرحلات الاستكشاف البيئية \n•\tيُثري تجربة زيارة شحات والجبل الأخضر بتنوع بيئي جميل.                                                                         وهو أحد التضاريس الطبيعية المميزة في محيط شحات، وهو مكان يجمع بين الهدوء، المنظر الجمالي، والمغامرة البيئية، ما يجعله إضافة جيدة لأي برنامج سياحي في منطقة الجبل الأخضر \n‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7Hezy_W_wEBaafJYhNaxdEEs50BocBa-wmyZJ0mc-Koux1uxSf-1WMfgYCpPA1fJxYbydEs18g9Sg5E9xKyFYeGVsG8InFFq1TIRTmnW5wOi-JNGVWFub2DIB9ccOLrIXKa7OmA_zgUQMeFCNiVm_LHGFcskwn7vWpCDLsaQzjaxYjyutv3_fnL-GOf3bV-jZNFVYXjF06cla0cpAsHm3wyITi2JQ2hv4To5ouPjE9yCN6EAV-OnKOL04?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7m4_Mk-Z7K_WWPS67UHA83-J9a7Se10_OfR_oLfMa_NcpbxdW34dQhUo4cRc1z0bBNYanzmqewwf8xWfC7pHFEgSJtJRUj9V42LCCKfviXxMUPKqt3SK_RGOrr5_VUClXsWCVSeVeG1-Paquq67Vwt5hvzB1X_3MKvDBZq9XwVxkEV4bQAHAGT1IxuBJOri2pjiO2N0YfPtB_vDRzh9Q1KBu3fYtq6jxajvT8V_JHjdntbnX1-x9xVr9o?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14211,12 +14578,15 @@
         "source_index": 147,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "تُعد عين الحفرة (المعروفة أيضاً بـ \"وادي عقار\") واحدة من أبرز المعالم الطبيعية والوجهات السياحية الشهيرة في محيط مدينة شحات بمنطقة الجبل الأخضر شرقي ليبيا. واكتسبت هذه العين شهرة واسعة بين عشاق الطبيعة والرحلات بفضل تضاريسها الفريدة ومناظرها الخلابة.‎‎‎‎‎‎",
@@ -14227,7 +14597,9 @@
           "en_name": "Ain Al-Hufrah",
           "info": "سميت بهذا الاسم نظراً لخروج تدفقات المياه العذبة من جوف حفرة صخرية طبيعية داخل الوادي.الطبيعة الساحرة: تحيط بالعين أشجار كثيفة، ونباتات السرخس الخضراء، ومنحدرات صخرية وتلال تكسوها الخضرة.‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5D3rsEYOdiB1iLWxYrPNXnKqzwoRfHofY4vFT74wkt8u3URJsJb5_5x47PBX1QsW10i7PvJm8V77dyYCFpjbkIQRyPzqD02JTUcDANA2IsATcMRoWj9Zh60dYXilm9OjQWWbLb6IAXCOFh0C_qZPsFw2ebHK7N6DQxzq0KmxK1q0PhNb7UUQbsJlhidwoX3nxSrTdWENFI35QPNdK5eKGSduXeakO7pkWq9bmc05vqwivzov5xDebi9MQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42im2Lrnz25wy7A3BwNd0CPvDK_895DT839B3sM6H2jDJeXZHgjtYvpuzNS5qXhAFHWdT8ZkXYhws17SBDY0PJCmYCLgDHhnYm0DpAi78bsYOFY-TnxrtZZKWeIWRQ7dvrYCjm_OBbA-BDxRGL3cXfkD48JHh7Ba1-kKtiKJOQTFkZxQRzLZA5r8s-UtQysTC56gXdP3xDdNtsXt7OWLWdT0cd4GmP750CCEx8lva8jSoSGyEou2qrRO8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4Tr1GsSFRGByE_Jw8IX9ODcECy8bfdlFRAyhAo_hVZ2BkroaAc8xVZfWtyY9yj5xFsVu4N7GlaAIH2fK0MacSZbt3DDU6YQl1aILnqwp0kulqoRIqeWJKklHlPY-gblyiT4MUEj2ZIieanPJywHyFD5s61WB-p3WS486lDps_1gbohZTKdpnj3ExtHmfcCuJ9HlPpi03aP2v__V4Ic_IeI1-7EgTzEHp46q_5zzJhLyqN2LVhsTa9cUHI?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14259,12 +14631,15 @@
         "source_index": 148,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يتميز بارتفاعه الشاهق ومساره الملتوي والضيق صعوداً وهبوطاً.",
@@ -14274,7 +14649,9 @@
           "city": "الجبل الاخضر شحات",
           "en_name": "Bu Na'as Mountain Pass",
           "info": "إن منحدر أو \"عقر بو نعاس\" هو مسار جبلي ومنحدر شديد الوعورة يقع في ضواحي مدينة شحات الأثرية بإقليم الجبل تحيط به أشجار البطوم، الشماري، والزيتون البري المميزة لغابات الجبل الأخضر.الأخضر.‎"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14306,12 +14683,15 @@
         "source_index": 149,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14321,7 +14701,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14353,12 +14735,15 @@
         "source_index": 150,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هو عبارة عن هوة سحيقة أو تجويف صخري ضخم (منخفض كارسيتي) ناتج عن عوامل التعرية الطبيعية عبر العصور.‎‎",
@@ -14369,7 +14754,9 @@
           "en_name": "Hawa Buthan او Bothan Cave",
           "info": "تحيط بالمنطقة غابات كثيفة من أشجار الجبل الأخضر المميزة مثل الشماري والخروب والبطوم، مما يمنحه إطلالة خضراء خلابة.‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6qHiIyZ7Lzwmhnn7Prp8tvCkhrTGrsFLeY69u5B-rS98AjY-nzHUEnf1G9fE6WrXc1jRno8X0zz2Jz5SQxFems0hnsJGnKtgF_cuY-uFPocpZqhCgU2EcJZMNYJWubHA_H2ED0afozYFbNTri-aORiQkrv-oKGSWdnBFVwcCZmA7rspsNu88f0jqwd7CFNZvu6j3pmq90n_Vt4UhSLyqnzY_xfVdbymoi5C4C7p1onht2cpogvLsbisnI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7ebuyK_B9j6_zy-z9_k83JRLvLCFIuVqQ2UF1MPQVejaYAc6Ch6ttOFOjSjBaj9_Qt42Kzq3XWYIWqCre-J-YuEJsCMsI_IL4-ozzjlutyKEz1Zs6b8D6x3z75AmqstsYbJGEmZa7b_Uv5Wvh-Q7F9xXvT7ZtlyVvM0mnUfG4jEijszel0ENOugfDmJL-C83S6a2SzvzADPvLWb1INvjml8myALLBWuLxF3vYi8RHhWMFaHUN3N10QkbE?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14401,12 +14788,15 @@
         "source_index": 151,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14416,7 +14806,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14448,12 +14840,15 @@
         "source_index": 152,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14463,7 +14858,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14495,12 +14892,15 @@
         "source_index": 153,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14510,7 +14910,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14542,12 +14944,15 @@
         "source_index": 154,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يقع بدقة في وادي الشلوق الواقع غرب مدينة شحات مباشرة في الجبل الأخضر.‎‎‎",
@@ -14557,7 +14962,9 @@
           "city": "شحات الجبل الاخضر‎‎‎‎",
           "en_name": "Abdullah Bin Al-Khattab Cave",
           "info": "يقع الكهف وسط تضاريس وادٍ وعر مليء بالمنحدرات الصخرية الكثيفة بالأشجار والنباتات البرية، وهي بيئة مثالية لوجود مغارات وتجاويف جبلية طبيعية (كهوف).‎‎"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14589,12 +14996,15 @@
         "source_index": 155,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14604,7 +15014,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14636,12 +15048,15 @@
         "source_index": 156,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14651,7 +15066,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14683,12 +15100,15 @@
         "source_index": 157,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14698,7 +15118,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14730,12 +15152,15 @@
         "source_index": 158,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14745,7 +15170,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14777,12 +15204,15 @@
         "source_index": 159,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14792,7 +15222,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14824,12 +15256,15 @@
         "source_index": 160,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14839,7 +15274,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14871,12 +15308,15 @@
         "source_index": 161,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14886,7 +15326,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14918,12 +15360,15 @@
         "source_index": 162,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14933,7 +15378,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -14965,12 +15412,15 @@
         "source_index": 163,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14980,7 +15430,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15012,12 +15464,15 @@
         "source_index": 164,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15027,7 +15482,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15059,12 +15516,15 @@
         "source_index": 165,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15074,7 +15534,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15106,12 +15568,15 @@
         "source_index": 166,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15121,7 +15586,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15153,12 +15620,15 @@
         "source_index": 167,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15168,7 +15638,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15200,12 +15672,15 @@
         "source_index": 168,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15215,7 +15690,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15247,12 +15724,15 @@
         "source_index": 169,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15262,7 +15742,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15294,12 +15776,15 @@
         "source_index": 170,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يتميز هذا الساحل بطبيعته البكر والمزج الفريد بين المرتفعات الجبلية ومياه البحر الأبيض المتوسط النقية‎‎",
@@ -15310,7 +15795,9 @@
           "en_name": "Shatt Ar Ramlah",
           "info": "تقع المنطقة على مقربة من آثار شحات الإغريقية الرومانية الشهيرة ومنطقة سوسة الأثرية.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5a01T3Pk9f63NbX31ZDq9e9-RPDyd9ArEYy_8S3YSPh9koXjrf2n8U_3Fs7868S6HMAdZNQSeCxEwRlt61Vp3py4XDEDhSV0gqDyGH5kK5GJo8ybMs_c9VsmtrnS9yKk3bYaN7satpdhqgBAOqJ8sUcd1XQlNDsSXioOGRKB58UZ5IjQjTDWJhfX8pv0EDzf3w6yj8x_CAAAVQkoH3OWXo7D97Xfk0xS8MfqKUo-onuPRnRa16YSLkWBQ?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15342,12 +15829,15 @@
         "source_index": 171,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "المصيف البحري التابع للمجموعة، ويقع على الساحل الشمالي للجبل الأخضر في منطقة الحمامة (شمال مدينة البيضاء وشرق شحات‎‎‎‎",
@@ -15358,7 +15848,9 @@
           "en_name": "AlTelal Tourist Resort & Hotel",
           "info": "شاليهات عائلية مستقلة ومطلة مباشرة على البحر.المرافق: تضم ممرات للمشاة، مساحات خضراء، أحواض سباحة للكبار والأطفال، ومطعم ومقهى.‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR44von4YQQUPpKwHKtjrqRUtQPHoxvN1qIIRdfx2I0vfxpaQ85oQHakhR6JvUD19Be-k7iHAQGpqOY6KoJLzBAxFJxxxtW0gMHaBh_dZ37enu3xtvx9C3vyAuyFEINrqipfA32VvB8099mLY1Qah0GFRS8HIevrPhiVKMG1PEpO_4QarkTohh8KLCNooNKGi_exL5zU8VU1RQJMixvp2ZccRq-9abuhaCixpaiGjSFm_DHWiKMcwX_AK1M?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4GLlbipWQrSnXW_x8KMuX9iCV4qevbW2J_XDOvH4aIlpOnGPI4s_jomAPONfVzFzQ9PHVS69EA2luHyF3nJXU6N3_mKes3O98ODEXua7BksosyT9M4P8EmgEIUTemwFE5hjMGpMnNHDYM5lRAjK6Tw2NrDyKvjDxRoEXMYDpCjNuKTQ2mbMK_AgehMOJAuGPrYFFYJWCNHoALmBxQmuxQaoXGf1HKYS3HUJx_jfwbCVcd0fmWQHpUFnjs?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15390,12 +15882,15 @@
         "source_index": 172,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "واحداً من أبرز الوجهات الشاطئية العائلية الواقعة على ساحل الجبل الأخضر المميّز بنقاوة مياهه ومناخه المعتدل. ‎‎‎‎",
@@ -15406,7 +15901,9 @@
           "en_name": "Al Hamama Beach Resort",
           "info": "يتبع المصيف جغرافياً لمنطقة الحمامة الساحلية (شمال مدينة البيضاء بحوالي 20 كم)، وهو قريب جداً من المعالم الأثرية والسياحية في مدينة شحات وسوسة‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5N2TSjT9-Fz6iwK4f_kLUvdWuEg709iLRZjGjTi2nwQfRKvEzLQgQMTrkDqiTh0dzcOCZCK22H0FpoEuTJMLlP6qxW_BLAqVLqs4YLAuSmVStbJ1kLD7v5kGpZR1HKnAr2ej1Vd2Sb6dTeCz8TUsEBjdS0qFJEZA03vKTgYX7t22-qcVgItwDXTOCefAl290RY2Y3tUY72K0sTqJFwZAmDojrR9XaZjWk-9cOGACpdcFgE3EGTdfkn8sQ?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15438,12 +15935,15 @@
         "source_index": 173,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هي الأحواض والمنشآت المائية المنحوتة في الصخر الصلب. كانت تُستخدم قديماً كأرصفة لترسية وتجهيز السفن الإغريقية والرومانية‎‎",
@@ -15453,7 +15953,9 @@
           "city": "الجبل الاخضر منطقة الحمامة",
           "en_name": "Submerged Slipways و The Submerged Ancient Port",
           "info": "القلعة الغارقة: تتمثل في بقايا الأبراج الدفاعية والأسوار الهيلينستية الضخمة التي كانت تحمي الميناء. يتواجد برجان دائريان كبيران تحت الماء كانا يحرسان مدخل الميناء الشرقي والغربي، ويزورهما الغواصون اليوم كمعلم رئيسي يُعرف محلياً بالحصن أو القلعة المغمورة‎‎"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15485,12 +15987,15 @@
         "source_index": 174,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "براك نوط تتكون من ثلاثة بحيرات وهى تقع غرب مدينة سوسة بحوالى 20 كيلومتر فى فترة سابقة تم استغلالها فى تربية بعض الطيور منها البط والدجاج الهندى .،احد بحيرات برك نوطا يبلغ قطرها 130 متر تقريبا ويصل عمقها الي 52 متر علي شكل قمع تضيق كل ما نزل الي الاسفل يوجد بها بعض من ,,اسماك اللانقويل وثعابين البحر والقريدس..... وغيرها،، مياه غير مصنفة ( حلوة او مالحة ) مزيج بين الاثنين .‎‎‎‎",
@@ -15501,7 +16006,9 @@
           "en_name": "Birak Nuta Lakes",
           "info": "فى القدم فى الحقبه الرابعه الى أرتطام نيازك مذنبه ملتهبه بالارض فأحدثت فيها ثقوبا شبه دائريه ضخمه تعرف بأسم هوى ويزيد عمق بعضها عن مائة متر كما يصل قطر بعضها الى 300 متر ومنها أبرك نوطه غرب سوسه وهوى احجرى شرق قورينا والهويات وهاتينى شمال قرية قصر ليبيا ..‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR45uAAAvhXGk5sc_7EOFomz_EQSDEUuX3AD2BgDguODmg55QTOvis6FMgdBflC3w11SCwahm_pIt6j6EfKfgJ2rXGzeLRCHNpEFr1O7oHxYpEpr2uAZL2Z8nHf2_WqQvRdh8X3749QciHg4B00yeKhrGIQYixGICdT9cntMcSPncVsiV_KwJqAmhaK1f6WbYOYwjoxYT0QjxevRZTzyR4tsYZvfnVTYIruE6FBZ60P9YFXcC7pPeew1t88?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4XCdGh-n38QHCdCI9yIFc1IFxbAh17d1JC-6YA_1cyFXIHBPJTtVGrfilWK0oe_Od5tBfprQKJkLnFqmFGlNWKt7BbZJVA19M5pLgMk2-aqMaa0inHaaB38nGiP99O9GeQdtkf7gVRe_AfXvgNcjf5-RBPQdFOrfETg4lNQfPJX0WKfIaOMgpqPNgAgS6CC2lFgX-m88JUqcie6xv3v0e3L0py0T2lnWMkMyt0J7IX_YQ2AIbdQZfO38w?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR63vvs-FzGhr1lXlpRJMKgstDHu0FcVRDHxSaI5JpvBLrmSgL37SdI14gdwH7HudylSfvS_Youb8vKCoB_JFLs4shQhfa2a1evKodWrVxXYq0f9tj3ByGJg-8LDnrQC6KQgQRCNFMweI8nbhRIN4YrPWoN3CtSdtO4vpE3ieQwOqX-XZq0nVLGbCINElcxOOzfPsOOzVLnen7HS2D-7I2k0PlZQ6-QVXUrO3lR9qlIJzJKpPenO3EakyG4?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15533,12 +16040,15 @@
         "source_index": 175,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "شكل نصف دائري: الكهف عبارة عن مأوى صخري كارستي ضخم يرتفع سقفه لنحو 60 مترًا عن سطح الأرض.اتساع واجهته: يبلغ قطر فتحته نصف الدائرية حوالي 80 مترًا، مما يسمح بدخول الإضاءة الطبيعية والهواء بشكل ممتاز‎‎‎",
@@ -15549,7 +16059,9 @@
           "en_name": "Cave.Hawa.Aftih",
           "info": "موطن الإنسان القديم: تعود الآثار المكتشفة داخل الكهف إلى العصور السحيقة لقبل التاريخ، حيث سكنه الإنسان منذ أكثر من 70,000 إلى 100,000 عام.بقايا Homo sapiens: عثرت البعثات الاستكشافية في خمسينيات القرن الماضي على فكوك بشرية تعود للإنسان العاقل الحديث.‎‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6m3n9qKfxeYJh8LoPm3fG1u6hxigsw25Dbni0nre2vjD2x7SuGBFsOJ6FLoXHVkTNF4w45npZTOBVPqw3yNl8bHn3SxN90wVinazTsFgiygvc0RXaniRV2o0yUnJAiAmYq8uu0CssHdAxlJ1lvFkfIVRmbsJ6OzUM6yw3NsDpZWygtLqcmVmcqW6bTUieRm8sIqbincwBzpl86pq1PSZLRTsxqpZ-bJMAGmIkD7RbmzvTcZdDPaeTwPe0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR52LkpsWQEgf7JFDXZjLhLyM8pBz0c7MUTbyyH1rgFHufGtYly95NA7Uylbi8gNL5J_d1901TgJv0HQCCfpuRAwkBwLxoZldRReAfRiy1uNmnTF_EKhCGxNNFv96suHVyN9993uUW9HsrO_iCywb50f4s1vSVdKUFusfOzCXAh_ZmJkqGvgPwPouvMEizOgFaPajNe9mTrwDiqGgNgJPKbo4K0DFllX0qSD1AEW-3uFxVk42LwW9VwCuJE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7UTKMXOA0Gf9hybXoj59kYcJ7TM_AJCEyNPSQLR54AN4R8G1HiXA39ulzM6gamlLF7fbfEcy0KDr0TKwon26lxsZKx2RvQoSKlSz6GV_NPzPbUUfkDgB_qNn1SmR6kCT-O7ANYKHaEv_GcLhA4-EEmu9XJOXf4EZ8BsV5VuHSYbe06_OWx1Hlrjb8-njSbw_ZtW-Lf_NiEUGncduFbEXUATpqCPwTG3RPZ0ILTnNdGcPPbrCqdiVIVtUE?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15581,12 +16093,15 @@
         "source_index": 176,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15596,7 +16111,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15628,12 +16145,15 @@
         "source_index": 177,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "عين استوّة: نبع مياه عذبة شهير يتدفق طبيعياً وسط الوادي في مشاهد آسرة‎",
@@ -15644,7 +16164,9 @@
           "en_name": "Wadi Al-Mahbool",
           "info": "هو أحد أجمل الأودية الطبيعية وأكثرها سحراً في منطقة الجبل الأخضر بشرق ليبيا. يشتهر الوادي بطبيعته البكر وغطائه النباتي الكثيف، ويقع جغرافياً في النطاق الممتد بين مدينة شحات الأثرية ومدينة درنة، وتحديداً جنوب منطقة رأس الهلال بحوالي 11 كيلومتراً وغرب درنة بنحو 40 كيلومتراً.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5TtSBeNxxESQ4g9iI1kGGMOlFGtfbN89vif_zKNez7-tXj5aewtpCqAjL44lqPWJQR3COFehSk-s0EIsfSFAXS4lhsmvNOgZXxinKFIORVfTqut7hjFWwx8RLIF2r50agcP6bQbZ3NpUwextq5IVP4I8E-nl7IyT3eHhMyQ8vzJKSkuVAKZPcLSf9_Cc55_eyE3uDgZhXuYqRta1AaEKgK3A8ndtjjuink3xMZJtbHXC0CmJlQlotjrh8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5xblyjlBcsjLh_PvehvY1HZOdg7ZTcpxeS8VS3dxuvSwN1PwRoY7OJEOAR-aNTBVVk0YPx4SjPaRG7HVLtHmknYHp-SN6f5injx7ee_OLG7AoQJDJ6YUDtvCQGfKLecdMaMK54CdtyEEPihN_62yu_PB14UmsZu7m85bWjPGCDC3itdt8O9jOhWUMBEMhcCNobAHE91I3Xxksb4odnTxGxtb7Bm_MgPjQTvhJGNc_uhgZOmkZv56GEeF8?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15676,12 +16198,15 @@
         "source_index": 178,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "كهف صخري تتداخل فيه مياه البحر المتوسط الصافية ذات تعود تسميته تاريخياً لكونه ملاذاً طبيعياً تتخذه أسراب الحمام البري لبناء أعشاشها.اللون الفيروزي مع الصخور البيضاء والأقواس الطبيعية.‎‎‎‎‎",
@@ -15692,7 +16217,9 @@
           "en_name": "Al-Hamam Cave (أو Pigeon Cave)",
           "info": "يتكون كهف الحمام بشكل رئيسي من الصخور الحجرية الجيرية النقيّة (Limestone) الكلسية الطباشيرية.تشكّل كهف الحمام عبر تداخل فريد بين عاملين جيولوجيين أساسيين:العملية الكارستية (Karstification)النحت البحري (Marine Erosion)تم اكتشافه من خاتا السكان والاهالي المحليين و اتخ>وا منه كمعلم استدلالي بحري وملاذ طبيعي للحمام البري ومصدر للمياه العذبة القريبة (مثل نبع الدبوسية القريب في الوديان‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42Z2TzEhhjeDEtVK7eM2oBzu_03mHnYr0TwirNSFsXydf6VNTUHapyos2JDNkuI5_EMAgxBzxBj64fa0sqne9atLpURsiykCow5vxrYMtoqmta4B0_Ewjvs16bYUIBs0L3NSMZ_1SFoYDOXASA_mog3tMGhEGxWy7s1yVnLBeyh38I9XiAPcK8TwisT41vfAgSqLUPXFvCC9aRX-4hNCZOvOeUpcxY-B2V9q5SvjfzLLyMMxpFkbZ_Q8k?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15724,12 +16251,15 @@
         "source_index": 179,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هو مطار دولي حيوي يقع في منطقة الأبرق ببلدية شحات،‎‎‎‎",
@@ -15740,7 +16270,9 @@
           "en_name": "Al Abraq International Airport",
           "info": "يقع على الطريق العام الرابط بين مناطق الجبل الأخضر (شرق البيضاء) ويمتد نفوذه الخدمي من منطقة البياضة غرباً إلى مدينة درنة شرقاً.تمتد مساحة المطار على 700 هكتار، وتصل طاقته الاستيعابية إلى نحو 400,000 راكب سنويًا.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4C7fSeV2-9cQ11nWot_DyiXtyNqpJFCX2SSp9s434OnAKJ1M24TSJPqr0LwtQ6mSUHhl-fIKgf1D4wk1X68nGEw5VqF2SPw5mAs6TDCy0GnkxV71eLAOAQYYH84bjMclBNtJ3sEVINyulRQtPkX4sPfjCUz9LZftErSz7ahVVf3DecXqLlt-Ja4gs_n5X7s5wQq5rd8T1Y93Xg1j4ZpnDs8qQ6HZx4gjLMsAqK6zNK3rbFKijxepNjGtI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR62QmBsvTbAUVlVkX7SDZuJy2J4wYMmO_HxHU0RWgLf5fcmrAooZlb4_sWGtOjoup3wP8vYMOl1YUxJekzg8tlqf5bMkDyNIn9_xKLNZvZ7smhM7aV9VdGLi7ccH1SZwrwoO47yu2663t6DhpnjCemQpbH7LbO8Ece4XthDyLjYjdizwSDBA-Q2bsbjN7h-nCWIzBG5s5YtChOBldm4TkcjH2IC1pbdLdUqFRbYcRX6R5uu6v8zBhB-gPA?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15772,12 +16304,15 @@
         "source_index": 180,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15787,7 +16322,9 @@
           "city": "",
           "en_name": "",
           "info": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15819,12 +16356,17 @@
         "source_index": 209,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "حسب تقييم نزالاء  يقدم الفندق خدمات ومعاملة ممتازة بغرف واسعة وأسعار معقولة غرفه نظيفة وواسعة كما يحتوي على مطعم لتقديم خدمات الطعام والشراب ‎‎‎‎",
@@ -15837,7 +16379,9 @@
           "نوع المعلم": "",
           "الفئة": "",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR79e-9sgjWxqa_OE62s9TbZf0qYvr0s9AkQHcIqumVFKOmkHdJkWhvtgesLIG7xroKJ8UTAWjsY9gDdnZYoX3jCbaG583tB8Wby9VlBMW4bDapaa9K9CCRU1q8at9lDqppE9X2c-VdmoR-Ox611sNWRDS8RPYXfsCxQ4krfFpllG8tJppOFDugXpwEeDXpWL-42md7omtpcfS3jJQ20_UpXzGetIj8JUSavip7NvIK1GYzMVAds3Y19Bxs?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6UEuS_o5nMjHKgfBAvAsHWbazvbRijAp2_AO5_9z5IomyjEeLj8LUBVsvOs4F9b4dqSETK_gK0z8X52_ObCZ1T8vnN_3DOEPkQPL5tiNpehtgiIHYvTBzI_cdBkpfNSSaGFI0DOTgbv4vfZCOigNiOqxyw_8l0qPkdLYY9dnyN1fU7imBcAgX8x8nOsdxaYkXdOdNZmZ7GjfJYZz0Jd-oLa0_F9bfUbuJDZumMG9allYj2Y_rG_-5sZQY?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15869,12 +16413,17 @@
         "source_index": 210,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يقع الفندق على اطراف المدينة غدامس وسط غتبات النخيل يعكس العمارة المحلية للمدينة كما يحتوي على ساحة رئيسية تحيط بها مساحات خضراء ‎",
@@ -15887,7 +16436,9 @@
           "نوع المعلم": "",
           "الفئة": "",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6ShpE81Qqsgz10gdWH21XPu7qpaUv-O9KvoXRNAnyc8vv0juGuEE35tg07klyN6imTAbXlWJAer0Mwbn07rRyYlXDHoPEkxYY7WanLz1ncQ52446S8v3xKDDb0odmv9Zq6ZeWqdcd5__RMbO3PhmrddC-qRh0nK-vpkbrD87clMdJu2jf3jUogT3GftmKz8Pn2EFIY_51eDAbs8rUx_P7vrHhKmg-7j3PzCY0mhdNnm-cOVcy05gKo0Ns?authuser=0&fife=s16383"
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
@@ -15919,12 +16470,17 @@
         "source_index": 211,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "image_count": 4,
+        "image_source": "official_center_media",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15936,7 +16492,9 @@
           "PopupInfo": "",
           "نوع المعلم": "",
           "الفئة": ""
-        }
+        },
+        "image_match_type": "site_general",
+        "image_match_confidence": "high"
       },
       "geometry": {
         "type": "Point",
