@@ -1,0 +1,499 @@
+﻿id,name_ar,quality_status,completeness_percent,missing_fields,review_status,notes
+LY-HOT-000007,فندق لؤلؤة الخليج,high,88,website,integrated,Complete missing official fields
+LY-HOT-000013,فندق الهديل,high,88,image,integrated,Complete missing official fields
+LY-HOT-000014,فندق بن يدر,high,88,image,integrated,Complete missing official fields
+LY-HOT-000015,فندق نجوم غدامس,high,88,image,integrated,Complete missing official fields
+LY-HOT-000016,فندق باب الفتح,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000017,فندق فكتوريا,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000018,فندق الطاووس,high,88,website,integrated,Complete missing official fields
+LY-HOT-000019,فندق الودان,high,88,website,integrated,Complete missing official fields
+LY-HOT-000020,فندق دار السلام ( المسيرة سابقا ),high,88,website,integrated,Complete missing official fields
+LY-HOT-000023,بيوت الشباب,high,88,website,integrated,Complete missing official fields
+LY-HOT-000024,فندق بلاغراي السياحي ( التلال سابقا ),high,88,website,integrated,Complete missing official fields
+LY-HOT-000027,بيوت شباب غدامس,medium,88,classification,integrated,Complete missing official fields
+LY-HOT-000028,نالوت غدامس فندق باب العز,high,88,website,integrated,Complete missing official fields
+LY-HOT-000029,فندق أبراج الوسطى,high,88,website,integrated,Complete missing official fields
+LY-HOT-000030,فندق طيبة,high,88,image,integrated,Complete missing official fields
+LY-HOT-000032,Royal Gardens Hotels,high,88,website,integrated,Complete missing official fields
+LY-HOT-000033,فندق ابونواس,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000034,فندق احواص,high,88,website,integrated,Complete missing official fields
+LY-HOT-000039,فندق الأندلس,high,88,website,integrated,Complete missing official fields
+LY-HOT-000041,فندق البستان,high,88,website,integrated,Complete missing official fields
+LY-HOT-000042,التاج للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000043,(فندق الطُبجية )فندق التاجوري,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000044,فندق الجبل,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000046,فندق الجوهرة الزاوية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000047,يعرف باسم (فندق الوادي ) فندق الحديقة,high,88,image,integrated,Complete missing official fields
+LY-HOT-000048,فندق الحمام السياحي,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000052,فندق الدوحة,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000057,فندق الزهر,high,88,website,integrated,Complete missing official fields
+LY-HOT-000058,فندق الزيتونة,high,88,website,integrated,Complete missing official fields
+LY-HOT-000061,فندق السندباد,high,88,website,integrated,Complete missing official fields
+LY-HOT-000063,فندق الشرق,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000066,فندق الصناعية مصراتة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000067,فندق الصولجان,high,88,website,integrated,Complete missing official fields
+LY-HOT-000068,فندق العاصمة,high,75,phone|website,integrated,Complete missing official fields
+LY-HOT-000069,فندق الغدامسية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000070,فندق القرقني,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000071,فندق القوس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000072,فندق الكبير,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000073,فندق الكرومة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000074,فندق الماسة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000075,فندق المتوسط,high,88,website,integrated,Complete missing official fields
+LY-HOT-000076,فندق المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000077,فندق المشكاة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000078,فندق المنامة,high,88,website,integrated,Complete missing official fields
+LY-HOT-000079,فندق النخلة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000080,فندق النقازة الخمس,high,88,website,integrated,Complete missing official fields
+LY-HOT-000082,فندق الهنشيري,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000083,فندق الهيشة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000084,فندق الواحات,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000085,فندق الياسمين,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000086,فندق أجنحة قرطاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000087,فندق أفريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000088,فندق بنت السيد,high,88,website,integrated,Complete missing official fields
+LY-HOT-000089,فندق بودلغوسة,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000091,فندق بيت الشرق,high,88,website,integrated,Complete missing official fields
+LY-HOT-000092,فندق تابكت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000095,فندق ديار الهناء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000096,فندق ليبوس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000097,فندق ريكسوس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000098,فندق زليتن,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000099,فندق زميت,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000100,فندق زوارة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000101,فندق سرايا الليبو,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000102,فندق سفاري,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000103,فندق سفاري 2,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000104,فندق شروق افريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000105,فندق ضيافة ونيس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000106,فندق طرابلس الدولي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000107,فندق طليطلة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000108,فندق طيبة,high,88,website,integrated,Complete missing official fields
+LY-HOT-000109,فندق عمير,high,88,website,integrated,Complete missing official fields
+LY-HOT-000110,فندق عين الفرس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000111,فندق غابة الكشافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000112,فندق غريان السياحي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000113,فندق قرطاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000114,فندق قصر الظهرة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000115,فندق قصر الفيروز,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000116,فندق قمر صبراتة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000117,فندق كونتنتال,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000119,فندق ليالي قرطاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000121,فندق مادي الحسان,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000122,فندق واستراحة جادو,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000123,فندق ومطعم الامتياز,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000124,فندق ومطعم النزهة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000125,فندق يفرن,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000126,طرابلس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000127,نزل طرابلس الحديث,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000128,فندق الثريا السياحي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000129,فندق الأنيس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000130,فندق البتراء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000131,فندق البردي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000132,فندق التلال,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000133,فندق الجبل الأخضر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000134,فندق الجغبوب,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000135,فندق الجلاء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000136,فندق الحمام السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000139,فندق الزهر,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000140,فندق الزيتونة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000141,فندق السرايا,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000142,فندق السلام,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000144,فندق اجدابيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000145,فندق الحياة,high,75,phone|website,integrated,Complete missing official fields
+LY-HOT-000146,فندق الصحراوي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000147,فندق الصناعية مصراتة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000148,فندق العوينات,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000149,فندق الفردوس,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000150,فندق الفضيل,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000151,فندق الفضيل رأس لانوف,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000152,فندق الفلك,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000153,فندق القرضابية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000154,فندق القلعة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000155,فندق الكاظم,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000156,فندق الكرومة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000157,فندق المبروك,high,88,website,integrated,Complete missing official fields
+LY-HOT-000159,فندق المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000160,فندق المدينة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000161,فندق المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000162,فندق المدينة,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000163,فندق المرج السياحي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000164,فندق المسيرة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000165,فندق المشكاة,high,88,website,integrated,Complete missing official fields
+LY-HOT-000166,فندق المغرب العربي,high,75,city|website,integrated,Complete missing official fields
+LY-HOT-000167,فندق المنار,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000168,فندق النادي الليبي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000169,فندق النخلة السياحي,high,75,city|website,integrated,Complete missing official fields
+LY-HOT-000170,فندق النخيل - مغلق,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000171,فندق النوران,high,75,city|website,integrated,Complete missing official fields
+LY-HOT-000172,فندق الهاروج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000173,فندق الهنشيري,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000174,فندق الهيشة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000175,فندق الواحات,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000176,فندق الوادي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000177,فندق الياسمين,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000178,فندق الياقوتة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000179,فندق الياقوتة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000180,فندق اليقين,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000181,فندق اليمامة,high,88,website,integrated,Complete missing official fields
+LY-HOT-000182,فندق اوزو,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000183,فندق ايلاف,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000184,فندق أبراج المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000185,فندق أجنحة قرطاج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000186,فندق أفريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000187,فندق أفريقيا,high,88,website,integrated,Complete missing official fields
+LY-HOT-000188,فندق أكاكوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000189,فندق أكاكوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000190,فندق أمال ليبيا,high,88,website,integrated,Complete missing official fields
+LY-HOT-000191,فندق أوجلة السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000192,فندق أويا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000194,فندق براك,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000195,فندق برينيتشي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000197,فندق بنت السيد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000198,فندق بنغازي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000199,فندق بودلغوسة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000200,فندق تابكت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000202,فندق تيبستي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000203,فندق جاكرتا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000204,فندق جالو السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000205,فندق جرمة السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000206,فندق جليانة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000207,فندق دار جرمة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000208,فندق دوجال السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000209,فندق ديار الهناء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000210,فندق رواسي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000211,فندق رويال,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000212,فندق ريباس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000213,فندق ريكسوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000214,فندق زليتن,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000215,فندق زميت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000216,فندق زهرة البطنان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000217,فندق زوارة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000218,فندق زين,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000219,فندق سرايا الليبو,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000220,فندق سفاري 2,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000222,فندق شروق افريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000224,فندق ضيافة ونيس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000225,فندق طليطلة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000226,فندق عمر الخيام,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000227,فندق غابة الكشافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000228,فندق غريان السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000229,فندق فيلا النوران,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000230,فندق قاطش,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000231,فندق قرطاج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000232,فندق قصر البيضاء,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000233,فندق قصر الظهرة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000234,فندق قصر الفضيل,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000235,فندق قصر الفيروز,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000236,فندق قصر النيل,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000237,فندق قصر الواحة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000238,فندق قصور الضيافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000239,فندق قصي للشقق المفروشة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000240,فندق قمر صبراتة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000241,فندق قورينا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000242,فندق كونتنتال,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000243,فندق لؤلؤة درنة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000244,فندق ليالي قرطاج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000245,فندق مادي الحسان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000246,فندق ميزران,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000247,فندق هارون,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000248,فندق واستراحة جادو,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000249,فندق ومطعم النزهة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000250,فندق يفرن,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000251,الفندق السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000252,الفندق القديم,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000253,الفندق الكبير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000254,القرية السياحية قاريونس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000255,طرابلس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000256,نزل المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000257,نزل أمباي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000258,نزل بيروت,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000259,نزل طرابلس الحديث,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000260,نزل مرحبا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000261,الماسة للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000262,فندق فزان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000263,فندق المختار,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000264,فندق قصر كاباو,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000265,فندق الأفريقي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000266,فندق قرطاج السياحى1,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000267,فندق السارة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000268,فندق الفصول الاربعة 3,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000269,فندق أوال,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000270,فندق المتوسط,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000271,فندق قرطاج السياحى2,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000272,فندق التوفيق 2,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000274,نزل كيلو بتراء,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000276,فندق السفير,high,75,phone|website,integrated,Complete missing official fields
+LY-HOT-000279,فندق الصافي,high,75,phone|website,integrated,Complete missing official fields
+LY-HOT-000280,فندق بوابة أفريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000281,فندق الفصول الابعة 1,high,75,phone|website,integrated,Complete missing official fields
+LY-HOT-000285,فندق النورس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000286,فندق التوفيق 1,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000287,فندق اليسر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000288,فندق الخيام العربية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000289,فندق الرشيد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000290,فندق أسامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000291,فندق الزيتونة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000292,فندق ريباس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000293,فندق طليطلة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000294,فندق صبراتة,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000296,فندق الكندي,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000297,فندق أضواء قرطاج,high,88,website,integrated,Complete missing official fields
+LY-HOT-000298,فندق البشير,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000299,فندق الهاني,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000300,فندق القنصل فندق القنصل,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000301,فندق الجبل الاخضر,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000302,الفتح,medium,62,classification|website|image,integrated,Complete missing official fields
+LY-HOT-000303,فندق قصر ليبيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000304,Hotel Haroun 2,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000305,فندق الغزالة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000306,فندق كيان طرابلس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000307,فندق الديوان,high,88,website,integrated,Complete missing official fields
+LY-HOT-000308,فندق نيو ستي New City hotel,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000309,فندق الدالي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000310,زهرة الشمس,low,38,classification|city|phone|website|image,review_required,Complete missing official fields
+LY-HOT-000311,فندق ضيافة طرابلس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000312,فندق الفتح شارع الرشيد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000313,فندق بلخير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000315,فندق الوحدة العربية,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000316,فندق الكنوز الذهبية,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000317,فندق الشراع,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000318,الحبايب,medium,62,classification|phone|website,integrated,Complete missing official fields
+LY-HOT-000319,هوم بلازا_للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000321,الوادي 2 للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000322,الأطلس للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000324,فندق قوز التيك,high,88,website,integrated,Complete missing official fields
+LY-HOT-000325,النجمة الذهبية لشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000326,الفخامه للشقق المفروشه,medium,50,classification|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000327,اوس لشقق المفروشه,low,38,classification|city|phone|website|image,review_required,Complete missing official fields
+LY-HOT-000328,فندق الساحل,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000329,الجوهرة للشقق الفندقية,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000330,فندق اجدابيا السياحي,medium,62,city|website|image,integrated,Complete missing official fields
+LY-HOT-000331,فندق الراحة اجدابيا,high,88,website,integrated,Complete missing official fields
+LY-HOT-000332,عمار او المجد للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000333,فندق مزايا اجدابيا,high,88,website,integrated,Complete missing official fields
+LY-HOT-000334,فندق التوجان السياحي,high,88,website,integrated,Complete missing official fields
+LY-HOT-000335,نزل وقاعة الهاشمي,high,88,website,integrated,Complete missing official fields
+LY-HOT-000336,نزل وقاعة زهرة الخليج,high,88,website,integrated,Complete missing official fields
+LY-HOT-000337,الهضبة للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000338,الامان للشقق الفندقية,high,88,website,integrated,Complete missing official fields
+LY-HOT-000339,نزل ماريا MARIYA,high,88,website,integrated,Complete missing official fields
+LY-HOT-000341,فندق سمر قند,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000342,فندق غريان السياحي,high,88,website,integrated,Complete missing official fields
+LY-HOT-000343,فندق روايال غريان,high,88,website,integrated,Complete missing official fields
+LY-HOT-000345,فندق اللؤلؤة السياحي البضاء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000346,فندق لؤلؤة الخليج البيضاء,high,88,website,integrated,Complete missing official fields
+LY-HOT-000347,فندق قصر البيضاء,medium,62,phone|website|image,integrated,Complete missing official fields
+LY-HOT-000348,فندق القاهرة البيضاء,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000350,مكة للشقق الفندقية البيضاء,medium,62,city|website|image,integrated,Complete missing official fields
+LY-HOT-000351,برج المدينة للشقق الفندقية البيضاء,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000353,فندق برقة السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000354,فندق افريقيا البيضاء,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000359,فندق قصر الضيافة للشقق الفندقية البيضاء,high,88,image,integrated,Complete missing official fields
+LY-HOT-000362,فندق الاندلس السياحي الخمس,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000367,فندق الليلك ALlilac hotel,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000368,فندق البحيرات السبعة السياحي,high,75,website|image,integrated,Complete missing official fields
+LY-HOT-000369,فندق برنيتشي السياحي,high,75,city|image,integrated,Complete missing official fields
+LY-HOT-000370,Sabratha youth hostel _بيت شباب صبراتة,low,38,classification|city|phone|website|image,review_required,Complete missing official fields
+LY-HOT-000371,Lancaster Al Salam Resort - منتجع لانكستر السلام,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000372,فندق الساحل,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000373,المعهد القومي العلاج الأورام صبراتة,low,38,classification|city|phone|website|image,review_required,Complete missing official fields
+LY-HOT-000374,السيلفيوم للشقق المفروشة,low,38,classification|city|phone|website|image,review_required,Complete missing official fields
+LY-HOT-000375,فندق الخليج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000376,فندق أضواء قرطاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000377,فندق اجنحة قرطاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000378,فندق الباشا,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000379,دار السلام للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000380,فندق نيو سيتي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000381,فندق الهانى,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000382,فندق اليسر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000383,فندق جنان النوار,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000384,فندق جولف,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000385,فندق زهرة الشمس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000386,فندق سنترو,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000387,فندق صبراتة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000388,فندق كيان 2,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000389,فندق نور الثريا السياحى,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000390,فندق أويا,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000391,فندق منتجع الطاووس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000392,اجنحة كراون للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000393,الدلتا للشقق الفندقية 2,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000394,الدلتا للشقق الفندقية 1,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000395,الشاطي الذهبي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000396,العنوان للشقق الفندقيه,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000397,تحت الصيانة الفندق الكبير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000398,القبس لشقق الفندقيه,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000399,الماسة للأجنحة الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000400,المجرة للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000401,المكان للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000402,اوكا لشقق الفندقيه vib,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000403,إقامة إيفا للشق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000404,إقامة قورينا الفاخرة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000405,أجنحة الفوانيس للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000406,بيت النوران للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000407,بيوت العاصمة للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000408,جواهر العاصمة للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000409,جولايا للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000410,جوهرة السلام للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000411,حدائق المشتل للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000412,دار الضيافة 2 للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000413,شركة العميد لايجار الشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000414,شقق البرنس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000415,شقق الرواد المفروشة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000416,شقق فيلا ليبيا الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000417,فندق اكاكوس,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000418,فندق الاخوة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000419,فندق الاصالة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000420,فندق الاندلس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000421,فندق البتراء,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000422,فندق البشير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000423,فندق البيت الراقي للشقق الفندقية,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000424,فندق التاج,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000425,فندق التوفيق بلازا,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000426,فندق الجبل الأخضر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000427,فندق الجرات,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000428,فندق الخان الطرابلسي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000429,فندق الخليج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000430,فندق الخيام العربية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000431,فندق الدالي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000432,فندق الدبلوماسي,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000433,فندق الدوحة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000434,فندق الديار,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000435,فندق الديوان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000436,فندق الديوان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000437,فندق الديوان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000438,فندق الديوان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000439,فندق الرحاب,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000440,فندق الرحاب 1,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000441,فندق الرحاب 2,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000442,فندق الرفيع,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000443,فندق الرواد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000444,فندق الريان,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000445,فندق الزيتونة,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000446,فندق السرايا,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000447,فندق السرايا السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000448,فندق السفير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000449,فندق السفينة الزرقاء,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000450,فندق السلاسل الذهبية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000451,فندق السلطان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000452,فندق السلطان داون تاون,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000453,فندق السندباد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000454,فندق الشاطئ الذهبي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000455,فندق الشجرة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000456,فندق الشمس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000457,فندق الصافي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000458,فندق الصفوة للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000459,فندق الصولجان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000460,فندق الضيافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000461,فندق الطريق,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000462,فندق العاصمة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000463,فندق الفتح,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000464,فندق الفردوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000465,فندق الفصول الأربعة ( 1 ),medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000466,فندق الفصول الأربعة ( 2 ),medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000467,فندق الفصول الأربعة ( 3 ),medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000468,فندق القلعة السياحي للشقق المفروشة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000469,فندق القنصل,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000470,فندق القوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000471,فندق الكندي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000472,فندق الكنوز الدهبية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000473,فندق اللؤلؤة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000474,فندق الليلك,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000475,فندق المأمون,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000476,فندق المبروك,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000477,فندق المتوسط,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000478,فندق المتوسط,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000479,فندق المتوسط,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000480,فندق المتوسط,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000481,فندق المختار,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000482,فندق المشكاة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000483,فندق المنامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000484,فندق المهاري رادسون بلو,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000485,فندق النخلة السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000486,فندق النهر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000487,فندق النورس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000488,فندق الهاني,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000489,فندق الهناء,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000490,فندق الواحات,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000491,فندق الوادي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000492,فندق الودان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000493,فندق الياسمينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000494,فندق الياقوتة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000495,فندق اليقين,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000496,فندق اوال,medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000497,فندق أجنحة الوليد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000498,فندق أسامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000499,فندق أسامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000500,فندق أسامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000501,فندق أسامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000502,فندق باب البحر,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000503,فندق باب طرابلس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000504,فندق برج المدينة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000505,فندق برج كورنثيا باب أفريقيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000506,فندق بلازما,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000507,فندق بلخير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000508,فندق بلخير السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000509,فندق بيت الامان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000510,فندق بيت الشرق,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000511,فندق بيت الضيافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000512,فندق بيروت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000513,فندق تاج دبي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000514,فندق توباكتس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000515,فندق جاكرتا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000516,فندق جي دبليو ماروت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000517,فندق دار طرابلس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000518,فندق ديكنة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000519,فندق ذا ريسدنس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000520,فندق رويال جاردنس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000521,فندق ريزيدينس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000522,فندق زميت الأثري,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000523,فندق زهرة الخليج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000524,فندق سارة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000525,فندق سبراتا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000526,فندق سفارى,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000527,فندق سما و بلقيس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000528,فندق سما وبلقيس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000529,فندق صحراء ليبيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000530,فندق ضيافة ونيس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000531,فندق طرابلس الدولى,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000532,فندق طليطلة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000533,فندق طيبة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000534,فندق عمير,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000535,فندق غصن الذهب,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000536,فندق فكتوريا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000537,فندق الاندلس /فندق فوربوينتس شيرتون,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000538,فندق قرطاج,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000539,فندق قصر الظهرة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000540,فندق قصر الياقوت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000541,فندق قصر ليبيا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000542,فندق قلعة صفيت,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000543,فندق هارون,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000544,فندق قورينا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000545,فندق كريستال,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000546,فندق كليوباترا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000547,فندق كيان,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000548,فندق كيفالاي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000549,فندق كيلو بترا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000550,فندق ليبوس,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000551,فندق ليبيا السياحي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000552,فندق ماريقولد,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000553,فندق مجد الضيافة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000554,فندق مرحبا,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000555,فندق ناريـز ( NARIZ HOTEL),medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000556,فندق نزهة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000557,فندق نيو ستي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000558,فندق هايتي,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000559,قرية تاجوراء السياحية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000560,قصر العائلة للشقق الفندقية الفرع الثاني,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000561,لبدة إفريقيا للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000562,لمسة للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000563,مساكن القدس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000564,مساكن القدس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000565,مساكن القدس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000566,مساكن القدس للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000567,منازل الشط للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000568,والي للشقق الفندقية,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000569,لانكاستر برج الحياة (ماريوت سابقا),medium,62,city|phone|website,integrated,Complete missing official fields
+LY-HOT-000570,فندق الشراع,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000571,فندق اليمامة,medium,50,city|phone|website|image,integrated,Complete missing official fields
+LY-HOT-000572,فندق الصفوة,medium,50,city|phone|website|image,integrated,Complete missing official fields
