@@ -6745,12 +6745,15 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/archaeological-theatre/archaeological-theatre-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/archaeological-theatre/archaeological-theatre-002.jpg"
+        ],
+        "image_count": 2,
+        "image_source": "official_center_media_visual_review",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "مسرح شحات الاثري",
         "extended_data": {
@@ -6765,8 +6768,8 @@
           "EN_NAME": ""
         },
         "source_index": 104,
-        "image_match_type": "placeholder",
-        "image_match_confidence": "none"
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7513,12 +7516,14 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/fountain-of-apollo/fountain-of-apollo-001.jpg"
+        ],
+        "image_count": 1,
+        "image_source": "official_center_media_visual_review",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "نبع أبولو",
         "extended_data": {
@@ -7533,8 +7538,8 @@
           "EN_NAME": ""
         },
         "source_index": 119,
-        "image_match_type": "placeholder",
-        "image_match_confidence": "none"
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7821,12 +7826,18 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-002.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-003.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-004.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-005.jpg"
+        ],
+        "image_count": 5,
+        "image_source": "official_center_media_visual_review",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "السوق اليوناني القديم اغورا",
         "extended_data": {
@@ -7841,8 +7852,8 @@
           "EN_NAME": "Agora"
         },
         "source_index": 125,
-        "image_match_type": "placeholder",
-        "image_match_confidence": "none"
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
@@ -7872,12 +7883,18 @@
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [],
-        "image_count": 0,
-        "image_source": "none_confirmed",
-        "image_owner_ar": "",
-        "image_rights_status": "",
-        "image_review_status": "no_confirmed_image",
+        "local_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-002.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-003.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-004.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-005.jpg"
+        ],
+        "image_count": 5,
+        "image_source": "official_center_media_visual_review",
+        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
+        "image_rights_status": "institutional_ownership",
+        "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "Byzantine basilica",
         "extended_data": {
@@ -7892,8 +7909,8 @@
           "EN_NAME": ""
         },
         "source_index": 126,
-        "image_match_type": "placeholder",
-        "image_match_confidence": "none"
+        "image_match_type": "exact_feature",
+        "image_match_confidence": "high"
       }
     },
     {
