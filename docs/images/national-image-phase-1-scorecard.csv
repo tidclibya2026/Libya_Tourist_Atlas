@@ -1,0 +1,7 @@
+﻿layer_id,layer_file,feature_count,features_with_local_images_before,features_with_local_images_after,features_with_primary_image,features_with_gallery,features_remote_only,features_without_images,valid_local_image_links,broken_local_image_links,wrong_image_links,images_discovered,exact_duplicates,near_duplicates,master_images,high_quality_images,acceptable_images,low_quality_images,rights_cleared_images,rights_unknown_images,manual_review_images,coverage_before_percent,coverage_after_percent,phase_status
+hotels,data/layers/hotels.geojson,528,230,230,0,230,4,298,791,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,43.56,43.56,complete_with_manual_review
+tourism-investment-projects,data/layers/tourism-investment-projects.geojson,615,0,0,0,0,268,615,0,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,0.0,0.0,complete_with_manual_review
+tourist-villages-resorts,data/layers/tourist-villages-resorts.geojson,262,0,0,0,0,89,262,0,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,0.0,0.0,complete_with_manual_review
+tripoli-cafes,data/layers/tripoli-cafes.geojson,404,0,0,0,0,6,404,0,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,0.0,0.0,complete_with_manual_review
+tripoli-restaurants,data/layers/tripoli-restaurants.geojson,75,0,0,0,0,71,75,0,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,0.0,0.0,complete_with_manual_review
+world-heritage,data/layers/world-heritage.geojson,261,19,19,0,19,0,242,130,0,0,4645,1924,4237,1438,979,1316,62,0,4614,4645,7.28,7.28,complete_with_manual_review
