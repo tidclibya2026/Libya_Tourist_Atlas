@@ -1,0 +1,13 @@
+﻿entity,p1_actions,p2_actions,p3_actions,total_actions,features_affected,top_missing_fields,recommended_workflow,suggested_priority,publication_impact_count
+وزارة السياحة والصناعات التقليدية,0,271,0,271,271,Multiple reasons,"validate, document evidence, approve, return using response template",P2,0
+مركز المعلومات والتوثيق السياحي,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+إدارة الاستثمار,156,0,0,156,156,Multiple reasons,"validate, document evidence, approve, return using response template",P1,156
+البلديات,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+جهة الترخيص السياحي,0,0,276,276,276,license_review,"validate, document evidence, approve, return using response template",P3,0
+مصلحة أملاك الدولة,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+مصلحة التخطيط العمراني,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+هيئة تشجيع الاستثمار,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+جهاز حماية البيئة,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+جهات المرافق والبنية التحتية,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+الجهات المالكة والمشغلون,0,0,0,0,0,,"validate, document evidence, approve, return using response template",P3,0
+فريق الترجمة والتسمية,1,0,0,1,1,Multiple reasons,"validate, document evidence, approve, return using response template",P1,1
