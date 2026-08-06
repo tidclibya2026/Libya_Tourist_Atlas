@@ -1,0 +1,593 @@
+﻿feature_id,layer_id,name_ar,candidate_images,manually_reviewed_images,verified_correct_images,public_rights_images,approved_primary_images,approved_gallery_images,rights_unknown_images,deferred_images,rejected_images,coverage_status
+WH-MAIN-001,world-heritage,موقع لبدة الأثري – لبدة الكبرى – لبتس ماغنا,313,0,0,0,0,0,313,313,0,blocked_by_rights
+WH-WORLD-C0001,world-heritage,موقع صبراتة الأثري,122,0,0,0,0,0,122,122,0,blocked_by_rights
+WH-WORLD-C0002,world-heritage,موقع قورينا الأثري – شحات,111,0,0,0,0,0,111,111,0,blocked_by_rights
+WH-WORLD-C0003,world-heritage,مواقع تادرارت أكاكوس الصخرية,11,0,0,0,0,0,11,11,0,blocked_by_rights
+WH-WORLD-C0004,world-heritage,مدينة غدامس القديمة,79,0,0,0,0,0,79,79,0,blocked_by_rights
+WH-MAIN-001-C0001,world-heritage,بوابة أويا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0004,world-heritage,حمامات الصيد,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0005,world-heritage,منتزه لبدة السياحي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-MAIN-001-C0004,world-heritage,استراحة تازويت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0006,world-heritage,قوس تابريوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0007,world-heritage,معبد العائلة السيفيرية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0008,world-heritage,قوس أنطونيوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0009,world-heritage,الميدان القديم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0010,world-heritage,حمامات غير مكتملة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0011,world-heritage,المعبد الشرقي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0012,world-heritage,شرفة مبنى عام تطل على ميدان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0013,world-heritage,شرفة خلفية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0014,world-heritage,نصب لميسر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0015,world-heritage,المدرسة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0016,world-heritage,معبد دوكيومانوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0017,world-heritage,معبد جوبيتير دوليكينوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0018,world-heritage,الميناء,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0019,world-heritage,المعبد الفلافي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0020,world-heritage,ساحة نيرون النيروتية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0021,world-heritage,مدخل الميناء في القرن الأول الميلادي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0022,world-heritage,المنارة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0023,world-heritage,برج الاشارة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0024,world-heritage,معبد دوري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0025,world-heritage,الحمامات الشرقية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0026,world-heritage,المسرح,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0027,world-heritage,ضريح قصر شداد,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0001,world-heritage,قوس سبتيموس سفيروس,1,0,0,0,0,0,1,1,0,blocked_by_rights
+WH-LY-001-0028,world-heritage,قوس الإمبراطور تراجان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0029,world-heritage,ضريح زرجام,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0030,world-heritage,نيمافيوم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0031,world-heritage,معبد جوبيتير,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0032,world-heritage,الجدار البيزنطي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0033,world-heritage,ضريح الدويرات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0034,world-heritage,متحف الفسيفساء,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0035,world-heritage,مقاهي واستراحة وموقف سيارات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0036,world-heritage,مطعم الجرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0037,world-heritage,ساحة الرياضة (بالسترا),0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0038,world-heritage,متحف الفسيفساء,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0039,world-heritage,معبد سيرابيس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0040,world-heritage,وادي لبدة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0041,world-heritage,مصيف الخمس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0042,world-heritage,متحف لبدة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0043,world-heritage,مطعم الجرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-MAIN-001-C0044,world-heritage,قوس ماركوس أوروليوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0044,world-heritage,حمامات هادريان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0045,world-heritage,الساحة السيفيرية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0046,world-heritage,البوابة البيزنطية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0047,world-heritage,باسيلقا سيفيروس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0048,world-heritage,السوق الرومانية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0049,world-heritage,Christian church,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-001-0002,world-heritage,المسرح الروماني الخمس _ ليبيا,1,0,0,0,0,0,1,1,0,blocked_by_rights
+WH-LY-001-0050,world-heritage,ميدان السباق,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0001,world-heritage,شارع الآثار,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0002,world-heritage,ريجيو السادس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0003,world-heritage,البوابة البيزنطية الجنوبية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0004,world-heritage,المعبد الإنطوائي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0005,world-heritage,نافورة فلافيوس تولوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0006,world-heritage,الميدان الفورم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0007,world-heritage,ديوان القضاء البازيليكا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0008,world-heritage,المبنى المصلب,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0009,world-heritage,مبنى المجلس كابيتيليوم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0010,world-heritage,بازيليكا جستنينيان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0011,world-heritage,منزل بروقان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0012,world-heritage,البوابة البيزنطية الشرقية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0013,world-heritage,الكنائس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0014,world-heritage,حمامات أوفانيوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0015,world-heritage,نصيب سيفران,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0016,world-heritage,بيت بيريستايل,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0017,world-heritage,حمامات ريجيو السابع,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0018,world-heritage,مقابر مسيحية تحت الأرض,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0019,world-heritage,متحف روماني,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0020,world-heritage,المتحف البونيقي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0021,world-heritage,المسرح الروماني المدرج,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0022,world-heritage,معبد ايزيس وإيزوريس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0023,world-heritage,صبراتة القديمة ليبرتون,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0024,world-heritage,Antonine Temple,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0025,world-heritage,The Punic Tombs,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0026,world-heritage,كوريا (مجلس الشيوخ),0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0027,world-heritage,كنيسة جستنيان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0028,world-heritage,معبد سيرابيس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0029,world-heritage,معبد ليبر باتر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0030,world-heritage,معبد الفوروم الجنوبي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0031,world-heritage,حوض المعمودية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0032,world-heritage,معبد سيرابيس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0033,world-heritage,حوض المعمودية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0034,world-heritage,Serapaeum (Sabratha,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0035,world-heritage,معبد الكابيتول يوم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0036,world-heritage,حمامات بوسيدون,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0037,world-heritage,معبد هرقل,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0038,world-heritage,معبد ايزيس واوزوريس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0039,world-heritage,حمامات المسرح,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0040,world-heritage,المراحيض العامة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0041,world-heritage,اثار صبراته,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0042,world-heritage,مسرح صبراته الأثري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0043,world-heritage,الضريح البونيقي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0044,world-heritage,,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0045,world-heritage,الامفيثياتر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-002-C0046,world-heritage,مدينة أبروتون التاريخية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0001,world-heritage,مسرح شحات الاثري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0002,world-heritage,متحف المنحوتات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0003,world-heritage,الحمامات الاغريقية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0004,world-heritage,المجلس المحلي شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0005,world-heritage,آثار قورينا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0006,world-heritage,المسجد القديم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0007,world-heritage,منتزة شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0008,world-heritage,كهف يقع جنوب شرق مدينة شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0009,world-heritage,مسرح3,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0010,world-heritage,سيزاريوم/ساحة بروكولوس المحيطة بالأروقة…,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0011,world-heritage,غابة شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0012,world-heritage,هوا القاطر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0013,world-heritage,مسرح شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0014,world-heritage,مقابر منحوتة في الصخر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0015,world-heritage,هوا احجري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0016,world-heritage,نبع أبولو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0017,world-heritage,شلال شحات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0018,world-heritage,مدافن محفورة في الجبل,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0019,world-heritage,معبد الكابيتوليوم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0020,world-heritage,اعمدة اثار شحات الخالدة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0021,world-heritage,معبد زيوس في قورينا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0022,world-heritage,السوق اليوناني القديم اغورا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0023,world-heritage,Byzantine basilica,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0024,world-heritage,شلال الدبوسية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0025,world-heritage,شلال رأس الهلال بافلو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0026,world-heritage,شلال بالفو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0027,world-heritage,Cyrene cemetery,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-003-C0028,world-heritage,بحيرة براك نوطا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0001,world-heritage,البركت غات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0002,world-heritage,مستشفى البركت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0003,world-heritage,مسجد الصحابة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0004,world-heritage,منتزه تهالة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0005,world-heritage,منطقة تهالة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0006,world-heritage,المدينة القديمة غات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0007,world-heritage,مستشفى غات العام,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0008,world-heritage,معبر تخرخوري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0009,world-heritage,تهالة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0010,world-heritage,منتجع إين أزان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0011,world-heritage,قرية إيسين,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0012,world-heritage,مسجد العتيق,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0013,world-heritage,مطار غات الدولي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0014,world-heritage,المجلس البلدي غات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0015,world-heritage,النصب التذكاري لمعركة ايسين,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0016,world-heritage,قوس تنخليقة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0017,world-heritage,القرية الجرمنتية تان افلا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0018,world-heritage,فندق المهاري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0019,world-heritage,منتجع وانتميضي البركت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0020,world-heritage,المسجد الكبير,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0021,world-heritage,قلعة غات(كوكمن),0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0022,world-heritage,جبال أكاكوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0023,world-heritage,اغرم نظاريف,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0024,world-heritage,المدينة القديمة البركت ( اغرم ),0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0025,world-heritage,قلعة ''سردليس''العوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0026,world-heritage,وادي تشوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0027,world-heritage,Wadi Teshuinat,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0028,world-heritage,وادي تاكاركوري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0029,world-heritage,اوان اميل,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0030,world-heritage,اوان موهوجياج,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0031,world-heritage,منطقة الرسوم الصخرية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0032,world-heritage,منطقة الاقواس والتكوينات الصخرية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0033,world-heritage,جبال اكوكاس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0034,world-heritage,جبال تادرارت أكوكاس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0035,world-heritage,وادي آويس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0036,world-heritage,قوس تنسو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0037,world-heritage,وادي تاهرمت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0038,world-heritage,تانسو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0039,world-heritage,وادي تنسو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0040,world-heritage,Kaf Ajnon كاف الجنون,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0041,world-heritage,وادي اغلاد,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0042,world-heritage,البئر الساخن,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0043,world-heritage,صخرة آضاد,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0044,world-heritage,تيرجيت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0045,world-heritage,جبل تجيجيت,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0046,world-heritage,تيغجمين ان كيل تارات,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0047,world-heritage,البيت الاجتماعي آدرار,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-004-C0048,world-heritage,تين زلغـــــــــــــــان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0001,world-heritage,بحيرة عين الذبان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0002,world-heritage,المسجد العتيق,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0003,world-heritage,جبل الصحابة أو رأس الغولة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0004,world-heritage,عين الفرس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0005,world-heritage,برج مراقبة قديم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0006,world-heritage,تمسمودسن,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0007,world-heritage,جامع يونس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0008,world-heritage,واحة تومس_غابات النخيل,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0009,world-heritage,مدرسة تيلوان,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0010,world-heritage,مدينة غدامس القديمة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0011,world-heritage,متحف غدامس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0012,world-heritage,البيت التراثي- دان دون يونس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0013,world-heritage,مقهى توجدة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0014,world-heritage,القادوس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0015,world-heritage,مسجد السنوسية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0016,world-heritage,عين تالة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0017,world-heritage,بيت الحبيب بن عز الدين للثقافة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0018,world-heritage,جامع عون الله,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0019,world-heritage,مسجد سيدي عمران,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0020,world-heritage,مقبرة سيدي البدري,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0021,world-heritage,فندق باب الفتح,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0022,world-heritage,قرية تونين,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0023,world-heritage,فندق بن يدر,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0024,world-heritage,مسجد الظهرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0025,world-heritage,الحوش الغدامسي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0026,world-heritage,فندق عين الفرس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0027,world-heritage,المقبرة الغربية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-LY-005-C0028,world-heritage,مسجد حي السلام,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0001,world-heritage,مسرح لبدة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0002,world-heritage,Basilica of Severus,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0003,world-heritage,"Leptis Magna, Hunting Baths",0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0004,world-heritage,Curia,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0005,world-heritage,زايد السياحي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0006,world-heritage,"Leptis Magna, Temple to unknown divinity on the Decumanus",0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0007,world-heritage,Hercules Temple,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0008,world-heritage,Old Basilica,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0009,world-heritage,Arch of Septimius Severus,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0010,world-heritage,كافي الجرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0011,world-heritage,Arch of Marcus Aurelius,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0012,world-heritage,Roma & Augustus temple,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0013,world-heritage,Liber Pater temple,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0014,world-heritage,Old Forum Church,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0015,world-heritage,فندق التلال الوسيطة..,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0016,world-heritage,أثار جنوب قورينا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0017,world-heritage,وادي بومليو,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0018,world-heritage,عين الحفرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0019,world-heritage,عقر بوالنعاس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0020,world-heritage,مخطط بومليحة السياحي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0021,world-heritage,هوا بوثن,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0022,world-heritage,مطل القلعة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0023,world-heritage,المناقير,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0024,world-heritage,كاف الخروبة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0025,world-heritage,كهف عبدالله بوخطاب,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0026,world-heritage,هواء هيتيني,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0027,world-heritage,النصب التذكاري لموسوليني,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0028,world-heritage,منتجع بقراوة للالعاب والسياحية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0029,world-heritage,العويلية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0030,world-heritage,وادي الحميرة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0031,world-heritage,قصر بوغسال,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0032,world-heritage,متحف فسيفساء قصر ليبيا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0033,world-heritage,زاوية العرقوب,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0034,world-heritage,قصر المقدم,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0035,world-heritage,كهف العودة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0036,world-heritage,كهف الخزعلية,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0037,world-heritage,مسجد انس بن مالك - باندس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0038,world-heritage,وادي ابطين الغزال,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0039,world-heritage,كاف طماش,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0040,world-heritage,كاف مسته,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0041,world-heritage,شط الرملة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0042,world-heritage,قرية التلال السياحية الحمامة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0043,world-heritage,منتجع ومصيف الحمامة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0044,world-heritage,احواض السكميتو- القلعة الغارقة,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0045,world-heritage,.برك نوطا,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0046,world-heritage,كهف هوا فطيح.,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0047,world-heritage,استراحات(امواج ),0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0048,world-heritage,وادي المهبول,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0049,world-heritage,كهف الحمام,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0050,world-heritage,مطار الأبرق الدولي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0051,world-heritage,استراحة محمد بو عبدالعالي,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0052,world-heritage,فندق نجوم غدامس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0053,world-heritage,فندق جوهرة الواحة غدامس,0,0,0,0,0,0,0,0,0,no_verified_images
+WH-TEAM-0054,world-heritage,مسجد عقبة بن عمر,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000001,akakus,قوس أفزجار,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000002,akakus,قوس أفزجارن وقوس تنخليفة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000003,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000004,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000005,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000006,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000007,akakus,قوس أويص,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000008,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000009,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000010,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000011,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000012,akakus,قوس صخري 13,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000013,akakus,قوس تين لوبو,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000014,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000015,akakus,قوس صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000016,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000017,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000018,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000019,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000020,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000021,akakus,قوس صخري وأن أفودا,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000022,akakus,قوس صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000023,akakus,وادي ماتخيندوش,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000024,akakus,تيهيدن,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000025,akakus,وادي رحملالين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000026,akakus,وادي سيندار,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000027,akakus,وادي تانشالت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000028,akakus,وادي تين قويما,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-AKA-000029,akakus,وادي أويس,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000030,akakus,وادي أفاغ,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000031,akakus,وادي تاشوينات,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000032,akakus,وادي آمها,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000033,akakus,وادي بوبو,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000034,akakus,وادي أمها,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000035,akakus,وادي أفازاجار,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-AKA-000036,akakus,وادي البركات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000037,akakus,وادي أمركا,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-AKA-000038,akakus,وادي تلووات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000039,akakus,وادي توجين,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000040,akakus,وادي ايكومسين,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000041,akakus,وادي تيتا,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000042,akakus,وادي أورزاق,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000043,akakus,وادي تخرخوري,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-AKA-000044,akakus,وادي ابهوها,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000045,akakus,تين أوينين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000046,akakus,وادي سوقد,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000047,akakus,وادي تسبا,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000048,akakus,وادي أنشال,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000049,akakus,تين لالان,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000050,akakus,وادي ارلالان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000051,akakus,وادي تيهت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000052,akakus,وادي كيسان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000053,akakus,وادي أنجاكور,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000054,akakus,وان جارين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000055,akakus,وادي تين طرة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000056,akakus,وادي قرقور,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000057,akakus,وادي غلاشم,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000058,akakus,وادي ايسين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000059,akakus,وادي ايضر,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000060,akakus,تين الكوم,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000061,akakus,وادي تاجنرؤوت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000062,akakus,وادي سلفوفيت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000063,akakus,وادي تكظالت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000064,akakus,جبل تين بب,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000065,akakus,تنسو,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000066,akakus,جبل ايدينان - كاف الجنون,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000067,akakus,قارة تزول,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000068,akakus,رمال تيتغسين أو صحراء تهاريت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000069,akakus,أغرم نودان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000070,akakus,وادي ميغدت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000071,akakus,جبل مفتغت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000072,akakus,ميغدت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000073,akakus,وان تكوفي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000074,akakus,الغابة المتحجرة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000075,akakus,مساك مللت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000076,akakus,طريق يفضي إلى برجوج,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000077,akakus,وادي لانجوسي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000078,akakus,وادي اشناتين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000079,akakus,وادي اميتالي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000080,akakus,تنسو,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000081,akakus,بئر وادي الخير,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000082,akakus,بئر تللوات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000083,akakus,بئر أباناكور,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000084,akakus,بئر امينينغ,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000085,akakus,قلتة تين تراريت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000086,akakus,قلتة ايوانين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000087,akakus,بئر تلووا,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000088,akakus,بئر عليوين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000089,akakus,بئر تيلالان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000090,akakus,بئر سلماجين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000091,akakus,بئر تيترزين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000092,akakus,قلتة تين اميتيلي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000093,akakus,قلتة بوبو,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000094,akakus,قلتة تيبستين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000095,akakus,قلتة انتريكي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000096,akakus,الفوار الساخن,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000097,akakus,قلتة تيقلتري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000098,akakus,وادي تيهرين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000099,akakus,مدخل تين لالان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000100,akakus,نقطة مراقبة الشرطة السياحية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000101,akakus,مدخل حقل الفيل,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000102,akakus,مدخل يفضي إلى مساك ستافت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000103,akakus,مدخل تخرخوري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000104,akakus,ممر تلمسين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000105,akakus,المثلث الحدودي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000106,akakus,متخندوش,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000107,akakus,تفرع يفضي إلى الأكاكوس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000108,akakus,قرية تين أظاريف,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000109,akakus,مدخل حقل الفيل,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000110,akakus,مدينة غات القديمة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000111,akakus,موقع تين الشيخ,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000112,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000113,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000114,akakus,موقع فن صخري أويس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000115,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000116,akakus,مدينة بركت القديمة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000117,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000118,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000119,akakus,رسوم فن صخري - تاهوين,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000120,akakus,موقع فن صخري أويس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000121,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000122,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000123,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000124,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000125,akakus,موقع فن صخري تين الشيخ,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000126,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000127,akakus,قلعة كوكمنت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000128,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000129,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000130,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000131,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000132,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000133,akakus,موقع فن صخري وادي تيسبت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000134,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000135,akakus,موقع فن صخري,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000136,akakus,القلعة الايطالية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000137,akakus,القلعة الفرنسية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000138,akakus,جامع أغرم العتيق,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000139,akakus,حصن آغرم نظاريف,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000140,akakus,موقع جرمنتي - تين أفلا,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000141,akakus,مدافن جرمنتية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000142,akakus,مدافن أثرية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000143,akakus,مدافن حجرية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000144,akakus,مساك مللت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000145,akakus,البركت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000146,akakus,مخيم الفيوت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000147,akakus,فندق تاسيلي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000148,akakus,ايسين,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000149,akakus,مخيم آناي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000150,akakus,موقع مخيم ازيل سنة 2006,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000151,akakus,محطة تزود بالوقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000152,akakus,محطة تزود بالوقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000153,akakus,بحيرة اجراجر,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000154,akakus,المركز الصحي الفيوت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000155,akakus,الفيوت,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000156,akakus,غات,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000157,akakus,مخيم رفاق الصحراء,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000158,akakus,بيوت الشباب غات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000159,akakus,المدينة الرياضية - غات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000160,akakus,مصرف شمال افريقيا,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000161,akakus,فندق الواحة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000162,akakus,موقع مخيم متنقل,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000163,akakus,مكتب الخطوط الجوية الليبية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000164,akakus,مصرف التجاري الوطني,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000165,akakus,مطار غات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000166,akakus,محطة وقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000167,akakus,مشروع تهالة الزراعي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000168,akakus,مركز تهالة الصحي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000169,akakus,محطة تزود بالوقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000170,akakus,مخيم الفاو 2 - منتزه اين أزان,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000171,akakus,المدينة الرياضية - العوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000172,akakus,مخيم الفاو,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000173,akakus,مخيم صحراوي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000174,akakus,فندق المهاري - العوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000175,akakus,مكتب بريد العوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000176,akakus,العوينات,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000177,akakus,حديقة الشجرة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000178,akakus,مطار حقل الفيل,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000179,akakus,حقل الفيل,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000180,akakus,فندق أكاكوس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000181,akakus,مستشفى غات العام,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000182,akakus,مستشفى البركت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000183,akakus,مكتب بريد البركت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000184,akakus,محطة وقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000185,akakus,محطة وقود,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000186,akakus,قارة وادي اميسراجن,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000187,akakus,نقطة حدود بين ليبيا والجزائر,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000188,akakus,وان أفودا,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000189,akakus,كهف في وادي تانشالت,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000190,akakus,كهف وان موهجاج,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000191,akakus,كهف غات,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000192,akakus,(الأهرمات الحطية)مدافن جرمنتية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000193,akakus,نقش صخري,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-AKA-000194,akakus,كهف,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000195,akakus,كهف وان أفودا,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-AKA-000196,akakus,مقبرة جرمنتية أثرية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000001,old-tripoli,متحف السرايا الحمراء,54,0,0,0,0,0,54,54,0,blocked_by_rights
+LY-TRI-000002,old-tripoli,قلعة السرايا الحمراء,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000003,old-tripoli,بحيرة السرايا الحمراء,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000004,old-tripoli,قوس ماركوس اوريليوس,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000005,old-tripoli,حصن القديس يعقوب (السرايا الحمراء),2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000006,old-tripoli,"برج ""القديس جورج""",2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000007,old-tripoli,برج الساعة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000008,old-tripoli,المكتبة الطرابلسية,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000009,old-tripoli,الكنيسة الأرتذوكسية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000010,old-tripoli,كنيسة السيدة مريم,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000011,old-tripoli,المعبد اليهودي,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000012,old-tripoli,مدرسة عثمان باشا الساقزلي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000013,old-tripoli,قوس الصرارعي,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000014,old-tripoli,حوش الصابون,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000015,old-tripoli,محطة سيارات أجرة بين المدن,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000016,old-tripoli,"مسرح ""البولتياما",2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000017,old-tripoli,دار البارود,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000018,old-tripoli,الحنفية (الشيشمة) العثمانية,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000019,old-tripoli,البيت الموريسكي(كازا موريسكي),2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000020,old-tripoli,البيت المزدهر كافي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000021,old-tripoli,ميدان السيدة مريم,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000022,old-tripoli,ميدان بنك روما,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000023,old-tripoli,الساحة ميدان الشهداء,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000024,old-tripoli,قصر درغوت,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000025,old-tripoli,بيت اسكندر للفنون,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000026,old-tripoli,دار عبدالله كريستا,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000027,old-tripoli,دار حسن الفقيه حسن للثقافة والفنون,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000028,old-tripoli,جهاز ادارة المدينة القديمة طرابلس,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000029,old-tripoli,Poseidon Art Gallery رواق بوسيدون للفنون,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000030,old-tripoli,دار الأمام على بن زياد الطرابلس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000031,old-tripoli,حوش محمود بي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000032,old-tripoli,نصب تذكاري الشهداء,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000033,old-tripoli,Fountain Of Horse Marine,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000034,old-tripoli,نافورة الميناء,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000035,old-tripoli,خزان مياه,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000036,old-tripoli,ميناء طرابلس,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000037,old-tripoli,زنقة الريح,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000038,old-tripoli,وسعاية مخزن الرخام,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000039,old-tripoli,كوشة الصفار,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000040,old-tripoli,زنقة البدوي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000041,old-tripoli,زنقة الفرنسيس,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000042,old-tripoli,شارع الأربع عرصات,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000043,old-tripoli,زنقة البقار,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000044,old-tripoli,زنقة القاجيجي,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000045,old-tripoli,زنقة الحرير,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000046,old-tripoli,طريق الخندق,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000047,old-tripoli,زنقة الزلمومية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000048,old-tripoli,زنقة البليبك,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000049,old-tripoli,زنقة الاسبان القنصلية الاسبانية,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000050,old-tripoli,الساحة الشهداء,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000051,old-tripoli,جامع سيدي سالم المشاط,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000052,old-tripoli,مسجد بنور,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000053,old-tripoli,مسجد بن سليمان,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000054,old-tripoli,مسجد عبد الوهاب القيسي,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000055,old-tripoli,مسجد الصقلاني,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000056,old-tripoli,جامع السنوسية,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000057,old-tripoli,مسجد بن صابر,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000058,old-tripoli,جامع بن طابون،المدينة القديمة ،طرابلس الغرب,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000059,old-tripoli,مسجد بن طبيب,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000060,old-tripoli,جامع بن لطيف زنقة الباز,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000061,old-tripoli,مسجد بورقيبة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000062,old-tripoli,جامع سيدي الحطاب,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000063,old-tripoli,مسجد الدباغ,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000064,old-tripoli,مسجد الهدار - المدينة القديمة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000065,old-tripoli,جامع قرجي,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000066,old-tripoli,جامع سيدي اعطية الفلاح,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000067,old-tripoli,جامع الخروبة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000068,old-tripoli,جامع درغوث,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000069,old-tripoli,جامع شايب العين,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000070,old-tripoli,جامع الدروج,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000071,old-tripoli,جامع محمود خزنا دار,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000072,old-tripoli,او بما يعرف مسجد السريا الحمراء مسجد القلعة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000073,old-tripoli,جامع أحمد باشا القرمانللي,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000074,old-tripoli,جامع الناقة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000075,old-tripoli,جامع شان الشأن/مسجد الشنشان,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000076,old-tripoli,مسجد الزواية الكبيرة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000077,old-tripoli,زاوية الكاتب,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000078,old-tripoli,الزاوية الصغيرة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000079,old-tripoli,مبنى بنك دي روما,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000080,old-tripoli,مبنى الريجية,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000081,old-tripoli,القنصلية الفرنسية,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000082,old-tripoli,حوش القرمانللي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000083,old-tripoli,Galleria de bono,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000084,old-tripoli,جالاريا ماريوتي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000085,old-tripoli,مبنى القنصلية الايطالية,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000086,old-tripoli,مبنى بلدية طرابلس التاريخية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000087,old-tripoli,برج بوليلة,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000088,old-tripoli,المدرسة اليهودية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000089,old-tripoli,القنصلية الإنجليزية,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000090,old-tripoli,المركز الصحي المدينة القديمة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000091,old-tripoli,مبنى الكلية الحربية المدرسة البحرية العثمانية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000092,old-tripoli,نادي باب البحر للايكيدو_,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000093,old-tripoli,مطعم الخان الطربلسي,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000094,old-tripoli,مطعم باب المدينة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000095,old-tripoli,مقهى الطبجي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000096,old-tripoli,مقهى السيدة مريم,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000097,old-tripoli,لاكورنو كافي,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000098,old-tripoli,كافي دي روما,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000099,old-tripoli,مقهي باديه,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000100,old-tripoli,بيتزا درغوت,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000101,old-tripoli,كازا كافيه,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000102,old-tripoli,مطعم الأثار,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000103,old-tripoli,مطعم فتوش المدينة القديمة ( قوس ماركوس ),6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000104,old-tripoli,مطعم ومعرض الاندلسسة,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000105,old-tripoli,مطعم باب الحرية للمأكولات الشعبية,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000106,old-tripoli,باب البحر,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000107,old-tripoli,باب المنشية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000108,old-tripoli,باب عبدالله,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000109,old-tripoli,باب زناتة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000110,old-tripoli,باب الخندق,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000111,old-tripoli,باب الجديد,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000112,old-tripoli,باب الفلة أو باب الغولة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000113,old-tripoli,باب السريا باب القلعة,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000114,old-tripoli,باب درغوث,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000115,old-tripoli,باب الحرية,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000116,old-tripoli,سور المديمة القديمة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000117,old-tripoli,سوق الصناعات التقليدية,10,0,0,0,0,0,10,10,0,blocked_by_rights
+LY-TRI-000118,old-tripoli,سوق اللفة,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000119,old-tripoli,سوق الحوت,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000120,old-tripoli,سوق القزدارة,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000121,old-tripoli,سوق النسي,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000122,old-tripoli,سوق الرباع,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000123,old-tripoli,سوق المشير,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000124,old-tripoli,سوق الترك,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000125,old-tripoli,فندق الغدامسية,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000126,old-tripoli,فندق زميت الأثري,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000127,old-tripoli,فندق الزهر,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000128,old-tripoli,فندق الخان,2,0,0,0,0,0,2,2,0,blocked_by_rights
+LY-TRI-000129,old-tripoli,فندق ميزران,8,0,0,0,0,0,8,8,0,blocked_by_rights
+LY-TRI-000130,old-tripoli,فندق مادي الحسان,6,0,0,0,0,0,6,6,0,blocked_by_rights
+LY-TRI-000131,old-tripoli,فندق الحبروش للنسيج اليدوي والالي,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000132,old-tripoli,فندق القرقني,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000133,old-tripoli,فندق إستراحة طرابلس المدينة,0,0,0,0,0,0,0,0,0,no_verified_images
+LY-TRI-000134,old-tripoli,حمام درغوث الحمام الصغير,4,0,0,0,0,0,4,4,0,blocked_by_rights
+LY-TRI-000135,old-tripoli,حمام النساء_حمام الحلقة,0,0,0,0,0,0,0,0,0,no_verified_images
