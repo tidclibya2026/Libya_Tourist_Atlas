@@ -237,7 +237,7 @@
         "site_role": "primary",
         "category": "مواقع التراث العالمي",
         "subcategory": "موقع أثري",
-        "description_ar": "موقع شحات (قورينة) الأثري، وكانت مستعمرة للإغريق في جزيرة ثيرا وإحدى مدن العالم الهلّيني الأساسية، ثم تحولت إلى مدينة رومانية.",
+        "description_ar": "الموقع الرئيسي لقورينا الأثري في شحات.",
         "description_en": "The archaeological site of Shahat (Cyrene), an ancient Greek and Roman city.",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
@@ -6749,7 +6749,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح شحات الاثري",
@@ -6800,7 +6800,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "متحف المنحوتات",
@@ -6851,7 +6851,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "الحمامات الاغريقية",
@@ -6902,7 +6902,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المجلس المحلي شحات",
@@ -7007,7 +7007,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المسجد القديم",
@@ -7058,7 +7058,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "منتزة شحات",
@@ -7109,7 +7109,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "كهف يقع جنوب شرق مدينة شحات",
@@ -7160,7 +7160,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح3",
@@ -7211,7 +7211,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "سيزاريوم/ساحة بروكولوس المحيطة بالأروقة…",
@@ -7262,7 +7262,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "غابة شحات",
@@ -7313,7 +7313,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "هوا القاطر",
@@ -7364,7 +7364,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح شحات",
@@ -7403,7 +7403,7 @@
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
         "category": "مواقع التراث العالمي",
-        "subcategory": "موقع أثري",
+        "subcategory": "مقبرة أثرية",
         "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
@@ -7415,7 +7415,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مقابر منحوتة في الصخر",
@@ -7466,7 +7466,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "هوا احجري",
@@ -7517,7 +7517,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "نبع أبولو",
@@ -7568,7 +7568,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال شحات",
@@ -7619,7 +7619,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مدافن محفورة في الجبل",
@@ -7670,7 +7670,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "معبد الكابيتوليوم",
@@ -7721,7 +7721,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "اعمدة اثار شحات الخالدة",
@@ -7825,7 +7825,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "السوق اليوناني القديم اغورا",
@@ -7876,7 +7876,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "Byzantine basilica",
@@ -7927,7 +7927,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال الدبوسية",
@@ -7978,7 +7978,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال رأس الهلال بافلو",
@@ -8029,7 +8029,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال بالفو",
@@ -8080,7 +8080,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "Cyrene cemetery",
@@ -8131,7 +8131,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "بحيرة براك نوطا",
@@ -11050,17 +11050,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "بحيرة عين الذبان",
         "extended_data": {
@@ -11087,8 +11082,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11118,17 +11113,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المسجد العتيق",
         "extended_data": {
@@ -11155,8 +11145,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11186,17 +11176,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "جبل الصحابة أو رأس الغولة",
         "extended_data": {
@@ -11223,8 +11208,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11319,17 +11304,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "برج مراقبة قديم",
         "extended_data": {
@@ -11354,8 +11334,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11385,17 +11365,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "تمسمودسن",
         "extended_data": {
@@ -11422,8 +11397,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11453,17 +11428,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "جامع يونس",
         "extended_data": {
@@ -11490,8 +11460,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11521,17 +11491,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "واحة تومس_غابات النخيل",
         "extended_data": {
@@ -11558,8 +11523,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11589,17 +11554,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مدرسة تيلوان",
         "extended_data": {
@@ -11626,8 +11586,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11657,17 +11617,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مدينة غدامس القديمة",
         "extended_data": {
@@ -11694,8 +11649,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11725,17 +11680,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "متحف غدامس",
         "extended_data": {
@@ -11762,8 +11712,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11793,17 +11743,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "البيت التراثي- دان دون يونس",
         "extended_data": {
@@ -11829,8 +11774,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11860,17 +11805,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مقهى توجدة",
         "extended_data": {
@@ -11897,8 +11837,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11928,17 +11868,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "القادوس",
         "extended_data": {
@@ -11964,8 +11899,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -11995,17 +11930,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسجد السنوسية",
         "extended_data": {
@@ -12030,8 +11960,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12061,17 +11991,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "عين تالة",
         "extended_data": {
@@ -12096,8 +12021,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12127,17 +12052,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "بيت الحبيب بن عز الدين للثقافة",
         "extended_data": {
@@ -12163,8 +12083,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12194,17 +12114,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "جامع عون الله",
         "extended_data": {
@@ -12230,8 +12145,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12261,17 +12176,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسجد سيدي عمران",
         "extended_data": {
@@ -12298,8 +12208,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12329,17 +12239,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مقبرة سيدي البدري",
         "extended_data": {
@@ -12365,8 +12270,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12396,17 +12301,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "فندق باب الفتح",
         "extended_data": {
@@ -12431,8 +12331,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12462,17 +12362,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "قرية تونين",
         "extended_data": {
@@ -12499,8 +12394,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12530,17 +12425,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "فندق بن يدر",
         "extended_data": {
@@ -12567,8 +12457,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12598,17 +12488,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسجد الظهرة",
         "extended_data": {
@@ -12633,8 +12518,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12664,17 +12549,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "الحوش الغدامسي",
         "extended_data": {
@@ -12701,8 +12581,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12732,17 +12612,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "فندق عين الفرس",
         "extended_data": {
@@ -12769,8 +12644,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12800,17 +12675,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المقبرة الغربية",
         "extended_data": {
@@ -12835,8 +12705,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -12866,17 +12736,12 @@
         "source_folder": "غدامس",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسجد حي السلام",
         "extended_data": {
@@ -12902,8 +12767,8 @@
         "enrichment_sources": [
           "data/incoming/world-heritage-team-update.kml"
         ],
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -14344,7 +14209,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14394,7 +14259,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14444,7 +14309,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14481,7 +14346,7 @@
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
         "category": "مواقع التراث العالمي",
-        "subcategory": "موقع أثري",
+        "subcategory": "موقع طبيعي",
         "description_ar": "تُعد عين الحفرة (المعروفة أيضاً بـ \"وادي عقار\") واحدة من أبرز المعالم الطبيعية والوجهات السياحية الشهيرة في محيط مدينة شحات بمنطقة الجبل الأخضر شرقي ليبيا. واكتسبت هذه العين شهرة واسعة بين عشاق الطبيعة والرحلات بفضل تضاريسها الفريدة ومناظرها الخلابة.‎‎‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
@@ -14494,7 +14359,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14544,7 +14409,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14593,7 +14458,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14642,7 +14507,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14692,7 +14557,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14741,7 +14606,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14790,7 +14655,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14839,7 +14704,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14888,7 +14753,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14937,7 +14802,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -14986,7 +14851,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15035,7 +14900,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15084,7 +14949,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15133,7 +14998,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15182,7 +15047,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15231,7 +15096,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15280,7 +15145,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15329,7 +15194,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15378,7 +15243,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15427,7 +15292,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15476,7 +15341,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15525,7 +15390,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15574,7 +15439,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15623,7 +15488,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15673,7 +15538,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15723,7 +15588,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15773,7 +15638,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15822,7 +15687,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15872,7 +15737,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15922,7 +15787,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -15971,7 +15836,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -16021,7 +15886,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -16071,7 +15936,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -16121,7 +15986,7 @@
         "image_count": 0,
         "image_source": "none_confirmed",
         "image_owner_ar": "",
-        "image_rights_status": "not_applicable",
+        "image_rights_status": "",
         "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
@@ -16166,17 +16031,12 @@
         "source_index": 209,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "حسب تقييم نزالاء  يقدم الفندق خدمات ومعاملة ممتازة بغرف واسعة وأسعار معقولة غرفه نظيفة وواسعة كما يحتوي على مطعم لتقديم خدمات الطعام والشراب ‎‎‎‎",
@@ -16190,8 +16050,8 @@
           "الفئة": "",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR79e-9sgjWxqa_OE62s9TbZf0qYvr0s9AkQHcIqumVFKOmkHdJkWhvtgesLIG7xroKJ8UTAWjsY9gDdnZYoX3jCbaG583tB8Wby9VlBMW4bDapaa9K9CCRU1q8at9lDqppE9X2c-VdmoR-Ox611sNWRDS8RPYXfsCxQ4krfFpllG8tJppOFDugXpwEeDXpWL-42md7omtpcfS3jJQ20_UpXzGetIj8JUSavip7NvIK1GYzMVAds3Y19Bxs?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6UEuS_o5nMjHKgfBAvAsHWbazvbRijAp2_AO5_9z5IomyjEeLj8LUBVsvOs4F9b4dqSETK_gK0z8X52_ObCZ1T8vnN_3DOEPkQPL5tiNpehtgiIHYvTBzI_cdBkpfNSSaGFI0DOTgbv4vfZCOigNiOqxyw_8l0qPkdLYY9dnyN1fU7imBcAgX8x8nOsdxaYkXdOdNZmZ7GjfJYZz0Jd-oLa0_F9bfUbuJDZumMG9allYj2Y_rG_-5sZQY?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16223,17 +16083,12 @@
         "source_index": 210,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يقع الفندق على اطراف المدينة غدامس وسط غتبات النخيل يعكس العمارة المحلية للمدينة كما يحتوي على ساحة رئيسية تحيط بها مساحات خضراء ‎",
@@ -16247,8 +16102,8 @@
           "الفئة": "",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6ShpE81Qqsgz10gdWH21XPu7qpaUv-O9KvoXRNAnyc8vv0juGuEE35tg07klyN6imTAbXlWJAer0Mwbn07rRyYlXDHoPEkxYY7WanLz1ncQ52446S8v3xKDDb0odmv9Zq6ZeWqdcd5__RMbO3PhmrddC-qRh0nK-vpkbrD87clMdJu2jf3jUogT3GftmKz8Pn2EFIY_51eDAbs8rUx_P7vrHhKmg-7j3PzCY0mhdNnm-cOVcy05gKo0Ns?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16280,17 +16135,12 @@
         "source_index": 211,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
-          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
-        ],
-        "image_count": 4,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -16303,8 +16153,8 @@
           "نوع المعلم": "",
           "الفئة": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
