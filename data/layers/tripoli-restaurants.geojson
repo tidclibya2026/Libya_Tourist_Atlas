@@ -5,14 +5,22 @@
     "source": "data/incoming/tripoli-restaurants.kml",
     "generated_at": "2026-08-06",
     "feature_count": 75,
-    "cleaning_phase": "national_data_cleaning_phase_1",
+    "cleaning_phase": "national_data_cleaning_phase_2",
     "cleaning_date": "2026-08-06",
     "features_before": 75,
     "features_after": 75,
     "true_duplicates_merged": 0,
     "records_retained": 75,
     "review_items_remaining": 10,
-    "methodology_version": "1.0.0"
+    "methodology_version": "2.0.0",
+    "new_true_duplicates_merged": 0,
+    "p1_before": 0,
+    "p1_resolved": 0,
+    "p1_remaining": 0,
+    "review_items_before": 10,
+    "review_items_resolved": 0,
+    "completeness_before": 75.0,
+    "completeness_after": 75.0
   },
   "features": [
     {
@@ -96,7 +104,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +205,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -278,7 +306,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +407,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -460,7 +508,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +609,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -642,7 +710,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +811,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +912,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +1013,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1006,7 +1114,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1097,7 +1215,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1188,7 +1316,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1417,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1370,7 +1518,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1619,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1552,7 +1720,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1643,7 +1821,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1734,7 +1922,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1825,7 +2023,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -1916,7 +2124,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2225,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2098,7 +2326,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2189,7 +2427,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2280,7 +2528,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2371,7 +2629,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2462,7 +2730,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2553,7 +2831,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2644,7 +2932,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2747,7 +3045,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2838,7 +3146,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -2941,7 +3259,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3044,7 +3372,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3135,7 +3473,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3238,7 +3586,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3329,7 +3687,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3420,7 +3788,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3511,7 +3889,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3602,7 +3990,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3693,7 +4091,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3784,7 +4192,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3875,7 +4293,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -3966,7 +4394,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4057,7 +4495,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4148,7 +4596,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4239,7 +4697,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4341,7 +4809,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4432,7 +4910,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4535,7 +5023,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4626,7 +5124,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4717,7 +5225,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4808,7 +5326,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4899,7 +5427,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -4990,7 +5528,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5081,7 +5629,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5172,7 +5730,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5263,7 +5831,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5354,7 +5932,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5445,7 +6033,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5548,7 +6146,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5639,7 +6247,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5730,7 +6348,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5821,7 +6449,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -5912,7 +6550,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +6651,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6106,7 +6764,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6197,7 +6865,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6288,7 +6966,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6379,7 +7067,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6470,7 +7168,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6573,7 +7281,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6664,7 +7382,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6755,7 +7483,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6846,7 +7584,17 @@
         "merge_confidence": null,
         "merge_date": null,
         "merge_method": null,
-        "merge_notes": null
+        "merge_notes": null,
+        "publication_status": "internal_ready",
+        "publication_status_reason": "No blocking review; quality limitations remain disclosed",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",
@@ -6949,7 +7697,17 @@
         "review_status": "open",
         "temporary_name_status": "not_temporary",
         "temporary_name_reason": null,
-        "official_name_required": false
+        "official_name_required": false,
+        "publication_status": "internal_only",
+        "publication_status_reason": "Open review item",
+        "publication_status_date": "2026-08-06",
+        "publication_status_method": "phase_2_rules_v1",
+        "operational_status_code": "unknown",
+        "operational_status_ar": "غير محدد",
+        "weighted_completeness_score": 75.0,
+        "critical_fields_completeness": 100.0,
+        "supplementary_fields_completeness": 50.0,
+        "completeness_method_version": "phase_2_weighted_v1"
       },
       "geometry": {
         "type": "Point",

@@ -1,0 +1,2 @@
+﻿feature_id,layer_id,original_name,new_name,name_cleaning_method,name_cleaning_confidence,evidence_reference,notes
+LY-INV-OPP-NAT-00001,investment,فرصة استثمارية غير مسماة – منطقة غير محددة – 00001,فرصة استثمارية غير مسماة – منطقة غير محددة – 00001,temporary_administrative_label,high,data/incoming/tourism-investment-projects.kml,No official name invented.

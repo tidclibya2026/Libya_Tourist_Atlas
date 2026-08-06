@@ -1,0 +1,149 @@
+{
+  "generated_at": "2026-08-06T22:26:40Z",
+  "entities": [
+    {
+      "entity": "وزارة السياحة والصناعات التقليدية",
+      "p1_actions": 0,
+      "p2_actions": 271,
+      "p3_actions": 0,
+      "total_actions": 271,
+      "features_affected": 271,
+      "top_missing_fields": "Multiple reasons",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P2",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "مركز المعلومات والتوثيق السياحي",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "إدارة الاستثمار",
+      "p1_actions": 156,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 156,
+      "features_affected": 156,
+      "top_missing_fields": "Multiple reasons",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P1",
+      "publication_impact_count": 156
+    },
+    {
+      "entity": "البلديات",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "جهة الترخيص السياحي",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 276,
+      "total_actions": 276,
+      "features_affected": 276,
+      "top_missing_fields": "license_review",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "مصلحة أملاك الدولة",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "مصلحة التخطيط العمراني",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "هيئة تشجيع الاستثمار",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "جهاز حماية البيئة",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "جهات المرافق والبنية التحتية",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "الجهات المالكة والمشغلون",
+      "p1_actions": 0,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 0,
+      "features_affected": 0,
+      "top_missing_fields": "",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P3",
+      "publication_impact_count": 0
+    },
+    {
+      "entity": "فريق الترجمة والتسمية",
+      "p1_actions": 1,
+      "p2_actions": 0,
+      "p3_actions": 0,
+      "total_actions": 1,
+      "features_affected": 1,
+      "top_missing_fields": "Multiple reasons",
+      "recommended_workflow": "validate, document evidence, approve, return using response template",
+      "suggested_priority": "P1",
+      "publication_impact_count": 1
+    }
+  ]
+}

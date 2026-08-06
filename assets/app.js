@@ -98,6 +98,7 @@ const layers = [
 ];
 
 const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', tripoliRestaurants: 'Tripoli Restaurants', tripoliCafes: 'Tripoli Cafes', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
+const INTERNAL_ADMIN_MODE = new URLSearchParams(window.location.search).get('mode') === 'internal';
 for (const cfg of layers) {
   Object.assign(cfg, { nameAr: cfg.name, nameEn: layerNamesEn[cfg.id] || cfg.name, visibleByDefault: cfg.id === 'heritage', cluster: true, popupType: 'gallery' });
 }
@@ -787,6 +788,10 @@ function cleanPopup(
             <div class="popup-data-review-warning">هذا السجل يحتاج مراجعة وتحققًا مؤسسيًا قبل الاعتماد.</div>
           ` : ''}
 
+          ${['internal_only', 'withheld_pending_verification'].includes(properties.publication_status) ? `
+            <div class="popup-data-review-warning">سجل للاستخدام الداخلي فقط؛ لم يكتمل التحقق المؤسسي ولا يمثل اعتمادًا رسميًا.</div>
+          ` : ''}
+
           ${details}
 
           <div class="popup-description">
@@ -1397,9 +1402,8 @@ async function toggleLayer(cfg, on) {
 
       L.geoJSON(data, {
         filter: feature =>
-          cfg.filter === 'natural'
-            ? naturalFeature(feature)
-            : true,
+          (cfg.filter === 'natural' ? naturalFeature(feature) : true) &&
+          (INTERNAL_ADMIN_MODE || feature.properties?.publication_status !== 'withheld_pending_verification'),
 
         pointToLayer: (feature, latLng) =>
           L.marker(latLng, {
