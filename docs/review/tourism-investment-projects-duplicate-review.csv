@@ -1,0 +1,108 @@
+﻿record_a_id,record_a_name,record_a_geometry,record_b_id,record_b_name,record_b_geometry,distance_meters,polygon_overlap_percent,name_similarity,duplicate_classification,recommended_action,notes
+LY-INV-RES-KHO-00005,قرية قوس غنيمة السياحية,Point,LY-INV-RES-NAT-00024,قرية قوس غنيمة السياحية,Point,16.5,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-KHO-00007,قرية شمس البحر,Point,LY-INV-RES-NAT-00026,قرية شمس البحر,Point,40.9,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-NAT-00038,منتجع الينابيع السياحي,Point,LY-INV-EXP-SHA-00001,منتجع الينابيع السياحي,Point,44.1,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-DER-00001,منتجع إيميليا السياحي,Point,LY-INV-RES-DER-00003,منتجع ايميليا,Point,20.4,0,0.786,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-SHA-00001,منتج شحات السياحي,Point,LY-INV-RES-SHA-00010,منتجع شحات السياحي,Point,11.5,0,0.897,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-SHA-00002,منتجع وموتيل الأمان 1,Point,LY-INV-RES-SHA-00011,منتجع وموتيل الأمان,Point,44.4,0,0.968,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-RES-KHO-00018,إستراحات فردية درجة أولى,Point,LY-INV-RES-SHA-00006,إستراحات فردية,Point,65.9,0,0.75,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-BAY-00002,فندق لؤلؤة الخليج,Point,LY-INV-HOT-BAY-00007,فندق لؤلؤة الخليج البيضاء,Point,72.9,0,0.812,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-GHA-00002,فندق بن يدر,Point,LY-INV-HOT-NAT-00056,فندق بن يدر,Point,0.7,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-GHA-00002,فندق بن يدر,Point,LY-INV-HOT-NAT-00168,فندق بن يدر,Point,0.7,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-GHA-00003,فندق نجوم غدامس,Point,LY-INV-HOT-GHA-00007,فندق نجوم غدامس,Point,2.5,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-GHA-00003,فندق نجوم غدامس,Point,LY-INV-HOT-GHA-00008,فندق نجوم غدامس,Point,2.5,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00008,فندق بلازما,Point,LY-INV-HOT-NAT-00055,فندق بلازما,Point,8.7,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00008,فندق بلازما,Point,LY-INV-HOT-NAT-00167,فندق بلازما,Point,8.7,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00008,فندق بلازما,Point,LY-INV-HOT-TRI-00046,فندق بلازما,Point,15.9,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00014,فندق الجبل,Point,LY-INV-HOT-NAT-00099,فندق الجبل,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00016,فندق الحديقة,Point,LY-INV-HOT-NAT-00103,فندق الحديقة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00017,فندق الحمام السياحي,Point,LY-INV-HOT-NAT-00104,فندق الحمام السياحي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00018,فندق الحياة,Point,LY-INV-HOT-NAT-00105,فندق الحياة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00012,فندق الخان الطرابلسي,Point,LY-INV-HOT-TRI-00022,فندق الخان الطرابلسي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00020,فندق الخليل السياحي,Point,LY-INV-HOT-NAT-00106,فندق الخليل السياحي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00021,فندق الدوحة,Point,LY-INV-HOT-NAT-00107,فندق الدوحة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00023,فندق الرابطة,Point,LY-INV-HOT-NAT-00257,فندق الرابطة,Point,22.5,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00014,فندق الريان,Point,LY-INV-HOT-TRI-00038,فندق الثريا,Point,95.0,0,0.778,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00025,فندق الزهر,Point,LY-INV-HOT-NAT-00109,فندق الزهر,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00026,فندق الزيتونة,Point,LY-INV-HOT-NAT-00110,فندق الزيتونة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00027,فندق السرايا,Point,LY-INV-HOT-NAT-00111,فندق السرايا,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-ZUW-00002,فندق زوارة,Point,LY-INV-HOT-ZUW-00003,فندق زوارة,Point,179.1,0,1,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-ZUW-00002,فندق زوارة,Point,LY-INV-HOT-ZUW-00004,فندق زوارة,Point,179.1,0,1,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00028,فندق السهم,Point,LY-INV-HOT-NAT-00113,فندق السهم,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00029,فندق السياحي,Point,LY-INV-HOT-NAT-00114,فندق السياحي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00033,فندق الصحراوي,Point,LY-INV-HOT-NAT-00116,فندق الصحراوي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-MIS-00004,فندق الصناعية مصراتة,Point,LY-INV-HOT-MIS-00006,فندق الصناعية مصراتة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00039,فندق الكرومة,Point,LY-INV-HOT-NAT-00125,فندق الكرومة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00041,فندق المتوسط,Point,LY-INV-HOT-KHO-00005,فندق المتوسط الخمس,Point,0.0,0,0.833,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00042,فندق المدينة,Point,LY-INV-HOT-NAT-00128,فندق المدينة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00043,فندق المرقب,Point,LY-INV-HOT-NAT-00131,فندق المرقب,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00044,فندق المشكاة,Point,LY-INV-HOT-NAT-00133,فندق المشكاة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00045,فندق المنامة,Point,LY-INV-HOT-NAT-00135,فندق المنار,Point,196.1,0,0.842,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00046,فندق النخلة,Point,LY-INV-HOT-NAT-00137,فندق النخلة السياحي,Point,0.0,0,0.75,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00048,فندق الهنشيري,Point,LY-INV-HOT-NAT-00143,فندق الهنشيري,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00049,فندق الهيشة,Point,LY-INV-HOT-NAT-00144,فندق الهيشة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00050,فندق الواحات,Point,LY-INV-HOT-NAT-00145,فندق الواحات,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00051,فندق الياسمين,Point,LY-INV-HOT-NAT-00147,فندق الياسمين,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00052,فندق أجنحة قرطاج,Point,LY-INV-HOT-NAT-00155,فندق أجنحة قرطاج,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00054,فندق أوال,Point,LY-INV-HOT-NAT-00161,فندق أوال,Point,0.1,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00054,فندق أوال,Point,LY-INV-HOT-TRI-00028,فندق أوال,Point,119.2,0,1,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00019,فندق باب البحر,Point,LY-INV-HOT-NAT-00164,فندق باب البحر,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00055,فندق بلازما,Point,LY-INV-HOT-NAT-00167,فندق بلازما,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00055,فندق بلازما,Point,LY-INV-HOT-TRI-00046,فندق بلازما,Point,20.4,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00056,فندق بن يدر,Point,LY-INV-HOT-NAT-00168,فندق بن يدر,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00057,فندق بنت السيد,Point,LY-INV-HOT-NAT-00169,فندق بنت السيد,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00058,فندق بودلغوسة,Point,LY-INV-HOT-NAT-00170,فندق بودلغوسة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00061,فندق تابكت,Point,LY-INV-HOT-NAT-00171,فندق تابكت,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00062,فندق توباكتس,Point,LY-INV-HOT-NAT-00172,فندق توباكتس,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00062,فندق توباكتس,Point,LY-INV-HOT-TRI-00051,فندق توباكتس,Point,40.1,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00063,فندق جي دبليو ماريوت,Point,LY-INV-HOT-NAT-00178,فندق جي دبليو ماريوت,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00066,فندق ريكسوس,Point,LY-INV-HOT-NAT-00186,فندق ريكسوس,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-ZLI-00001,فندق زليتن,Point,LY-INV-HOT-ZLI-00002,فندق زليتن,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00067,فندق زميت,Point,LY-INV-HOT-NAT-00187,فندق زميت,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00068,فندق زهرة الخليج,Point,LY-INV-HOT-NAT-00189,فندق زهرة الخليج,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00068,فندق زهرة الخليج,Point,LY-INV-HOT-TRI-00044,فندق زهرة الخليج,Point,31.6,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-ZUW-00003,فندق زوارة,Point,LY-INV-HOT-ZUW-00004,فندق زوارة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00069,فندق سرايا الليبو,Point,LY-INV-HOT-NAT-00191,فندق سرايا الليبو,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00071,فندق سفاري 2,Point,LY-INV-HOT-NAT-00192,فندق سفاري 2,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00072,فندق سفيروس,Point,LY-INV-HOT-KHO-00006,فندق سفيروس الخمس,Point,0.0,0,0.783,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00073,فندق شروق افريقيا,Point,LY-INV-HOT-NAT-00193,فندق شروق افريقيا,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00074,فندق صحارى ليبيا,Point,LY-INV-HOT-NAT-00194,فندق صحارى ليبيا,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00075,فندق ضيافة ونيس,Point,LY-INV-HOT-NAT-00195,فندق ضيافة ونيس,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00076,فندق طليطلة,Point,LY-INV-HOT-NAT-00196,فندق طليطلة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00080,فندق غابة الكشافة,Point,LY-INV-HOT-NAT-00198,فندق غابة الكشافة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00081,فندق غريان السياحي,Point,LY-INV-HOT-NAT-00199,فندق غريان السياحي,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00081,فندق غريان السياحي,Point,LY-INV-HOT-NAT-00259,فندق غريان السياحي,Point,1.0,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00082,فندق قرطاج,Point,LY-INV-HOT-NAT-00202,فندق قرطاج,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00083,فندق قصر الظهرة,Point,LY-INV-HOT-NAT-00203,فندق قصر الظهرة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00084,فندق قصر الفيروز,Point,LY-INV-HOT-NAT-00205,فندق قصر الفيروز,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-SAB-00003,فندق قمر صبراتة,Point,LY-INV-HOT-SAB-00004,فندق قمر صبراتة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00085,فندق كونتنتال,Point,LY-INV-HOT-NAT-00211,فندق كونتنتال,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00086,فندق ليالي قرطاج,Point,LY-INV-HOT-NAT-00212,فندق ليالي قرطاج,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00087,فندق ليبيا,Point,LY-INV-HOT-NAT-00213,فندق ليبيا,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00088,فندق مادي الحسان,Point,LY-INV-HOT-NAT-00214,فندق مادي الحسان,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-GHA-00007,فندق نجوم غدامس,Point,LY-INV-HOT-GHA-00008,فندق نجوم غدامس,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00089,فندق نور الثريا,Point,LY-INV-HOT-TRI-00035,فندق نور الثرياء,Point,37.6,0,0.96,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00089,فندق نور الثريا,Point,LY-INV-HOT-TRI-00038,فندق الثريا,Point,220.9,0,0.762,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00090,فندق واستراحة جادو,Point,LY-INV-HOT-NAT-00217,فندق واستراحة جادو,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00092,فندق ومطعم النزهة,Point,LY-INV-HOT-NAT-00218,فندق ومطعم النزهة,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00093,فندق يفرن,Point,LY-INV-HOT-NAT-00219,فندق يفرن,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00021,طرابلس للشقق الفندقية,Point,LY-INV-HOT-TRI-00024,طرابلس للشقق الفندقية,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-REV-TRI-00001,نزل طرابلس الحديث,Point,LY-INV-REV-TRI-00002,نزل طرابلس الحديث,Point,0.0,0,1,confirmed_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00115,فندق اجدابيا,Point,LY-INV-HOT-NAT-00252,فندق اجدابيا السياحي,Point,8.6,0,0.769,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00141,فندق الهاني/ نزل,Point,LY-INV-HOT-NAT-00231,فندق الهاني,Point,82.6,0,0.857,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00161,فندق أوال,Point,LY-INV-HOT-TRI-00028,فندق أوال,Point,119.3,0,1,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00167,فندق بلازما,Point,LY-INV-HOT-TRI-00046,فندق بلازما,Point,20.4,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00172,فندق توباكتس,Point,LY-INV-HOT-TRI-00051,فندق توباكتس,Point,40.1,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00185,فندق ريباس,Point,LY-INV-HOT-TRI-00054,فندق ريباس,Point,16.2,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00189,فندق زهرة الخليج,Point,LY-INV-HOT-TRI-00044,فندق زهرة الخليج,Point,31.6,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-NAT-00199,فندق غريان السياحي,Point,LY-INV-HOT-NAT-00259,فندق غريان السياحي,Point,1.0,0,1,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00025,فندق قرطاج السياحى1,Point,LY-INV-HOT-TRI-00031,فندق قرطاج السياحى2,Point,35.6,0,0.938,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00027,فندق الفصول الاربعة 3,Point,LY-INV-HOT-TRI-00036,فندق الفصول الاربعة 2,Point,236.0,0,0.933,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00027,فندق الفصول الاربعة 3,Point,LY-INV-HOT-TRI-00042,فندق الفصول الابعة 1,Point,130.5,0,0.828,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00032,فندق التوفيق 2,Point,LY-INV-HOT-TRI-00048,فندق التوفيق 1,Point,51.9,0,0.909,possible_duplicate,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00036,فندق الفصول الاربعة 2,Point,LY-INV-HOT-TRI-00042,فندق الفصول الابعة 1,Point,121.5,0,0.828,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-HOT-TRI-00039,فندق الشاطئ الذهبى,Point,LY-INV-HOT-NAT-00250,فندق الشاطىء الذهبي,Point,108.6,0,0.897,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-REV-NAT-00035,سيدي عبدالجليل-1,Polygon,LY-INV-REV-NAT-00036,سيدي عبدالجليل-2,Polygon,145.3,0.0,0.923,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-REV-NAT-00036,سيدي عبدالجليل-2,Polygon,LY-INV-REV-NAT-00037,سيدي عبدالجليل-3,Polygon,121.3,0.0,0.923,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-REV-NAT-00037,سيدي عبدالجليل-3,Polygon,LY-INV-REV-NAT-00038,سيدي عبدالجليل-4,Polygon,249.8,0.0,0.923,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.
+LY-INV-REV-NAT-00039,سيدي عبدالجليل-5,Polygon,LY-INV-REV-NAT-00040,سيدي عبدالجليل-6,Polygon,230.9,0.6,0.923,review_required,review; no automatic merge,Co-located opportunities may be distinct or parent/child.

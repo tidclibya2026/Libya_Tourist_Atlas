@@ -461,6 +461,17 @@ main {
   font-size: 11px;
 }
 
+.popup-investment-warning {
+  margin: 8px 0 10px;
+  padding: 8px 10px;
+  border: 1px solid #f59e0b66;
+  border-radius: 8px;
+  background: #fffbeb;
+  color: #92400e;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
 .atlas-image-viewer {
   position: fixed;
   inset: 0;

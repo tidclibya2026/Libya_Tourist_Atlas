@@ -71,7 +71,8 @@ const layers = [
   {
     id: 'investment',
     name: 'المشاريع وفرص الاستثمار',
-    file: 'data/kml/final/investment.kml',
+    type: 'geojson',
+    url: 'data/layers/tourism-investment-projects.geojson',
     icon: '📈',
     color: '#ca8a04',
     meta: 'مواقع التنمية والفرص الاستثمارية'
@@ -260,7 +261,21 @@ for (const cfg of layers) {
   });
 }
 
-function markerIcon(cfg) {
+function investmentColor(feature, fallback) {
+  if (!feature || feature.properties?.category !== 'المشاريع وفرص الاستثمار السياحي') return fallback;
+  const p = feature.properties;
+  if (p.data_review_status === 'review_required') return '#64748b';
+  if (p.project_status_code === 'stalled') return '#b91c1c';
+  if (p.project_status_code === 'under_construction') return '#d97706';
+  if (p.project_status_code === 'operational') return '#15803d';
+  if (p.investment_type_code === 'land_for_tourism_investment') return '#8b5cf6';
+  if (p.investment_type_code === 'tourism_development_zone') return '#0369a1';
+  if (p.investment_type_code === 'investment_opportunity') return '#ca8a04';
+  return fallback;
+}
+
+function markerIcon(cfg, feature = null) {
+  const color = investmentColor(feature, cfg.color);
   return L.divIcon({
     className: '',
     html: `
@@ -268,7 +283,7 @@ function markerIcon(cfg) {
         width:30px;
         height:30px;
         border-radius:10px;
-        background:${cfg.color};
+        background:${color};
         color:white;
         display:grid;
         place-items:center;
@@ -346,6 +361,11 @@ function approvalLabel(properties) {
 }
 
 function heritagePolygonStyle(feature, cfg) {
+  if (cfg.id === 'investment') {
+    const color = investmentColor(feature, cfg.color);
+    return { color, weight: 2, opacity: 0.9, fillColor: color, fillOpacity: 0.1,
+      dashArray: feature?.properties?.data_review_status === 'review_required' ? '7 5' : null };
+  }
   const pending =
     feature?.properties?.approval_status === 'pending_review';
 
@@ -634,6 +654,20 @@ function cleanPopup(
       ].filter(Boolean).join('، ')
     ],
     ['حالة التشغيل', properties.operational_status],
+    ['نوع الاستثمار', properties.subcategory_ar],
+    ['حالة المشروع', properties.project_status_ar],
+    ['المساحة (م²)', properties.site_area_m2],
+    ['المساحة (هكتار)', properties.site_area_hectares],
+    ['الملكية', firstValue(properties.ownership_type, properties.ownership_entity)],
+    ['الجهة المسؤولة', firstValue(properties.implementing_entity, properties.supervising_entity)],
+    ['المستثمر أو المشغل', firstValue(properties.investor_name, properties.operator_name)],
+    ['القيمة الاستثمارية', firstValue(properties.investment_value, properties.estimated_cost)],
+    ['نسبة الإنجاز', properties.completion_percentage],
+    ['الوظائف المتوقعة', properties.jobs_expected],
+    ['حالة البنية التحتية', properties.infrastructure_status],
+    ['الحالة القانونية', properties.legal_status],
+    ['الجاهزية الاستثمارية الأولية', properties.investment_readiness_level],
+    ['الأولوية الأولية', properties.preliminary_priority_level],
     ['حالة الترخيص', properties.license_status],
     [
       'الاتصال',
@@ -738,6 +772,12 @@ function cleanPopup(
           <h3 class="popup-title">
             ${escapeHtml(String(name))}
           </h3>
+
+          ${properties.investment_readiness_level === 'insufficient_data' ? `
+            <div class="popup-investment-warning">
+              التقييم أولي ويعكس اكتمال البيانات المتاحة، ولا يمثل اعتمادًا قانونيًا أو قرارًا استثماريًا.
+            </div>
+          ` : ''}
 
           ${details}
 
@@ -1355,7 +1395,7 @@ async function toggleLayer(cfg, on) {
 
         pointToLayer: (feature, latLng) =>
           L.marker(latLng, {
-            icon: markerIcon(cfg)
+            icon: markerIcon(cfg, feature)
           }),
 
         style: feature =>
