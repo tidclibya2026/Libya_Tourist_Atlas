@@ -1,0 +1,3 @@
+﻿record_a_id,record_a_name,record_b_id,record_b_name,distance_meters,name_similarity,duplicate_classification,recommended_action,notes
+LY-ACC-RES-KHO-00005,قرية قوس غنيمة السياحية,LY-ACC-RES-NAT-00024,قرية قوس غنيمة السياحية,16.5,1,confirmed_duplicate,retain_and_review,No automatic merge; co-located village and resort may be distinct
+LY-ACC-RES-KHO-00007,قرية شمس البحر,LY-ACC-RES-NAT-00026,قرية شمس البحر,40.9,1,review_required,retain_and_review,No automatic merge; co-located village and resort may be distinct

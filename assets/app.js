@@ -62,7 +62,8 @@ const layers = [
   {
     id: 'resorts',
     name: 'القرى والمنتجعات السياحية',
-    file: 'data/kml/final/resorts.kml',
+    type: 'geojson',
+    url: 'data/layers/tourist-villages-resorts.geojson',
     icon: '🏖️',
     color: '#0d9488',
     meta: 'القرى والمنتجعات والشاليهات'
@@ -620,6 +621,19 @@ function cleanPopup(
     ['النجوم', properties.stars],
     ['عدد الغرف', properties.rooms],
     ['عدد الأسرة', properties.beds],
+    ['عدد الوحدات', properties.units],
+    ['الطاقة الاستيعابية', properties.capacity],
+    [
+      'الخدمات المتاحة',
+      [
+        properties.beach_access === true ? 'شاطئ' : '',
+        properties.pool_available === true ? 'مسبح' : '',
+        properties.restaurant_available === true ? 'مطعم' : '',
+        properties.parking_available === true ? 'موقف سيارات' : '',
+        properties.family_friendly === true ? 'مناسب للعائلات' : ''
+      ].filter(Boolean).join('، ')
+    ],
+    ['حالة التشغيل', properties.operational_status],
     ['حالة الترخيص', properties.license_status],
     [
       'الاتصال',

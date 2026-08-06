@@ -1,0 +1,263 @@
+﻿id,name_ar,name_en,facility_type_code,municipality_ar,longitude,latitude,match_status,data_quality_status,data_completeness_percent,source_image_status
+LY-ACC-RES-ZUW-00001,قرية إدوس السياحية,Edos Sea resorts,beach_resort,زوارة,11.998442,32.990086,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-TRI-00001,قرية مرمرة السياحية,marmara resorts,tourist_resort,طرابلس,12.00665,32.98545,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00002,قرية فيرونا السياحية,verona resort,tourist_village,زوارة,12.0169581,32.979411,new_feature,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00003,قرية البرتقالة,قرية البرتقالة - Orange Resort,tourist_village,زوارة,12.0251506,32.975314,new_feature,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00004,قرية شط النخيل زوارة,Palm beach / قرية شط النخيل زوارة,accommodation_resort_other,زوارة,12.048679,32.955312,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00005,قرية أوليڤيا السياحية - زوارة,Olivia Zwara resort قرية أوليڤيا السياحية,tourist_resort,زوارة,12.0239487,32.9763911,new_feature,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00006,منتجع تايتانيك,Titanix Resort Zuwara,tourist_resort,زوارة,12.0565,32.95211,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00007,إقامة تولين السياحية,إقامة تولين - Tuline residence,tourist_village,زوارة,12.021124,32.978893,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00008,VILLA HAYA,VILLA HAYA,tourist_resort,زوارة,12.06513,32.94623,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00009,منتجع زين السياحي,منتجع زين غاردن السياحي,accommodation_resort_other,زوارة,12.041876,32.961648,exact_match,medium,64,no_image
+LY-ACC-RES-ZUW-00010,قرية تيبودا السياحيه,قرية تيبودا السياحيه Teboda resort,tourist_resort,زوارة,12.05311,32.9545,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00011,منتجع سيتي بارك زوارة,City Park Zuwara - سيتي بارك زوارة,tourist_resort,زوارة,12.10216,32.93167,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-SAB-00001,قرية جوهرة صبراتة السياحية,قرية جوهرة صبراتة السياحية Goharat sabratha,tourist_village,صبراتة,12.45843,32.8107,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-SAB-00002,قرية المغرب العربي صبراتة,فندق المغرب العربي للشقق المفروشة,tourist_village,صبراتة,12.328594,32.825957,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-SAB-00003,مركب تليل السياحي_صبراتة,Tellel resorts مركب تليل السياحي,tourist_village,صبراتة,12.37648,32.81694,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-NAT-00001,القرية السياحية جنزور,العنوان/المدينة:,tourist_village,,13.00864,32.83712,exact_match,low,43,temporary_google_url
+LY-ACC-RES-TRI-00002,قرية بالم سيتي/قرية النخيل السياحية طرابلس,Palm city residences janzour libya,tourist_village,طرابلس,13.041687,32.848441,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-TRI-00003,القرية السياحية الريقاتة,قرية المغرب العربي السكنية -Regata village,tourist_village,طرابلس,13.05782,32.8521,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-TRI-00004,مركب شيراتون - النقاط الأربعة,Four Points Hotel - Tripoli,tourist_complex,طرابلس,13.146279,32.880963,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-NAT-00002,القرية السياحية تاجوراء,العنوان/المدينة:,tourist_village,,13.42962,32.86297,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00003,منتجع سمرلاند المائي,SummerLand Waterpark & Resort,tourist_resort,,13.582164,32.79624,exact_match,low,43,temporary_google_url
+LY-ACC-RES-KHO-00001,مصيف قرية مارينا السياحية,مصيف قرية مارينا السياحية الخمس -Marina Villages,tourist_village,الخمس,14.3535,32.595636,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00002,قرية قصر سيلين العائلية,قرية قصر سيلين العائلية - QASR SILIN FAMILY RESORTS,family_resort,الخمس,14.187187,32.704188,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00003,قرية حدائق غنيمة,قرية حدائق غنيمة - GHANIMA GARDENS VILLAGES,tourist_village,الخمس,14.058807,32.719882,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00004,إستراحة شط غنيمة,العنوان/المدينة: شارع الاربعين 40 غنيمة، الخمس,accommodation_resort_other,الخمس,14.028791,32.721768,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-TRI-00005,قرية المتوسط العائلية,Almotawaset resorts,family_resort,طرابلس,14.029608,32.726655,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00005,قرية قوس غنيمة السياحية,qous ghanima village,tourist_village,الخمس,14.05611,32.72302,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00006,قرية لؤلؤة غنيمة العائلية,العنوان/المدينة:,family_resort,الخمس,14.03409,32.72176,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00007,قرية شمس البحر,العنوان/المدينة:,tourist_village,الخمس,14.059195,32.721778,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00008,قرية الشاطيء الذهبي,Golden Beach Village,tourist_resort,الخمس,14.05915,32.71876,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00009,منتجع سي شيلز,SeaShells Beach Resort,tourist_resort,الخمس,14.190261,32.704827,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00010,منتجع حوض البحر Seapool Resort,Seapool Resort (منتجع حوض البحر),tourist_village,الخمس,14.060749,32.722251,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00011,قرية الخمس السياحية,العنوان/المدينة:,accommodation_resort_other,الخمس,14.277922,32.645768,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-KHO-00012,قريه غنيمه العائليه,منتجع غنيمة السياحي Ghanima Resort&spa,family_resort,الخمس,14.27806,32.64588,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00013,قرية اكوا مارين السياحية,قرية أكوامارين السياحية - Aquamarine,tourist_village,الخمس,14.034,32.72555,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00014,قرية جنيف العائلية غنيمة,قرية جنيف السياحية غنيمة Geneve,family_resort,الخمس,14.03118,32.72632,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00015,منتجع شاطئ غنيمة,Ghanima beach resort & spa منتجع وشاطيء غنيمه,tourist_village,الخمس,14.054075,32.721054,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-KHO-00016,شاليهات بن حمودة العائلي,شاليهات بن حمودة العائلي - Shalehat ben hammoda,family_resort,الخمس,14.036992,32.724932,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00004,منتجع كريستال السياحي,منتجع كريستال 2 السياحي,tourist_resort,,13.635274,32.787534,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00005,منتجع رويال السياحي,منتجع رويال السياحي villa 34,tourist_resort,,13.664968,32.788072,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00006,القويعة,Goweea sea resorts,beach_resort,,13.63224,32.788705,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00007,منتجع فيلا دريم هاوس,فيلا دريم هاوس Dream house,tourist_resort,,13.672592,32.786663,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00008,منتجع شط مريم,العنوان/المدينة:,tourist_resort,,13.662328,32.788894,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00009,استراحة الجود القويعه,العنوان/المدينة:,tourist_resort,,13.632986,32.788413,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00010,منتجع اتش تي السياحي,منتجع اتش تي السياحي -HT,tourist_resort,,13.63298,32.7864,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00011,منتجع اتش تي 3,HT3 Resort,tourist_resort,,13.642859,32.786514,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00012,منتجع شاليهات للاجار,العنوان/المدينة:,tourist_resort,,13.644477,32.787918,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00013,قرية العطايا العائلية,قرية العطايا العائلية AtAYA,family_resort,,13.675653,32.789468,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00014,منتجع برستيج,منتجع برستيج السياحي PRESTIGE RESORT,tourist_resort,,13.66734,32.787004,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00015,قرية القويعة السياحية,العنوان/المدينة:,tourist_village,,13.63431,32.787161,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00016,شاليهات بن بية,العنوان/المدينة:,tourist_resort,,13.64435,32.787928,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00017,قرية ميار البحر العائليه,قرية ميار البحر العائلية - القره بولي MAYAR AL BAHR VILLAGE,family_resort,,13.68749,32.789744,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00018,قرية أغيث السياحية,منتجع أغيث - Agith Resort,tourist_village,,13.645681,32.787654,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00019,قرية الخلة السياحية العائلية,العنوان/المدينة:,family_resort,,13.679539,32.789005,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00020,مجمع جواهر لاند,العنوان/المدينة:,tourist_village,,13.646366,32.787247,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00021,منتجع دار البحر,العنوان/المدينة:,tourist_village,,13.64709,32.787622,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00022,منتجع وادي بالنور,منتجع وادي بنور WBR,family_resort,,13.59408,32.792644,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00023,منتجع بيتش هاوس,إستراحات بيتش هاوس Beach house,tourist_village,,14.058072,32.717408,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00024,قرية قوس غنيمة السياحية,قرية قوس غنيمة السياحية,tourist_village,,14.05612,32.722872,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00025,منتجع ايليت السياحي,منتجع ايليت السياحي Elite Resorts,tourist_village,,13.658897,32.788973,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00026,قرية شمس البحر,العنوان/المدينة:,tourist_village,,14.058758,32.721782,exact_match,low,43,no_image
+LY-ACC-RES-KHO-00017,قرية لؤلؤة غنيمة العائلية,استراحة لؤلؤة - غنيمة الخمس,family_resort,الخمس,14.058367,32.720385,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00027,شاليهات ركن النيروز,استراحة النيروز 2,accommodation_resort_other,,13.647632,32.788222,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00028,قرية رأس الحمراء العائلية,Ras Al hamra resorts,family_resort,,13.935119,32.774035,exact_match,low,43,temporary_google_url
+LY-ACC-RES-KHO-00018,قرية شاطئ النخيل الذهبي,Palm Beach,tourist_village,الخمس,13.935483,32.773377,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-ZLI-00001,قرية أصيل السياحية,قرية أصيل السياحية Aseel Tourist Village,tourist_village,زليتن,14.614519,32.489638,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-ZLI-00002,قرية الهُزم السياحية,منتجع الهُزم السياحي Alhozm resorts,tourist_village,زليتن,14.620055,32.489371,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-MIS-00001,منتجع الأمان السياحي,منتجع الأمان السياحي - Aman Tourist Resort,tourist_resort,مصراتة,15.001973,32.413207,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-MIS-00002,منتجع مصراتة,منتجع مصراتة - Misurata Resort,tourist_resort,مصراتة,15.114877,32.405137,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-MIS-00003,منتجع فينيسيا/مصراتة,قرية فينيسيا السياحية مصراتة,tourist_resort,مصراتة,15.030501,32.410642,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-MIS-00004,قرية زريق السياحية,قرية زريق للإستثمار السياحي / مصراتة,tourist_village,مصراتة,14.929789,32.431147,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00029,حي قصور الضيافة_سرت,العنوان/المدينة:,tourist_village,,16.615275,31.207768,exact_match,low,43,temporary_google_url
+LY-ACC-RES-BEN-00001,شاليهات ريماس,العنوان/المدينة:,accommodation_resort_other,بنغازي,19.949189,31.903168,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00002,قرية شاطيء النخيل,العنوان/المدينة:,tourist_village,بنغازي,19.954158,31.942865,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00003,منتجع مارينا بنغازي السياحي,العنوان/المدينة:,tourist_village,بنغازي,19.959256,31.982998,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00004,منتجع الصفوة السياحي,العنوان/المدينة:,tourist_village,بنغازي,19.964499,31.992255,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00005,منتجع ماربيلا السياحي,العنوان/المدينة:,tourist_village,بنغازي,19.971313,31.993245,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00006,مجمع الاصالة السياحي,العنوان/المدينة:,tourist_village,بنغازي,19.974266,31.99976,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00007,قرية الفاضل,العنوان/المدينة:,tourist_village,بنغازي,20.009364,32.032708,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00008,منتجع الأسيل,العنوان/المدينة:,tourist_village,بنغازي,19.996643,32.01888,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00009,منتجع الماسة السياحي,العنوان/المدينة:,accommodation_resort_other,بنغازي,20.137676,32.069522,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00010,منتجع قاريونس العائلي,العنوان/المدينة:,family_resort,بنغازي,20.039029,32.061734,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00011,منتجع النخلة الذهبية,العنوان/المدينة:,tourist_village,بنغازي,20.040787,32.069285,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00012,منتجع فايا لارجو,العنوان/المدينة:,tourist_village,بنغازي,20.042231,32.07227,exact_match,medium,50,no_image
+LY-ACC-RES-BEN-00013,قرية قمرت السياحية,العنوان/المدينة:,tourist_village,بنغازي,20.212382,32.278478,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00030,منتجع التلال الحمامة,العنوان/المدينة:,tourist_resort,,21.615861,32.911311,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00031,منتجع الجراري السياحي - للعائلات,العنوان/المدينة:,family_resort,,21.604209,32.905579,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00032,منتجع ومصيف الحمامة,العنوان/المدينة:,tourist_resort,,21.621093,32.916555,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00033,قرية إيلاف السياحية,العنوان/المدينة:,tourist_village,,20.963816,32.719463,exact_match,low,43,temporary_google_url
+LY-ACC-RES-BAY-00001,شاليهات الحدائق الملكية,العنوان/المدينة:,accommodation_resort_other,البيضاء,21.595084,32.875231,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-BAY-00002,منتجع وادي الكوف,العنوان/المدينة:,tourist_resort,البيضاء,21.563798,32.702,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00034,منتجع إيلاند السياحي,العنوان/المدينة:,tourist_village,,21.940156,32.895682,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00035,منتجع كنزي السياحي,العنوان/المدينة:,tourist_village,,21.972566,32.900884,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00036,منتجع سوسه,العنوان/المدينة:,tourist_village,,22.024943,32.902515,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00037,مصيف القريه/رأس الهلال,العنوان/المدينة:,tourist_village,,22.169169,32.901774,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00038,منتجع الينابيع السياحي,العنوان/المدينة:,tourist_village,,22.190223,32.881896,exact_match,low,43,temporary_google_url
+LY-ACC-RES-NAT-00039,منتجع الاثرون السياحي,العنوان/المدينة:,tourist_resort,,22.279024,32.869423,exact_match,low,43,no_image
+LY-ACC-RES-DER-00001,منتجع إيميليا السياحي,العنوان/المدينة:,tourist_resort,درنة,22.562236,32.798261,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-DER-00002,مصيف 1805,العنوان/المدينة:,tourist_resort,درنة,22.56117,32.790435,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-NAT-00040,منتجع الابرق السياحي,العنوان/المدينة:,tourist_resort,,21.954304,32.825786,exact_match,low,43,temporary_google_url
+LY-ACC-RES-SHA-00001,منتج شحات السياحي,العنوان/المدينة:,tourist_resort,شحات,21.879472,32.824524,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-SHA-00002,منتجع وموتيل الأمان 1,العنوان/المدينة:,tourist_resort,شحات,21.894591,32.801446,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-SHA-00003,منتجع وموتيل الأمان 3,العنوان/المدينة:,tourist_resort,شحات,21.923466,32.826342,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-SHA-00004,شاليهات بوعطية,العنوان/المدينة:,tourist_resort,شحات,21.897302,32.842844,exact_match,medium,50,no_image
+LY-ACC-RES-SHA-00005,منتجع جود السياحي,العنوان/المدينة:,tourist_resort,شحات,21.88843,32.840597,exact_match,medium,50,no_image
+LY-ACC-RES-KHO-00019,إستراحات فردية درجة أولى,العنوان/المدينة:,tourist_resort,الخمس,21.867999,32.847121,exact_match,medium,57,no_image
+LY-ACC-RES-SHA-00006,إستراحات فردية,العنوان/المدينة:,tourist_resort,شحات,21.867296,32.847073,exact_match,medium,50,no_image
+LY-ACC-RES-SHA-00007,منتجع الاسرة السعيدة,العنوان/المدينة:,tourist_resort,شحات,21.873265,32.816855,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-SHA-00008,شاليهات بومؤمن,العنوان/المدينة:,tourist_resort,شحات,21.84664,32.858583,exact_match,medium,50,no_image
+LY-ACC-RES-SHA-00009,منتجع سيف للسياحه ولاستثمار,العنوان/المدينة:,tourist_resort,شحات,21.903627,32.796428,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-TOB-00001,منتجع وفندق ريفان السياحي,العنوان/المدينة:,accommodation_resort_other,طبرق,23.959161,32.037293,exact_match,medium,50,temporary_google_url
+LY-ACC-RES-ZUW-00012,قرية سبتيموس السياحية - زوارة,قرية سبتموس السياحية زوارة Septimus city resort,tourist_village,زوارة,12.008905,32.984675,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00013,قرية سيمو السياحية - زوارة,قرية سيمو السياحية/Simo Beach Village,accommodation_resort_other,زوارة,12.003852,32.986361,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZLI-00003,منتجع الهادريان زليتن,العنوان/المدينة:,accommodation_resort_other,زليتن,14.51572,32.502517,exact_match,medium,50,no_image
+LY-ACC-RES-NAT-00041,منتجع سفارى السياحى,العنوان/المدينة:,accommodation_resort_other,,15.042599,32.351284,exact_match,low,43,no_image
+LY-ACC-RES-ZUW-00014,قرية اوديسا السياحية,Odessa tourist village قرية أوديسا السياحية (Odessa resort),tourist_village,زوارة,11.97922,32.998387,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00015,Azul house استراحة ازول,Azul house استراحة ازول,tourist_village,زوارة,12.01918,32.980421,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00016,DiVano Resort,DiVano Resort,tourist_resort,زوارة,12.068433,32.945782,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00017,منتجع لاجون Lagoon Resort,Lagoon Resort منتجع لاجون,tourist_resort,زوارة,11.984427,32.997957,exact_match,medium,64,temporary_google_url
+LY-ACC-RES-ZUW-00018,Barracuda Village - منتجع باراكودا,Barracuda Village,accommodation_resort_other,زوارة,12.024303,32.97578,exact_match,medium,64,no_image
+LY-ACC-RES-NAT-00042,Oea Village - Diar Al Bahr,Oea Village - Diar Al Bahr,tourist_village,,13.016186,32.839058,exact_match,medium,57,no_image
+LY-ACC-RES-NAT-00043,قرية قوس غنيمة السياحية,العنوان/المدينة:,accommodation_resort_other,,14.056947,32.714701,exact_match,low,43,no_image
+LY-ACC-RES-NAT-00044,La Vida Resort & Beach Club,,tourist_resort,,11.9152032,33.0302204,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00045,استراحة اونان,,review_required,,11.9341875,33.0149375,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00046,Resort Zuwara,,tourist_resort,,11.9616242,33.0121153,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00047,Beach House,,review_required,,11.9945951,32.9924201,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00019,استراحة سيليا زوارة,,review_required,زوارة,11.9917974,32.992055,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00048,استراحة نبض الحياة,,review_required,,11.9935673,32.9909749,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00049,Villa Helena,,review_required,,11.997503,32.9881858,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00050,Crystal House إستراحة كريستال,,review_required,,12.0019139,32.9874471,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00051,استرحات انيار المميزة,,review_required,,12.0035542,32.9847102,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00052,اقامة لونا,,review_required,,12.0034164,32.9806841,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00053,استراحة LAREN,,review_required,,12.0065542,32.9812015,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00020,منتجع بالي زوارة/Bali village,,review_required,زوارة,12.0134408,32.982833,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00054,Sea room,,review_required,,12.0508497,32.9564477,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00055,Guest house,,review_required,,12.1091054,32.9266984,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00056,منتجع الملّاحة,,review_required,,12.123346,32.9153001,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00021,مصيف أبناء الغالي العائلي-زوارة,,family_resort,زوارة,12.156653,32.8987647,new_feature,low,29,no_image
+LY-ACC-RES-NAT-00057,استراحة فايق بكه,,review_required,,12.1522603,32.8915292,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00022,قصر الضيافة زوارة,,review_required,زوارة,12.1708778,32.8895663,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00058,استراحة الشاطئ,,beach_resort,,12.1716251,32.8935766,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00059,استراحة دار الضيافة,,review_required,,12.1778747,32.883618,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00023,استراحة فيرونا زوارة,,review_required,زوارة,12.1762961,32.8797646,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00060,استراحة نوفل,,review_required,,12.1195399,32.8886271,new_feature,low,14,no_image
+LY-ACC-RES-ZUW-00024,شاطئ بحر زوارة,,review_required,زوارة,12.2166875,32.8686875,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00061,المصيف المفتوح تليل,,accommodation_resort_other,,12.3641883,32.8196211,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00062,مصيف مارينا تليل العائلي,,family_resort,,12.3873319,32.8166354,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00063,Lancaster Al Salam Resort - منتجع لانكستر السلام,,tourist_resort,,12.3875354,32.8150919,new_feature,low,21,no_image
+LY-ACC-RES-SAB-00004,مصيف اللوتس العائلي صبراتة,,family_resort,صبراتة,12.4009528,32.8137206,new_feature,low,29,no_image
+LY-ACC-RES-NAT-00064,شاطئ تليل السياحي,,review_required,,12.4011661,32.8154572,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00065,مصيف اللؤلؤة تليل,,accommodation_resort_other,,12.4019474,32.8139626,new_feature,low,21,no_image
+LY-ACC-RES-SAB-00005,مصيف النادي البحري العائلي صبراتة,,beach_resort,صبراتة,12.4067348,32.8151517,new_feature,low,29,no_image
+LY-ACC-RES-NAT-00066,استراحات الفخامة صبراته,,review_required,,12.4063542,32.807409,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00067,إستراحة الجوهرة - تليل,,review_required,,12.4145468,32.8061987,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00068,استراحة رويال,,review_required,,12.4161248,32.8025006,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00069,استراحة تليل,,review_required,,12.42283,32.8050946,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00070,استراحة روندا,,review_required,,12.4269483,32.8040909,new_feature,low,14,no_image
+LY-ACC-RES-BAY-00003,استراحة البيضاء,,review_required,البيضاء,12.4209751,32.8075063,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00071,إستراحة المنتزه تليل,,review_required,,12.4205464,32.8084013,new_feature,low,14,no_image
+LY-ACC-RES-SAB-00006,استراحة القمر المضيء صبراتة تليل,,review_required,صبراتة,12.4217421,32.8071196,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00072,استراحه مرجان,,review_required,,12.4217749,32.8031531,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00073,استراحة ليالي تليل,,review_required,,12.4264262,32.8019585,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00074,استراحة ادم,,review_required,,12.4139155,32.8015064,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00075,إستراحة أبان,,review_required,,12.4099281,32.8039298,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00076,منتجع الفنار السياحي,,review_required,,12.4377412,32.8136943,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00077,مجموعة استراحات الجرف,,review_required,,12.4402091,32.8091986,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00078,إستراحة بيت الفخامه,,review_required,,12.4396211,32.8057571,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00079,استراحة قورينا,,review_required,,12.4450891,32.8106826,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00080,استراحة اتار صبراته,,review_required,,12.4504738,32.8105782,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00081,استراحة ميار,,review_required,,12.4477989,32.8078261,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00082,استراحه فينيسيا صبراته,,review_required,,12.4751743,32.7980801,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00083,استراحة الزيتونة,,review_required,,12.4775625,32.8001875,new_feature,low,14,no_image
+LY-ACC-RES-SAB-00007,Sabratha youth hostel _بيت شباب صبراتة,,review_required,صبراتة,12.4890506,32.8001823,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00084,استراحة ومصيف باب البحر,,accommodation_resort_other,,12.5157738,32.8020185,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00085,مقسم استراحات بن سالم,,review_required,,12.517266,32.799874,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00086,إستراحة سوفانا,,review_required,,12.5185793,32.8016134,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00087,استراحة لازورد صبراته,,review_required,,12.5242763,32.801517,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00088,استراحة مرجانة (الحرابي),,review_required,,12.5249186,32.8014385,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00089,مصيف ليبيا العائلي,,family_resort,,12.5499375,32.7975625,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00090,مصيف صرمان العائلي,,family_resort,,12.5661406,32.7949875,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00091,استراحة مرمرة جوددائم,,review_required,,12.7747574,32.7909432,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00092,استراحة البحر الابيض. JUDDIAM,,review_required,,12.8000603,32.7972164,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00093,مشروع برج النصر الفندقي/ شركة الذابلة للاستثمار,,review_required,,13.0676348,32.8569484,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00094,مشروع لؤلؤة المدينة قرية النفط,,review_required,,13.0774262,32.8599086,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00095,مصيف شاطئ الرمال,,accommodation_resort_other,,13.4411649,32.8566529,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00096,مصيف نسيم البحر العائلى,,accommodation_resort_other,,13.4458937,32.8545234,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00097,مصيف جنى العائلي,,family_resort,,13.4493142,32.8529526,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00098,مصيف وقرية بيلسان العائلي,,family_resort,,13.4532329,32.8515263,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00099,مصيف جسر الطاقة العائلي,,family_resort,,13.4571025,32.8505775,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00100,مصيف القلعة العائلي 32,,family_resort,,13.4648724,32.8476274,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00101,مصيف اﻻمان والمرح العائلي,,family_resort,,13.4617026,32.8491835,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00102,مصيف جيران البحر العائلي,,family_resort,,13.4881483,32.8358246,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00103,ڤيلا لاڤيستا,,review_required,,13.499675,32.8263611,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00104,Private house برايفت هاوس,,review_required,,13.4965848,32.8256978,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00105,ROYAL DYAR Resort Hotel,,tourist_resort,,13.5917368,32.7955237,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00106,Cyrine Resort,,tourist_resort,,13.5811101,32.7933825,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00107,استراحة القويعة,,review_required,,13.6026248,32.7843142,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00108,Alameer Villa ڤيلا الأمير,,review_required,,13.6452837,32.7809471,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00109,Villa mfm,,review_required,,13.6545833,32.7878115,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00110,W استراحة,,review_required,,13.640728,32.7866744,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00111,استراحة السلام,,review_required,,13.6407615,32.7863393,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00112,استراحات ابناء يوسف منيصير,,review_required,,13.6483207,32.7890202,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00113,استراحات شاطئ غوط الرمان,,review_required,,13.6481641,32.7866322,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00114,A.G.S villa,,review_required,,13.645495,32.7853207,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00115,استراحة فاميلي رست,,review_required,,13.6492705,32.7841251,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00116,استراحة بن طابون,,review_required,,13.6482928,32.7835389,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00117,إستراحة ليان للإيجار اليومي,,review_required,,13.646381,32.784138,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00118,Villa SIMO,,review_required,,13.6461763,32.7852914,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00119,إستراحة ليان للإيجار اليومي,,review_required,,13.6464145,32.7857348,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00120,استراحة هلا مدريد القره بوللي,,review_required,,13.6503205,32.786204,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00121,ليڤينت/Levent Family Resort,,family_resort,,13.6508755,32.7862502,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00122,منتجع الماسة السياحي,,review_required,,13.6526789,32.7862274,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00123,Compound Rawasi,,review_required,,13.6547181,32.7833752,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00124,استراحة فايف قولد ستار,,review_required,,13.6575625,32.7848125,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00125,استراحة زهرة القويعة,,review_required,,13.6581392,32.7849693,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00126,The Twins استراحات التوأم,,review_required,,13.6582634,32.7854936,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00127,منتجع إيليت,,review_required,,13.6589592,32.7873717,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00128,شاليه شمس البحر القره بوللي,,accommodation_resort_other,,13.6593844,32.7868362,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00129,شاليه النورس,,accommodation_resort_other,,13.6594867,32.7868808,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00130,استراحة ديلان,,review_required,,13.6612993,32.7867376,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00131,Crown Beach Resort,,tourist_resort,,13.6602957,32.7878833,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00132,Salem Elgamoudi Beach House,,review_required,,13.6611076,32.7873376,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00133,Bali s BEACH HOUSE,,review_required,,13.6617428,32.7872148,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00134,Alhady Elmelliti Beach House,,review_required,,13.661732,32.7878667,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00135,Golden beach village,,review_required,,13.6608737,32.7887504,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00136,شاطي القره بوللي منطقة القويعة السياحية,,review_required,,13.6653715,32.7894088,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00137,منتجع كريستال السياحي 1,,review_required,,13.6662998,32.788138,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00138,استراحة لابلازا -LA PLAZA,,review_required,,13.6656029,32.7870788,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00139,إستراحة القويعة العائلية,,family_resort,,13.6298483,32.7787266,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00140,استراحة كازا دولتشي,,review_required,,13.6440928,32.7799001,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00141,استراحات الدلفين الفاخرة 1 و 2 و 3 و4,,review_required,,13.644618,32.7796264,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00142,استراحة ارام للاستجمام العائلي,,family_resort,,13.6516421,32.7806459,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00143,Villa Lugano ڤيلا لوچانو,,review_required,,13.6731804,32.7819916,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00144,حلا البحر للعائلات,,family_resort,,13.67428,32.7840256,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00145,Villa Mia فيلا ميا,,review_required,,13.6725358,32.7828327,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00146,لمة العيلة,,review_required,,13.6730453,32.7831857,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00147,استراحة نسائم البحر,,review_required,,13.6738807,32.7830915,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00148,Villa golden star,,review_required,,13.6735125,32.7822272,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00149,فيلا الصاري العائلية,,family_resort,,13.6740388,32.7819255,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00150,بيت الصبار,,review_required,,13.6725336,32.7807619,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00151,فيلا الشاهين,,review_required,,13.6727762,32.7809974,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00152,Hesham Al Askari Marine Rest House,,review_required,,13.6726534,32.7828317,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00153,La Coral,,review_required,,13.6731743,32.7829974,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00154,استراحة شمس للعائلات,,family_resort,,13.6739304,32.7839781,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00155,فيلا ملكة A,,review_required,,13.6732969,32.7850625,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00156,فيلا غسق,,review_required,,13.6727871,32.7851295,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00157,فيلا روعة,,review_required,,13.6733222,32.7853858,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00158,شاليه قطر الندى,,accommodation_resort_other,,13.6721823,32.785773,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00159,النوران العائلية,,family_resort,,13.6726472,32.7859939,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00160,شاليه الدلفين,,accommodation_resort_other,,13.673279,32.7859816,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00161,شاليه همام,,accommodation_resort_other,,13.6746817,32.7864115,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00162,Villa Mare ڤيلا ماري,,review_required,,13.6743676,32.7869,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00163,فيلا كراون Villa Crown,,review_required,,13.6718995,32.7874264,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00164,فيلا سانتوريني,,review_required,,13.6718665,32.787142,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00165,شاليه ماسة,,accommodation_resort_other,,13.6719462,32.7875736,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00166,استراحة مارية العائلية,,family_resort,,13.6741114,32.7884234,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00167,استراحة اللؤلؤة,,review_required,,13.673185,32.7886616,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00168,استراحة روح البحر,,review_required,,13.6732045,32.7889141,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00169,Ataya Resort,,tourist_resort,,13.6756166,32.7896402,new_feature,low,21,no_image
+LY-ACC-RES-NAT-00170,مقسم شاطئ النرجس السياحي,,review_required,,13.6776506,32.7877005,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00171,استراحة فرحات لاند,,review_required,,13.6858615,32.7872937,new_feature,low,14,no_image
+LY-ACC-RES-NAT-00172,مصيف الامان فم الوادي العائلي,,family_resort,,13.6966038,32.7912882,new_feature,low,21,no_image
