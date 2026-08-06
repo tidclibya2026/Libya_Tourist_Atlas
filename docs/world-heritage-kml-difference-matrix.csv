@@ -1,0 +1,300 @@
+﻿source_index,source_folder,source_name,classification,matched_feature_id,confidence,recommended_action
+0,مواقع التراث العالمي الخمسة,موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى),matched_existing,WH-MAIN-001,exact,enrich_existing
+1,مواقع التراث العالمي الخمسة,موقع صبراتة الأثري,matched_existing,WH-WORLD-C0001,exact,enrich_existing
+2,مواقع التراث العالمي الخمسة,موقع شحات (قورينة) الأثري,matched_existing,WH-WORLD-C0002,exact,enrich_existing
+3,مواقع التراث العالمي الخمسة,مواقع تادرارت أكاكوس الصخرية,matched_existing,WH-WORLD-C0003,exact,enrich_existing
+4,مواقع التراث العالمي الخمسة,مدينة غدامس القديمة,matched_existing,WH-WORLD-C0004,exact,enrich_existing
+5,مدينة لبدة الاثرية الكبرى,قوس سبتيموس سفيروس,matched_existing,WH-LY-001-0001,exact,enrich_existing
+6,مدينة لبدة الاثرية الكبرى,المسرح الروماني الخمس _ ليبيا,matched_existing,WH-LY-001-0002,exact,enrich_existing
+7,مدينة لبدة الاثرية الكبرى,البوابة الغربية (Western Gate) Porta Oea,matched_existing,WH-MAIN-001-C0001,exact,enrich_existing
+8,مدينة لبدة الاثرية الكبرى,حمامات الصيد,matched_existing,WH-LY-001-0004,exact,enrich_existing
+9,مدينة لبدة الاثرية الكبرى,منتزه لبدة السياحي,matched_existing,WH-LY-001-0005,exact,enrich_existing
+10,مدينة لبدة الاثرية الكبرى,قوس تابريوس,matched_existing,WH-LY-001-0006,exact,enrich_existing
+11,مدينة لبدة الاثرية الكبرى,معبد العائلة السيفيرية,matched_existing,WH-LY-001-0007,exact,enrich_existing
+12,مدينة لبدة الاثرية الكبرى,قوس أنطونيوس,matched_existing,WH-LY-001-0008,exact,enrich_existing
+13,مدينة لبدة الاثرية الكبرى,الميدان القديم,matched_existing,WH-LY-001-0009,exact,enrich_existing
+14,مدينة لبدة الاثرية الكبرى,حمامات غير مكتملة,matched_existing,WH-LY-001-0010,exact,enrich_existing
+15,مدينة لبدة الاثرية الكبرى,المعبد الشرقي,matched_existing,WH-LY-001-0011,exact,enrich_existing
+16,مدينة لبدة الاثرية الكبرى,شرفة مبنى عام تطل على ميدان,matched_existing,WH-LY-001-0012,exact,enrich_existing
+17,مدينة لبدة الاثرية الكبرى,شرفة خلفية,matched_existing,WH-LY-001-0013,exact,enrich_existing
+18,مدينة لبدة الاثرية الكبرى,نصب لميسر,matched_existing,WH-LY-001-0014,exact,enrich_existing
+19,مدينة لبدة الاثرية الكبرى,المدرسة,matched_existing,WH-LY-001-0015,exact,enrich_existing
+20,مدينة لبدة الاثرية الكبرى,معبد دوكيومانوس,matched_existing,WH-LY-001-0016,exact,enrich_existing
+21,مدينة لبدة الاثرية الكبرى,معبد جوبيتير دوليكينوس,matched_existing,WH-LY-001-0017,exact,enrich_existing
+22,مدينة لبدة الاثرية الكبرى,الميناء,matched_existing,WH-LY-001-0018,exact,enrich_existing
+23,مدينة لبدة الاثرية الكبرى,المعبد الفلافي,matched_existing,WH-LY-001-0019,exact,enrich_existing
+24,مدينة لبدة الاثرية الكبرى,ساحة نيرون النيروتية,matched_existing,WH-LY-001-0020,exact,enrich_existing
+25,مدينة لبدة الاثرية الكبرى,مدخل الميناء في القرن الأول الميلادي,matched_existing,WH-LY-001-0021,exact,enrich_existing
+26,مدينة لبدة الاثرية الكبرى,المنارة,matched_existing,WH-LY-001-0022,exact,enrich_existing
+27,مدينة لبدة الاثرية الكبرى,برج الاشارة,matched_existing,WH-LY-001-0023,exact,enrich_existing
+28,مدينة لبدة الاثرية الكبرى,معبد دوري,matched_existing,WH-LY-001-0024,exact,enrich_existing
+29,مدينة لبدة الاثرية الكبرى,الحمامات الشرقية,matched_existing,WH-LY-001-0025,exact,enrich_existing
+30,مدينة لبدة الاثرية الكبرى,المسرح,matched_existing,WH-LY-001-0026,exact,enrich_existing
+31,مدينة لبدة الاثرية الكبرى,ضريح قصر شداد,matched_existing,WH-LY-001-0027,exact,enrich_existing
+32,مدينة لبدة الاثرية الكبرى,قوس الإمبراطور تراجان,matched_existing,WH-LY-001-0028,exact,enrich_existing
+33,مدينة لبدة الاثرية الكبرى,ضريح زرجام,matched_existing,WH-LY-001-0029,exact,enrich_existing
+34,مدينة لبدة الاثرية الكبرى,نيمافيوم,matched_existing,WH-LY-001-0030,exact,enrich_existing
+35,مدينة لبدة الاثرية الكبرى,معبد جوبيتير,matched_existing,WH-LY-001-0031,exact,enrich_existing
+36,مدينة لبدة الاثرية الكبرى,الجدار البيزنطي,matched_existing,WH-LY-001-0032,exact,enrich_existing
+37,مدينة لبدة الاثرية الكبرى,ضريح الدويرات,matched_existing,WH-LY-001-0033,exact,enrich_existing
+38,مدينة لبدة الاثرية الكبرى,متحف الفسيفساء,matched_existing,WH-LY-001-0034,exact,enrich_existing
+39,مدينة لبدة الاثرية الكبرى,مقاهي واستراحة وموقف سيارات,matched_existing,WH-LY-001-0035,exact,enrich_existing
+40,مدينة لبدة الاثرية الكبرى,مطعم الجرة,matched_existing,WH-LY-001-0036,exact,enrich_existing
+41,مدينة لبدة الاثرية الكبرى,ساحة الرياضة (بالسترا),matched_existing,WH-LY-001-0037,exact,enrich_existing
+42,مدينة لبدة الاثرية الكبرى,متحف الفسيفساء,matched_existing,WH-LY-001-0034,exact,enrich_existing
+43,مدينة لبدة الاثرية الكبرى,معبد سيرابيس,matched_existing,WH-LY-001-0039,exact,enrich_existing
+44,مدينة لبدة الاثرية الكبرى,وادي لبدة,matched_existing,WH-LY-001-0040,exact,enrich_existing
+45,مدينة لبدة الاثرية الكبرى,مصيف الخمس,matched_existing,WH-LY-001-0041,exact,enrich_existing
+46,مدينة لبدة الاثرية الكبرى,متحف لبدة,matched_existing,WH-LY-001-0042,exact,enrich_existing
+47,مدينة لبدة الاثرية الكبرى,مطعم الجرة,matched_existing,WH-LY-001-0043,exact,enrich_existing
+48,مدينة لبدة الاثرية الكبرى,حمامات هادريان,matched_existing,WH-LY-001-0044,exact,enrich_existing
+49,مدينة لبدة الاثرية الكبرى,الساحة السيفيرية,matched_existing,WH-LY-001-0045,exact,enrich_existing
+50,مدينة لبدة الاثرية الكبرى,البوابة البيزنطية,matched_existing,WH-LY-001-0046,exact,enrich_existing
+51,مدينة لبدة الاثرية الكبرى,باسيلقا سيفيروس,matched_existing,WH-LY-001-0047,exact,enrich_existing
+52,مدينة لبدة الاثرية الكبرى,السوق الرومانية,matched_existing,WH-LY-001-0048,exact,enrich_existing
+53,مدينة لبدة الاثرية الكبرى,Christian church,matched_existing,WH-LY-001-0049,exact,enrich_existing
+54,مدينة لبدة الاثرية الكبرى,ميدان السباق,matched_existing,WH-LY-001-0050,exact,enrich_existing
+55,مدينة لبدة الاثرية الكبرى,Hadrian's Baths,matched_existing,WH-LY-001-0044,exact,enrich_existing
+56,مدينة لبدة الاثرية الكبرى,مسرح لبدة,new_confirmed,WH-TEAM-0001,high,add
+57,مدينة لبدة الاثرية الكبرى,Basilica of Severus,new_confirmed,WH-TEAM-0002,high,add
+58,مدينة لبدة الاثرية الكبرى,Forum of Severus,matched_existing,WH-LY-001-0045,exact,enrich_existing
+59,مدينة لبدة الاثرية الكبرى,"Leptis Magna, Hunting Baths",new_confirmed,WH-TEAM-0003,high,add
+60,مدينة لبدة الاثرية الكبرى,Serapaeum,matched_existing,WH-LY-001-0039,exact,enrich_existing
+61,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+62,مدينة لبدة الاثرية الكبرى,Curia,new_confirmed,WH-TEAM-0004,high,add
+63,مدينة لبدة الاثرية الكبرى,Leptis Magna Museum,matched_existing,WH-LY-001-0042,exact,enrich_existing
+64,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+65,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+66,مدينة لبدة الاثرية الكبرى,زايد السياحي,new_confirmed,WH-TEAM-0005,high,add
+67,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+68,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+69,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+70,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+71,مدينة لبدة الاثرية الكبرى,"Leptis Magna, Temple to unknown divinity on the Decumanus",new_confirmed,WH-TEAM-0006,high,add
+72,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+73,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+74,مدينة لبدة الاثرية الكبرى,Hercules Temple,new_confirmed,WH-TEAM-0007,high,add
+75,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+76,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+77,مدينة لبدة الاثرية الكبرى,معبد جوبيتير,matched_existing,WH-LY-001-0031,exact,enrich_existing
+78,مدينة لبدة الاثرية الكبرى,Old Basilica,new_confirmed,WH-TEAM-0008,high,add
+79,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+80,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+81,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+82,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+83,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+84,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+85,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+86,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+87,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+88,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+89,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+90,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+91,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+92,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+93,مدينة لبدة الاثرية الكبرى,Arch of Septimius Severus,new_confirmed,WH-TEAM-0009,high,add
+94,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+95,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+96,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+97,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+98,مدينة لبدة الاثرية الكبرى,كافي الجرة,new_confirmed,WH-TEAM-0010,high,add
+99,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+100,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+101,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+102,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+103,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+104,مدينة لبدة الاثرية الكبرى,Arch of Marcus Aurelius,new_confirmed,WH-TEAM-0011,high,add
+105,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+106,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+107,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+108,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+109,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+110,مدينة لبدة الاثرية الكبرى,Roma & Augustus temple,new_confirmed,WH-TEAM-0012,high,add
+111,مدينة لبدة الاثرية الكبرى,Liber Pater temple,new_confirmed,WH-TEAM-0013,high,add
+112,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+113,مدينة لبدة الاثرية الكبرى,Old Forum Church,new_confirmed,WH-TEAM-0014,high,add
+114,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+115,مدينة لبدة الاثرية الكبرى,,excluded_unnamed_leptis,,unmatched,exclude
+116,شحات_,مسرح شحات الاثري,matched_existing,WH-LY-003-C0001,exact,enrich_existing
+117,شحات_,متحف المنحوتات,matched_existing,WH-LY-003-C0002,exact,enrich_existing
+118,شحات_,الحمامات الاغريقية,matched_existing,WH-LY-003-C0003,exact,enrich_existing
+119,شحات_,المجلس المحلي شحات,matched_existing,WH-LY-003-C0004,exact,enrich_existing
+120,شحات_,أثار قورينا,matched_existing,WH-LY-003-C0005,exact,enrich_existing
+121,شحات_,مسجد العتيق,matched_existing,WH-LY-003-C0006,exact,enrich_existing
+122,شحات_,منتجع شحات السياحي,matched_existing,WH-LY-003-C0007,exact,enrich_existing
+123,شحات_,كاف البقاره,matched_existing,WH-LY-003-C0008,exact,enrich_existing
+124,شحات_,المسرح الأثري,matched_existing,WH-LY-003-C0009,exact,enrich_existing
+125,شحات_,سيزاريوم/ساحة بروكولوس المحيطة بالأروقة...,matched_existing,WH-LY-003-C0010,exact,enrich_existing
+126,شحات_,غابة شحات,matched_existing,WH-LY-003-C0011,exact,enrich_existing
+127,شحات_,هوا القاطر,matched_existing,WH-LY-003-C0012,exact,enrich_existing
+128,شحات_,مسرح شحات,matched_existing,WH-LY-003-C0013,exact,enrich_existing
+129,شحات_,مقابر منحوتة في الصخر,matched_existing,WH-LY-003-C0014,exact,enrich_existing
+130,شحات_,هوا احجري,matched_existing,WH-LY-003-C0015,exact,enrich_existing
+131,شحات_,نبع أبولو,matched_existing,WH-LY-003-C0016,exact,enrich_existing
+132,شحات_,عين حبون او عين الشلالة,matched_existing,WH-LY-003-C0017,exact,enrich_existing
+133,شحات_,مدافن محفورة في الجبل,matched_existing,WH-LY-003-C0018,exact,enrich_existing
+134,شحات_,معبد الكابيتوليوم,matched_existing,WH-LY-003-C0019,exact,enrich_existing
+135,شحات_,اعمدة اثار شحات الخالدة,matched_existing,WH-LY-003-C0020,exact,enrich_existing
+136,شحات_,معبد زيوس في قورينا,matched_existing,WH-LY-003-C0021,exact,enrich_existing
+137,شحات_,السوق اليوناني القديم اغورا,matched_existing,WH-LY-003-C0022,exact,enrich_existing
+138,شحات_,البازيليكا البيزنطية,matched_existing,WH-LY-003-C0023,exact,enrich_existing
+139,شحات_,شلال الدبوسية,matched_existing,WH-LY-003-C0024,exact,enrich_existing
+140,شحات_,شلال رأس الهلال بافلو,matched_existing,WH-LY-003-C0025,exact,enrich_existing
+141,شحات_,شلال بالفو,matched_existing,WH-LY-003-C0026,exact,enrich_existing
+142,شحات_,مقبرة قورينا,matched_existing,WH-LY-003-C0027,exact,enrich_existing
+143,شحات_,بحيرة براك نوطا,matched_existing,WH-LY-003-C0028,exact,enrich_existing
+144,شحات_,فندق التلال الوسيطة..,new_confirmed,WH-TEAM-0015,high,add
+145,شحات_,أثار جنوب قورينا,new_confirmed,WH-TEAM-0016,high,add
+146,شحات_,وادي بومليو,new_confirmed,WH-TEAM-0017,high,add
+147,شحات_,عين الحفرة,new_confirmed,WH-TEAM-0018,high,add
+148,شحات_,عقر بوالنعاس,new_confirmed,WH-TEAM-0019,high,add
+149,شحات_,مخطط بومليحة السياحي,new_confirmed,WH-TEAM-0020,high,add
+150,شحات_,هوا بوثن,new_confirmed,WH-TEAM-0021,high,add
+151,شحات_,مطل القلعة,new_confirmed,WH-TEAM-0022,high,add
+152,شحات_,المناقير,new_confirmed,WH-TEAM-0023,high,add
+153,شحات_,كاف الخروبة,new_confirmed,WH-TEAM-0024,high,add
+154,شحات_,كهف عبدالله بوخطاب,new_confirmed,WH-TEAM-0025,high,add
+155,شحات_,هواء هيتيني,new_confirmed,WH-TEAM-0026,high,add
+156,شحات_,النصب التذكاري لموسوليني,new_confirmed,WH-TEAM-0027,high,add
+157,شحات_,منتجع بقراوة للالعاب والسياحية,new_confirmed,WH-TEAM-0028,high,add
+158,شحات_,العويلية,new_confirmed,WH-TEAM-0029,high,add
+159,شحات_,وادي الحميرة,new_confirmed,WH-TEAM-0030,high,add
+160,شحات_,قصر بوغسال,new_confirmed,WH-TEAM-0031,high,add
+161,شحات_,متحف فسيفساء قصر ليبيا,new_confirmed,WH-TEAM-0032,high,add
+162,شحات_,زاوية العرقوب,new_confirmed,WH-TEAM-0033,high,add
+163,شحات_,قصر المقدم,new_confirmed,WH-TEAM-0034,high,add
+164,شحات_,كهف العودة,new_confirmed,WH-TEAM-0035,high,add
+165,شحات_,كهف الخزعلية,new_confirmed,WH-TEAM-0036,high,add
+166,شحات_,مسجد انس بن مالك - باندس,new_confirmed,WH-TEAM-0037,high,add
+167,شحات_,وادي ابطين الغزال,new_confirmed,WH-TEAM-0038,high,add
+168,شحات_,كاف طماش,new_confirmed,WH-TEAM-0039,high,add
+169,شحات_,كاف مسته,new_confirmed,WH-TEAM-0040,high,add
+170,شحات_,شط الرملة,new_confirmed,WH-TEAM-0041,high,add
+171,شحات_,قرية التلال السياحية الحمامة,new_confirmed,WH-TEAM-0042,high,add
+172,شحات_,منتجع ومصيف الحمامة,new_confirmed,WH-TEAM-0043,high,add
+173,شحات_,احواض السكميتو- القلعة الغارقة,new_confirmed,WH-TEAM-0044,high,add
+174,شحات_,.برك نوطا,new_confirmed,WH-TEAM-0045,high,add
+175,شحات_,كهف هوا فطيح.,new_confirmed,WH-TEAM-0046,high,add
+176,شحات_,استراحات(امواج ),new_confirmed,WH-TEAM-0047,high,add
+177,شحات_,وادي المهبول,new_confirmed,WH-TEAM-0048,high,add
+178,شحات_,كهف الحمام,new_confirmed,WH-TEAM-0049,high,add
+179,شحات_,مطار الأبرق الدولي,new_confirmed,WH-TEAM-0050,high,add
+180,شحات_,استراحة محمد بو عبدالعالي,new_confirmed,WH-TEAM-0051,high,add
+181,غدامس,بحيرة عين الذبان,matched_existing,WH-LY-005-C0001,exact,enrich_existing
+182,غدامس,جامع العتيق,matched_existing,WH-LY-005-C0002,exact,enrich_existing
+183,غدامس,جبل الصحابة أو رأس الغولة,matched_existing,WH-LY-005-C0003,exact,enrich_existing
+184,غدامس,عين الفرس,matched_existing,WH-LY-005-C0004,exact,enrich_existing
+185,غدامس,برج مراقبة قديم,matched_existing,WH-LY-005-C0005,exact,enrich_existing
+186,غدامس,تمسمودسن,matched_existing,WH-LY-005-C0006,exact,enrich_existing
+187,غدامس,جامع يونس,matched_existing,WH-LY-005-C0007,exact,enrich_existing
+188,غدامس,واحة تومس_غابات النخيل,matched_existing,WH-LY-005-C0008,exact,enrich_existing
+189,غدامس,مدرسة تيلوان,matched_existing,WH-LY-005-C0009,exact,enrich_existing
+190,غدامس,مدينة غدامس القديمة,matched_existing,WH-LY-005-C0010,exact,enrich_existing
+191,غدامس,متحف غدامس,matched_existing,WH-LY-005-C0011,exact,enrich_existing
+192,غدامس,البيت التراثي- دان دون يونس,matched_existing,WH-LY-005-C0012,exact,enrich_existing
+193,غدامس,مقهى توجدة,matched_existing,WH-LY-005-C0013,exact,enrich_existing
+194,غدامس,القادوس,matched_existing,WH-LY-005-C0014,exact,enrich_existing
+195,غدامس,مسجد السنوسية,matched_existing,WH-LY-005-C0015,exact,enrich_existing
+196,غدامس,عين تالة,matched_existing,WH-LY-005-C0016,exact,enrich_existing
+197,غدامس,بيت الحبيب بن عز الدين للثقافة,matched_existing,WH-LY-005-C0017,exact,enrich_existing
+198,غدامس,جامع عون الله,matched_existing,WH-LY-005-C0018,exact,enrich_existing
+199,غدامس,مسجد سيدي عمران,matched_existing,WH-LY-005-C0019,exact,enrich_existing
+200,غدامس,مقبرة سيدي البدري,matched_existing,WH-LY-005-C0020,exact,enrich_existing
+201,غدامس,فندق باب الفتح,matched_existing,WH-LY-005-C0021,exact,enrich_existing
+202,غدامس,قرية تونين,matched_existing,WH-LY-005-C0022,exact,enrich_existing
+203,غدامس,فندق بن يدر,matched_existing,WH-LY-005-C0023,exact,enrich_existing
+204,غدامس,مسجد الظهرة,matched_existing,WH-LY-005-C0024,exact,enrich_existing
+205,غدامس,الحوش الغدامسي,matched_existing,WH-LY-005-C0025,exact,enrich_existing
+206,غدامس,فندق عين الفرس,matched_existing,WH-LY-005-C0026,exact,enrich_existing
+207,غدامس,المقبرة الغربية,matched_existing,WH-LY-005-C0027,exact,enrich_existing
+208,غدامس,مسجد حي السلام,matched_existing,WH-LY-005-C0028,exact,enrich_existing
+209,غدامس,فندق نجوم غدامس,new_confirmed,WH-TEAM-0052,high,add
+210,غدامس,فندق جوهرة الواحة غدامس,new_confirmed,WH-TEAM-0053,high,add
+211,غدامس,مسجد عقبة بن عمر,new_confirmed,WH-TEAM-0054,high,add
+212,اثار صبراتة,شارع الآثار,matched_existing,WH-LY-002-C0001,exact,enrich_existing
+213,اثار صبراتة,ريجيو السادس,matched_existing,WH-LY-002-C0002,exact,enrich_existing
+214,اثار صبراتة,البوابة البيزنطية الجنوبية,matched_existing,WH-LY-002-C0003,exact,enrich_existing
+215,اثار صبراتة,المعبد الإنطوائي,matched_existing,WH-LY-002-C0004,exact,enrich_existing
+216,اثار صبراتة,نافورة فلافيوس تولوس,matched_existing,WH-LY-002-C0005,exact,enrich_existing
+217,اثار صبراتة,الميدان الفورم,matched_existing,WH-LY-002-C0006,exact,enrich_existing
+218,اثار صبراتة,ديوان القضاء البازيليكا,matched_existing,WH-LY-002-C0007,exact,enrich_existing
+219,اثار صبراتة,المبنى المصلب,matched_existing,WH-LY-002-C0008,exact,enrich_existing
+220,اثار صبراتة,مبنى المجلس كابيتيليوم,matched_existing,WH-LY-002-C0009,exact,enrich_existing
+221,اثار صبراتة,بازيليكا جستنينيان,matched_existing,WH-LY-002-C0010,exact,enrich_existing
+222,اثار صبراتة,منزل بروقان,matched_existing,WH-LY-002-C0011,exact,enrich_existing
+223,اثار صبراتة,البوابة البيزنطية الشرقية,matched_existing,WH-LY-002-C0012,exact,enrich_existing
+224,اثار صبراتة,الكنائس,matched_existing,WH-LY-002-C0013,exact,enrich_existing
+225,اثار صبراتة,حمامات أوفانيوس,matched_existing,WH-LY-002-C0014,exact,enrich_existing
+226,اثار صبراتة,نصيب سيفران,matched_existing,WH-LY-002-C0015,exact,enrich_existing
+227,اثار صبراتة,بيت بيريستايل,matched_existing,WH-LY-002-C0016,exact,enrich_existing
+228,اثار صبراتة,حمامات ريجيو السابع,matched_existing,WH-LY-002-C0017,exact,enrich_existing
+229,اثار صبراتة,مقابر مسيحية تحت الأرض,matched_existing,WH-LY-002-C0018,exact,enrich_existing
+230,اثار صبراتة,متحف روماني,matched_existing,WH-LY-002-C0019,exact,enrich_existing
+231,اثار صبراتة,المتحف البونيقي,matched_existing,WH-LY-002-C0020,exact,enrich_existing
+232,اثار صبراتة,المسرح الروماني المدرج,matched_existing,WH-LY-002-C0021,exact,enrich_existing
+233,اثار صبراتة,صبراتة القديمة ليبرتون,matched_existing,WH-LY-002-C0023,exact,enrich_existing
+234,اثار صبراتة,Antonine Temple,matched_existing,WH-LY-002-C0024,exact,enrich_existing
+235,اثار صبراتة,الضريح البونيقي,matched_existing,WH-LY-002-C0043,exact,enrich_existing
+236,اثار صبراتة,كوريا (مجلس الشيوخ),matched_existing,WH-LY-002-C0026,exact,enrich_existing
+237,اثار صبراتة,كنيسة جستنيان,matched_existing,WH-LY-002-C0027,exact,enrich_existing
+238,اثار صبراتة,معبد سيرابيس,matched_existing,WH-LY-002-C0028,exact,enrich_existing
+239,اثار صبراتة,معبد ليبر باتر,matched_existing,WH-LY-002-C0029,exact,enrich_existing
+240,اثار صبراتة,معبد الفوروم الجنوبي,matched_existing,WH-LY-002-C0030,exact,enrich_existing
+241,اثار صبراتة,حوض المعمودية,matched_existing,WH-LY-002-C0031,exact,enrich_existing
+242,اثار صبراتة,معبد سيرابيس,matched_existing,WH-LY-002-C0032,exact,enrich_existing
+243,اثار صبراتة,حوض المعمودية,matched_existing,WH-LY-002-C0033,exact,enrich_existing
+244,اثار صبراتة,Serapaeum (Sabratha,matched_existing,WH-LY-002-C0034,exact,enrich_existing
+245,اثار صبراتة,معبد الكابيتول يوم,matched_existing,WH-LY-002-C0035,exact,enrich_existing
+246,اثار صبراتة,حمامات بوسيدون,matched_existing,WH-LY-002-C0036,exact,enrich_existing
+247,اثار صبراتة,معبد هرقل,matched_existing,WH-LY-002-C0037,exact,enrich_existing
+248,اثار صبراتة,معبد ايزيس واوزوريس,matched_existing,WH-LY-002-C0038,exact,enrich_existing
+249,اثار صبراتة,حمامات المسرح,matched_existing,WH-LY-002-C0039,exact,enrich_existing
+250,اثار صبراتة,المراحيض العامة,matched_existing,WH-LY-002-C0040,exact,enrich_existing
+251,اثار صبراتة,اثار صبراته,matched_existing,WH-LY-002-C0041,exact,enrich_existing
+252,اثار صبراتة,مسرح صبراته الأثري,matched_existing,WH-LY-002-C0042,exact,enrich_existing
+253,اثار صبراتة,الامفيثياتر,matched_existing,WH-LY-002-C0045,exact,enrich_existing
+254,اثار صبراتة,مدينة أبروتون التاريخية,matched_existing,WH-LY-002-C0046,exact,enrich_existing
+255,اكاكوس_تادرارات,مستشفى البركت,matched_existing,WH-LY-004-C0002,exact,enrich_existing
+256,اكاكوس_تادرارات,قلعة غات(كوكمن),matched_existing,WH-LY-004-C0021,exact,enrich_existing
+257,اكاكوس_تادرارات,مسجد العتيق,matched_existing,WH-LY-004-C0012,exact,enrich_existing
+258,اكاكوس_تادرارات,المدينة القديمة غات,matched_existing,WH-LY-004-C0006,exact,enrich_existing
+259,اكاكوس_تادرارات,مستشفى غات العام,matched_existing,WH-LY-004-C0007,exact,enrich_existing
+260,اكاكوس_تادرارات,معبر تخرخوري,matched_existing,WH-LY-004-C0008,exact,enrich_existing
+261,اكاكوس_تادرارات,تهالة,matched_existing,WH-LY-004-C0009,exact,enrich_existing
+262,اكاكوس_تادرارات,منتجع إين أزان,matched_existing,WH-LY-004-C0010,exact,enrich_existing
+263,اكاكوس_تادرارات,قرية إيسين,matched_existing,WH-LY-004-C0011,exact,enrich_existing
+264,اكاكوس_تادرارات,مطار غات الدولي,matched_existing,WH-LY-004-C0013,exact,enrich_existing
+265,اكاكوس_تادرارات,المجلس البلدي غات,matched_existing,WH-LY-004-C0014,exact,enrich_existing
+266,اكاكوس_تادرارات,النصب التذكاري لمعركة ايسين,matched_existing,WH-LY-004-C0015,exact,enrich_existing
+267,اكاكوس_تادرارات,قوس تنخليقة,matched_existing,WH-LY-004-C0016,exact,enrich_existing
+268,اكاكوس_تادرارات,القرية الجرمنتية تان افلا,matched_existing,WH-LY-004-C0017,exact,enrich_existing
+269,اكاكوس_تادرارات,فندق المهاري,matched_existing,WH-LY-004-C0018,exact,enrich_existing
+270,اكاكوس_تادرارات,منتجع وانتميضي البركت,matched_existing,WH-LY-004-C0019,exact,enrich_existing
+271,اكاكوس_تادرارات,المسجد الكبير,matched_existing,WH-LY-004-C0020,exact,enrich_existing
+272,اكاكوس_تادرارات,جبال أكاكوس,matched_existing,WH-LY-004-C0022,exact,enrich_existing
+273,اكاكوس_تادرارات,اغرم نظاريف,matched_existing,WH-LY-004-C0023,exact,enrich_existing
+274,اكاكوس_تادرارات,المدينة القديمة البركت ( اغرم ),matched_existing,WH-LY-004-C0024,exact,enrich_existing
+275,اكاكوس_تادرارات,قلعة ''سردليس''العوينات,matched_existing,WH-LY-004-C0025,exact,enrich_existing
+276,اكاكوس_تادرارات,وادي تشوينات,matched_existing,WH-LY-004-C0026,exact,enrich_existing
+277,اكاكوس_تادرارات,Wadi Teshuinat,matched_existing,WH-LY-004-C0027,exact,enrich_existing
+278,اكاكوس_تادرارات,وادي تاكاركوري,matched_existing,WH-LY-004-C0028,exact,enrich_existing
+279,اكاكوس_تادرارات,اوان اميل,matched_existing,WH-LY-004-C0029,exact,enrich_existing
+280,اكاكوس_تادرارات,اوان موهوجياج,matched_existing,WH-LY-004-C0030,exact,enrich_existing
+281,اكاكوس_تادرارات,منطقة الرسوم الصخرية,matched_existing,WH-LY-004-C0031,exact,enrich_existing
+282,اكاكوس_تادرارات,منطقة الاقواس والتكوينات الصخرية,matched_existing,WH-LY-004-C0032,exact,enrich_existing
+283,اكاكوس_تادرارات,جبال اكوكاس,matched_existing,WH-LY-004-C0033,exact,enrich_existing
+284,اكاكوس_تادرارات,جبال تادرارت أكوكاس,matched_existing,WH-LY-004-C0034,exact,enrich_existing
+285,اكاكوس_تادرارات,وادي آويس,matched_existing,WH-LY-004-C0035,exact,enrich_existing
+286,اكاكوس_تادرارات,قوس تنسو,matched_existing,WH-LY-004-C0036,exact,enrich_existing
+287,اكاكوس_تادرارات,وادي تاهرمت,matched_existing,WH-LY-004-C0037,exact,enrich_existing
+288,اكاكوس_تادرارات,تانسو,matched_existing,WH-LY-004-C0038,exact,enrich_existing
+289,اكاكوس_تادرارات,وادي تنسو,matched_existing,WH-LY-004-C0039,exact,enrich_existing
+290,اكاكوس_تادرارات,Kaf Ajnon كاف الجنون,matched_existing,WH-LY-004-C0040,exact,enrich_existing
+291,اكاكوس_تادرارات,وادي اغلاد,matched_existing,WH-LY-004-C0041,exact,enrich_existing
+292,اكاكوس_تادرارات,البئر الساخن,matched_existing,WH-LY-004-C0042,exact,enrich_existing
+293,اكاكوس_تادرارات,صخرة آضاد,matched_existing,WH-LY-004-C0043,exact,enrich_existing
+294,اكاكوس_تادرارات,تيرجيت,matched_existing,WH-LY-004-C0044,exact,enrich_existing
+295,اكاكوس_تادرارات,جبل تجيجيت,matched_existing,WH-LY-004-C0045,exact,enrich_existing
+296,اكاكوس_تادرارات,تيغجمين ان كيل تارات,matched_existing,WH-LY-004-C0046,exact,enrich_existing
+297,اكاكوس_تادرارات,البيت الاجتماعي آدرار,matched_existing,WH-LY-004-C0047,exact,enrich_existing
+298,اكاكوس_تادرارات,تين زلغـــــــــــــــان,matched_existing,WH-LY-004-C0048,exact,enrich_existing
