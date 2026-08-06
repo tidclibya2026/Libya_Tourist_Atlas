@@ -1,0 +1,405 @@
+﻿source_index,source_name,normalized_name,longitude,latitude,geometry_status,description_status,image_url,image_status,style_url,folder,duplicate_name_status,duplicate_coordinate_status,notes
+1,كافي 92,كافي92,13.202213,32.875603,valid,available,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6WHqekomA58A0Gb-u0azbi4YCq8mMg3jSX4SmpTNwDUq046Mql6GWvw8PC2mFW0NSDhheOP1nU5KAKju1h6ikVS3JbGIzyqTDDGhao9j-7SyqBnrQrokcAIswDhtscmZPaLdvpv8fvgrGBiVL1iGHcHMcff-ZV89lOaOW-NQUjODFT7NIZHFYWz4OHfWHYvjD9Zxpi2RGxLHRTmNpIk-DtqH0lh60HAAfwIbcIG5uQPGcOkuh2IaF2PfY?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+2,مقهى أسبانيول,مقهياسبانيول,13.20433,32.894506,valid,missing,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6iIZ_2Y9zpgdQQ03HkJzT9M1azl-9T_JRdQlroVlMR3P9of8omi_V0cxyVMnzHiUx7HMZkBp-MzYdGzNlLtoMPjcxX785F63ncdcF8AVWJoIiaDvCj_vMcCMtoHApBZ5FhP_CwkWW7PBx6OirUAOQbkTrG3dLOzw5YA96xsbl4AH41gPJUE0ObU9E-J25Go_xbqWUuZYuLQ1IwNv0N_V2cXElriSnabKN8pV7hU-7EiMxc7M-fBgZts4s?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+3,إيّلا كافي,ايّلاكافي,13.193842,32.887823,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+4,Cave cafe,cavecafe,13.198292,32.881598,valid,missing,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4fGL5kGk-1hnca3jTh9-C5VPEwJSLEJ0laZUxYglP_rwLFhRU4L1zaBdJEoH6EnZipuP1ReSkbRWK8AGhadrmH6FVy0qYlHeyDf3yVIs42ICNrdn3LXTEjtsszyi-zfSFGp7TaVuAoNkRCO4LTtgVCFATX_6x7TJ-Ef64Oodql6gPbHIPtK7NrlGRtcXFsuTNKgasb9z3lUVExZM--JOxmzfUVcZg0PVpOWpGry2EtoKweZWZMxvL5fac?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+5,كافي دي ماري,كافيديماري,13.199452,32.896461,valid,missing,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR69HRziSB1L3sAiCt6AYOzPYS75QWPMnMogxbR2_SrUoYhBDuSnQ8OfXhhn_8cjlTe_pejCFcvvzGrtzDwSYxWn4Vbeztv4qaaJYIpJkuh6eYrV32YzdFM_SU6x1HgTaioo0CXd0HdCxoH-7VePvYg7CnUjT-DEjIoZOmiRJZHqYxtbZ_ncTRYXublBn7Q_sQ06T7BMauatWJ5H6gEZEwB8JajMVr5OjYIqqbe40DJpJ5dcbE2k5jtCMDI?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+6,Café de Roma,caféderoma,13.178593,32.898311,valid,available,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4yKSwRlaoeRkyrQdklHRCjU_vaLHula8heng4Goi5cj_QTi5aMEpZrakzBKig6f0WQnxUi5-ccK4JSUk0-zHrk2Q6zf5vP6XPh85KwiRNJa7PBWmnJhbzYMmAL8KNbSCku65aaIFQs351mY64otCpEzZyFBAXhvkG_XeYw9BuZU5oMnccIusAKg6FC9GyAfUxpa0dUk85NjT1BSoEPWvNccjiwm_8NVVyh8MIOeSO8MEqmgUFeI89pMO0?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+7,كافي كيان,كافيكيان,13.207414,32.893955,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+8,لاتازا كافي,لاتازاكافي,13.212459,32.892322,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+9,Mondo Cafe,mondocafe,13.193175,32.890781,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+10,برانش كافي,برانشكافي,13.207182,32.899775,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+11,كافي تايم,كافيتايم,13.214453,32.890874,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+12,Le Corner Cafe Shop,lecornercafeshop,13.211089,32.884163,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+13,مقهى سينابون,مقهيسينابون,13.211366,32.895504,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+14,مقهى الحاج فتحي زاوية الدهماني,مقهيالحاجفتحيزاويهالدهماني,13.195949,32.886977,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+15,La Citta Cafe,lacittacafe,13.188654,32.8852,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+16,كافيه كالدو,كافيهكالدو,13.196037,32.859587,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+17,Avero Cafe,averocafe,13.210526,32.879761,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+18,كافي كورنيتو,كافيكورنيتو,13.221732,32.897305,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+19,مقهى الزيتونة,مقهيالزيتونه,13.212943,32.898162,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+20,الباتشينو كافي,الباتشينوكافي,13.207188,32.874688,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+21,aroma Caffe,aromacaffe,13.190254,32.885713,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+22,كافي كازا,كافيكازا,13.179353,32.896101,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+23,مقهى بيانكي,مقهيبيانكي,13.187166,32.889971,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+24,مونتريال كافي,مونتريالكافي,13.198936,32.891552,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+25,كافي موكا ايطاليا,كافيموكاايطاليا,13.192055,32.892918,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+26,ALMONDO CAFE,almondocafe,13.222968,32.887822,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+27,مقهى القادسية,مقهيالقادسيه,13.194105,32.885495,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+28,مقهي جردينه,مقهيجردينه,13.212501,32.89926,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+29,Milka Ly,milkaly,13.198918,32.889152,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+30,Cafe twins,cafetwins,13.216448,32.890488,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+31,Mazaj cafe,mazajcafe,13.187586,32.884463,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+32,مقهى حب هان,مقهيحبهان,13.204998,32.8945,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+33,مقهي كافي لاتي,مقهيكافيلاتي,13.222849,32.89511,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+34,كافي نيوتلا,كافينيوتلا,13.207102,32.874681,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+35,City CAFE,citycafe,13.209235,32.892815,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+36,GARDEN CAFE,gardencafe,13.191592,32.871867,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+37,Papparoti Cafe,papparoticafe,13.212154,32.879058,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+38,Caffe Vergnano 1882,caffevergnano1882,13.18848,32.890174,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+39,Cafe 24,cafe24,13.182218,32.892538,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+40,مقهى دا فيو,مقهيدافيو,13.142751,32.879255,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+41,كارفي كافي,كارفيكافي,13.207699,32.871397,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+42,Estados coffee,estadoscoffee,13.188142,32.890094,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+43,FIFTY CAFE,fiftycafe,13.195677,32.871926,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+44,Elon Cafe,eloncafe,13.172837,32.895555,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+45,عصائر بي?اندا,عصائربياندا,13.212601,32.894068,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+46,Café Solo,cafésolo,13.180429,32.87965,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+47,دكتور كيف,دكتوركيف,13.213556,32.891127,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+48,Commercial Caffe,commercialcaffe,13.181329,32.894399,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+49,مقهى الجسر,مقهيالجسر,13.174789,32.884212,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+50,PALMS CAFE,palmscafe,13.183737,32.89091,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+51,مقهى التومى,مقهيالتومي,13.188158,32.890123,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+52,مقهي باديه,مقهيباديه,13.178346,32.897901,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+53,المقهى الرئاسي,المقهيالرئاسي,13.209273,32.899872,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+54,مقهي عين زاره,مقهيعينزاره,13.191318,32.887188,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+55,Atomo Cafe,atomocafe,13.186552,32.884002,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+56,Bono Cafe,bonocafe,13.190741,32.881409,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+57,كافي أربن,كافياربن,13.2607842,32.8866096,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+58,Mio Caffe and Resto,miocaffeandresto,13.132507,32.877077,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+59,Tripoli Tur café,tripoliturcafé,13.188248,32.890833,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+60,كافيه ميدان الجزائر,كافيهميدانالجزائر,13.185674,32.891294,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+61,Cafe Bali,cafebali,13.214207,32.894252,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+62,حلويات اتش دبليو,حلوياتاتشدبليو,13.216463,32.892984,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+63,اوميجا كلوب,اوميجاكلوب,13.232202,32.86223,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+64,قهوة القصور,قهوهالقصور,13.197718,32.860739,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+65,ثراء,ثراء,13.212441,32.892525,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+66,ديب ان ديب ليبيا,ديبانديبليبيا,13.123672,32.874807,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+67,فيول كافي,فيولكافي,13.185142,32.886318,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+68,كافي سويت,كافيسويت,13.181128,32.892216,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+69,شيك أب,شيكاب,13.204993,32.87639,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+70,الحاج فتحي,الحاجفتحي,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,duplicate_coordinate,new_feature
+71,ساموراي,ساموراي,13.206297,32.893612,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+72,مقهى ومطعم فلانيل,مقهيومطعمفلانيل,13.205742,32.880593,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+73,بونو كافيه,بونوكافيه,13.194153,32.890814,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+74,مقهى رواق الوليد,مقهيرواقالوليد,13.194537,32.892031,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+75,1ONE DEGREE CAFE,1onedegreecafe,13.185042,32.891821,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+76,كافي 33,كافي33,13.210683,32.891548,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+77,Doctor Sweets,doctorsweets,13.193039,32.888542,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+78,مقهى عصام,مقهيعصام,13.172706,32.878259,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+79,بولو كافي,بولوكافي,13.182839,32.88626,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+80,براند كافي,براندكافي,13.211995,32.897386,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+81,روبوستا كافي,روبوستاكافي,13.208869,32.887899,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+82,CAFE EXPRESSO,cafeexpresso,13.174942,32.884004,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+83,مقهى الفنانين,مقهيالفنانين,13.169077,32.888538,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+84,مقهى العبسي,مقهيالعبسي,13.191433,32.887048,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+85,مقهي هوقو,مقهيهوقو,13.116509,32.874953,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+86,مقهي مستر بودينق,مقهيمستربودينق,13.198225,32.881621,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+87,AVERO,avero,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+88,كافي فيتوريا,كافيفيتوريا,13.180237,32.89282,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+89,مقهى الركن السياحي ( مقهى ارقيلة شيشة ),مقهيالركنالسياحيمقهيارقيلهشيشه,13.188814,32.885161,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+90,حلويات شهرزاد,حلوياتشهرزاد,13.187186,32.887711,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+91,Covim Tripoli,covimtripoli,13.19843,32.889173,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+92,Cafe Adam,cafeadam,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+93,NOTA cafe,notacafe,13.211173,32.887855,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+94,مقهى الدغيس,مقهيالدغيس,13.207151,32.896447,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+95,كافي كافا,كافيكافا,13.182208,32.887466,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+96,مقهي الكشك,مقهيالكشك,13.204355,32.895429,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+97,Country Boy Cafe,countryboycafe,13.24452,32.900187,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+98,ميدي محار النوفليين,ميديمحارالنوفليين,13.212245,32.893144,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+99,مقهى الفانوس,مقهيالفانوس,13.177031,32.887953,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+100,مقهى مانقو السياحية,مقهيمانقوالسياحيه,13.079127,32.855726,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+101,لاشيتا كافي,لاشيتاكافي,13.192828,32.891232,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+102,مطعم تقسيم جرابة,مطعمتقسيمجرابه,13.206338,32.87135,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+103,مطعم زاوية الدهمانى,مطعمزاويهالدهماني,13.217243,32.898896,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+104,كيمو كافي السياحيه,كيموكافيالسياحيه,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+105,قهوة 11,قهوه11,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+106,مقهى لاكارايا,مقهيلاكارايا,13.191318,32.887188,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+107,كافيه كديلك,كافيهكديلك,13.189314,32.882937,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+108,كافي716,كافي716,13.187186,32.887711,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+109,البيك للحلويات والعصائر,البيكللحلوياتوالعصائر,13.187186,32.887711,valid,missing,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,duplicate_coordinate,new_feature
+110,مقهى ميرال,مقهيميرال,13.179989,32.889591,valid,missing,https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4G4T-TNVL33sjOHNEQfu_w1g9WL-fDAO1v6o7U3kurwIojw6aR3s6O1ZOc3lHYEJ8Fprab8F1SlWXJ8h3YnDJZo8nKOy8VedKGsSPU8Bey32lN3g7BJAKIV_HVtjhv8Y7ogt3t-GMx4P9vljQyTk07GEYTrX0AsEWvdaHOsPFmGpB9PdZGoYwVfRJhUWbrzkPduwoAThK0TAnh2FkVMKZHy1UefO_OmbW929mMT7iAcxron3OuawRW7zA?authuser=2&fife=s16383,temporary_google_url,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+111,كافي موتشي Cafe Motche,كافيموتشيcafemotche,13.2473106,32.8782424,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+112,كافي مناف Manaf Cafe,كافيمنافmanafcafe,13.208434,32.8801157,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+113,كافي شمس الأندلس,كافيشمسالاندلس,13.1268776,32.8762513,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+114,كافي لوقانو lugano,كافيلوقانوlugano,13.1260874,32.8761028,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+115,Gourmandise قورمانديز حي الاندلس,gourmandiseقورمانديزحيالاندلس,13.12576,32.8758963,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+116,JOE & THE JUICE LIBYA,joethejuicelibya,13.1254009,32.8751426,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+117,الحاج فتحي,الحاجفتحي,13.1303864,32.8739608,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+118,هافانا للعصائر,هافاناللعصائر,13.1330891,32.8748942,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+119,SMASH Burger | سماش برجر,smashburgerسماشبرجر,13.1360882,32.8762919,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+120,BigChefs,bigchefs,13.1389085,32.8771594,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+121,لوس أندلس حي الأندلس Los Andalos Hay Alandalos,لوساندلسحيالاندلسlosandaloshayalandalos,13.1367703,32.87286,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+122,Alzad Allibi for Catering Services - الزاد الليبي,alzadallibiforcateringservicesالزادالليبي,13.1306764,32.8710194,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+123,Lotche Cafe - مقهى لوتشي,lotchecafeمقهيلوتشي,13.1308216,32.8705723,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+124,تاكوس قريل,تاكوسقريل,12.9802505,32.8147527,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+125,شنابو جنزور,شنابوجنزور,13.04329,32.8281011,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+126,مقهى البناني,مقهيالبناني,12.980471,32.8187159,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+127,بيتزا بولبو,بيتزابولبو,12.9959561,32.8200499,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+128,الحاج فتحي - جنزور,الحاجفتحيجنزور,13.0250135,32.8158483,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+129,De keyff cafe,dekeyffcafe,12.9962042,32.8262164,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+130,WM JTV Cafe,wmjtvcafe,13.0109626,32.836674,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+131,مقهى الكروان,مقهيالكروان,13.0150575,32.8292401,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+132,كافي المشتل,كافيالمشتل,13.0232511,32.8260527,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+133,DK COFFEE,dkcoffee,13.0283686,32.8232371,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+134,Mando Fastfood Janzur ماندو جنزور,mandofastfoodjanzurماندوجنزور,13.0296869,32.8277962,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+135,الخيمة برجر - جنزور,الخيمهبرجرجنزور,13.0320156,32.8292875,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+136,مقهى المشتل,مقهيالمشتل,13.0412944,32.81481,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+137,Be one cafe بي وان كافي,beonecafeبيوانكافي,13.0206647,32.7748854,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+138,قهوة حاتم,قهوهحاتم,13.073989,32.780306,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+139,Cafe 717,cafe717,13.0428462,32.8040753,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+140,حلويات موزارت - السياحية,حلوياتموزارتالسياحيه,13.064847,32.8465321,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+141,كاسترو للوجبات السريعة,كاستروللوجباتالسريعه,13.0743258,32.8451205,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+142,بلبن فرع السياحية,بلبنفرعالسياحيه,13.0773496,32.8543411,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+143,مقهى بيتزا الفورنو غوط الشعال,مقهيبيتزاالفورنوغوطالشعال,13.0889366,32.8574443,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+144,نوتيلا السياحيه,نوتيلاالسياحيه,13.0896346,32.8612182,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+145,مقهى - السراج,مقهيالسراج,13.0709172,32.8004915,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+146,DOPAMIN,dopamin,13.0782287,32.8052828,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+147,Aws coffee,awscoffee,13.0973821,32.8074618,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+148,A K Caffee,akcaffee,13.1129955,32.8064513,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+149,مطحن بُـن تــوبـاز 3 - السراج,مطحنبُـنتــوبـاز3السراج,13.1045469,32.7898303,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+150,Snake KOFFE,snakekoffe,13.094064,32.7954448,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+151,مطحن الاجم لتحميص وطحن القهوة ومستلزمات المطاحن والمقاهي,مطحنالاجملتحميصوطحنالقهوهومستلزماتالمطاحنوالمقاهي,13.0953971,32.790213,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+152,كافي أبوسنينة,كافيابوسنينه,13.0847106,32.796357,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+153,FoodPoint فود بوينت,foodpointفودبوينت,13.0844794,32.7977485,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+154,نادي القهوة Club café,ناديالقهوهclubcafé,13.0756111,32.8189057,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+155,مطعم صفيحة ترابزون - Trabzon Pidesi,مطعمصفيحهترابزونtrabzonpidesi,13.0790587,32.8188141,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+156,Kudo,kudo,13.1280574,32.856739,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+157,O2 Café,o2café,13.1247002,32.8752911,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+158,مقهى هارون - حي الأندلس,مقهيهارونحيالاندلس,13.1275228,32.8765321,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+159,ORANGE COFFEE,orangecoffee,13.1313801,32.8695388,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+160,حلويات العسال,حلوياتالعسال,13.130808,32.8701794,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+161,Black and white,blackandwhite,13.133245,32.8706973,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+162,كارفي حي الاندلس,كارفيحيالاندلس,13.1328636,32.8743775,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+163,مقهى اداليا,مقهياداليا,13.1361511,32.8807834,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+164,Wees Cafe - ويس كافي,weescafeويسكافي,13.1376509,32.8805327,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+165,إسبريسو لاب,اسبريسولاب,13.1324481,32.8775787,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+166,عصير تايم,عصيرتايم,13.141267,32.8791769,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+167,مقهى آلينور,مقهيالينور,13.150687,32.879498,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+168,قوست برقر _ Ghost burger,قوستبرقر_ghostburger,13.1510046,32.8776825,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+169,كشك الهمبورقا عمر المختار,كشكالهمبورقاعمرالمختار,13.1585117,32.882197,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+170,Smash Craft Burger سماش كرافت برجر,smashcraftburgerسماشكرافتبرجر,13.1623508,32.8829496,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+171,حلويات زهرة المدائن,حلوياتزهرهالمدائن,13.1627657,32.882746,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+172,مطعم 4 You,مطعم4you,13.1629611,32.8831196,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+173,نوتيلا شارع النصر,نوتيلاشارعالنصر,13.1632367,32.8829119,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+174,مطعم طعميه ضوء,مطعمطعميهضوء,13.1639613,32.8823627,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+175,طعمية فرش - شارع سليمان الباروني,طعميهفرششارعسليمانالباروني,13.1640052,32.8825644,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+176,Green Cafe,greencafe,13.1637164,32.8835068,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+177,شارع الجلاء,شارعالجلاء,13.1637251,32.8835908,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+178,مقهي ابناء عشيبة للسندوتشات,مقهيابناءعشيبهللسندوتشات,13.1636925,32.8836694,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+179,AsROMA Caffee,asromacaffee,13.1615111,32.8836524,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+180,مطعم سديم للمأكولات السريعة,مطعمسديمللماكولاتالسريعه,13.1608034,32.8844976,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+181,مقهي البيادر.مشاوي علي للفحم,مقهيالبيادرمشاويعليللفحم,13.1627382,32.8846792,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+182,Ram Cafe,ramcafe,13.1634274,32.8859681,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+183,كافي شيش خان,كافيشيشخان,13.1638314,32.886516,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+184,essse cafè,esssecafè,13.1648082,32.8861202,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+185,libya costa cafe,libyacostacafe,13.1641633,32.8860825,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+186,عصائر هاواي,عصائرهاواي,13.1657543,32.8866031,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+187,Olympic Coffee - أولمبيك كافي,olympiccoffeeاولمبيككافي,13.1659249,32.8875336,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+188,بيتزا 99,بيتزا99,13.1667605,32.8868681,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+189,كافي باب المدينة,كافيبابالمدينه,13.1677137,32.8877639,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+190,مطعم لبرتون,مطعملبرتون,13.167354,32.8883447,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+191,مقهى ثمانية وثمانون - 88,مقهيثمانيهوثمانون88,13.1674525,32.8885213,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+192,كافي 88 للوجبات السريعة,كافي88للوجباتالسريعه,13.1676029,32.888539,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+193,اللموشي للسندوتشات,اللموشيللسندوتشات,13.1694927,32.8888582,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+194,مطعم الطاهي للمأكولات البحرية,مطعمالطاهيللماكولاتالبحريه,13.1697351,32.8888196,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+195,Cafe Latte,cafelatte,13.17035,32.8901144,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+196,زهير بريش للحلويات الببو,زهيربريشللحلوياتالببو,13.1779956,32.8889719,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+197,قهوة المسيرة,قهوهالمسيره,13.1728838,32.8876852,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+198,كافي الوافي,كافيالوافي,13.1770545,32.884367,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+199,Karo Café - كارو كافي,karocaféكاروكافي,13.1829584,32.8858324,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+200,Resto coffe,restocoffe,13.1935014,32.8710562,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+201,مقهى تن,مقهيتن,13.1973578,32.8714497,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+202,Big mac burger,bigmacburger,13.1984807,32.8707113,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+203,THEGATE,thegate,13.1974671,32.8687101,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+204,كافي روت 66,كافيروت66,13.2070718,32.8652299,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+205,كلاسيكو كافي,كلاسيكوكافي,13.2096853,32.8558378,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+206,8800,8800,13.1969323,32.854788,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+207,كودو - فرع حي دمشق,كودوفرعحيدمشق,13.2023777,32.8529666,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+208,مقهى المجلس,مقهيالمجلس,13.2049559,32.8390187,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+209,مقهى البوعة,مقهيالبوعه,13.2092237,32.8373424,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+210,كافي مقيق,كافيمقيق,13.2080703,32.8375804,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+211,قهوة همبورقه,قهوههمبورقه,13.2159007,32.8371988,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+212,Cafe bene,cafebene,13.214886,32.8251604,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+213,مطعم Andary فرع صلاح الدين,مطعمandaryفرعصلاحالدين,13.2158205,32.8253336,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+214,مقهى الوادي,مقهيالوادي,13.2144953,32.823517,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+215,La Casa04,lacasa04,13.216722,32.8233974,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+216,الحاج فتحي - عين زارة,الحاجفتحيعينزاره,13.2553479,32.8296075,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+217,اشتيوي كافي خلة الفرجان,اشتيويكافيخلهالفرجان,13.2277252,32.769968,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+218,مقهى العبسي,مقهيالعبسي,13.2977433,32.7680385,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+219,مقهى بايو كافي في مقسم بن معتوق,مقهيبايوكافيفيمقسمبنمعتوق,13.2585615,32.802936,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+220,مقهي وحلويات الكرم (الكشك),مقهيوحلوياتالكرمالكشك,13.3434852,32.7941467,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+221,كافي كوب,كافيكوب,13.2693273,32.8513703,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+222,الدبشي كافيه - Dabshi coffee,الدبشيكافيهdabshicoffee,13.2398891,32.8490201,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+223,محمود للسندوتشات 777,محمودللسندوتشات777,13.3514074,32.835698,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+224,كافي جزيل - JAZEEL CAFE,كافيجزيلjazeelcafe,13.2320418,32.8705703,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+225,شيش زياد فرع زناتة,شيشزيادفرعزناته,13.2296141,32.8690209,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+226,شرمب نيشن _ليبيا,شرمبنيشن_ليبيا,13.224265,32.8728472,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+227,كباب زناتة,كبابزناته,13.2225901,32.875682,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+228,شركة نون للعصائر,شركهنونللعصائر,13.2397392,32.8720564,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+229,معمل جاميلة البحباح,معملجاميلهالبحباح,13.2216592,32.8786255,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+230,مطبخ العيلة - cucina famiglia,مطبخالعيلهcucinafamiglia,13.2223262,32.8804466,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+231,Vanilla Patisserie حلويات ڤانيليا,vanillapatisserieحلوياتڤانيليا,13.2164133,32.8807807,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+232,Espressolab,espressolab,13.2112078,32.8833556,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+233,Gustoso,gustoso,13.2119236,32.8818621,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+234,Bubble Tea ببل تي,bubbleteaببلتي,13.2113147,32.8842521,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+235,Eleanor Pastries,eleanorpastries,13.2098844,32.8797784,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+236,Candy house كاندي هاوس,candyhouseكانديهاوس,13.2095118,32.8793496,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+237,Pinkberry Libya,pinkberrylibya,13.2069294,32.8837952,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+238,Buonissimo gelato Italiano,buonissimogelatoitaliano,13.2068586,32.8830681,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+239,Nostro caffe,nostrocaffe,13.2067952,32.8835843,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+240,كافي لاتي,كافيلاتي,13.1990477,32.8832245,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+241,Alhofra Cafe - مقهي الحفرة,alhofracafeمقهيالحفره,13.1999886,32.8829778,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+242,ڤوگ كافيه ومطعم,ڤوگكافيهومطعم,13.1936468,32.8849836,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+243,كلاسيكو ساندوتش,كلاسيكوساندوتش,13.1929527,32.8851246,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+244,موندو جيلاتو - القادسية,موندوجيلاتوالقادسيه,13.1922962,32.8846595,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+245,GOULZ,goulz,13.1916874,32.885744,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+246,Ottimo Gusto Pizza & Pasta,ottimogustopizzapasta,13.1972392,32.8819118,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+247,مقهي كابو,مقهيكابو,13.1994485,32.8812321,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+248,مقهى الشيباني,مقهيالشيباني,13.1999391,32.8811972,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+249,Sage Cafe - ساج كافي,sagecafeساجكافي,13.199799,32.8812312,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+250,Costa Cafe,costacafe,13.2006697,32.8795841,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+251,SUGAR Ben Ashur,sugarbenashur,13.2015903,32.8787144,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+252,Al DENTE Cafe M Hanka,aldentecafemhanka,13.2005935,32.8793452,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+253,دجاج كنتاكي,دجاجكنتاكي,13.2006704,32.8793572,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+254,Miss cake sweet shop and cafe 2,misscakesweetshopandcafe2,13.2009594,32.8794763,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+255,كافي مدريد,كافيمدريد,13.2018585,32.8755149,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+256,العمو الجرابة,العموالجرابه,13.2026332,32.8756833,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+257,Bash Burger,bashburger,13.2030752,32.8757653,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+258,Pink Cafe,pinkcafe,13.2031199,32.8757834,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+259,THE MEATHOUSE,themeathouse,13.2032859,32.8758394,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+260,بـ لبن,بـلبن,13.2032344,32.8760097,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+261,تويستر,تويستر,13.2032887,32.8760389,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+262,Diyar al-Sham ديار الشام,diyaralshamديارالشام,13.2035458,32.8760852,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+263,Burger Boss,burgerboss,13.204197,32.8760224,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+264,Guns ‘n’ Buns,gunsnbuns,13.204492,32.8761165,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+265,مطعم زيادة,مطعمزياده,13.2045783,32.8761103,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+266,لاتينو,لاتينو,13.2055214,32.8764583,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+267,MOMANTO,momanto,13.2059528,32.8757396,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+268,S7S Burger مطعم سحس,s7sburgerمطعمسحس,13.2062726,32.8759306,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+269,كوب كافي,كوبكافي,13.2060998,32.87506,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+270,Terrace café,terracecafé,13.2061017,32.8747609,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+271,مطحن جرابة,مطحنجرابه,13.2059003,32.8740873,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+272,Mammamia كافي ماماميا,mammamiaكافيماماميا,13.2063045,32.87396,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+273,لافندر كافي,لافندركافي,13.2064034,32.8732009,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+274,فرايتس شيف,فرايتسشيف,13.2073275,32.8724061,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+275,مقهى هارون فرع بن عاشور,مقهيهارونفرعبنعاشور,13.2027357,32.8720121,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+276,مطعم طشطشة,مطعمطشطشه,13.2028581,32.8721696,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+277,مقهى تشامبيون - Cafe champion,مقهيتشامبيونcafechampion,13.2074527,32.8705016,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+278,Bartato,bartato,13.2069459,32.8712907,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+279,مطعم الشامي 2- فرع رأس حسن,مطعمالشامي2فرعراسحسن,13.2087291,32.8701687,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+280,كباب عريبي,كبابعريبي,13.2102733,32.870465,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+281,ماندو Mando,ماندوmando,13.2085045,32.8746751,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+282,مطعم 93,مطعم93,13.2109955,32.8743042,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+283,دولشي كيك,دولشيكيك,13.2162358,32.8761796,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+284,مقهى براون - Brown Cafe,مقهيبراونbrowncafe,13.2116312,32.8777158,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+285,عكسـة الرجـال,عكسـهالرجـال,13.2220747,32.8721064,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+286,مقهى القيزاني - Cafe algezani,مقهيالقيزانيcafealgezani,13.2122981,32.8585227,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+287,كافيتيريا كلية العلوم / جامعة طرابلس,كافيتيرياكليهالعلومجامعهطرابلس,13.2189972,32.8546479,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+288,Espresso Lab Cafe - مقهى إسبريسو لاب,espressolabcafeمقهياسبريسولاب,13.2277437,32.8495476,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+289,Crown Cafe,crowncafe,13.2317609,32.8383787,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+290,بريوش عمر,بريوشعمر,13.1868369,32.8217272,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+291,الكردي كافي,الكرديكافي,13.1742048,32.7943519,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+292,طرابلس,طرابلس,13.184615,32.7845745,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+293,فلامينقو,فلامينقو,13.1891764,32.7767193,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+294,كافي قمر,كافيقمر,13.1716929,32.7788866,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+295,WAKE UP COFFEE SHOP,wakeupcoffeeshop,13.1498888,32.7788958,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+296,cafe 99,cafe99,13.1637568,32.7818947,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+297,Thaj Cafe,thajcafe,13.1576526,32.7848581,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+298,كافي أدجيم,كافيادجيم,13.1415156,32.763673,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+299,سيمافرو للوجبات الخفيفة و المعجنات,سيمافروللوجباتالخفيفهوالمعجنات,13.2363394,32.8820889,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+300,عالم القهوة,عالمالقهوه,13.2429236,32.8897765,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+301,بسبوسه الفقيه,بسبوسهالفقيه,13.2556983,32.8849781,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+302,Tasty Food,tastyfood,13.2304259,32.9004843,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+303,فطائر الكريكشي,فطائرالكريكشي,13.2426064,32.908257,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+304,أورزو للأيسكريم orso ice cream,اورزوللايسكريمorsoicecream,13.2429618,32.9082027,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+305,قهوة داكوردو,قهوهداكوردو,13.2622683,32.9052517,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+306,مقهى MAIN GATE,مقهيmaingate,13.2695803,32.9053332,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+307,كاستيلو كافي,كاستيلوكافي,13.2631752,32.9032083,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+308,مقهى الفنجان الذهبي,مقهيالفنجانالذهبي,13.2628708,32.8995428,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+309,قهوة الدقروني,قهوهالدقروني,13.2553653,32.8993554,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+310,IPSA ICE CREAM ابسا للمثلجات و الجيلاطي,ipsaicecreamابساللمثلجاتوالجيلاطي,13.2587908,32.8942324,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+311,الزيتونة برجر 🍔 ALZETOUNA BURGER,الزيتونهبرجرalzetounaburger,13.2579131,32.8916986,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+312,فرشيلو كافي Farchilo Coffee,فرشيلوكافيfarchilocoffee,13.2557514,32.8830381,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+313,مقهى ابو كتيف,مقهيابوكتيف,13.2530028,32.8808535,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+314,ماندو | Mando,ماندوmando,13.2920509,32.8358139,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+315,مقهى الديدو _ Café AlDido,مقهيالديدو_caféaldido,13.3050284,32.8035912,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+316,كافي 2023,كافي2023,13.330599,32.8284487,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+317,محمد 2,محمد2,13.3189266,32.8345334,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+318,SUGAR,sugar,13.3463086,32.8866827,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+319,كودو تاجوراء,كودوتاجوراء,13.3384489,32.8836545,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+320,Naas Cafe,naascafe,13.3304792,32.8753523,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+321,العالم للحلويات,العالمللحلويات,13.3275897,32.8755098,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+322,B1 coffee,b1coffee,13.3378915,32.8689994,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+323,مقهى و مطعم عصمان,مقهيومطعمعصمان,13.3598903,32.8723626,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+324,الحاج فتحي فرع تاجوراء,الحاجفتحيفرعتاجوراء,13.3755662,32.8714458,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+325,Café Motiv,cafémotiv,13.2977288,32.8821703,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+326,مقهى المداق,مقهيالمداق,13.2961647,32.8792698,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+327,7stars cafe,7starscafe,13.2608892,32.8521481,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+328,مقهي الوطنية,مقهيالوطنيه,13.2570977,32.8565575,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+329,السبعة,السبعه,13.2590751,32.8585215,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+330,مقهى هارون فرع السبعة,مقهيهارونفرعالسبعه,13.2697762,32.8633454,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+331,SamboCoffee,sambocoffee,13.2738007,32.862046,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+332,كوكيز,كوكيز,13.2756887,32.865625,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+333,B&B Fast Food,bbfastfood,13.2733569,32.8773505,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+334,كافي تشينو Chino Cafe,كافيتشينوchinocafe,13.2694016,32.8910259,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+335,Cafe 55,cafe55,13.3366005,32.8636488,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+336,Vero caffe,verocaffe,13.3624039,32.8939773,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+337,مقهى هارون,مقهيهارون,13.3769223,32.8944023,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+338,مقهى فينيسيا للبيتزا والمعجنات,مقهيفينيسياللبيتزاوالمعجنات,13.3882429,32.8906876,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+339,بيانكا -BIANCA,بيانكاbianca,13.3831993,32.894189,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+340,بيتزا الفوار 2,بيتزاالفوار2,13.3870749,32.8930237,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+341,تيك اوي,تيكاوي,13.3623341,32.8845618,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+342,Caffe 25,caffe25,13.3631866,32.8730059,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+343,بانيني كافيه,بانينيكافيه,13.3706391,32.8725769,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+344,مقهى سيلفيوم,مقهيسيلفيوم,13.35492,32.8721543,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+345,معمل القشطة,معملالقشطه,13.3465639,32.8733294,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+346,Malek cafe,malekcafe,13.3438452,32.8694982,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+347,Habibi caffe & games,habibicaffegames,13.3377785,32.8708528,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+348,مقهى الوسام,مقهيالوسام,13.3914636,32.8857322,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+349,مقهى الكبدة تاجوراء,مقهيالكبدهتاجوراء,13.4089017,32.8720774,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+350,Maram Kitchen,maramkitchen,13.3562062,32.8296918,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+351,مقهى فيرونا VERONA CAFFE,مقهيفيروناveronacaffe,13.348356,32.826264,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+352,مقهي بلاك اند وايت,مقهيبلاكاندوايت,13.3501459,32.8351697,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+353,مستر باسترس mr. Pastries,مسترباسترسmrpastries,13.2002107,32.8606271,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+354,قهوة عصام الجديدة,قهوهعصامالجديده,13.1986325,32.8740664,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+355,La Dolce Vita,ladolcevita,13.1913561,32.8805558,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+356,كافي برقان,كافيبرقان,13.1889068,32.8804871,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+357,كافي شباب بلادي,كافيشباببلادي,13.1841758,32.879383,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+358,ويلا كافي,ويلاكافي,13.1817767,32.8813772,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+359,مقهي الأرز,مقهيالارز,13.1803788,32.8837509,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+360,Como Coffee,comocoffee,13.179165,32.8821359,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+361,Gelateria pinguino - مثلجات بنقوينو,gelateriapinguinoمثلجاتبنقوينو,13.1845867,32.8844758,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+362,قهوة الببو دحي وجبنة,قهوهالببودحيوجبنه,13.1860971,32.8845224,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+363,VIA MERCATO LY,viamercatoly,13.1906447,32.886498,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+364,فوزي سندوتشات بانينا Fawzi Street food,فوزيسندوتشاتبانيناfawzistreetfood,13.182782,32.8898154,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+365,البيت الموريسكي(كازا موريسكي),البيتالموريسكيكازاموريسكي,13.1772054,32.8963209,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+366,مقهي باديه,مقهيباديه,13.174363,32.897921,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,duplicate_name,unique,new_feature
+367,Coofe Refrehs,cooferefrehs,13.1768839,32.8995243,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+368,شباك -shubbak.ly,شباكshubbakly,13.1754439,32.8997391,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+369,MARSA CAFE قهوه على البحر,marsacafeقهوهعليالبحر,13.1777878,32.8999108,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+370,Old but gold,oldbutgold,13.1759622,32.9004355,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+371,Caffè del Porto,caffèdelporto,13.1758247,32.902618,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+372,مقهى السيدة مريم,مقهيالسيدهمريم,13.1758661,32.8986031,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+373,قهوة ابوفينا,قهوهابوفينا,13.1772051,32.8983828,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+374,فلافل الحموي,فلافلالحموي,13.1735496,32.8961497,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+375,مقهى ومطعم الميڨو,مقهيومطعمالميڨو,13.1727625,32.8946978,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+376,مقهى صلاح,مقهيصلاح,13.1764856,32.8932228,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+377,مقهى عمورة الكيلاني الثريا,مقهيعمورهالكيلانيالثريا,13.1784375,32.8935625,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+378,مقهي أبو أحمد,مقهيابواحمد,13.1795909,32.8937203,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+379,مقهى كاره للوجبات السريعة,مقهيكارهللوجباتالسريعه,13.1807089,32.8936263,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+380,البريوشة,البريوشه,13.1810869,32.8941896,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+381,Saray Café مقهى سراي,saraycaféمقهيسراي,13.1817598,32.8939463,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+382,Adnan cafe,adnancafe,13.1831651,32.893424,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+383,coffe malek,coffemalek,13.1810161,32.893303,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+384,مقهى النخيل,مقهيالنخيل,13.1822371,32.8926472,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+385,Yahya sandwich,yahyasandwich,13.181155,32.8940313,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+386,Nesma Cafe & Restaurant,nesmacaferestaurant,13.1831111,32.8943934,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+387,مقهي ومطعم السرايا & Al Saraya Cafe and Restaurant,مقهيومطعمالسراياalsarayacafeandrestaurant,13.1824414,32.8946473,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+388,كافي اسامة,كافياسامه,13.1853596,32.8948182,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+389,مقهى الكرنيش,مقهيالكرنيش,13.1853506,32.8958753,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+390,مقهي فيراري Coffee ferrari,مقهيفيراريcoffeeferrari,13.1841634,32.8967117,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+391,GROUP CAFE,groupcafe,13.1678187,32.895261,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+392,الكشك العالمي,الكشكالعالمي,13.2106951,32.8992755,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+393,مقهى طريق الشط,مقهيطريقالشط,13.2143117,32.8999988,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+394,شهرزاد للحلويات الشرقية والعالمية,شهرزادللحلوياتالشرقيهوالعالميه,13.2185373,32.9003745,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+395,bona cake,bonacake,13.2213125,32.8923125,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+396,GRILLZA للمعجنات والمشاوي,grillzaللمعجناتوالمشاوي,13.2230943,32.8888976,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+397,كافي تشينو,كافيتشينو,13.2314209,32.8885989,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+398,S&M cake,smcake,13.2512207,32.8973085,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+399,The cue cafe,thecuecafe,13.2550206,32.9019359,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+400,دجاج تندوري فرع سوق الجمعة,دجاجتندوريفرعسوقالجمعه,13.264222,32.9064901,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+401,مشاوي أبراج,مشاويابراج,13.2649076,32.9065577,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+402,معمل البركة للحلويات,معملالبركهللحلويات,13.2674375,32.9040625,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+403,Big Boss Burger,bigbossburger,13.2092235,32.8931622,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature
+404,Gourmandise Libya,gourmandiselibya,13.2088863,32.8923247,valid,available,,no_image,#icon-1567-558B2F-labelson,المقاهي,unique,unique,new_feature

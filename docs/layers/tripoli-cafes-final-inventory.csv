@@ -1,0 +1,405 @@
+﻿id,name_ar,facility_type_code,district_ar,longitude,latitude,match_status,data_quality_status,completeness_percent,image_status
+LY-FNB-CAF-TRI-00001,كافي 92,cafe,,13.202213,32.875603,new_feature,medium,55,temporary_google_url
+LY-FNB-CAF-TRI-00002,مقهى أسبانيول,cafe,,13.20433,32.894506,new_feature,low,27,temporary_google_url
+LY-FNB-CAF-TRI-00003,إيّلا كافي,cafe,,13.193842,32.887823,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00004,Cave cafe,cafe,,13.198292,32.881598,new_feature,low,27,temporary_google_url
+LY-FNB-CAF-TRI-00005,كافي دي ماري,cafe,,13.199452,32.896461,new_feature,low,27,temporary_google_url
+LY-FNB-CAF-TRI-00006,Café de Roma,coffee_shop,,13.178593,32.898311,new_feature,low,27,temporary_google_url
+LY-FNB-CAF-TRI-00007,كافي كيان,cafe,,13.207414,32.893955,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00008,لاتازا كافي,cafe,,13.212459,32.892322,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00009,Mondo Cafe,cafe,,13.193175,32.890781,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00010,برانش كافي,cafe,,13.207182,32.899775,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00011,كافي تايم,cafe,,13.214453,32.890874,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00012,Le Corner Cafe Shop,cafe,,13.211089,32.884163,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00013,مقهى سينابون,dessert_cafe,,13.211366,32.895504,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00014,مقهى الحاج فتحي زاوية الدهماني,traditional_cafe,,13.195949,32.886977,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00015,La Citta Cafe,cafe,,13.188654,32.8852,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00016,كافيه كالدو,cafe,,13.196037,32.859587,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00017,Avero Cafe,cafe,,13.210526,32.879761,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00018,كافي كورنيتو,cafe,,13.221732,32.897305,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00019,مقهى الزيتونة,cafe,,13.212943,32.898162,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00020,الباتشينو كافي,cafe,,13.207188,32.874688,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00021,aroma Caffe,coffee_shop,,13.190254,32.885713,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00022,كافي كازا,cafe,,13.179353,32.896101,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00023,مقهى بيانكي,cafe,,13.187166,32.889971,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00024,مونتريال كافي,cafe,,13.198936,32.891552,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00025,كافي موكا ايطاليا,cafe,,13.192055,32.892918,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00026,ALMONDO CAFE,cafe,,13.222968,32.887822,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00027,مقهى القادسية,cafe,,13.194105,32.885495,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00028,مقهي جردينه,cafe,,13.212501,32.89926,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00029,Milka Ly,review_required,,13.198918,32.889152,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00030,Cafe twins,cafe,,13.216448,32.890488,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00031,Mazaj cafe,cafe,,13.187586,32.884463,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00032,مقهى حب هان,cafe,,13.204998,32.8945,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00033,مقهي كافي لاتي,cafe,,13.222849,32.89511,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00034,كافي نيوتلا,cafe,,13.207102,32.874681,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00035,City CAFE,cafe,,13.209235,32.892815,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00036,GARDEN CAFE,cafe,,13.191592,32.871867,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00037,Papparoti Cafe,cafe,,13.212154,32.879058,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00038,Caffe Vergnano 1882,coffee_shop,,13.18848,32.890174,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00039,Cafe 24,cafe,,13.182218,32.892538,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00040,مقهى دا فيو,cafe,,13.142751,32.879255,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00041,كارفي كافي,cafe,,13.207699,32.871397,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00042,Estados coffee,coffee_shop,,13.188142,32.890094,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00043,FIFTY CAFE,cafe,,13.195677,32.871926,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00044,Elon Cafe,cafe,,13.172837,32.895555,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00045,عصائر بي?اندا,juice_bar,,13.212601,32.894068,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00046,Café Solo,cafe,,13.180429,32.87965,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00047,دكتور كيف,review_required,,13.213556,32.891127,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00048,Commercial Caffe,coffee_shop,,13.181329,32.894399,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00049,مقهى الجسر,cafe,,13.174789,32.884212,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00050,PALMS CAFE,cafe,,13.183737,32.89091,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00051,مقهى التومى,cafe,,13.188158,32.890123,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00052,مقهي باديه,cafe,,13.178346,32.897901,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00053,المقهى الرئاسي,cafe,,13.209273,32.899872,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00054,مقهي عين زاره,cafe,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00055,Atomo Cafe,cafe,,13.186552,32.884002,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00056,Bono Cafe,cafe,,13.190741,32.881409,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00057,كافي أربن,cafe,,13.2607842,32.8866096,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00058,Mio Caffe and Resto,cafe_restaurant,,13.132507,32.877077,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00059,Tripoli Tur café,cafe,,13.188248,32.890833,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00060,كافيه ميدان الجزائر,cafe,,13.185674,32.891294,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00061,Cafe Bali,cafe,,13.214207,32.894252,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00062,حلويات اتش دبليو,dessert_cafe,,13.216463,32.892984,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00063,اوميجا كلوب,review_required,,13.232202,32.86223,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00064,قهوة القصور,coffee_shop,,13.197718,32.860739,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00065,ثراء,review_required,,13.212441,32.892525,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00066,ديب ان ديب ليبيا,review_required,,13.123672,32.874807,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00067,فيول كافي,cafe,,13.185142,32.886318,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00068,كافي سويت,cafe,,13.181128,32.892216,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00069,شيك أب,review_required,,13.204993,32.87639,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00070,الحاج فتحي,traditional_cafe,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00071,ساموراي,review_required,,13.206297,32.893612,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00072,مقهى ومطعم فلانيل,cafe_restaurant,,13.205742,32.880593,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00073,بونو كافيه,cafe,,13.194153,32.890814,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00074,مقهى رواق الوليد,cafe,,13.194537,32.892031,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00075,1ONE DEGREE CAFE,cafe,,13.185042,32.891821,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00076,كافي 33,cafe,,13.210683,32.891548,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00077,Doctor Sweets,dessert_cafe,,13.193039,32.888542,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00078,مقهى عصام,cafe,,13.172706,32.878259,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00079,بولو كافي,cafe,,13.182839,32.88626,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00080,براند كافي,cafe,,13.211995,32.897386,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00081,روبوستا كافي,cafe,,13.208869,32.887899,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00082,CAFE EXPRESSO,cafe,,13.174942,32.884004,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00083,مقهى الفنانين,cafe,,13.169077,32.888538,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00084,مقهى العبسي,cafe,,13.191433,32.887048,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00085,مقهي هوقو,cafe,,13.116509,32.874953,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00086,مقهي مستر بودينق,cafe,,13.198225,32.881621,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00087,AVERO,review_required,,13.191318,32.887188,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00088,كافي فيتوريا,cafe,,13.180237,32.89282,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00089,مقهى الركن السياحي ( مقهى ارقيلة شيشة ),shisha_cafe,,13.188814,32.885161,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00090,حلويات شهرزاد,dessert_cafe,,13.187186,32.887711,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00091,Covim Tripoli,review_required,,13.19843,32.889173,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00092,Cafe Adam,cafe,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00093,NOTA cafe,cafe,,13.211173,32.887855,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00094,مقهى الدغيس,cafe,,13.207151,32.896447,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00095,كافي كافا,cafe,,13.182208,32.887466,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00096,مقهي الكشك,cafe,,13.204355,32.895429,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00097,Country Boy Cafe,cafe,,13.24452,32.900187,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00098,ميدي محار النوفليين,review_required,,13.212245,32.893144,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00099,مقهى الفانوس,cafe,,13.177031,32.887953,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00100,مقهى مانقو السياحية,cafe,,13.079127,32.855726,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00101,لاشيتا كافي,cafe,,13.192828,32.891232,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00102,مطعم تقسيم جرابة,review_required,,13.206338,32.87135,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00103,مطعم زاوية الدهمانى,review_required,,13.217243,32.898896,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00104,كيمو كافي السياحيه,cafe,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00105,قهوة 11,coffee_shop,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00106,مقهى لاكارايا,cafe,,13.191318,32.887188,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00107,كافيه كديلك,cafe,,13.189314,32.882937,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00108,كافي716,cafe,,13.187186,32.887711,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00109,البيك للحلويات والعصائر,juice_bar,,13.187186,32.887711,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00110,مقهى ميرال,cafe,,13.179989,32.889591,new_feature,low,27,temporary_google_url
+LY-FNB-CAF-TRI-00111,كافي موتشي Cafe Motche,cafe,,13.2473106,32.8782424,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00112,كافي مناف Manaf Cafe,cafe,,13.208434,32.8801157,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00113,كافي شمس الأندلس,cafe,,13.1268776,32.8762513,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00114,كافي لوقانو lugano,cafe,,13.1260874,32.8761028,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00115,Gourmandise قورمانديز حي الاندلس,review_required,,13.12576,32.8758963,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00116,JOE & THE JUICE LIBYA,juice_bar,,13.1254009,32.8751426,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00117,الحاج فتحي,traditional_cafe,,13.1303864,32.8739608,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00118,هافانا للعصائر,juice_bar,,13.1330891,32.8748942,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00119,SMASH Burger | سماش برجر,review_required,,13.1360882,32.8762919,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00120,BigChefs,review_required,,13.1389085,32.8771594,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00121,لوس أندلس حي الأندلس Los Andalos Hay Alandalos,review_required,,13.1367703,32.87286,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00122,Alzad Allibi for Catering Services - الزاد الليبي,review_required,,13.1306764,32.8710194,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00123,Lotche Cafe - مقهى لوتشي,cafe,,13.1308216,32.8705723,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00124,تاكوس قريل,review_required,,12.9802505,32.8147527,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00125,شنابو جنزور,review_required,,13.04329,32.8281011,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00126,مقهى البناني,cafe,,12.980471,32.8187159,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00127,بيتزا بولبو,review_required,,12.9959561,32.8200499,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00128,الحاج فتحي - جنزور,traditional_cafe,,13.0250135,32.8158483,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00129,De keyff cafe,cafe,,12.9962042,32.8262164,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00130,WM JTV Cafe,cafe,,13.0109626,32.836674,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00131,مقهى الكروان,cafe,,13.0150575,32.8292401,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00132,كافي المشتل,cafe,,13.0232511,32.8260527,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00133,DK COFFEE,coffee_shop,,13.0283686,32.8232371,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00134,Mando Fastfood Janzur ماندو جنزور,review_required,,13.0296869,32.8277962,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00135,الخيمة برجر - جنزور,review_required,,13.0320156,32.8292875,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00136,مقهى المشتل,cafe,,13.0412944,32.81481,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00137,Be one cafe بي وان كافي,cafe,,13.0206647,32.7748854,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00138,قهوة حاتم,coffee_shop,,13.073989,32.780306,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00139,Cafe 717,cafe,,13.0428462,32.8040753,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00140,حلويات موزارت - السياحية,dessert_cafe,,13.064847,32.8465321,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00141,كاسترو للوجبات السريعة,review_required,,13.0743258,32.8451205,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00142,بلبن فرع السياحية,review_required,,13.0773496,32.8543411,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00143,مقهى بيتزا الفورنو غوط الشعال,cafe,,13.0889366,32.8574443,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00144,نوتيلا السياحيه,review_required,,13.0896346,32.8612182,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00145,مقهى - السراج,cafe,,13.0709172,32.8004915,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00146,DOPAMIN,review_required,,13.0782287,32.8052828,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00147,Aws coffee,coffee_shop,,13.0973821,32.8074618,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00148,A K Caffee,coffee_shop,,13.1129955,32.8064513,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00149,مطحن بُـن تــوبـاز 3 - السراج,review_required,,13.1045469,32.7898303,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00150,Snake KOFFE,review_required,,13.094064,32.7954448,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00151,مطحن الاجم لتحميص وطحن القهوة ومستلزمات المطاحن والمقاهي,coffee_shop,,13.0953971,32.790213,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00152,كافي أبوسنينة,cafe,,13.0847106,32.796357,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00153,FoodPoint فود بوينت,review_required,,13.0844794,32.7977485,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00154,نادي القهوة Club café,coffee_shop,,13.0756111,32.8189057,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00155,مطعم صفيحة ترابزون - Trabzon Pidesi,review_required,,13.0790587,32.8188141,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00156,Kudo,review_required,,13.1280574,32.856739,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00157,O2 Café,cafe,,13.1247002,32.8752911,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00158,مقهى هارون - حي الأندلس,cafe,,13.1275228,32.8765321,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00159,ORANGE COFFEE,coffee_shop,,13.1313801,32.8695388,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00160,حلويات العسال,dessert_cafe,,13.130808,32.8701794,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00161,Black and white,review_required,,13.133245,32.8706973,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00162,كارفي حي الاندلس,review_required,,13.1328636,32.8743775,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00163,مقهى اداليا,cafe,,13.1361511,32.8807834,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00164,Wees Cafe - ويس كافي,cafe,,13.1376509,32.8805327,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00165,إسبريسو لاب,review_required,,13.1324481,32.8775787,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00166,عصير تايم,juice_bar,,13.141267,32.8791769,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00167,مقهى آلينور,cafe,,13.150687,32.879498,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00168,قوست برقر _ Ghost burger,review_required,,13.1510046,32.8776825,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00169,كشك الهمبورقا عمر المختار,review_required,,13.1585117,32.882197,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00170,Smash Craft Burger سماش كرافت برجر,review_required,,13.1623508,32.8829496,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00171,حلويات زهرة المدائن,dessert_cafe,,13.1627657,32.882746,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00172,مطعم 4 You,review_required,,13.1629611,32.8831196,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00173,نوتيلا شارع النصر,review_required,,13.1632367,32.8829119,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00174,مطعم طعميه ضوء,review_required,,13.1639613,32.8823627,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00175,طعمية فرش - شارع سليمان الباروني,review_required,,13.1640052,32.8825644,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00176,Green Cafe,cafe,,13.1637164,32.8835068,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00177,شارع الجلاء,review_required,,13.1637251,32.8835908,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00178,مقهي ابناء عشيبة للسندوتشات,cafe,,13.1636925,32.8836694,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00179,AsROMA Caffee,coffee_shop,,13.1615111,32.8836524,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00180,مطعم سديم للمأكولات السريعة,review_required,,13.1608034,32.8844976,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00181,مقهي البيادر.مشاوي علي للفحم,cafe,,13.1627382,32.8846792,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00182,Ram Cafe,cafe,,13.1634274,32.8859681,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00183,كافي شيش خان,cafe,,13.1638314,32.886516,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00184,essse cafè,review_required,,13.1648082,32.8861202,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00185,libya costa cafe,cafe,,13.1641633,32.8860825,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00186,عصائر هاواي,juice_bar,,13.1657543,32.8866031,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00187,Olympic Coffee - أولمبيك كافي,coffee_shop,,13.1659249,32.8875336,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00188,بيتزا 99,review_required,,13.1667605,32.8868681,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00189,كافي باب المدينة,cafe,,13.1677137,32.8877639,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00190,مطعم لبرتون,review_required,,13.167354,32.8883447,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00191,مقهى ثمانية وثمانون - 88,cafe,,13.1674525,32.8885213,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00192,كافي 88 للوجبات السريعة,cafe,,13.1676029,32.888539,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00193,اللموشي للسندوتشات,review_required,,13.1694927,32.8888582,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00194,مطعم الطاهي للمأكولات البحرية,review_required,,13.1697351,32.8888196,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00195,Cafe Latte,cafe,,13.17035,32.8901144,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00196,زهير بريش للحلويات الببو,dessert_cafe,,13.1779956,32.8889719,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00197,قهوة المسيرة,coffee_shop,,13.1728838,32.8876852,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00198,كافي الوافي,cafe,,13.1770545,32.884367,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00199,Karo Café - كارو كافي,cafe,,13.1829584,32.8858324,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00200,Resto coffe,cafe_restaurant,,13.1935014,32.8710562,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00201,مقهى تن,cafe,,13.1973578,32.8714497,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00202,Big mac burger,review_required,,13.1984807,32.8707113,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00203,THEGATE,review_required,,13.1974671,32.8687101,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00204,كافي روت 66,cafe,,13.2070718,32.8652299,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00205,كلاسيكو كافي,cafe,,13.2096853,32.8558378,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00206,8800,review_required,,13.1969323,32.854788,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00207,كودو - فرع حي دمشق,review_required,,13.2023777,32.8529666,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00208,مقهى المجلس,cafe,,13.2049559,32.8390187,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00209,مقهى البوعة,cafe,,13.2092237,32.8373424,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00210,كافي مقيق,cafe,,13.2080703,32.8375804,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00211,قهوة همبورقه,coffee_shop,,13.2159007,32.8371988,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00212,Cafe bene,cafe,,13.214886,32.8251604,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00213,مطعم Andary فرع صلاح الدين,review_required,,13.2158205,32.8253336,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00214,مقهى الوادي,cafe,,13.2144953,32.823517,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00215,La Casa04,review_required,,13.216722,32.8233974,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00216,الحاج فتحي - عين زارة,traditional_cafe,,13.2553479,32.8296075,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00217,اشتيوي كافي خلة الفرجان,cafe,,13.2277252,32.769968,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00218,مقهى العبسي,cafe,,13.2977433,32.7680385,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00219,مقهى بايو كافي في مقسم بن معتوق,cafe,,13.2585615,32.802936,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00220,مقهي وحلويات الكرم (الكشك),dessert_cafe,,13.3434852,32.7941467,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00221,كافي كوب,cafe,,13.2693273,32.8513703,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00222,الدبشي كافيه - Dabshi coffee,coffee_shop,,13.2398891,32.8490201,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00223,محمود للسندوتشات 777,review_required,,13.3514074,32.835698,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00224,كافي جزيل - JAZEEL CAFE,cafe,,13.2320418,32.8705703,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00225,شيش زياد فرع زناتة,review_required,,13.2296141,32.8690209,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00226,شرمب نيشن _ليبيا,review_required,,13.224265,32.8728472,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00227,كباب زناتة,review_required,,13.2225901,32.875682,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00228,شركة نون للعصائر,juice_bar,,13.2397392,32.8720564,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00229,معمل جاميلة البحباح,review_required,,13.2216592,32.8786255,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00230,مطبخ العيلة - cucina famiglia,review_required,,13.2223262,32.8804466,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00231,Vanilla Patisserie حلويات ڤانيليا,dessert_cafe,,13.2164133,32.8807807,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00232,Espressolab,specialty_coffee,,13.2112078,32.8833556,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00233,Gustoso,review_required,,13.2119236,32.8818621,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00234,Bubble Tea ببل تي,tea_house,,13.2113147,32.8842521,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00235,Eleanor Pastries,review_required,,13.2098844,32.8797784,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00236,Candy house كاندي هاوس,review_required,,13.2095118,32.8793496,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00237,Pinkberry Libya,review_required,,13.2069294,32.8837952,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00238,Buonissimo gelato Italiano,ice_cream_shop,,13.2068586,32.8830681,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00239,Nostro caffe,coffee_shop,,13.2067952,32.8835843,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00240,كافي لاتي,cafe,,13.1990477,32.8832245,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00241,Alhofra Cafe - مقهي الحفرة,cafe,,13.1999886,32.8829778,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00242,ڤوگ كافيه ومطعم,cafe_restaurant,,13.1936468,32.8849836,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00243,كلاسيكو ساندوتش,review_required,,13.1929527,32.8851246,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00244,موندو جيلاتو - القادسية,ice_cream_shop,,13.1922962,32.8846595,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00245,GOULZ,review_required,,13.1916874,32.885744,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00246,Ottimo Gusto Pizza & Pasta,review_required,,13.1972392,32.8819118,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00247,مقهي كابو,cafe,,13.1994485,32.8812321,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00248,مقهى الشيباني,cafe,,13.1999391,32.8811972,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00249,Sage Cafe - ساج كافي,cafe,,13.199799,32.8812312,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00250,Costa Cafe,cafe,,13.2006697,32.8795841,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00251,SUGAR Ben Ashur,review_required,,13.2015903,32.8787144,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00252,Al DENTE Cafe M Hanka,cafe,,13.2005935,32.8793452,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00253,دجاج كنتاكي,review_required,,13.2006704,32.8793572,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00254,Miss cake sweet shop and cafe 2,dessert_cafe,,13.2009594,32.8794763,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00255,كافي مدريد,cafe,,13.2018585,32.8755149,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00256,العمو الجرابة,review_required,,13.2026332,32.8756833,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00257,Bash Burger,review_required,,13.2030752,32.8757653,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00258,Pink Cafe,cafe,,13.2031199,32.8757834,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00259,THE MEATHOUSE,review_required,,13.2032859,32.8758394,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00260,بـ لبن,review_required,,13.2032344,32.8760097,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00261,تويستر,review_required,,13.2032887,32.8760389,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00262,Diyar al-Sham ديار الشام,review_required,,13.2035458,32.8760852,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00263,Burger Boss,review_required,,13.204197,32.8760224,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00264,Guns ‘n’ Buns,review_required,,13.204492,32.8761165,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00265,مطعم زيادة,review_required,,13.2045783,32.8761103,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00266,لاتينو,review_required,,13.2055214,32.8764583,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00267,MOMANTO,review_required,,13.2059528,32.8757396,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00268,S7S Burger مطعم سحس,review_required,,13.2062726,32.8759306,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00269,كوب كافي,cafe,,13.2060998,32.87506,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00270,Terrace café,cafe,,13.2061017,32.8747609,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00271,مطحن جرابة,review_required,,13.2059003,32.8740873,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00272,Mammamia كافي ماماميا,cafe,,13.2063045,32.87396,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00273,لافندر كافي,cafe,,13.2064034,32.8732009,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00274,فرايتس شيف,review_required,,13.2073275,32.8724061,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00275,مقهى هارون فرع بن عاشور,cafe,,13.2027357,32.8720121,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00276,مطعم طشطشة,review_required,,13.2028581,32.8721696,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00277,مقهى تشامبيون - Cafe champion,cafe,,13.2074527,32.8705016,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00278,Bartato,review_required,,13.2069459,32.8712907,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00279,مطعم الشامي 2- فرع رأس حسن,review_required,,13.2087291,32.8701687,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00280,كباب عريبي,review_required,,13.2102733,32.870465,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00281,ماندو Mando,review_required,,13.2085045,32.8746751,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00282,مطعم 93,review_required,,13.2109955,32.8743042,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00283,دولشي كيك,review_required,,13.2162358,32.8761796,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00284,مقهى براون - Brown Cafe,cafe,,13.2116312,32.8777158,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00285,عكسـة الرجـال,review_required,,13.2220747,32.8721064,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00286,مقهى القيزاني - Cafe algezani,cafe,,13.2122981,32.8585227,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00287,كافيتيريا كلية العلوم / جامعة طرابلس,cafe,,13.2189972,32.8546479,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00288,Espresso Lab Cafe - مقهى إسبريسو لاب,specialty_coffee,,13.2277437,32.8495476,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00289,Crown Cafe,cafe,,13.2317609,32.8383787,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00290,بريوش عمر,review_required,,13.1868369,32.8217272,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00291,الكردي كافي,cafe,,13.1742048,32.7943519,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00292,طرابلس,review_required,,13.184615,32.7845745,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00293,فلامينقو,review_required,,13.1891764,32.7767193,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00294,كافي قمر,cafe,,13.1716929,32.7788866,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00295,WAKE UP COFFEE SHOP,coffee_shop,,13.1498888,32.7788958,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00296,cafe 99,cafe,,13.1637568,32.7818947,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00297,Thaj Cafe,cafe,,13.1576526,32.7848581,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00298,كافي أدجيم,cafe,,13.1415156,32.763673,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00299,سيمافرو للوجبات الخفيفة و المعجنات,review_required,,13.2363394,32.8820889,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00300,عالم القهوة,coffee_shop,,13.2429236,32.8897765,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00301,بسبوسه الفقيه,review_required,,13.2556983,32.8849781,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00302,Tasty Food,review_required,,13.2304259,32.9004843,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00303,فطائر الكريكشي,review_required,,13.2426064,32.908257,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00304,أورزو للأيسكريم orso ice cream,ice_cream_shop,,13.2429618,32.9082027,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00305,قهوة داكوردو,coffee_shop,,13.2622683,32.9052517,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00306,مقهى MAIN GATE,cafe,,13.2695803,32.9053332,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00307,كاستيلو كافي,cafe,,13.2631752,32.9032083,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00308,مقهى الفنجان الذهبي,cafe,,13.2628708,32.8995428,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00309,قهوة الدقروني,coffee_shop,,13.2553653,32.8993554,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00310,IPSA ICE CREAM ابسا للمثلجات و الجيلاطي,ice_cream_shop,,13.2587908,32.8942324,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00311,الزيتونة برجر 🍔 ALZETOUNA BURGER,review_required,,13.2579131,32.8916986,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00312,فرشيلو كافي Farchilo Coffee,coffee_shop,,13.2557514,32.8830381,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00313,مقهى ابو كتيف,cafe,,13.2530028,32.8808535,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00314,ماندو | Mando,review_required,,13.2920509,32.8358139,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00315,مقهى الديدو _ Café AlDido,cafe,,13.3050284,32.8035912,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00316,كافي 2023,cafe,,13.330599,32.8284487,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00317,محمد 2,review_required,,13.3189266,32.8345334,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00318,SUGAR,review_required,,13.3463086,32.8866827,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00319,كودو تاجوراء,review_required,,13.3384489,32.8836545,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00320,Naas Cafe,cafe,,13.3304792,32.8753523,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00321,العالم للحلويات,dessert_cafe,,13.3275897,32.8755098,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00322,B1 coffee,coffee_shop,,13.3378915,32.8689994,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00323,مقهى و مطعم عصمان,cafe,,13.3598903,32.8723626,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00324,الحاج فتحي فرع تاجوراء,traditional_cafe,,13.3755662,32.8714458,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00325,Café Motiv,cafe,,13.2977288,32.8821703,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00326,مقهى المداق,cafe,,13.2961647,32.8792698,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00327,7stars cafe,cafe,,13.2608892,32.8521481,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00328,مقهي الوطنية,cafe,,13.2570977,32.8565575,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00329,السبعة,review_required,,13.2590751,32.8585215,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00330,مقهى هارون فرع السبعة,cafe,,13.2697762,32.8633454,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00331,SamboCoffee,coffee_shop,,13.2738007,32.862046,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00332,كوكيز,review_required,,13.2756887,32.865625,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00333,B&B Fast Food,review_required,,13.2733569,32.8773505,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00334,كافي تشينو Chino Cafe,cafe,,13.2694016,32.8910259,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00335,Cafe 55,cafe,,13.3366005,32.8636488,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00336,Vero caffe,coffee_shop,,13.3624039,32.8939773,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00337,مقهى هارون,cafe,,13.3769223,32.8944023,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00338,مقهى فينيسيا للبيتزا والمعجنات,cafe,,13.3882429,32.8906876,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00339,بيانكا -BIANCA,review_required,,13.3831993,32.894189,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00340,بيتزا الفوار 2,review_required,,13.3870749,32.8930237,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00341,تيك اوي,review_required,,13.3623341,32.8845618,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00342,Caffe 25,coffee_shop,,13.3631866,32.8730059,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00343,بانيني كافيه,cafe,,13.3706391,32.8725769,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00344,مقهى سيلفيوم,cafe,,13.35492,32.8721543,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00345,معمل القشطة,review_required,,13.3465639,32.8733294,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00346,Malek cafe,cafe,,13.3438452,32.8694982,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00347,Habibi caffe & games,coffee_shop,,13.3377785,32.8708528,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00348,مقهى الوسام,cafe,,13.3914636,32.8857322,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00349,مقهى الكبدة تاجوراء,cafe,,13.4089017,32.8720774,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00350,Maram Kitchen,review_required,,13.3562062,32.8296918,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00351,مقهى فيرونا VERONA CAFFE,coffee_shop,,13.348356,32.826264,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00352,مقهي بلاك اند وايت,cafe,,13.3501459,32.8351697,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00353,مستر باسترس mr. Pastries,review_required,,13.2002107,32.8606271,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00354,قهوة عصام الجديدة,coffee_shop,,13.1986325,32.8740664,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00355,La Dolce Vita,review_required,,13.1913561,32.8805558,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00356,كافي برقان,cafe,,13.1889068,32.8804871,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00357,كافي شباب بلادي,cafe,,13.1841758,32.879383,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00358,ويلا كافي,cafe,,13.1817767,32.8813772,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00359,مقهي الأرز,cafe,,13.1803788,32.8837509,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00360,Como Coffee,coffee_shop,,13.179165,32.8821359,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00361,Gelateria pinguino - مثلجات بنقوينو,ice_cream_shop,,13.1845867,32.8844758,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00362,قهوة الببو دحي وجبنة,coffee_shop,,13.1860971,32.8845224,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00363,VIA MERCATO LY,review_required,,13.1906447,32.886498,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00364,فوزي سندوتشات بانينا Fawzi Street food,review_required,,13.182782,32.8898154,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00365,البيت الموريسكي(كازا موريسكي),review_required,,13.1772054,32.8963209,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00366,مقهي باديه,cafe,,13.174363,32.897921,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00367,Coofe Refrehs,review_required,,13.1768839,32.8995243,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00368,شباك -shubbak.ly,review_required,,13.1754439,32.8997391,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00369,MARSA CAFE قهوه على البحر,cafe,,13.1777878,32.8999108,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00370,Old but gold,review_required,,13.1759622,32.9004355,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00371,Caffè del Porto,coffee_shop,,13.1758247,32.902618,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00372,مقهى السيدة مريم,cafe,,13.1758661,32.8986031,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00373,قهوة ابوفينا,coffee_shop,,13.1772051,32.8983828,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00374,فلافل الحموي,review_required,,13.1735496,32.8961497,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00375,مقهى ومطعم الميڨو,cafe_restaurant,,13.1727625,32.8946978,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00376,مقهى صلاح,cafe,,13.1764856,32.8932228,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00377,مقهى عمورة الكيلاني الثريا,cafe,,13.1784375,32.8935625,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00378,مقهي أبو أحمد,cafe,,13.1795909,32.8937203,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00379,مقهى كاره للوجبات السريعة,cafe,,13.1807089,32.8936263,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00380,البريوشة,review_required,,13.1810869,32.8941896,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00381,Saray Café مقهى سراي,cafe,,13.1817598,32.8939463,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00382,Adnan cafe,cafe,,13.1831651,32.893424,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00383,coffe malek,coffee_shop,,13.1810161,32.893303,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00384,مقهى النخيل,cafe,,13.1822371,32.8926472,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00385,Yahya sandwich,review_required,,13.181155,32.8940313,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00386,Nesma Cafe & Restaurant,cafe_restaurant,,13.1831111,32.8943934,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00387,مقهي ومطعم السرايا & Al Saraya Cafe and Restaurant,cafe_restaurant,,13.1824414,32.8946473,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00388,كافي اسامة,cafe,,13.1853596,32.8948182,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00389,مقهى الكرنيش,cafe,,13.1853506,32.8958753,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00390,مقهي فيراري Coffee ferrari,coffee_shop,,13.1841634,32.8967117,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00391,GROUP CAFE,cafe,,13.1678187,32.895261,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00392,الكشك العالمي,review_required,,13.2106951,32.8992755,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00393,مقهى طريق الشط,cafe,,13.2143117,32.8999988,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00394,شهرزاد للحلويات الشرقية والعالمية,dessert_cafe,,13.2185373,32.9003745,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00395,bona cake,dessert_cafe,,13.2213125,32.8923125,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00396,GRILLZA للمعجنات والمشاوي,review_required,,13.2230943,32.8888976,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00397,كافي تشينو,cafe,,13.2314209,32.8885989,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00398,S&M cake,dessert_cafe,,13.2512207,32.8973085,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00399,The cue cafe,cafe,,13.2550206,32.9019359,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00400,دجاج تندوري فرع سوق الجمعة,review_required,,13.264222,32.9064901,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00401,مشاوي أبراج,review_required,,13.2649076,32.9065577,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00402,معمل البركة للحلويات,dessert_cafe,,13.2674375,32.9040625,new_feature,low,27,no_image
+LY-FNB-CAF-TRI-00403,Big Boss Burger,review_required,,13.2092235,32.8931622,new_feature,low,18,no_image
+LY-FNB-CAF-TRI-00404,Gourmandise Libya,review_required,,13.2088863,32.8923247,new_feature,low,18,no_image
