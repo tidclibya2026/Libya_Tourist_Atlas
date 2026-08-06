@@ -1,0 +1,76 @@
+﻿id,name_ar,facility_type_code,district_ar,longitude,latitude,match_status,data_quality_status,completeness_percent,image_status
+LY-FNB-RES-TRI-00001,مطعم براون للوجبات السريعة,restaurant,,13.2116343,32.8777699,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00002,مطعم النبراس,traditional_restaurant,,13.202387,32.868285,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00003,مطعم لارمبلا,restaurant,,13.207352,32.880459,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00004,مطعم فتوش للمأكولات اللبنانية حي الأندلس,international_restaurant,,13.12428,32.872808,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00005,مطعم تك أوي,fast_food,,13.19369,32.872239,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00006,مطعم بيت الختيار,fast_food,,13.195834,32.890244,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00007,مطعم الأثار,restaurant,,13.175679,32.900152,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00008,مطعم فور سيزونز,traditional_restaurant,,13.209478,32.886332,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00009,مطعم ميلانو للوجبات السريعة,restaurant,,13.1784986,32.8746942,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00010,الأخطبوط للمشاوى والوجبات السريعة,restaurant_other,,13.1896814,32.8830634,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00011,دا ميت هاوس,restaurant_other,,13.2032859,32.8758394,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00012,مطعم الزرقاني للمأكولات الشعبية و الشرقية,traditional_restaurant,,13.1850769,32.8826957,new_feature,medium,45,no_image
+LY-FNB-RES-TRI-00013,بيتزا الفورنو شارع الجمهورية,fast_food,,13.1836263,32.8804167,new_feature,medium,45,no_image
+LY-FNB-RES-TRI-00014,مطعم السفير,restaurant,,13.1843559,32.8928658,new_feature,medium,45,no_image
+LY-FNB-RES-TRI-00015,مطعم لاباديلا,restaurant,,13.209313,32.887671,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00016,الاخطبوط للمشاوي و الوجبات السريعة و فواكه البحر - الظهر,seafood_restaurant,,13.197489,32.890678,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00017,الانيا قريل- شواية,restaurant,,13.209232,32.892975,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00018,مذاق بكستاني - مطعم,international_restaurant,,13.203065,32.894209,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00019,مطعم شوايا,restaurant,,13.20639,32.875296,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00020,مطعم القصر,international_restaurant,,13.188201,32.889291,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00021,مطعم أورجينال,international_restaurant,,13.191188,32.885937,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00022,VIA MERCATO LY,international_restaurant,,13.190645,32.886498,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00023,مطعم مراحب، مطعم,traditional_restaurant,,13.216568,32.883433,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00024,المطعم السنيورة التركي,international_restaurant,,13.196109,32.86964,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00025,مطعم الطاجين للماكولات الليبية,traditional_restaurant,,13.199141,32.881308,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00026,مطعم الزرقاني للمأكولات الطرابلسية,traditional_restaurant,,13.195024,32.886101,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00027,مطعم لاروكا,restaurant,,13.23441,32.898353,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00028,بيج بوس برجر,fast_food,,13.209228,32.893162,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00029,لا كوتشينا إيطاليانو,international_restaurant,,13.197367,32.887588,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00030,شنابو الدهماني زاوية,review_required,,13.212874,32.894429,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00031,مطعم كوستيليا,restaurant,,13.212127,32.893137,new_feature,medium,45,no_image
+LY-FNB-RES-TRI-00032,أيلا كافي,review_required,,13.193842,32.887823,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00033,لاتينو,review_required,,13.202001,32.863291,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00034,ماكس قريل ماكس جريل,restaurant_other,,13.197205,32.892275,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00035,إنديامو,review_required,,13.206833,32.8728884,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00036,Olympic restaurant,restaurant,,13.165638,32.887482,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00037,مطعم قصر الوالي,restaurant,,13.134065,32.875599,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00038,مطعم وكافيه فلانيل | مطعم فلانيل ومقهي,cafe_restaurant,,13.205742,32.880592,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00039,مطعم النخلة,fast_food,,13.231752,32.862614,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00040,مطعم المنسف,restaurant,,13.216041,32.882389,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00041,كينج فرايد تشيكن,fast_food,,13.216434,32.890299,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00042,مطعم البحباح,restaurant,,13.197686,32.891206,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00043,بيتزا فيرا,fast_food,,13.197493,32.877181,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00044,مطعم الروبيان للمأكولات البحرية,seafood_restaurant,,13.143308,32.878142,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00045,مطعم الزهراء 3,traditional_restaurant,,13.16477,32.886567,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00046,Hk pizza,fast_food,,13.211462,32.891481,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00047,Pamplona cafe,fast_food,,13.200491,32.892862,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00048,Bono restaurant المطعم التركي,international_restaurant,,13.176297,32.891514,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00049,مقهى البريوشة,review_required,,13.180983,32.894226,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00050,بيتزا الفورنو شارع الجمهورية,fast_food,,13.183626,32.880417,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00051,Kudo restaurant,fast_food,,13.181427,32.894281,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00052,Maracana fast food,fast_food,,13.197512,32.891594,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00053,مطعم أضنة ADANA,international_restaurant,,13.17619,32.89182,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00054,مطعم على الفحم,restaurant,,13.165136,32.886017,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00055,De Capri Cafe And Restaurant,cafe_restaurant,,13.193646,32.888671,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00056,مطعم بورصة التركي,international_restaurant,,13.188237,32.890929,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00057,مطعم الضاحية,fast_food,,13.187186,32.887711,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00058,Pizza Restaurant,international_restaurant,,13.181219,32.894018,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00059,مطعم الضيافة للوجبات السريعة,restaurant,,13.175281,32.885651,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00060,Lavina House,review_required,,13.142667,32.879215,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00061,بيكانتي,international_restaurant,,13.195502,32.890278,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00062,مطعم بيلو,dessert_shop,,13.188322,32.890738,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00063,مطعم بونا بيتي,restaurant,,13.206439,32.894614,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00064,شاورما ومشاوي قوستوزو,fast_food,,13.212695,32.893394,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00065,مطعم ديوان الامير,restaurant,,13.19553,32.864032,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00066,برانش كافي - برنش كافيه,review_required,,13.207182,32.899774,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00067,مطعم ميلانو للوجبات السريعة,restaurant,,13.178499,32.874695,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00068,تاكور قريل,fast_food,,13.186712,32.884072,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00069,هامبوربو جاجا,fast_food,,13.181797,32.889634,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00070,مطعم الأزرقاني للمأكولات الشعبية و الشرقية,traditional_restaurant,,13.185077,32.882696,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00071,ديفيو سبان,review_required,,13.186459,32.883961,new_feature,low,36,temporary_source_reference
+LY-FNB-RES-TRI-00072,مطعم المدينة التركية - شارع سليمان الباروني,international_restaurant,,13.179431,32.884117,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00073,مطعم المدق الدمشقي,international_restaurant,,13.183296,32.889619,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00074,مطعم بيت جدي للخدمات التمونية ، طرابلس ، ليبيا,traditional_restaurant,,13.211537,32.894756,new_feature,medium,45,temporary_source_reference
+LY-FNB-RES-TRI-00075,شيزي زياد فرع زناتة,review_required,,13.229538,32.868994,new_feature,low,36,temporary_source_reference

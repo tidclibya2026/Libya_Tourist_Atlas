@@ -1,0 +1,4 @@
+﻿record_a_id,record_a_name,record_b_id,record_b_name,distance_meters,name_similarity,duplicate_classification,recommended_action,notes
+LY-FNB-RES-TRI-00009,مطعم ميلانو للوجبات السريعة,LY-FNB-RES-TRI-00067,مطعم ميلانو للوجبات السريعة,0.1,1,confirmed_duplicate,retain_and_review,No automatic merge performed
+LY-FNB-RES-TRI-00012,مطعم الزرقاني للمأكولات الشعبية و الشرقية,LY-FNB-RES-TRI-00070,مطعم الأزرقاني للمأكولات الشعبية و الشرقية,0.0,0.966,confirmed_duplicate,retain_and_review,No automatic merge performed
+LY-FNB-RES-TRI-00013,بيتزا الفورنو شارع الجمهورية,LY-FNB-RES-TRI-00050,بيتزا الفورنو شارع الجمهورية,0.0,1,confirmed_duplicate,retain_and_review,No automatic merge performed
