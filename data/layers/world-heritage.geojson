@@ -235,10 +235,10 @@
         "parent_site_id": null,
         "parent_site_name_ar": "",
         "site_role": "primary",
-        "category": "المعالم الأثرية والتراثية",
-        "subcategory": "",
-        "description_ar": "موقع شحات (قورينة) الأثري name موقع شحات (قورينة) الأثري x 21.82236 y 32.862437 selection_ ثقافي number 190 y_of__regi 1982 descriptio كانت مستعمرة للإغريق في جزيرة ثيرا وإحدى مدن العالم الهلّيني الأساسية. تحولت إلى مدينة رومانية وظلت عاصمة كبيرة حتى زلزال عام 365 م. بها آث",
-        "description_en": "",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "موقع شحات (قورينة) الأثري، وكانت مستعمرة للإغريق في جزيرة ثيرا وإحدى مدن العالم الهلّيني الأساسية، ثم تحولت إلى مدينة رومانية.",
+        "description_en": "The archaeological site of Shahat (Cyrene), an ancient Greek and Roman city.",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "مواقع التراث العالمي الخمسة",
@@ -6736,24 +6736,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.857726275920825",
-        "subcategory": "",
-        "description_ar": "الوصف: مسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعة التصنيف: x: 21.857726275920825 y: 32.818438519556700 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/مسرح شحات الاثري (1).jpg\",\"rid\":22019200,\"lid\":\"4359591\",\"fid\":\"6\",\"field\":\"photo\",\"title\":\"مسرح شحات الاثري (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"path en_name: Archaeological Theater of cyrene info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "مسرح أثري",
+        "description_ar": "مسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعة",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح شحات الاثري",
         "extended_data": {
@@ -6768,8 +6765,8 @@
           "EN_NAME": ""
         },
         "source_index": 104,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -6790,24 +6787,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.864176988601621",
-        "subcategory": "",
-        "description_ar": "الوصف: مبنى يضم مئات التماثيل والقطع الاثرية والنقوش الرخامية التصنيف: x: 21.864176988601621 y: 32.817809621305166 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/متحف المنحوتات (1).jpg\",\"rid\":22019228,\"lid\":\"4359591\",\"fid\":\"7\",\"field\":\"photo\",\"title\":\"متحف المنحوتات (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"pathname\": en_name: Shahhat Museum info: متحف شحات أو متحف المنحوتات في شحات في ليبيا. هو متحف قرب مدينة قوريني التاريخية EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مبنى يضم مئات التماثيل والقطع الاثرية والنقوش الرخامية",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "متحف المنحوتات",
         "extended_data": {
@@ -6822,8 +6816,8 @@
           "EN_NAME": ""
         },
         "source_index": 105,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -6844,24 +6838,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.854398000000000",
-        "subcategory": "",
-        "description_ar": "الوصف: منشات مائية اثرية قديمة بالقرب من النبع استخدمت للاغتسال والتطهير التصنيف: x: 21.854398000000000 y: 32.822195999999998 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/الحمامات الاغريقية (1).jpg\",\"rid\":22019157,\"lid\":\"4359591\",\"fid\":\"2\",\"field\":\"photo\",\"title\":\"الحمامات الاغريقية (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":fal en_name: Greek Baths info: الحمامات الأغريقية و تسمى إيضا حمامات الأميرات تقع في الجهة المقابلة و هي حمامات محفورة في الصخر و بعضها تحت مستوى سطح الأرض , مدينة وقورينا EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "حمامات أثرية",
+        "description_ar": "منشات مائية اثرية قديمة بالقرب من النبع استخدمت للاغتسال والتطهير",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "الحمامات الاغريقية",
         "extended_data": {
@@ -6876,8 +6867,8 @@
           "EN_NAME": ""
         },
         "source_index": 106,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -6898,24 +6889,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.864710748195591",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.864710748195591 y: 32.813898630826429 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/المجلس المحلي شحات (2).jpg\",\"rid\":22019279,\"lid\":\"4359591\",\"fid\":\"12\",\"field\":\"photo\",\"title\":\"المجلس المحلي شحات (2).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":fals en_name: Municipality of Shahat info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المجلس المحلي شحات",
         "extended_data": {
@@ -6930,8 +6918,8 @@
           "EN_NAME": ""
         },
         "source_index": 107,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -6984,7 +6972,7 @@
           "EN_NAME": ""
         },
         "source_index": 108,
-        "image_match_type": "exact_feature",
+        "image_match_type": "site_general",
         "image_match_confidence": "high"
       }
     },
@@ -7006,24 +6994,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.855092346668183",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.855092346668183 y: 32.823751292349307 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/المسجد القديم (1).jpg\",\"rid\":22019266,\"lid\":\"4359591\",\"fid\":\"11\",\"field\":\"photo\",\"title\":\"المسجد القديم (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"pathname\":\"/L en_name: The old Mosque info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع ديني",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "المسجد القديم",
         "extended_data": {
@@ -7038,8 +7023,8 @@
           "EN_NAME": ""
         },
         "source_index": 109,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7060,24 +7045,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.879425000000001",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.879425000000001 y: 32.824626000000002 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/منتزة شحات (1).jpg\",\"rid\":22019260,\"lid\":\"4359591\",\"fid\":\"10\",\"field\":\"photo\",\"title\":\"منتزة شحات (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"pathname\":\"/LIBYA/Cyrene_ en_name: park of Shahat info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "منتزة شحات",
         "extended_data": {
@@ -7092,8 +7074,8 @@
           "EN_NAME": ""
         },
         "source_index": 110,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7114,24 +7096,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.850824952125507",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.850824952125507 y: 32.794728907260229 city: شحات photo: en_name: Cave info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "كهف يقع جنوب شرق مدينة شحات",
         "extended_data": {
@@ -7146,8 +7125,8 @@
           "EN_NAME": ""
         },
         "source_index": 111,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7168,24 +7147,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.857983767986234",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.857983767986234 y: 32.817660849024655 city: شحات photo: en_name: Theatre info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "مسرح أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح3",
         "extended_data": {
@@ -7200,8 +7176,8 @@
           "EN_NAME": ""
         },
         "source_index": 112,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7222,24 +7198,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.858517527580204",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.858517527580204 y: 32.818242411977437 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/الساحة.jpg\",\"rid\":25847438,\"lid\":\"4359591\",\"fid\":\"34\",\"field\":\"photo\",\"title\":\"الساحة.jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false}] en_name: Caesareum info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "سيزاريوم/ساحة بروكولوس المحيطة بالأروقة…",
         "extended_data": {
@@ -7254,8 +7227,8 @@
           "EN_NAME": ""
         },
         "source_index": 113,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7276,24 +7249,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.859531402587859",
-        "subcategory": "",
-        "description_ar": "الوصف: منطقة طبيعية خضراء تشتهر بأشجار الصنوبر والعرعر التصنيف: x: 21.859531402587859 y: 32.816276804051867 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/غابة شحات ليبيا.jpg\",\"rid\":25848706,\"lid\":\"4359591\",\"fid\":36,\"field\":\"photo\",\"title\":\"غابة شحات ليبيا.jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false}] en_name: Shahat Forest info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "منطقة طبيعية خضراء تشتهر بأشجار الصنوبر والعرعر",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "غابة شحات",
         "extended_data": {
@@ -7308,8 +7278,8 @@
           "EN_NAME": ""
         },
         "source_index": 114,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7330,24 +7300,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.937808990478452",
-        "subcategory": "",
-        "description_ar": "الوصف: كهف اثري عالمي يضم مستوطنات بشرية تعود لماقبل التاريخ 1000سنة التصنيف: x: 21.937808990478452 y: 32.843394746633727 city: شحات photo: en_name: Hwa El Gater info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "كهف اثري عالمي يضم مستوطنات بشرية تعود لماقبل التاريخ 1000سنة",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "هوا القاطر",
         "extended_data": {
@@ -7362,8 +7329,8 @@
           "EN_NAME": ""
         },
         "source_index": 115,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7384,24 +7351,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.850835680961548",
-        "subcategory": "",
-        "description_ar": "الوصف: مسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعةمسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعة التصنيف: x: 21.850835680961548 y: 32.824395926234992 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/مسرح شحات الاثري (1).jpg\",\"rid\":22019200,\"lid\":\"4359591\",\"fid\":\"43\",\"field\":\"photo\",\"title\":\"مسرح شحات الاثري (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"pat en_name: Theatre of cyrene info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "مسرح أثري",
+        "description_ar": "مسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعةمسرح يوناني قديم تم تحويله في العهد الروماني الى مدرج خاص بالمصارعة",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مسرح شحات",
         "extended_data": {
@@ -7416,8 +7380,8 @@
           "EN_NAME": ""
         },
         "source_index": 116,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7438,24 +7402,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.852450370788535",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.852450370788535 y: 32.822800110728899 city: شحات photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مقابر منحوتة في الصخر",
         "extended_data": {
@@ -7470,8 +7431,8 @@
           "EN_NAME": ""
         },
         "source_index": 117,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7492,24 +7453,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.943473815917908",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.943473815917908 y: 32.820604690569596 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/هوا احجري (1).jpeg\",\"rid\":25991486,\"lid\":\"4359591\",\"fid\":\"41\",\"field\":\"photo\",\"title\":\"هوا احجري (1).jpeg\",\"ext\":\"jpeg\",\"panorama\":false,\"isDir\":false},{\"pathname\":\"/LIBYA/Cyrene_S en_name: HWA Ahjiri info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "هوا احجري",
         "extended_data": {
@@ -7524,8 +7482,8 @@
           "EN_NAME": ""
         },
         "source_index": 118,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7546,24 +7504,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.852398999999998",
-        "subcategory": "",
-        "description_ar": "الوصف: نبع مياه الاله ابولو المقدسة لها كثر من 2500 عام وهي تجري لتسقي اجود انواع العنب والتين التصنيف: x: 21.852398999999998 y: 32.823022000000002 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/نبع أبولو (1).jpg\",\"rid\":22019253,\"lid\":\"4359591\",\"fid\":\"9\",\"field\":\"photo\",\"title\":\"نبع أبولو (1).jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false},{\"pathname\":\"/LIBYA/Cyrene_Shaha en_name: Fountain of Apollo info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "نبع مياه الاله ابولو المقدسة لها كثر من 2500 عام وهي تجري لتسقي اجود انواع العنب والتين",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "نبع أبولو",
         "extended_data": {
@@ -7578,8 +7533,8 @@
           "EN_NAME": ""
         },
         "source_index": 119,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7600,24 +7555,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.901947855949352",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.901947855949352 y: 32.817503059970065 city: شحات photo: ___json[{\"pathname\":\"/LIBYA/Cyrene_Shahat/صور_شحات/شلال شحات ليبيا.jpg\",\"rid\":25848707,\"lid\":\"4359591\",\"fid\":40,\"field\":\"photo\",\"title\":\"شلال شحات ليبيا.jpg\",\"ext\":\"jpg\",\"panorama\":false,\"isDir\":false}] en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال شحات",
         "extended_data": {
@@ -7632,8 +7584,8 @@
           "EN_NAME": ""
         },
         "source_index": 120,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7654,24 +7606,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x: 21.855497360229432",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: 21.855497360229432 y: 32.826158502695122 city: شحات photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "مقبرة أثرية",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "مدافن محفورة في الجبل",
         "extended_data": {
@@ -7686,8 +7635,8 @@
           "EN_NAME": ""
         },
         "source_index": 121,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7708,24 +7657,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "معبد أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "معبد الكابيتوليوم",
         "extended_data": {
@@ -7740,8 +7686,8 @@
           "EN_NAME": ""
         },
         "source_index": 122,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7762,24 +7708,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "اعمدة اثار شحات الخالدة",
         "extended_data": {
@@ -7794,8 +7737,8 @@
           "EN_NAME": ""
         },
         "source_index": 123,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7816,9 +7759,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: اكبر معبد اغريقي في افريقيا يعود للقرن الخامس ق/م وهو اكبر حجم من المعبد البارثينون التصنيف: x: y: city: photo: en_name: info: EN_NAME: Temple of Zeus",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "معبد أثري",
+        "description_ar": "اكبر معبد اغريقي في افريقيا يعود للقرن الخامس ق/م وهو اكبر حجم من المعبد البارثينون",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
@@ -7826,10 +7769,9 @@
         "publication_status": "published",
         "review_status": "review_required",
         "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+          "assets/media/LIBYA/heritage/cyrene/published/features/cyrene-temple-of-zeus-001.jpeg"
         ],
-        "image_count": 2,
+        "image_count": 1,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_ownership",
@@ -7848,7 +7790,7 @@
           "EN_NAME": "Temple of Zeus"
         },
         "source_index": 124,
-        "image_match_type": "site_general",
+        "image_match_type": "exact_feature",
         "image_match_confidence": "high"
       }
     },
@@ -7870,24 +7812,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: المركز التجاري والسياسي والاجتماعي للمدينة قديما وتضم النصب التذكاري والمقابر الملكية التصنيف: x: y: city: photo: en_name: info: EN_NAME: Agora",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "المركز التجاري والسياسي والاجتماعي للمدينة قديما وتضم النصب التذكاري والمقابر الملكية",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "السوق اليوناني القديم اغورا",
         "extended_data": {
@@ -7902,8 +7841,8 @@
           "EN_NAME": "Agora"
         },
         "source_index": 125,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7924,24 +7863,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "بازيليكا أثرية",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "Byzantine basilica",
         "extended_data": {
@@ -7956,8 +7892,8 @@
           "EN_NAME": ""
         },
         "source_index": 126,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -7978,24 +7914,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال الدبوسية",
         "extended_data": {
@@ -8010,8 +7943,8 @@
           "EN_NAME": ""
         },
         "source_index": 127,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -8032,24 +7965,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال رأس الهلال بافلو",
         "extended_data": {
@@ -8064,8 +7994,8 @@
           "EN_NAME": ""
         },
         "source_index": 128,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -8086,24 +8016,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "شلال بالفو",
         "extended_data": {
@@ -8118,8 +8045,8 @@
           "EN_NAME": ""
         },
         "source_index": 129,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -8140,24 +8067,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "مقبرة أثرية",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "Cyrene cemetery",
         "extended_data": {
@@ -8172,8 +8096,8 @@
           "EN_NAME": ""
         },
         "source_index": 130,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -8194,24 +8118,21 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "component",
-        "category": "x:",
-        "subcategory": "",
-        "description_ar": "الوصف: التصنيف: x: y: city: photo: en_name: info: EN_NAME:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/kml/world-heritage.kml",
         "source_folder": "شحات_",
         "publication_status": "published",
         "review_status": "review_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "low",
         "source_name_ar": "بحيرة براك نوطا",
         "extended_data": {
@@ -8226,8 +8147,8 @@
           "EN_NAME": ""
         },
         "source_index": 131,
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       }
     },
     {
@@ -14409,9 +14330,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "accommodation",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7WCv9Zl2LdqxYFPw5HaPWKpBc73hYiK01XhiNgnVav2kU-ba54kh6yfpFGaJMsgpFTSNQKCI8QFnysiKFGwRWtTk1vv2A8SRbhhFAvgQg2DEfIF9i3yy3VLI60J53ZBkCznKOTM-gJzUvdigMWxF02FwEK4ZWB6LvHH1iujWoawo_rG-BudSl0bYcA796NXhRZWab9gbWKkGGpEnkZ5Fd0OHXqixLVKD3GhePY8FGHceCC1vtQHyKpKuw?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: فندق التلال الوسيطة هو منشأة فندقية متوسطة المستوى تستقبل مختلف الفئات من الزوار والسياح، ويتميّز بموقعه الذي يوفّر سهولة الوصول إلى قلب المدينة والطرق الرئيسية المؤدية إلى الجبل الأخضر والمناطق السياحية المجاورة<br>التصنيف: موقع ايواء سياحي<br>x: 21.7334<br>y: 32.79324<br>city: مدينة البيضاء<br>en_name: Middle Hills Hotel<br>info: يقع فندق التلال الوسيطة في مدينة البيضاء – شرق ليبيا، ضمن منطقة الجبل الأخضر ذات الطبيعة الخلّابة، قريبًا من نقاط الجذب السياحية والخدمات الأساسية في المدينة<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6sh08cCwNMDXVM4uRbCbVOR8dFSTLb7_Y6BzSwcBWKz29HLj_NvDkVRil8Mi5oFfNzoohq2NFGI9X-LgV486j5KpSaP6veMFt5f8IYcQKg2sGo5p_U5-5KpJ24256tBBBGS4UNEn2_LzZkEltyJpKTriKTzGRoALXLOnSAeDS36hGoMTrEA4PK4pQ7ZtTR-qMmFXj6qmplka8UbFCvf9IHs-EtBLW9ZnN5XZAcNOIpiRXtkmBlZPNGUx0?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5k6D7ZUZlDw6Q5vTwoF-OoMECPcnR5rEJUCYTKndAKsAHgnVj1gV9-mFP0yt2DYNBTWQpO3cOG-FImB1mc1xbJrZy4iIkpZVTsTjjcg-sp3rXQc-96AfflkfwbAOTtdkN5r9KXTEjUNG2ml13I8crp5LtBHqn82tkCCCZ-chIfSiS9bcp5JBZCKJej11uKNLPDD1-N9w9nifavlN_UpO9v8oZjcDCGUfc3FI6ZXOiOfATaMrM2YgNH8AU?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "منشأة سياحية",
+        "description_ar": "فندق التلال الوسيطة هو منشأة فندقية متوسطة المستوى تستقبل مختلف الفئات من الزوار والسياح، ويتميّز بموقعه الذي يوفّر سهولة الوصول إلى قلب المدينة والطرق الرئيسية المؤدية إلى الجبل الأخضر والمناطق السياحية المجاورة‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14419,15 +14340,12 @@
         "source_index": 144,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "فندق التلال الوسيطة هو منشأة فندقية متوسطة المستوى تستقبل مختلف الفئات من الزوار والسياح، ويتميّز بموقعه الذي يوفّر سهولة الوصول إلى قلب المدينة والطرق الرئيسية المؤدية إلى الجبل الأخضر والمناطق السياحية المجاورة‎‎‎‎",
@@ -14439,8 +14357,8 @@
           "info": "يقع فندق التلال الوسيطة في مدينة البيضاء – شرق ليبيا، ضمن منطقة الجبل الأخضر ذات الطبيعة الخلّابة، قريبًا من نقاط الجذب السياحية والخدمات الأساسية في المدينة‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7WCv9Zl2LdqxYFPw5HaPWKpBc73hYiK01XhiNgnVav2kU-ba54kh6yfpFGaJMsgpFTSNQKCI8QFnysiKFGwRWtTk1vv2A8SRbhhFAvgQg2DEfIF9i3yy3VLI60J53ZBkCznKOTM-gJzUvdigMWxF02FwEK4ZWB6LvHH1iujWoawo_rG-BudSl0bYcA796NXhRZWab9gbWKkGGpEnkZ5Fd0OHXqixLVKD3GhePY8FGHceCC1vtQHyKpKuw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6sh08cCwNMDXVM4uRbCbVOR8dFSTLb7_Y6BzSwcBWKz29HLj_NvDkVRil8Mi5oFfNzoohq2NFGI9X-LgV486j5KpSaP6veMFt5f8IYcQKg2sGo5p_U5-5KpJ24256tBBBGS4UNEn2_LzZkEltyJpKTriKTzGRoALXLOnSAeDS36hGoMTrEA4PK4pQ7ZtTR-qMmFXj6qmplka8UbFCvf9IHs-EtBLW9ZnN5XZAcNOIpiRXtkmBlZPNGUx0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5k6D7ZUZlDw6Q5vTwoF-OoMECPcnR5rEJUCYTKndAKsAHgnVj1gV9-mFP0yt2DYNBTWQpO3cOG-FImB1mc1xbJrZy4iIkpZVTsTjjcg-sp3rXQc-96AfflkfwbAOTtdkN5r9KXTEjUNG2ml13I8crp5LtBHqn82tkCCCZ-chIfSiS9bcp5JBZCKJej11uKNLPDD1-N9w9nifavlN_UpO9v8oZjcDCGUfc3FI6ZXOiOfATaMrM2YgNH8AU?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14462,9 +14380,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7uJ-NEaN0aBRw7GSK9o95A18RObGsLXWK3Vr6zhjdputi7DV5lUSwlhwerXKog0Vbc2WcwWhO7QXdyko9pdQZRzjb6gf5SGPY_Qp1SvmO9Oa65ymUtdeEst46SAM1F2iQ2NZYjWKP_UMYEoY6bBtMjMgI2yz0T0TRqXqY56OqNplFuq_D_IHCG23yTpK4S6vebq6KjbuaYCqS6PQL-ablGpy9J0sz_88Yqrah_uKLAahHhs2i1NnKCXNs?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: تتميز الجهة الجنوبية والجنوبية الغربية من قورينا (شحات) بامتداد \"المقبرة القورينائية\" الضخمة التي تحيط بالمدينة<br>التصنيف: موقع اثرية ومزار سياحي<br>x: 21.85265<br>y: 32.79682<br>city: مدينة قورينا شحات الاثرية<br>en_name: South Cyrene ruins<br>info: أبرز المعالم في القطاع الجنوبي<br> المدافن المنحوتة في الصخر: تنتشر على المنحدرات الجنوبية، وتتنوع بين قبور فردية وعائلية بزخارف ونقوش جنائزية.<br>بقايا مبانٍ سكنية ومنشآت خدمية: تدل على توسّع المدينة خارج المركز.<br> مسارات وطرق قديمة: كانت تربط قورينا بالمناطق الزراعية والضواحي.<br> جدران وأساسات حجرية: توضح تقنيات البناء المحلية وتكيّفها مع التضاريس<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR47ZJ3SimZ4iQAarVUPLU6EelfHaDiUiqEJVwiQHoLMT57J7UUPhT3f9mrJ-gUgMC-4NAgFntaLqJ920KrKBTplbDyblEGVH4S_4mUUETF1To1tDVPG4ZFQrSa6KTfexU3S6RU2oKWeBFM7uXw5HJEP2LM9ClV3in0arYGnOQEdSlnbYTMUkDhL2FeDqACUduRfuyv2Rb-Kc87Us3XmfHIcALeqF8kxzyDcULTnCu1qbol4ZcX2PaToc4U?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "تتميز الجهة الجنوبية والجنوبية الغربية من قورينا (شحات) بامتداد \"المقبرة القورينائية\" الضخمة التي تحيط بالمدينة‎‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14472,15 +14390,12 @@
         "source_index": 145,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "تتميز الجهة الجنوبية والجنوبية الغربية من قورينا (شحات) بامتداد \"المقبرة القورينائية\" الضخمة التي تحيط بالمدينة‎‎‎‎‎",
@@ -14492,8 +14407,8 @@
           "info": "أبرز المعالم في القطاع الجنوبي\n المدافن المنحوتة في الصخر: تنتشر على المنحدرات الجنوبية، وتتنوع بين قبور فردية وعائلية بزخارف ونقوش جنائزية.\nبقايا مبانٍ سكنية ومنشآت خدمية: تدل على توسّع المدينة خارج المركز.\n مسارات وطرق قديمة: كانت تربط قورينا بالمناطق الزراعية والضواحي.\n جدران وأساسات حجرية: توضح تقنيات البناء المحلية وتكيّفها مع التضاريس‎‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7uJ-NEaN0aBRw7GSK9o95A18RObGsLXWK3Vr6zhjdputi7DV5lUSwlhwerXKog0Vbc2WcwWhO7QXdyko9pdQZRzjb6gf5SGPY_Qp1SvmO9Oa65ymUtdeEst46SAM1F2iQ2NZYjWKP_UMYEoY6bBtMjMgI2yz0T0TRqXqY56OqNplFuq_D_IHCG23yTpK4S6vebq6KjbuaYCqS6PQL-ablGpy9J0sz_88Yqrah_uKLAahHhs2i1NnKCXNs?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR47ZJ3SimZ4iQAarVUPLU6EelfHaDiUiqEJVwiQHoLMT57J7UUPhT3f9mrJ-gUgMC-4NAgFntaLqJ920KrKBTplbDyblEGVH4S_4mUUETF1To1tDVPG4ZFQrSa6KTfexU3S6RU2oKWeBFM7uXw5HJEP2LM9ClV3in0arYGnOQEdSlnbYTMUkDhL2FeDqACUduRfuyv2Rb-Kc87Us3XmfHIcALeqF8kxzyDcULTnCu1qbol4ZcX2PaToc4U?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14515,9 +14430,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7Hezy_W_wEBaafJYhNaxdEEs50BocBa-wmyZJ0mc-Koux1uxSf-1WMfgYCpPA1fJxYbydEs18g9Sg5E9xKyFYeGVsG8InFFq1TIRTmnW5wOi-JNGVWFub2DIB9ccOLrIXKa7OmA_zgUQMeFCNiVm_LHGFcskwn7vWpCDLsaQzjaxYjyutv3_fnL-GOf3bV-jZNFVYXjF06cla0cpAsHm3wyITi2JQ2hv4To5ouPjE9yCN6EAV-OnKOL04?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: وادي بومليو هو واحد من المظاهر الطبيعية المميزة بالقرب من مدينة شحات في الجبل الأخضر بشمال-شرق ليبيا. يتميز الوادي بتضاريسه الجبلية الوعرة، وجريانه الموسمي للمياه، مما يجعله مقصدًا مفضلًا لمحبي الطبيعة والمغامرات ضمن المنطقة.<br>التصنيف: موقع جدب طبيعي<br>x: 21.87931<br>y: 32.82649<br>city: مدينة شحات<br>en_name: wadi bumilyu<br>info: الأهمية البيئية والسياحية<br>• وادي بومليو موطن طبيعي للحياة البرية والنباتية المحلية. <br>• موقع ممتاز لأنشطة مثل: <br>o التنزه والمشي <br>o التصوير السياحي <br>o رحلات الاستكشاف البيئية <br>• يُثري تجربة زيارة شحات والجبل الأخضر بتنوع بيئي جميل. وهو أحد التضاريس الطبيعية المميزة في محيط شحات، وهو مكان يجمع بين الهدوء، المنظر الجمالي، والمغامرة البيئية، ما يجعله إضافة جيدة لأي برنامج سياحي في منطقة الجبل الأخضر <br><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7m4_Mk-Z7K_WWPS67UHA83-J9a7Se10_OfR_oLfMa_NcpbxdW34dQhUo4cRc1z0bBNYanzmqewwf8xWfC7pHFEgSJtJRUj9V42LCCKfviXxMUPKqt3SK_RGOrr5_VUClXsWCVSeVeG1-Paquq67Vwt5hvzB1X_3MKvDBZq9XwVxkEV4bQAHAGT1IxuBJOri2pjiO2N0YfPtB_vDRzh9Q1KBu3fYtq6jxajvT8V_JHjdntbnX1-x9xVr9o?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "وادي بومليو هو واحد من المظاهر الطبيعية المميزة بالقرب من مدينة شحات في الجبل الأخضر بشمال-شرق ليبيا. يتميز الوادي بتضاريسه الجبلية الوعرة، وجريانه الموسمي للمياه، مما يجعله مقصدًا مفضلًا لمحبي الطبيعة والمغامرات ضمن المنطقة.‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14525,15 +14440,12 @@
         "source_index": 146,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "وادي بومليو هو واحد من المظاهر الطبيعية المميزة بالقرب من مدينة شحات في الجبل الأخضر بشمال-شرق ليبيا. يتميز الوادي بتضاريسه الجبلية الوعرة، وجريانه الموسمي للمياه، مما يجعله مقصدًا مفضلًا لمحبي الطبيعة والمغامرات ضمن المنطقة.‎‎‎",
@@ -14545,8 +14457,8 @@
           "info": "الأهمية البيئية والسياحية\n•\tوادي بومليو موطن طبيعي للحياة البرية والنباتية المحلية. \n•\tموقع ممتاز لأنشطة مثل: \no\tالتنزه والمشي \no\tالتصوير السياحي \no\tرحلات الاستكشاف البيئية \n•\tيُثري تجربة زيارة شحات والجبل الأخضر بتنوع بيئي جميل.                                                                         وهو أحد التضاريس الطبيعية المميزة في محيط شحات، وهو مكان يجمع بين الهدوء، المنظر الجمالي، والمغامرة البيئية، ما يجعله إضافة جيدة لأي برنامج سياحي في منطقة الجبل الأخضر \n‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7Hezy_W_wEBaafJYhNaxdEEs50BocBa-wmyZJ0mc-Koux1uxSf-1WMfgYCpPA1fJxYbydEs18g9Sg5E9xKyFYeGVsG8InFFq1TIRTmnW5wOi-JNGVWFub2DIB9ccOLrIXKa7OmA_zgUQMeFCNiVm_LHGFcskwn7vWpCDLsaQzjaxYjyutv3_fnL-GOf3bV-jZNFVYXjF06cla0cpAsHm3wyITi2JQ2hv4To5ouPjE9yCN6EAV-OnKOL04?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7m4_Mk-Z7K_WWPS67UHA83-J9a7Se10_OfR_oLfMa_NcpbxdW34dQhUo4cRc1z0bBNYanzmqewwf8xWfC7pHFEgSJtJRUj9V42LCCKfviXxMUPKqt3SK_RGOrr5_VUClXsWCVSeVeG1-Paquq67Vwt5hvzB1X_3MKvDBZq9XwVxkEV4bQAHAGT1IxuBJOri2pjiO2N0YfPtB_vDRzh9Q1KBu3fYtq6jxajvT8V_JHjdntbnX1-x9xVr9o?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14568,9 +14480,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5D3rsEYOdiB1iLWxYrPNXnKqzwoRfHofY4vFT74wkt8u3URJsJb5_5x47PBX1QsW10i7PvJm8V77dyYCFpjbkIQRyPzqD02JTUcDANA2IsATcMRoWj9Zh60dYXilm9OjQWWbLb6IAXCOFh0C_qZPsFw2ebHK7N6DQxzq0KmxK1q0PhNb7UUQbsJlhidwoX3nxSrTdWENFI35QPNdK5eKGSduXeakO7pkWq9bmc05vqwivzov5xDebi9MQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: تُعد عين الحفرة (المعروفة أيضاً بـ \"وادي عقار\") واحدة من أبرز المعالم الطبيعية والوجهات السياحية الشهيرة في محيط مدينة شحات بمنطقة الجبل الأخضر شرقي ليبيا. واكتسبت هذه العين شهرة واسعة بين عشاق الطبيعة والرحلات بفضل تضاريسها الفريدة ومناظرها الخلابة.<br>التصنيف: شلالات ومنظر طبيعي ساحر <br>x: 21.87288<br>y: 32.82725<br>city: شحات الجبل الاخضر<br>en_name: Ain Al-Hufrah<br>info: سميت بهذا الاسم نظراً لخروج تدفقات المياه العذبة من جوف حفرة صخرية طبيعية داخل الوادي.الطبيعة الساحرة: تحيط بالعين أشجار كثيفة، ونباتات السرخس الخضراء، ومنحدرات صخرية وتلال تكسوها الخضرة.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42im2Lrnz25wy7A3BwNd0CPvDK_895DT839B3sM6H2jDJeXZHgjtYvpuzNS5qXhAFHWdT8ZkXYhws17SBDY0PJCmYCLgDHhnYm0DpAi78bsYOFY-TnxrtZZKWeIWRQ7dvrYCjm_OBbA-BDxRGL3cXfkD48JHh7Ba1-kKtiKJOQTFkZxQRzLZA5r8s-UtQysTC56gXdP3xDdNtsXt7OWLWdT0cd4GmP750CCEx8lva8jSoSGyEou2qrRO8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4Tr1GsSFRGByE_Jw8IX9ODcECy8bfdlFRAyhAo_hVZ2BkroaAc8xVZfWtyY9yj5xFsVu4N7GlaAIH2fK0MacSZbt3DDU6YQl1aILnqwp0kulqoRIqeWJKklHlPY-gblyiT4MUEj2ZIieanPJywHyFD5s61WB-p3WS486lDps_1gbohZTKdpnj3ExtHmfcCuJ9HlPpi03aP2v__V4Ic_IeI1-7EgTzEHp46q_5zzJhLyqN2LVhsTa9cUHI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "تُعد عين الحفرة (المعروفة أيضاً بـ \"وادي عقار\") واحدة من أبرز المعالم الطبيعية والوجهات السياحية الشهيرة في محيط مدينة شحات بمنطقة الجبل الأخضر شرقي ليبيا. واكتسبت هذه العين شهرة واسعة بين عشاق الطبيعة والرحلات بفضل تضاريسها الفريدة ومناظرها الخلابة.‎‎‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14578,15 +14490,12 @@
         "source_index": 147,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "تُعد عين الحفرة (المعروفة أيضاً بـ \"وادي عقار\") واحدة من أبرز المعالم الطبيعية والوجهات السياحية الشهيرة في محيط مدينة شحات بمنطقة الجبل الأخضر شرقي ليبيا. واكتسبت هذه العين شهرة واسعة بين عشاق الطبيعة والرحلات بفضل تضاريسها الفريدة ومناظرها الخلابة.‎‎‎‎‎‎",
@@ -14598,8 +14507,8 @@
           "info": "سميت بهذا الاسم نظراً لخروج تدفقات المياه العذبة من جوف حفرة صخرية طبيعية داخل الوادي.الطبيعة الساحرة: تحيط بالعين أشجار كثيفة، ونباتات السرخس الخضراء، ومنحدرات صخرية وتلال تكسوها الخضرة.‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5D3rsEYOdiB1iLWxYrPNXnKqzwoRfHofY4vFT74wkt8u3URJsJb5_5x47PBX1QsW10i7PvJm8V77dyYCFpjbkIQRyPzqD02JTUcDANA2IsATcMRoWj9Zh60dYXilm9OjQWWbLb6IAXCOFh0C_qZPsFw2ebHK7N6DQxzq0KmxK1q0PhNb7UUQbsJlhidwoX3nxSrTdWENFI35QPNdK5eKGSduXeakO7pkWq9bmc05vqwivzov5xDebi9MQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42im2Lrnz25wy7A3BwNd0CPvDK_895DT839B3sM6H2jDJeXZHgjtYvpuzNS5qXhAFHWdT8ZkXYhws17SBDY0PJCmYCLgDHhnYm0DpAi78bsYOFY-TnxrtZZKWeIWRQ7dvrYCjm_OBbA-BDxRGL3cXfkD48JHh7Ba1-kKtiKJOQTFkZxQRzLZA5r8s-UtQysTC56gXdP3xDdNtsXt7OWLWdT0cd4GmP750CCEx8lva8jSoSGyEou2qrRO8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4Tr1GsSFRGByE_Jw8IX9ODcECy8bfdlFRAyhAo_hVZ2BkroaAc8xVZfWtyY9yj5xFsVu4N7GlaAIH2fK0MacSZbt3DDU6YQl1aILnqwp0kulqoRIqeWJKklHlPY-gblyiT4MUEj2ZIieanPJywHyFD5s61WB-p3WS486lDps_1gbohZTKdpnj3ExtHmfcCuJ9HlPpi03aP2v__V4Ic_IeI1-7EgTzEHp46q_5zzJhLyqN2LVhsTa9cUHI?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14621,9 +14530,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: يتميز بارتفاعه الشاهق ومساره الملتوي والضيق صعوداً وهبوطاً.<br>التصنيف: منجدر وعر طبيعي<br>x: 21.87067<br>y: 32.83015<br>city: الجبل الاخضر شحات<br>en_name: Bu Na'as Mountain Pass <br>info: إن منحدر أو \"عقر بو نعاس\" هو مسار جبلي ومنحدر شديد الوعورة يقع في ضواحي مدينة شحات الأثرية بإقليم الجبل تحيط به أشجار البطوم، الشماري، والزيتون البري المميزة لغابات الجبل الأخضر.الأخضر.",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "يتميز بارتفاعه الشاهق ومساره الملتوي والضيق صعوداً وهبوطاً.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14631,15 +14540,12 @@
         "source_index": 148,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يتميز بارتفاعه الشاهق ومساره الملتوي والضيق صعوداً وهبوطاً.",
@@ -14650,8 +14556,8 @@
           "en_name": "Bu Na'as Mountain Pass",
           "info": "إن منحدر أو \"عقر بو نعاس\" هو مسار جبلي ومنحدر شديد الوعورة يقع في ضواحي مدينة شحات الأثرية بإقليم الجبل تحيط به أشجار البطوم، الشماري، والزيتون البري المميزة لغابات الجبل الأخضر.الأخضر.‎"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14673,9 +14579,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "tourism_facility",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "منشأة سياحية",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14683,15 +14589,12 @@
         "source_index": 149,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14702,8 +14605,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14725,9 +14628,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6qHiIyZ7Lzwmhnn7Prp8tvCkhrTGrsFLeY69u5B-rS98AjY-nzHUEnf1G9fE6WrXc1jRno8X0zz2Jz5SQxFems0hnsJGnKtgF_cuY-uFPocpZqhCgU2EcJZMNYJWubHA_H2ED0afozYFbNTri-aORiQkrv-oKGSWdnBFVwcCZmA7rspsNu88f0jqwd7CFNZvu6j3pmq90n_Vt4UhSLyqnzY_xfVdbymoi5C4C7p1onht2cpogvLsbisnI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: هو عبارة عن هوة سحيقة أو تجويف صخري ضخم (منخفض كارسيتي) ناتج عن عوامل التعرية الطبيعية عبر العصور.<br>التصنيف: معلم طبيعي صخري<br>x: 21.85877<br>y: 32.87313<br>city: شحات منظقة المنصورة<br>en_name: Hawa Buthan او Bothan Cave <br>info: تحيط بالمنطقة غابات كثيفة من أشجار الجبل الأخضر المميزة مثل الشماري والخروب والبطوم، مما يمنحه إطلالة خضراء خلابة.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7ebuyK_B9j6_zy-z9_k83JRLvLCFIuVqQ2UF1MPQVejaYAc6Ch6ttOFOjSjBaj9_Qt42Kzq3XWYIWqCre-J-YuEJsCMsI_IL4-ozzjlutyKEz1Zs6b8D6x3z75AmqstsYbJGEmZa7b_Uv5Wvh-Q7F9xXvT7ZtlyVvM0mnUfG4jEijszel0ENOugfDmJL-C83S6a2SzvzADPvLWb1INvjml8myALLBWuLxF3vYi8RHhWMFaHUN3N10QkbE?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "هو عبارة عن هوة سحيقة أو تجويف صخري ضخم (منخفض كارسيتي) ناتج عن عوامل التعرية الطبيعية عبر العصور.‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14735,15 +14638,12 @@
         "source_index": 150,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هو عبارة عن هوة سحيقة أو تجويف صخري ضخم (منخفض كارسيتي) ناتج عن عوامل التعرية الطبيعية عبر العصور.‎‎",
@@ -14755,8 +14655,8 @@
           "info": "تحيط بالمنطقة غابات كثيفة من أشجار الجبل الأخضر المميزة مثل الشماري والخروب والبطوم، مما يمنحه إطلالة خضراء خلابة.‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6qHiIyZ7Lzwmhnn7Prp8tvCkhrTGrsFLeY69u5B-rS98AjY-nzHUEnf1G9fE6WrXc1jRno8X0zz2Jz5SQxFems0hnsJGnKtgF_cuY-uFPocpZqhCgU2EcJZMNYJWubHA_H2ED0afozYFbNTri-aORiQkrv-oKGSWdnBFVwcCZmA7rspsNu88f0jqwd7CFNZvu6j3pmq90n_Vt4UhSLyqnzY_xfVdbymoi5C4C7p1onht2cpogvLsbisnI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7ebuyK_B9j6_zy-z9_k83JRLvLCFIuVqQ2UF1MPQVejaYAc6Ch6ttOFOjSjBaj9_Qt42Kzq3XWYIWqCre-J-YuEJsCMsI_IL4-ozzjlutyKEz1Zs6b8D6x3z75AmqstsYbJGEmZa7b_Uv5Wvh-Q7F9xXvT7ZtlyVvM0mnUfG4jEijszel0ENOugfDmJL-C83S6a2SzvzADPvLWb1INvjml8myALLBWuLxF3vYi8RHhWMFaHUN3N10QkbE?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14778,9 +14678,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: 21.87955<br>y: 32.89199<br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14788,15 +14688,12 @@
         "source_index": 151,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14807,8 +14704,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14830,9 +14727,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14840,15 +14737,12 @@
         "source_index": 152,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14859,8 +14753,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14882,9 +14776,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14892,15 +14786,12 @@
         "source_index": 153,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -14911,8 +14802,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14934,9 +14825,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: يقع بدقة في وادي الشلوق الواقع غرب مدينة شحات مباشرة في الجبل الأخضر.<br>التصنيف: كهف صخري طبيعي<br>x: 21.82287<br>y: 32.88412<br>city: شحات الجبل الاخضر<br>en_name: Abdullah Bin Al-Khattab Cave<br>info: يقع الكهف وسط تضاريس وادٍ وعر مليء بالمنحدرات الصخرية الكثيفة بالأشجار والنباتات البرية، وهي بيئة مثالية لوجود مغارات وتجاويف جبلية طبيعية (كهوف).",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "يقع بدقة في وادي الشلوق الواقع غرب مدينة شحات مباشرة في الجبل الأخضر.‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14944,15 +14835,12 @@
         "source_index": 154,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يقع بدقة في وادي الشلوق الواقع غرب مدينة شحات مباشرة في الجبل الأخضر.‎‎‎",
@@ -14963,8 +14851,8 @@
           "en_name": "Abdullah Bin Al-Khattab Cave",
           "info": "يقع الكهف وسط تضاريس وادٍ وعر مليء بالمنحدرات الصخرية الكثيفة بالأشجار والنباتات البرية، وهي بيئة مثالية لوجود مغارات وتجاويف جبلية طبيعية (كهوف).‎‎"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -14986,9 +14874,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -14996,15 +14884,12 @@
         "source_index": 155,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15015,8 +14900,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15038,9 +14923,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15048,15 +14933,12 @@
         "source_index": 156,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15067,8 +14949,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15090,9 +14972,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "tourism_facility",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "منشأة سياحية",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15100,15 +14982,12 @@
         "source_index": 157,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15119,8 +14998,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15142,9 +15021,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15152,15 +15031,12 @@
         "source_index": 158,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15171,8 +15047,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15194,9 +15070,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15204,15 +15080,12 @@
         "source_index": 159,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15223,8 +15096,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15246,9 +15119,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15256,15 +15129,12 @@
         "source_index": 160,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15275,8 +15145,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15298,9 +15168,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "museum",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15308,15 +15178,12 @@
         "source_index": 161,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15327,8 +15194,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15350,9 +15217,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع ديني",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15360,15 +15227,12 @@
         "source_index": 162,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15379,8 +15243,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15402,9 +15266,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15412,15 +15276,12 @@
         "source_index": 163,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15431,8 +15292,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15454,9 +15315,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15464,15 +15325,12 @@
         "source_index": 164,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15483,8 +15341,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15506,9 +15364,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15516,15 +15374,12 @@
         "source_index": 165,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15535,8 +15390,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15558,9 +15413,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "religious_site",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع ديني",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15568,15 +15423,12 @@
         "source_index": 166,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15587,8 +15439,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15610,9 +15462,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15620,15 +15472,12 @@
         "source_index": 167,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15639,8 +15488,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15662,9 +15511,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15672,15 +15521,12 @@
         "source_index": 168,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15691,8 +15537,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15714,9 +15560,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15724,15 +15570,12 @@
         "source_index": 169,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -15743,8 +15586,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15766,9 +15609,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5a01T3Pk9f63NbX31ZDq9e9-RPDyd9ArEYy_8S3YSPh9koXjrf2n8U_3Fs7868S6HMAdZNQSeCxEwRlt61Vp3py4XDEDhSV0gqDyGH5kK5GJo8ybMs_c9VsmtrnS9yKk3bYaN7satpdhqgBAOqJ8sUcd1XQlNDsSXioOGRKB58UZ5IjQjTDWJhfX8pv0EDzf3w6yj8x_CAAAVQkoH3OWXo7D97Xfk0xS8MfqKUo-onuPRnRa16YSLkWBQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: يتميز هذا الساحل بطبيعته البكر والمزج الفريد بين المرتفعات الجبلية ومياه البحر الأبيض المتوسط النقية<br>التصنيف: شاطئ طبيعي <br>x: 21.48548<br>y: 32.81792<br>city: شحات<br>en_name: Shatt Ar Ramlah <br>info: تقع المنطقة على مقربة من آثار شحات الإغريقية الرومانية الشهيرة ومنطقة سوسة الأثرية.",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "يتميز هذا الساحل بطبيعته البكر والمزج الفريد بين المرتفعات الجبلية ومياه البحر الأبيض المتوسط النقية‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15776,15 +15619,12 @@
         "source_index": 170,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "يتميز هذا الساحل بطبيعته البكر والمزج الفريد بين المرتفعات الجبلية ومياه البحر الأبيض المتوسط النقية‎‎",
@@ -15796,8 +15636,8 @@
           "info": "تقع المنطقة على مقربة من آثار شحات الإغريقية الرومانية الشهيرة ومنطقة سوسة الأثرية.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5a01T3Pk9f63NbX31ZDq9e9-RPDyd9ArEYy_8S3YSPh9koXjrf2n8U_3Fs7868S6HMAdZNQSeCxEwRlt61Vp3py4XDEDhSV0gqDyGH5kK5GJo8ybMs_c9VsmtrnS9yKk3bYaN7satpdhqgBAOqJ8sUcd1XQlNDsSXioOGRKB58UZ5IjQjTDWJhfX8pv0EDzf3w6yj8x_CAAAVQkoH3OWXo7D97Xfk0xS8MfqKUo-onuPRnRa16YSLkWBQ?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15819,9 +15659,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "tourism_facility",
-        "category": "baths",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR44von4YQQUPpKwHKtjrqRUtQPHoxvN1qIIRdfx2I0vfxpaQ85oQHakhR6JvUD19Be-k7iHAQGpqOY6KoJLzBAxFJxxxtW0gMHaBh_dZ37enu3xtvx9C3vyAuyFEINrqipfA32VvB8099mLY1Qah0GFRS8HIevrPhiVKMG1PEpO_4QarkTohh8KLCNooNKGi_exL5zU8VU1RQJMixvp2ZccRq-9abuhaCixpaiGjSFm_DHWiKMcwX_AK1M?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: المصيف البحري التابع للمجموعة، ويقع على الساحل الشمالي للجبل الأخضر في منطقة الحمامة (شمال مدينة البيضاء وشرق شحات<br>التصنيف: قرية سياحية <br>x: 21.61725<br>y: 32.91088<br>city: شحات حمامة <br>en_name: AlTelal Tourist Resort & Hotel<br>info: شاليهات عائلية مستقلة ومطلة مباشرة على البحر.المرافق: تضم ممرات للمشاة، مساحات خضراء، أحواض سباحة للكبار والأطفال، ومطعم ومقهى.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4GLlbipWQrSnXW_x8KMuX9iCV4qevbW2J_XDOvH4aIlpOnGPI4s_jomAPONfVzFzQ9PHVS69EA2luHyF3nJXU6N3_mKes3O98ODEXua7BksosyT9M4P8EmgEIUTemwFE5hjMGpMnNHDYM5lRAjK6Tw2NrDyKvjDxRoEXMYDpCjNuKTQ2mbMK_AgehMOJAuGPrYFFYJWCNHoALmBxQmuxQaoXGf1HKYS3HUJx_jfwbCVcd0fmWQHpUFnjs?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "حمامات أثرية",
+        "description_ar": "المصيف البحري التابع للمجموعة، ويقع على الساحل الشمالي للجبل الأخضر في منطقة الحمامة (شمال مدينة البيضاء وشرق شحات‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15829,15 +15669,12 @@
         "source_index": 171,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "المصيف البحري التابع للمجموعة، ويقع على الساحل الشمالي للجبل الأخضر في منطقة الحمامة (شمال مدينة البيضاء وشرق شحات‎‎‎‎",
@@ -15849,8 +15686,8 @@
           "info": "شاليهات عائلية مستقلة ومطلة مباشرة على البحر.المرافق: تضم ممرات للمشاة، مساحات خضراء، أحواض سباحة للكبار والأطفال، ومطعم ومقهى.‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR44von4YQQUPpKwHKtjrqRUtQPHoxvN1qIIRdfx2I0vfxpaQ85oQHakhR6JvUD19Be-k7iHAQGpqOY6KoJLzBAxFJxxxtW0gMHaBh_dZ37enu3xtvx9C3vyAuyFEINrqipfA32VvB8099mLY1Qah0GFRS8HIevrPhiVKMG1PEpO_4QarkTohh8KLCNooNKGi_exL5zU8VU1RQJMixvp2ZccRq-9abuhaCixpaiGjSFm_DHWiKMcwX_AK1M?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4GLlbipWQrSnXW_x8KMuX9iCV4qevbW2J_XDOvH4aIlpOnGPI4s_jomAPONfVzFzQ9PHVS69EA2luHyF3nJXU6N3_mKes3O98ODEXua7BksosyT9M4P8EmgEIUTemwFE5hjMGpMnNHDYM5lRAjK6Tw2NrDyKvjDxRoEXMYDpCjNuKTQ2mbMK_AgehMOJAuGPrYFFYJWCNHoALmBxQmuxQaoXGf1HKYS3HUJx_jfwbCVcd0fmWQHpUFnjs?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15872,9 +15709,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "baths",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5N2TSjT9-Fz6iwK4f_kLUvdWuEg709iLRZjGjTi2nwQfRKvEzLQgQMTrkDqiTh0dzcOCZCK22H0FpoEuTJMLlP6qxW_BLAqVLqs4YLAuSmVStbJ1kLD7v5kGpZR1HKnAr2ej1Vd2Sb6dTeCz8TUsEBjdS0qFJEZA03vKTgYX7t22-qcVgItwDXTOCefAl290RY2Y3tUY72K0sTqJFwZAmDojrR9XaZjWk-9cOGACpdcFgE3EGTdfkn8sQ?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: واحداً من أبرز الوجهات الشاطئية العائلية الواقعة على ساحل الجبل الأخضر المميّز بنقاوة مياهه ومناخه المعتدل. <br>التصنيف: منتجع سياحي <br>x: 21.62112<br>y: 32.91634<br>city: شحات سوسة <br>en_name: Al Hamama Beach Resort<br>info: يتبع المصيف جغرافياً لمنطقة الحمامة الساحلية (شمال مدينة البيضاء بحوالي 20 كم)، وهو قريب جداً من المعالم الأثرية والسياحية في مدينة شحات وسوسة",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "حمامات أثرية",
+        "description_ar": "واحداً من أبرز الوجهات الشاطئية العائلية الواقعة على ساحل الجبل الأخضر المميّز بنقاوة مياهه ومناخه المعتدل. ‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15882,15 +15719,12 @@
         "source_index": 172,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "واحداً من أبرز الوجهات الشاطئية العائلية الواقعة على ساحل الجبل الأخضر المميّز بنقاوة مياهه ومناخه المعتدل. ‎‎‎‎",
@@ -15902,8 +15736,8 @@
           "info": "يتبع المصيف جغرافياً لمنطقة الحمامة الساحلية (شمال مدينة البيضاء بحوالي 20 كم)، وهو قريب جداً من المعالم الأثرية والسياحية في مدينة شحات وسوسة‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5N2TSjT9-Fz6iwK4f_kLUvdWuEg709iLRZjGjTi2nwQfRKvEzLQgQMTrkDqiTh0dzcOCZCK22H0FpoEuTJMLlP6qxW_BLAqVLqs4YLAuSmVStbJ1kLD7v5kGpZR1HKnAr2ej1Vd2Sb6dTeCz8TUsEBjdS0qFJEZA03vKTgYX7t22-qcVgItwDXTOCefAl290RY2Y3tUY72K0sTqJFwZAmDojrR9XaZjWk-9cOGACpdcFgE3EGTdfkn8sQ?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15925,9 +15759,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: هي الأحواض والمنشآت المائية المنحوتة في الصخر الصلب. كانت تُستخدم قديماً كأرصفة لترسية وتجهيز السفن الإغريقية والرومانية<br>التصنيف: تشكلات صخرية طبيعية<br>x: 21.63105<br>y: 32.92658,<br>city: الجبل الاخضر منطقة الحمامة<br>en_name: Submerged Slipways و The Submerged Ancient Port<br>info: القلعة الغارقة: تتمثل في بقايا الأبراج الدفاعية والأسوار الهيلينستية الضخمة التي كانت تحمي الميناء. يتواجد برجان دائريان كبيران تحت الماء كانا يحرسان مدخل الميناء الشرقي والغربي، ويزورهما الغواصون اليوم كمعلم رئيسي يُعرف محلياً بالحصن أو القلعة المغمورة",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "هي الأحواض والمنشآت المائية المنحوتة في الصخر الصلب. كانت تُستخدم قديماً كأرصفة لترسية وتجهيز السفن الإغريقية والرومانية‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15935,15 +15769,12 @@
         "source_index": 173,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هي الأحواض والمنشآت المائية المنحوتة في الصخر الصلب. كانت تُستخدم قديماً كأرصفة لترسية وتجهيز السفن الإغريقية والرومانية‎‎",
@@ -15954,8 +15785,8 @@
           "en_name": "Submerged Slipways و The Submerged Ancient Port",
           "info": "القلعة الغارقة: تتمثل في بقايا الأبراج الدفاعية والأسوار الهيلينستية الضخمة التي كانت تحمي الميناء. يتواجد برجان دائريان كبيران تحت الماء كانا يحرسان مدخل الميناء الشرقي والغربي، ويزورهما الغواصون اليوم كمعلم رئيسي يُعرف محلياً بالحصن أو القلعة المغمورة‎‎"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -15977,9 +15808,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR45uAAAvhXGk5sc_7EOFomz_EQSDEUuX3AD2BgDguODmg55QTOvis6FMgdBflC3w11SCwahm_pIt6j6EfKfgJ2rXGzeLRCHNpEFr1O7oHxYpEpr2uAZL2Z8nHf2_WqQvRdh8X3749QciHg4B00yeKhrGIQYixGICdT9cntMcSPncVsiV_KwJqAmhaK1f6WbYOYwjoxYT0QjxevRZTzyR4tsYZvfnVTYIruE6FBZ60P9YFXcC7pPeew1t88?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: براك نوط تتكون من ثلاثة بحيرات وهى تقع غرب مدينة سوسة بحوالى 20 كيلومتر فى فترة سابقة تم استغلالها فى تربية بعض الطيور منها البط والدجاج الهندى .،احد بحيرات برك نوطا يبلغ قطرها 130 متر تقريبا ويصل عمقها الي 52 متر علي شكل قمع تضيق كل ما نزل الي الاسفل يوجد بها بعض من ,,اسماك اللانقويل وثعابين البحر والقريدس..... وغيرها،، مياه غير مصنفة ( حلوة او مالحة ) مزيج بين الاثنين .<br>التصنيف: بحيرات طبيعية <br>x: 21.80068<br>y: 32.91568,<br>city: شحات سوسة ليبيا<br>en_name: Birak Nuta Lakes<br>info: فى القدم فى الحقبه الرابعه الى أرتطام نيازك مذنبه ملتهبه بالارض فأحدثت فيها ثقوبا شبه دائريه ضخمه تعرف بأسم هوى ويزيد عمق بعضها عن مائة متر كما يصل قطر بعضها الى 300 متر ومنها أبرك نوطه غرب سوسه وهوى احجرى شرق قورينا والهويات وهاتينى شمال قرية قصر ليبيا ..<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4XCdGh-n38QHCdCI9yIFc1IFxbAh17d1JC-6YA_1cyFXIHBPJTtVGrfilWK0oe_Od5tBfprQKJkLnFqmFGlNWKt7BbZJVA19M5pLgMk2-aqMaa0inHaaB38nGiP99O9GeQdtkf7gVRe_AfXvgNcjf5-RBPQdFOrfETg4lNQfPJX0WKfIaOMgpqPNgAgS6CC2lFgX-m88JUqcie6xv3v0e3L0py0T2lnWMkMyt0J7IX_YQ2AIbdQZfO38w?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR63vvs-FzGhr1lXlpRJMKgstDHu0FcVRDHxSaI5JpvBLrmSgL37SdI14gdwH7HudylSfvS_Youb8vKCoB_JFLs4shQhfa2a1evKodWrVxXYq0f9tj3ByGJg-8LDnrQC6KQgQRCNFMweI8nbhRIN4YrPWoN3CtSdtO4vpE3ieQwOqX-XZq0nVLGbCINElcxOOzfPsOOzVLnen7HS2D-7I2k0PlZQ6-QVXUrO3lR9qlIJzJKpPenO3EakyG4?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "براك نوط تتكون من ثلاثة بحيرات وهى تقع غرب مدينة سوسة بحوالى 20 كيلومتر فى فترة سابقة تم استغلالها فى تربية بعض الطيور منها البط والدجاج الهندى .،احد بحيرات برك نوطا يبلغ قطرها 130 متر تقريبا ويصل عمقها الي 52 متر علي شكل قمع تضيق كل ما نزل الي الاسفل يوجد بها بعض من ,,اسماك اللانقويل وثعابين البحر والقريدس..... وغيرها،، مياه غير مصنفة ( حلوة او مالحة ) مزيج بين الاثنين .‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -15987,15 +15818,12 @@
         "source_index": 174,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "براك نوط تتكون من ثلاثة بحيرات وهى تقع غرب مدينة سوسة بحوالى 20 كيلومتر فى فترة سابقة تم استغلالها فى تربية بعض الطيور منها البط والدجاج الهندى .،احد بحيرات برك نوطا يبلغ قطرها 130 متر تقريبا ويصل عمقها الي 52 متر علي شكل قمع تضيق كل ما نزل الي الاسفل يوجد بها بعض من ,,اسماك اللانقويل وثعابين البحر والقريدس..... وغيرها،، مياه غير مصنفة ( حلوة او مالحة ) مزيج بين الاثنين .‎‎‎‎",
@@ -16007,8 +15835,8 @@
           "info": "فى القدم فى الحقبه الرابعه الى أرتطام نيازك مذنبه ملتهبه بالارض فأحدثت فيها ثقوبا شبه دائريه ضخمه تعرف بأسم هوى ويزيد عمق بعضها عن مائة متر كما يصل قطر بعضها الى 300 متر ومنها أبرك نوطه غرب سوسه وهوى احجرى شرق قورينا والهويات وهاتينى شمال قرية قصر ليبيا ..‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR45uAAAvhXGk5sc_7EOFomz_EQSDEUuX3AD2BgDguODmg55QTOvis6FMgdBflC3w11SCwahm_pIt6j6EfKfgJ2rXGzeLRCHNpEFr1O7oHxYpEpr2uAZL2Z8nHf2_WqQvRdh8X3749QciHg4B00yeKhrGIQYixGICdT9cntMcSPncVsiV_KwJqAmhaK1f6WbYOYwjoxYT0QjxevRZTzyR4tsYZvfnVTYIruE6FBZ60P9YFXcC7pPeew1t88?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4XCdGh-n38QHCdCI9yIFc1IFxbAh17d1JC-6YA_1cyFXIHBPJTtVGrfilWK0oe_Od5tBfprQKJkLnFqmFGlNWKt7BbZJVA19M5pLgMk2-aqMaa0inHaaB38nGiP99O9GeQdtkf7gVRe_AfXvgNcjf5-RBPQdFOrfETg4lNQfPJX0WKfIaOMgpqPNgAgS6CC2lFgX-m88JUqcie6xv3v0e3L0py0T2lnWMkMyt0J7IX_YQ2AIbdQZfO38w?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR63vvs-FzGhr1lXlpRJMKgstDHu0FcVRDHxSaI5JpvBLrmSgL37SdI14gdwH7HudylSfvS_Youb8vKCoB_JFLs4shQhfa2a1evKodWrVxXYq0f9tj3ByGJg-8LDnrQC6KQgQRCNFMweI8nbhRIN4YrPWoN3CtSdtO4vpE3ieQwOqX-XZq0nVLGbCINElcxOOzfPsOOzVLnen7HS2D-7I2k0PlZQ6-QVXUrO3lR9qlIJzJKpPenO3EakyG4?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16030,9 +15858,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6m3n9qKfxeYJh8LoPm3fG1u6hxigsw25Dbni0nre2vjD2x7SuGBFsOJ6FLoXHVkTNF4w45npZTOBVPqw3yNl8bHn3SxN90wVinazTsFgiygvc0RXaniRV2o0yUnJAiAmYq8uu0CssHdAxlJ1lvFkfIVRmbsJ6OzUM6yw3NsDpZWygtLqcmVmcqW6bTUieRm8sIqbincwBzpl86pq1PSZLRTsxqpZ-bJMAGmIkD7RbmzvTcZdDPaeTwPe0?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: شكل نصف دائري: الكهف عبارة عن مأوى صخري كارستي ضخم يرتفع سقفه لنحو 60 مترًا عن سطح الأرض.اتساع واجهته: يبلغ قطر فتحته نصف الدائرية حوالي 80 مترًا، مما يسمح بدخول الإضاءة الطبيعية والهواء بشكل ممتاز<br>التصنيف: معلم اثري طبيعي <br>x: 22.05161<br>y: 32.90016<br>city: شحات ليبيا<br>en_name: Cave.Hawa.Aftih<br>info: موطن الإنسان القديم: تعود الآثار المكتشفة داخل الكهف إلى العصور السحيقة لقبل التاريخ، حيث سكنه الإنسان منذ أكثر من 70,000 إلى 100,000 عام.بقايا Homo sapiens: عثرت البعثات الاستكشافية في خمسينيات القرن الماضي على فكوك بشرية تعود للإنسان العاقل الحديث.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR52LkpsWQEgf7JFDXZjLhLyM8pBz0c7MUTbyyH1rgFHufGtYly95NA7Uylbi8gNL5J_d1901TgJv0HQCCfpuRAwkBwLxoZldRReAfRiy1uNmnTF_EKhCGxNNFv96suHVyN9993uUW9HsrO_iCywb50f4s1vSVdKUFusfOzCXAh_ZmJkqGvgPwPouvMEizOgFaPajNe9mTrwDiqGgNgJPKbo4K0DFllX0qSD1AEW-3uFxVk42LwW9VwCuJE?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7UTKMXOA0Gf9hybXoj59kYcJ7TM_AJCEyNPSQLR54AN4R8G1HiXA39ulzM6gamlLF7fbfEcy0KDr0TKwon26lxsZKx2RvQoSKlSz6GV_NPzPbUUfkDgB_qNn1SmR6kCT-O7ANYKHaEv_GcLhA4-EEmu9XJOXf4EZ8BsV5VuHSYbe06_OWx1Hlrjb8-njSbw_ZtW-Lf_NiEUGncduFbEXUATpqCPwTG3RPZ0ILTnNdGcPPbrCqdiVIVtUE?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "شكل نصف دائري: الكهف عبارة عن مأوى صخري كارستي ضخم يرتفع سقفه لنحو 60 مترًا عن سطح الأرض.اتساع واجهته: يبلغ قطر فتحته نصف الدائرية حوالي 80 مترًا، مما يسمح بدخول الإضاءة الطبيعية والهواء بشكل ممتاز‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16040,15 +15868,12 @@
         "source_index": 175,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "شكل نصف دائري: الكهف عبارة عن مأوى صخري كارستي ضخم يرتفع سقفه لنحو 60 مترًا عن سطح الأرض.اتساع واجهته: يبلغ قطر فتحته نصف الدائرية حوالي 80 مترًا، مما يسمح بدخول الإضاءة الطبيعية والهواء بشكل ممتاز‎‎‎",
@@ -16060,8 +15885,8 @@
           "info": "موطن الإنسان القديم: تعود الآثار المكتشفة داخل الكهف إلى العصور السحيقة لقبل التاريخ، حيث سكنه الإنسان منذ أكثر من 70,000 إلى 100,000 عام.بقايا Homo sapiens: عثرت البعثات الاستكشافية في خمسينيات القرن الماضي على فكوك بشرية تعود للإنسان العاقل الحديث.‎‎‎‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6m3n9qKfxeYJh8LoPm3fG1u6hxigsw25Dbni0nre2vjD2x7SuGBFsOJ6FLoXHVkTNF4w45npZTOBVPqw3yNl8bHn3SxN90wVinazTsFgiygvc0RXaniRV2o0yUnJAiAmYq8uu0CssHdAxlJ1lvFkfIVRmbsJ6OzUM6yw3NsDpZWygtLqcmVmcqW6bTUieRm8sIqbincwBzpl86pq1PSZLRTsxqpZ-bJMAGmIkD7RbmzvTcZdDPaeTwPe0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR52LkpsWQEgf7JFDXZjLhLyM8pBz0c7MUTbyyH1rgFHufGtYly95NA7Uylbi8gNL5J_d1901TgJv0HQCCfpuRAwkBwLxoZldRReAfRiy1uNmnTF_EKhCGxNNFv96suHVyN9993uUW9HsrO_iCywb50f4s1vSVdKUFusfOzCXAh_ZmJkqGvgPwPouvMEizOgFaPajNe9mTrwDiqGgNgJPKbo4K0DFllX0qSD1AEW-3uFxVk42LwW9VwCuJE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7UTKMXOA0Gf9hybXoj59kYcJ7TM_AJCEyNPSQLR54AN4R8G1HiXA39ulzM6gamlLF7fbfEcy0KDr0TKwon26lxsZKx2RvQoSKlSz6GV_NPzPbUUfkDgB_qNn1SmR6kCT-O7ANYKHaEv_GcLhA4-EEmu9XJOXf4EZ8BsV5VuHSYbe06_OWx1Hlrjb8-njSbw_ZtW-Lf_NiEUGncduFbEXUATpqCPwTG3RPZ0ILTnNdGcPPbrCqdiVIVtUE?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16083,9 +15908,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16093,15 +15918,12 @@
         "source_index": 176,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -16112,8 +15934,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16135,9 +15957,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "natural_attraction",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5TtSBeNxxESQ4g9iI1kGGMOlFGtfbN89vif_zKNez7-tXj5aewtpCqAjL44lqPWJQR3COFehSk-s0EIsfSFAXS4lhsmvNOgZXxinKFIORVfTqut7hjFWwx8RLIF2r50agcP6bQbZ3NpUwextq5IVP4I8E-nl7IyT3eHhMyQ8vzJKSkuVAKZPcLSf9_Cc55_eyE3uDgZhXuYqRta1AaEKgK3A8ndtjjuink3xMZJtbHXC0CmJlQlotjrh8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: عين استوّة: نبع مياه عذبة شهير يتدفق طبيعياً وسط الوادي في مشاهد آسرة<br>التصنيف: وادي يحتوي على هواة <br>x: 22.09905<br>y: 32.91345<br>city: شحات ليبيا<br>en_name: Wadi Al-Mahbool<br>info: هو أحد أجمل الأودية الطبيعية وأكثرها سحراً في منطقة الجبل الأخضر بشرق ليبيا. يشتهر الوادي بطبيعته البكر وغطائه النباتي الكثيف، ويقع جغرافياً في النطاق الممتد بين مدينة شحات الأثرية ومدينة درنة، وتحديداً جنوب منطقة رأس الهلال بحوالي 11 كيلومتراً وغرب درنة بنحو 40 كيلومتراً.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5xblyjlBcsjLh_PvehvY1HZOdg7ZTcpxeS8VS3dxuvSwN1PwRoY7OJEOAR-aNTBVVk0YPx4SjPaRG7HVLtHmknYHp-SN6f5injx7ee_OLG7AoQJDJ6YUDtvCQGfKLecdMaMK54CdtyEEPihN_62yu_PB14UmsZu7m85bWjPGCDC3itdt8O9jOhWUMBEMhcCNobAHE91I3Xxksb4odnTxGxtb7Bm_MgPjQTvhJGNc_uhgZOmkZv56GEeF8?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع طبيعي",
+        "description_ar": "عين استوّة: نبع مياه عذبة شهير يتدفق طبيعياً وسط الوادي في مشاهد آسرة‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16145,15 +15967,12 @@
         "source_index": 177,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "عين استوّة: نبع مياه عذبة شهير يتدفق طبيعياً وسط الوادي في مشاهد آسرة‎",
@@ -16165,8 +15984,8 @@
           "info": "هو أحد أجمل الأودية الطبيعية وأكثرها سحراً في منطقة الجبل الأخضر بشرق ليبيا. يشتهر الوادي بطبيعته البكر وغطائه النباتي الكثيف، ويقع جغرافياً في النطاق الممتد بين مدينة شحات الأثرية ومدينة درنة، وتحديداً جنوب منطقة رأس الهلال بحوالي 11 كيلومتراً وغرب درنة بنحو 40 كيلومتراً.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5TtSBeNxxESQ4g9iI1kGGMOlFGtfbN89vif_zKNez7-tXj5aewtpCqAjL44lqPWJQR3COFehSk-s0EIsfSFAXS4lhsmvNOgZXxinKFIORVfTqut7hjFWwx8RLIF2r50agcP6bQbZ3NpUwextq5IVP4I8E-nl7IyT3eHhMyQ8vzJKSkuVAKZPcLSf9_Cc55_eyE3uDgZhXuYqRta1AaEKgK3A8ndtjjuink3xMZJtbHXC0CmJlQlotjrh8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5xblyjlBcsjLh_PvehvY1HZOdg7ZTcpxeS8VS3dxuvSwN1PwRoY7OJEOAR-aNTBVVk0YPx4SjPaRG7HVLtHmknYHp-SN6f5injx7ee_OLG7AoQJDJ6YUDtvCQGfKLecdMaMK54CdtyEEPihN_62yu_PB14UmsZu7m85bWjPGCDC3itdt8O9jOhWUMBEMhcCNobAHE91I3Xxksb4odnTxGxtb7Bm_MgPjQTvhJGNc_uhgZOmkZv56GEeF8?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16188,9 +16007,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "baths",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42Z2TzEhhjeDEtVK7eM2oBzu_03mHnYr0TwirNSFsXydf6VNTUHapyos2JDNkuI5_EMAgxBzxBj64fa0sqne9atLpURsiykCow5vxrYMtoqmta4B0_Ewjvs16bYUIBs0L3NSMZ_1SFoYDOXASA_mog3tMGhEGxWy7s1yVnLBeyh38I9XiAPcK8TwisT41vfAgSqLUPXFvCC9aRX-4hNCZOvOeUpcxY-B2V9q5SvjfzLLyMMxpFkbZ_Q8k?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: كهف صخري تتداخل فيه مياه البحر المتوسط الصافية ذات تعود تسميته تاريخياً لكونه ملاذاً طبيعياً تتخذه أسراب الحمام البري لبناء أعشاشها.اللون الفيروزي مع الصخور البيضاء والأقواس الطبيعية.<br>التصنيف: كهف طبيعي ومعلم سياحي <br>x: 22.17376<br>y: 32.91399<br>city: راس هلال شحات<br>en_name: Al-Hamam Cave (أو Pigeon Cave)<br>info: يتكون كهف الحمام بشكل رئيسي من الصخور الحجرية الجيرية النقيّة (Limestone) الكلسية الطباشيرية.تشكّل كهف الحمام عبر تداخل فريد بين عاملين جيولوجيين أساسيين:العملية الكارستية (Karstification)النحت البحري (Marine Erosion)تم اكتشافه من خاتا السكان والاهالي المحليين و اتخ>وا منه كمعلم استدلالي بحري وملاذ طبيعي للحمام البري ومصدر للمياه العذبة القريبة (مثل نبع الدبوسية القريب في الوديان",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "حمامات أثرية",
+        "description_ar": "كهف صخري تتداخل فيه مياه البحر المتوسط الصافية ذات تعود تسميته تاريخياً لكونه ملاذاً طبيعياً تتخذه أسراب الحمام البري لبناء أعشاشها.اللون الفيروزي مع الصخور البيضاء والأقواس الطبيعية.‎‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16198,15 +16017,12 @@
         "source_index": 178,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "كهف صخري تتداخل فيه مياه البحر المتوسط الصافية ذات تعود تسميته تاريخياً لكونه ملاذاً طبيعياً تتخذه أسراب الحمام البري لبناء أعشاشها.اللون الفيروزي مع الصخور البيضاء والأقواس الطبيعية.‎‎‎‎‎",
@@ -16218,8 +16034,8 @@
           "info": "يتكون كهف الحمام بشكل رئيسي من الصخور الحجرية الجيرية النقيّة (Limestone) الكلسية الطباشيرية.تشكّل كهف الحمام عبر تداخل فريد بين عاملين جيولوجيين أساسيين:العملية الكارستية (Karstification)النحت البحري (Marine Erosion)تم اكتشافه من خاتا السكان والاهالي المحليين و اتخ>وا منه كمعلم استدلالي بحري وملاذ طبيعي للحمام البري ومصدر للمياه العذبة القريبة (مثل نبع الدبوسية القريب في الوديان‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR42Z2TzEhhjeDEtVK7eM2oBzu_03mHnYr0TwirNSFsXydf6VNTUHapyos2JDNkuI5_EMAgxBzxBj64fa0sqne9atLpURsiykCow5vxrYMtoqmta4B0_Ewjvs16bYUIBs0L3NSMZ_1SFoYDOXASA_mog3tMGhEGxWy7s1yVnLBeyh38I9XiAPcK8TwisT41vfAgSqLUPXFvCC9aRX-4hNCZOvOeUpcxY-B2V9q5SvjfzLLyMMxpFkbZ_Q8k?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16241,9 +16057,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "heritage_component",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4C7fSeV2-9cQ11nWot_DyiXtyNqpJFCX2SSp9s434OnAKJ1M24TSJPqr0LwtQ6mSUHhl-fIKgf1D4wk1X68nGEw5VqF2SPw5mAs6TDCy0GnkxV71eLAOAQYYH84bjMclBNtJ3sEVINyulRQtPkX4sPfjCUz9LZftErSz7ahVVf3DecXqLlt-Ja4gs_n5X7s5wQq5rd8T1Y93Xg1j4ZpnDs8qQ6HZx4gjLMsAqK6zNK3rbFKijxepNjGtI?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>الوصف: هو مطار دولي حيوي يقع في منطقة الأبرق ببلدية شحات،<br>التصنيف: ياتا: LAQ، إيكاو: HLLQ مطار دولي وليس محلي <br>x: 21.96714<br>y: 32.7957<br>city: شحات ليبيا<br>en_name: Al Abraq International Airport <br><br><br>info: يقع على الطريق العام الرابط بين مناطق الجبل الأخضر (شرق البيضاء) ويمتد نفوذه الخدمي من منطقة البياضة غرباً إلى مدينة درنة شرقاً.تمتد مساحة المطار على 700 هكتار، وتصل طاقته الاستيعابية إلى نحو 400,000 راكب سنويًا.<br><br><img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR62QmBsvTbAUVlVkX7SDZuJy2J4wYMmO_HxHU0RWgLf5fcmrAooZlb4_sWGtOjoup3wP8vYMOl1YUxJekzg8tlqf5bMkDyNIn9_xKLNZvZ7smhM7aV9VdGLi7ccH1SZwrwoO47yu2663t6DhpnjCemQpbH7LbO8Ece4XthDyLjYjdizwSDBA-Q2bsbjN7h-nCWIzBG5s5YtChOBldm4TkcjH2IC1pbdLdUqFRbYcRX6R5uu6v8zBhB-gPA?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" />",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "منشأة سياحية",
+        "description_ar": "هو مطار دولي حيوي يقع في منطقة الأبرق ببلدية شحات،‎‎‎‎",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16251,15 +16067,12 @@
         "source_index": 179,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "هو مطار دولي حيوي يقع في منطقة الأبرق ببلدية شحات،‎‎‎‎",
@@ -16271,8 +16084,8 @@
           "info": "يقع على الطريق العام الرابط بين مناطق الجبل الأخضر (شرق البيضاء) ويمتد نفوذه الخدمي من منطقة البياضة غرباً إلى مدينة درنة شرقاً.تمتد مساحة المطار على 700 هكتار، وتصل طاقته الاستيعابية إلى نحو 400,000 راكب سنويًا.‎‎",
           "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4C7fSeV2-9cQ11nWot_DyiXtyNqpJFCX2SSp9s434OnAKJ1M24TSJPqr0LwtQ6mSUHhl-fIKgf1D4wk1X68nGEw5VqF2SPw5mAs6TDCy0GnkxV71eLAOAQYYH84bjMclBNtJ3sEVINyulRQtPkX4sPfjCUz9LZftErSz7ahVVf3DecXqLlt-Ja4gs_n5X7s5wQq5rd8T1Y93Xg1j4ZpnDs8qQ6HZx4gjLMsAqK6zNK3rbFKijxepNjGtI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR62QmBsvTbAUVlVkX7SDZuJy2J4wYMmO_HxHU0RWgLf5fcmrAooZlb4_sWGtOjoup3wP8vYMOl1YUxJekzg8tlqf5bMkDyNIn9_xKLNZvZ7smhM7aV9VdGLi7ccH1SZwrwoO47yu2663t6DhpnjCemQpbH7LbO8Ece4XthDyLjYjdizwSDBA-Q2bsbjN7h-nCWIzBG5s5YtChOBldm4TkcjH2IC1pbdLdUqFRbYcRX6R5uu6v8zBhB-gPA?authuser=0&fife=s16383"
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
@@ -16294,9 +16107,9 @@
         "parent_site_id": "WH-LY-003",
         "parent_site_name_ar": "موقع شحات الأثري – قورينا",
         "site_role": "tourism_facility",
-        "category": "heritage",
-        "subcategory": "",
-        "description_ar": "الوصف: <br>التصنيف: <br>x: <br>y: <br>city: <br>en_name: <br>info:",
+        "category": "مواقع التراث العالمي",
+        "subcategory": "موقع أثري",
+        "description_ar": "مكوّن تابع لموقع قورينا الأثري بمدينة شحات.",
         "description_en": "",
         "geometry_source": "kml",
         "source_file": "data/incoming/world-heritage-team-update.kml",
@@ -16304,15 +16117,12 @@
         "source_index": 180,
         "publication_status": "published",
         "review_status": "not_required",
-        "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
-        ],
-        "image_count": 2,
-        "image_source": "official_center_media",
-        "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "local_images": [],
+        "image_count": 0,
+        "image_source": "none_confirmed",
+        "image_owner_ar": "",
+        "image_rights_status": "not_applicable",
+        "image_review_status": "no_confirmed_image",
         "confidence": "high",
         "extended_data": {
           "الوصف": "",
@@ -16323,8 +16133,8 @@
           "en_name": "",
           "info": ""
         },
-        "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_type": "placeholder",
+        "image_match_confidence": "none"
       },
       "geometry": {
         "type": "Point",
