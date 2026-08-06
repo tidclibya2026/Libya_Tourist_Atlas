@@ -1,0 +1,262 @@
+﻿site,feature_id,name_ar,name_en,site_role,local_images_count,image_count,image_status,popup_test_status,notes
+LEPTIS,WH-MAIN-001,موقع لبدة الأثري – لبدة الكبرى – لبتس ماغنا,Archaeological Site of Leptis Magna,primary,55,55,real_images,pass,
+LEPTIS,WH-MAIN-001-C0001,بوابة أويا,Oya Gate,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0004,حمامات الصيد,Hunting Baths,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0005,منتزه لبدة السياحي,Leptis Tourist Park,component,0,0,placeholder_only,pass,
+LEPTIS,WH-MAIN-001-C0004,استراحة تازويت,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0006,قوس تابريوس,Arch of Tiberius,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0007,معبد العائلة السيفيرية,Temple of the Severan Family,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0008,قوس أنطونيوس,Arch of Antonius pius,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0009,الميدان القديم,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0010,حمامات غير مكتملة,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0011,المعبد الشرقي,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0012,شرفة مبنى عام تطل على ميدان,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0013,شرفة خلفية,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0014,نصب لميسر,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0015,المدرسة,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0016,معبد دوكيومانوس,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0017,معبد جوبيتير دوليكينوس,Temple of Jupiter Dolikinus,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0018,الميناء,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0019,المعبد الفلافي,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0020,ساحة نيرون النيروتية,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0021,مدخل الميناء في القرن الأول الميلادي,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0022,المنارة,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0023,برج الاشارة,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0024,معبد دوري,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0025,الحمامات الشرقية,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0026,المسرح,theatre of lebda,component,14,14,real_images,pass,
+LEPTIS,WH-LY-001-0027,ضريح قصر شداد,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0001,قوس سبتيموس سفيروس,Arch of Septimus severus,component,5,5,real_images,pass,
+LEPTIS,WH-LY-001-0028,قوس الإمبراطور تراجان,"___json[{""pathname"":""/LIBYA/Leptis Magna/Leptis Magna_photo/قوس الإمبراطور تراجان.jpg"",""rid"":20811883,""lid"":""4128517"",""fid"":24,""field"":""en_name"",""title"":""قوس الإمبراطور تراجان.jpg"",""ext"":""jpg"",""panorama"":false,""isDir",component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0029,ضريح زرجام,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0030,نيمافيوم,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0031,معبد جوبيتير,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0032,الجدار البيزنطي,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0033,ضريح الدويرات,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0034,متحف الفسيفساء,Museum,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0035,مقاهي واستراحة وموقف سيارات,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0036,مطعم الجرة,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0037,ساحة الرياضة (بالسترا),,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0038,متحف الفسيفساء,Museum,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0039,معبد سيرابيس,serapaeum,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0040,وادي لبدة,Wadi Lubda,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0041,مصيف الخمس,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0042,متحف لبدة,leptis Magna Museum,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0043,مطعم الجرة,al jarra restaurant,component,0,0,placeholder_only,pass,
+LEPTIS,WH-MAIN-001-C0044,قوس ماركوس أوروليوس,Arch of Marcus Aurilus,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0044,حمامات هادريان,Hadrian's Baths,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0045,الساحة السيفيرية,forum of severus,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0046,البوابة البيزنطية,Porta Bizantina,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0047,باسيلقا سيفيروس,Bacillca of SeverusSeveran Basilica,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0048,السوق الرومانية,Romanian Market,component,1,1,real_images,pass,
+LEPTIS,WH-LY-001-0049,Christian church,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-LY-001-0002,المسرح الروماني الخمس _ ليبيا,Roman Theatre of Leptis Magna,component,14,14,real_images,pass,
+LEPTIS,WH-LY-001-0050,ميدان السباق,,component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0001,مسرح لبدة,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0002,Basilica of Severus,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0003,"Leptis Magna, Hunting Baths",,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0004,Curia,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0005,زايد السياحي,,tourism_facility,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0006,"Leptis Magna, Temple to unknown divinity on the Decumanus",,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0007,Hercules Temple,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0008,Old Basilica,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0009,Arch of Septimius Severus,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0010,كافي الجرة,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0011,Arch of Marcus Aurelius,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0012,Roma & Augustus temple,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0013,Liber Pater temple,,heritage_component,0,0,placeholder_only,pass,
+LEPTIS,WH-TEAM-0014,Old Forum Church,,religious_site,0,0,placeholder_only,pass,
+SABRATHA,WH-WORLD-C0001,موقع صبراتة الأثري,Archaeological Site of Sabratha,primary,4,4,real_images,pass,
+SABRATHA,WH-LY-002-C0001,شارع الآثار,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0002,ريجيو السادس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0003,البوابة البيزنطية الجنوبية,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0004,المعبد الإنطوائي,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0005,نافورة فلافيوس تولوس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0006,الميدان الفورم,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0007,ديوان القضاء البازيليكا,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0008,المبنى المصلب,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0009,مبنى المجلس كابيتيليوم,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0010,بازيليكا جستنينيان,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0011,منزل بروقان,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0012,البوابة البيزنطية الشرقية,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0013,الكنائس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0014,حمامات أوفانيوس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0015,نصيب سيفران,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0016,بيت بيريستايل,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0017,حمامات ريجيو السابع,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0018,مقابر مسيحية تحت الأرض,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0019,متحف روماني,,component,2,2,real_images,pass,
+SABRATHA,WH-LY-002-C0020,المتحف البونيقي,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0021,المسرح الروماني المدرج,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0022,معبد ايزيس وإيزوريس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0023,صبراتة القديمة ليبرتون,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0024,Antonine Temple,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0025,The Punic Tombs,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0026,كوريا (مجلس الشيوخ),,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0027,كنيسة جستنيان,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0028,معبد سيرابيس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0029,معبد ليبر باتر,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0030,معبد الفوروم الجنوبي,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0031,حوض المعمودية,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0032,معبد سيرابيس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0033,حوض المعمودية,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0034,Serapaeum (Sabratha,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0035,معبد الكابيتول يوم,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0036,حمامات بوسيدون,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0037,معبد هرقل,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0038,معبد ايزيس واوزوريس,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0039,حمامات المسرح,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0040,المراحيض العامة,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0041,اثار صبراته,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0042,مسرح صبراته الأثري,,component,8,8,real_images,pass,
+SABRATHA,WH-LY-002-C0043,الضريح البونيقي,,component,2,2,real_images,pass,
+SABRATHA,WH-LY-002-C0044,,,component,0,0,placeholder_only,pass,
+SABRATHA,WH-LY-002-C0045,الامفيثياتر,,component,2,2,real_images,pass,
+SABRATHA,WH-LY-002-C0046,مدينة أبروتون التاريخية,,component,0,0,placeholder_only,pass,
+CYRENE,WH-WORLD-C0002,موقع قورينا الأثري – شحات,Archaeological Site of Cyrene,primary,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0001,مسرح شحات الاثري,Archaeological Theater of cyrene,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0002,متحف المنحوتات,Shahhat Museum,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0003,الحمامات الاغريقية,Greek Baths,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0004,المجلس المحلي شحات,Municipality of Shahat,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0005,آثار قورينا,The Ruins of Cyrene,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0006,المسجد القديم,The old Mosque,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0007,منتزة شحات,park of Shahat,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0008,كهف يقع جنوب شرق مدينة شحات,Cave,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0009,مسرح3,Theatre,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0010,سيزاريوم/ساحة بروكولوس المحيطة بالأروقة…,Caesareum,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0011,غابة شحات,Shahat Forest,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0012,هوا القاطر,Hwa El Gater,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0013,مسرح شحات,Theatre of cyrene,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0014,مقابر منحوتة في الصخر,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0015,هوا احجري,HWA Ahjiri,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0016,نبع أبولو,Fountain of Apollo,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0017,شلال شحات,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0018,مدافن محفورة في الجبل,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0019,معبد الكابيتوليوم,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0020,اعمدة اثار شحات الخالدة,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0021,معبد زيوس في قورينا,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0022,السوق اليوناني القديم اغورا,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0023,Byzantine basilica,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0024,شلال الدبوسية,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0025,شلال رأس الهلال بافلو,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0026,شلال بالفو,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0027,Cyrene cemetery,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-LY-003-C0028,بحيرة براك نوطا,,component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0015,فندق التلال الوسيطة..,Middle Hills Hotel,accommodation,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0016,أثار جنوب قورينا,South Cyrene ruins,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0017,وادي بومليو,wadi bumilyu,natural_attraction,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0018,عين الحفرة,Ain Al-Hufrah,natural_attraction,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0019,عقر بوالنعاس,Bu Na'as Mountain Pass,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0020,مخطط بومليحة السياحي,,tourism_facility,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0021,هوا بوثن,Hawa Buthan او Bothan Cave,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0022,مطل القلعة,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0023,المناقير,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0024,كاف الخروبة,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0025,كهف عبدالله بوخطاب,Abdullah Bin Al-Khattab Cave,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0026,هواء هيتيني,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0027,النصب التذكاري لموسوليني,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0028,منتجع بقراوة للالعاب والسياحية,,tourism_facility,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0029,العويلية,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0030,وادي الحميرة,,natural_attraction,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0031,قصر بوغسال,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0032,متحف فسيفساء قصر ليبيا,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0033,زاوية العرقوب,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0034,قصر المقدم,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0035,كهف العودة,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0036,كهف الخزعلية,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0037,مسجد انس بن مالك - باندس,,religious_site,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0038,وادي ابطين الغزال,,natural_attraction,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0039,كاف طماش,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0040,كاف مسته,,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0041,شط الرملة,Shatt Ar Ramlah,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0042,قرية التلال السياحية الحمامة,AlTelal Tourist Resort & Hotel,tourism_facility,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0043,منتجع ومصيف الحمامة,Al Hamama Beach Resort,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0044,احواض السكميتو- القلعة الغارقة,Submerged Slipways و The Submerged Ancient Port,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0045,.برك نوطا,Birak Nuta Lakes,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0046,كهف هوا فطيح.,Cave.Hawa.Aftih,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0047,استراحات(امواج ),,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0048,وادي المهبول,Wadi Al-Mahbool,natural_attraction,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0049,كهف الحمام,Al-Hamam Cave (أو Pigeon Cave),heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0050,مطار الأبرق الدولي,Al Abraq International Airport,heritage_component,2,2,real_images,pass,priority site-general linkage
+CYRENE,WH-TEAM-0051,استراحة محمد بو عبدالعالي,,tourism_facility,2,2,real_images,pass,priority site-general linkage
+GHADAMES,WH-WORLD-C0004,مدينة غدامس القديمة,Old Town of Ghadames,primary,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0001,بحيرة عين الذبان,buhayrat eayn aldhaban,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0002,المسجد العتيق,aljamie aleatiq,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0003,جبل الصحابة أو رأس الغولة,jabal alsahabat 'aw ras alghulati,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0004,عين الفرس,euyin alfurs,component,1,1,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0005,برج مراقبة قديم,burj muraqibat qadim,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0006,تمسمودسن,The remains of Tamasmoudin,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0007,جامع يونس,Yunus Mosque,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0008,واحة تومس_غابات النخيل,Ghadames forests,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0009,مدرسة تيلوان,Telwan School,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0010,مدينة غدامس القديمة,Ghadames old town,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0011,متحف غدامس,museum ghadames,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0012,البيت التراثي- دان دون يونس,albayt alturathiu,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0013,مقهى توجدة,tojada cafe,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0014,القادوس,qados,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0015,مسجد السنوسية,masjid alsanusia,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0016,عين تالة,ain tala,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0017,بيت الحبيب بن عز الدين للثقافة,habib ben ezzedine house of culture,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0018,جامع عون الله,jamie eaun allah,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0019,مسجد سيدي عمران,Sidi - Umrane Mosque,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0020,مقبرة سيدي البدري,Sidi Badri Cemetery,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0021,فندق باب الفتح,Hotel Bab Al-Fatah,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0022,قرية تونين,Tonin village,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0023,فندق بن يدر,ben yedder hotel,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0024,مسجد الظهرة,aldahra mosque,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0025,الحوش الغدامسي,alhawsh alghadamsi,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0026,فندق عين الفرس,Ain Alfaras Hotel,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0027,المقبرة الغربية,"Western cemetery, Ghadames city",component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-LY-005-C0028,مسجد حي السلام,hay alsalam mosque,component,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-TEAM-0052,فندق نجوم غدامس,nojoom ghadames hotel,accommodation,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-TEAM-0053,فندق جوهرة الواحة غدامس,jewel of the oasis hotel ghadamas,accommodation,4,4,real_images,pass,priority site-general linkage
+GHADAMES,WH-TEAM-0054,مسجد عقبة بن عمر,,religious_site,4,4,real_images,pass,priority site-general linkage
+AKAKUS,WH-WORLD-C0003,مواقع تادرارت أكاكوس الصخرية,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0001,البركت غات,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0002,مستشفى البركت,brakt hospital,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0003,مسجد الصحابة,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0004,منتزه تهالة,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0005,منطقة تهالة,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0006,المدينة القديمة غات,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0007,مستشفى غات العام,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0008,معبر تخرخوري,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0009,تهالة,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0010,منتجع إين أزان,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0011,قرية إيسين,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0012,مسجد العتيق,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0013,مطار غات الدولي,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0014,المجلس البلدي غات,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0015,النصب التذكاري لمعركة ايسين,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0016,قوس تنخليقة,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0017,القرية الجرمنتية تان افلا,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0018,فندق المهاري,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0019,منتجع وانتميضي البركت,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0020,المسجد الكبير,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0021,قلعة غات(كوكمن),,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0022,جبال أكاكوس,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0023,اغرم نظاريف,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0024,المدينة القديمة البركت ( اغرم ),,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0025,قلعة ''سردليس''العوينات,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0026,وادي تشوينات,wadi teshuinat,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0027,Wadi Teshuinat,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0028,وادي تاكاركوري,wadi takarkori,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0029,اوان اميل,Uan Amil,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0030,اوان موهوجياج,Uan Muhuggiag,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0031,منطقة الرسوم الصخرية,Rock Art Area,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0032,منطقة الاقواس والتكوينات الصخرية,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0033,جبال اكوكاس,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0034,جبال تادرارت أكوكاس,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0035,وادي آويس,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0036,قوس تنسو,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0037,وادي تاهرمت,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0038,تانسو,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0039,وادي تنسو,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0040,Kaf Ajnon كاف الجنون,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0041,وادي اغلاد,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0042,البئر الساخن,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0043,صخرة آضاد,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0044,تيرجيت,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0045,جبل تجيجيت,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0046,تيغجمين ان كيل تارات,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0047,البيت الاجتماعي آدرار,,component,0,0,placeholder_only,pass,
+AKAKUS,WH-LY-004-C0048,تين زلغـــــــــــــــان,,component,0,0,placeholder_only,pass,
