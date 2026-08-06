@@ -186,6 +186,29 @@ main {
   margin-top: 3px;
 }
 
+.layer-count-badge {
+  display: inline-block;
+  min-width: 28px;
+  margin-top: 4px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: #eef3f9;
+  color: #44566f;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.popup-data-review-warning {
+  margin: 8px 0;
+  padding: 7px 9px;
+  border-inline-start: 3px solid #d97706;
+  border-radius: 6px;
+  background: #fffbeb;
+  color: #92400e;
+  font-size: 12px;
+}
+
 .switch {
   position: relative;
   width: 38px;

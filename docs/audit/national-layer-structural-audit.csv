@@ -1,0 +1,6 @@
+﻿layer_id,layer_file,feature_count,point_count,polygon_count,geometry_collection_count,empty_names,duplicate_ids,invalid_geometries,outside_libya,raw_html_records,private_path_records,broken_local_images,remote_image_references,review_required_count,audit_status,notes
+hotels,data/layers/hotels.geojson,572,572,0,0,0,0,0,0,0,0,0,239,5,PASS,No features changed or deleted.
+tripoliRestaurants,data/layers/tripoli-restaurants.geojson,75,75,0,0,0,0,0,0,0,0,0,71,10,PASS,No features changed or deleted.
+tripoliCafes,data/layers/tripoli-cafes.geojson,404,404,0,0,0,0,0,0,0,0,0,6,403,PASS,No features changed or deleted.
+resorts,data/layers/tourist-villages-resorts.geojson,262,262,0,0,0,0,0,0,0,0,0,89,100,PASS,No features changed or deleted.
+investment,data/layers/tourism-investment-projects.geojson,673,533,140,0,0,0,0,0,0,0,0,274,158,PASS,No features changed or deleted.

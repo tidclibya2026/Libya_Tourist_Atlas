@@ -1,0 +1,108 @@
+﻿field,code,label_ar,label_en,layers_using_code,feature_count,status,recommended_standard_code,notes
+category,الإيواء السياحي,,,hotels,572,observed_consistent,الإيواء السياحي,Observed value; no automatic normalization.
+category,الطعام والشراب,,,tripoliCafes|tripoliRestaurants,479,observed_consistent,الطعام والشراب,Observed value; no automatic normalization.
+category,القرى والمنتجعات السياحية,,,resorts,262,observed_consistent,القرى والمنتجعات السياحية,Observed value; no automatic normalization.
+category,المشاريع وفرص الاستثمار السياحي,,,investment,673,observed_consistent,المشاريع وفرص الاستثمار السياحي,Observed value; no automatic normalization.
+subcategory_ar,بيت شاي,,,tripoliCafes,1,observed_consistent,بيت شاي,Observed value; no automatic normalization.
+subcategory_ar,تحتاج مراجعة,,,hotels|investment|resorts|tripoliCafes|tripoliRestaurants,403,observed_consistent,تحتاج مراجعة,Observed value; no automatic normalization.
+subcategory_ar,توسعة مشروع قائم,,,investment,1,observed_consistent,توسعة مشروع قائم,Observed value; no automatic normalization.
+subcategory_ar,حلويات,,,tripoliRestaurants,1,observed_consistent,حلويات,Observed value; no automatic normalization.
+subcategory_ar,شقق فندقية,,,hotels,50,observed_consistent,شقق فندقية,Observed value; no automatic normalization.
+subcategory_ar,عصائر,,,tripoliCafes,7,observed_consistent,عصائر,Observed value; no automatic normalization.
+subcategory_ar,فرصة استثمارية,,,investment,1,observed_consistent,فرصة استثمارية,Observed value; no automatic normalization.
+subcategory_ar,فندق,,,hotels,441,observed_consistent,فندق,Observed value; no automatic normalization.
+subcategory_ar,قرية سياحية,,,hotels|resorts,51,observed_consistent,قرية سياحية,Observed value; no automatic normalization.
+subcategory_ar,قهوة مختصة,,,tripoliCafes,2,observed_consistent,قهوة مختصة,Observed value; no automatic normalization.
+subcategory_ar,مثلجات وآيس كريم,,,tripoliCafes,5,observed_consistent,مثلجات وآيس كريم,Observed value; no automatic normalization.
+subcategory_ar,مجمع سياحي,,,resorts,1,observed_consistent,مجمع سياحي,Observed value; no automatic normalization.
+subcategory_ar,مشروع فندقي,,,investment,395,observed_consistent,مشروع فندقي,Observed value; no automatic normalization.
+subcategory_ar,مشروع منتجع سياحي,,,investment,119,observed_consistent,مشروع منتجع سياحي,Observed value; no automatic normalization.
+subcategory_ar,مطعم,,,tripoliRestaurants,19,observed_consistent,مطعم,Observed value; no automatic normalization.
+subcategory_ar,مطعم أسماك ومأكولات بحرية,,,tripoliRestaurants,2,observed_consistent,مطعم أسماك ومأكولات بحرية,Observed value; no automatic normalization.
+subcategory_ar,مطعم دولي,,,tripoliRestaurants,14,observed_consistent,مطعم دولي,Observed value; no automatic normalization.
+subcategory_ar,مطعم شعبي أو تقليدي,,,tripoliRestaurants,9,observed_consistent,مطعم شعبي أو تقليدي,Observed value; no automatic normalization.
+subcategory_ar,مطعم ومقهى,,,tripoliCafes|tripoliRestaurants,9,observed_consistent,مطعم ومقهى,Observed value; no automatic normalization.
+subcategory_ar,مقهى,,,tripoliCafes,193,observed_consistent,مقهى,Observed value; no automatic normalization.
+subcategory_ar,مقهى شعبي أو تقليدي,,,tripoliCafes,6,observed_consistent,مقهى شعبي أو تقليدي,Observed value; no automatic normalization.
+subcategory_ar,مقهى وحلويات,,,tripoliCafes,16,observed_consistent,مقهى وحلويات,Observed value; no automatic normalization.
+subcategory_ar,مقهى وقهوة,,,tripoliCafes,38,observed_consistent,مقهى وقهوة,Observed value; no automatic normalization.
+subcategory_ar,مقهى يقدم الشيشة,,,tripoliCafes,1,observed_consistent,مقهى يقدم الشيشة,Observed value; no automatic normalization.
+subcategory_ar,منتجع سياحي,,,hotels|resorts,59,observed_consistent,منتجع سياحي,Observed value; no automatic normalization.
+subcategory_ar,منتجع شاطئي,,,resorts,4,observed_consistent,منتجع شاطئي,Observed value; no automatic normalization.
+subcategory_ar,منتجع عائلي,,,resorts,34,observed_consistent,منتجع عائلي,Observed value; no automatic normalization.
+subcategory_ar,منشأة سياحية أخرى,,,resorts,25,observed_consistent,منشأة سياحية أخرى,Observed value; no automatic normalization.
+subcategory_ar,منشأة طعام أخرى,,,tripoliRestaurants,3,observed_consistent,منشأة طعام أخرى,Observed value; no automatic normalization.
+subcategory_ar,نزل,,,hotels,60,observed_consistent,نزل,Observed value; no automatic normalization.
+subcategory_ar,وجبات سريعة,,,tripoliRestaurants,16,observed_consistent,وجبات سريعة,Observed value; no automatic normalization.
+subcategory_en,Apartment hotel,,,hotels,50,observed_consistent,Apartment hotel,Observed value; no automatic normalization.
+subcategory_en,Beach resort,,,resorts,4,observed_consistent,Beach resort,Observed value; no automatic normalization.
+subcategory_en,Cafe,,,tripoliCafes,193,observed_consistent,Cafe,Observed value; no automatic normalization.
+subcategory_en,Cafe restaurant,,,tripoliCafes|tripoliRestaurants,9,observed_consistent,Cafe restaurant,Observed value; no automatic normalization.
+subcategory_en,Coffee shop,,,tripoliCafes,38,observed_consistent,Coffee shop,Observed value; no automatic normalization.
+subcategory_en,Dessert cafe,,,tripoliCafes,16,observed_consistent,Dessert cafe,Observed value; no automatic normalization.
+subcategory_en,Dessert shop,,,tripoliRestaurants,1,observed_consistent,Dessert shop,Observed value; no automatic normalization.
+subcategory_en,Existing project expansion,,,investment,1,observed_consistent,Existing project expansion,Observed value; no automatic normalization.
+subcategory_en,Family resort,,,resorts,34,observed_consistent,Family resort,Observed value; no automatic normalization.
+subcategory_en,Fast food,,,tripoliRestaurants,16,observed_consistent,Fast food,Observed value; no automatic normalization.
+subcategory_en,Hostel,,,hotels,60,observed_consistent,Hostel,Observed value; no automatic normalization.
+subcategory_en,Hotel,,,hotels,441,observed_consistent,Hotel,Observed value; no automatic normalization.
+subcategory_en,Hotel project,,,investment,395,observed_consistent,Hotel project,Observed value; no automatic normalization.
+subcategory_en,Ice cream shop,,,tripoliCafes,5,observed_consistent,Ice cream shop,Observed value; no automatic normalization.
+subcategory_en,International restaurant,,,tripoliRestaurants,14,observed_consistent,International restaurant,Observed value; no automatic normalization.
+subcategory_en,Investment opportunity,,,investment,1,observed_consistent,Investment opportunity,Observed value; no automatic normalization.
+subcategory_en,Juice bar,,,tripoliCafes,7,observed_consistent,Juice bar,Observed value; no automatic normalization.
+subcategory_en,Other food establishment,,,tripoliRestaurants,3,observed_consistent,Other food establishment,Observed value; no automatic normalization.
+subcategory_en,Other tourism accommodation,,,resorts,25,observed_consistent,Other tourism accommodation,Observed value; no automatic normalization.
+subcategory_en,Resort,,,hotels,11,observed_consistent,Resort,Observed value; no automatic normalization.
+subcategory_en,Restaurant,,,tripoliRestaurants,19,observed_consistent,Restaurant,Observed value; no automatic normalization.
+subcategory_en,Review required,,,hotels|investment|resorts|tripoliCafes|tripoliRestaurants,403,observed_consistent,Review required,Observed value; no automatic normalization.
+subcategory_en,Seafood restaurant,,,tripoliRestaurants,2,observed_consistent,Seafood restaurant,Observed value; no automatic normalization.
+subcategory_en,Shisha cafe,,,tripoliCafes,1,observed_consistent,Shisha cafe,Observed value; no automatic normalization.
+subcategory_en,Specialty coffee,,,tripoliCafes,2,observed_consistent,Specialty coffee,Observed value; no automatic normalization.
+subcategory_en,Tea house,,,tripoliCafes,1,observed_consistent,Tea house,Observed value; no automatic normalization.
+subcategory_en,Tourism resort project,,,investment,119,observed_consistent,Tourism resort project,Observed value; no automatic normalization.
+subcategory_en,Tourist complex,,,resorts,1,observed_consistent,Tourist complex,Observed value; no automatic normalization.
+subcategory_en,Tourist resort,,,resorts,48,observed_consistent,Tourist resort,Observed value; no automatic normalization.
+subcategory_en,Tourist village,,,hotels|resorts,51,observed_consistent,Tourist village,Observed value; no automatic normalization.
+subcategory_en,Traditional cafe,,,tripoliCafes,6,observed_consistent,Traditional cafe,Observed value; no automatic normalization.
+subcategory_en,Traditional restaurant,,,tripoliRestaurants,9,observed_consistent,Traditional restaurant,Observed value; no automatic normalization.
+facility_type_code,accommodation_resort_other,منشأة سياحية أخرى,Other tourism accommodation,resorts,25,observed_consistent,accommodation_resort_other,Observed value; no automatic normalization.
+facility_type_code,apartment_hotel,شقق فندقية,Apartment hotel,hotels,50,observed_consistent,apartment_hotel,Observed value; no automatic normalization.
+facility_type_code,beach_resort,منتجع شاطئي,Beach resort,resorts,4,observed_consistent,beach_resort,Observed value; no automatic normalization.
+facility_type_code,cafe,مقهى,Cafe,tripoliCafes,193,observed_consistent,cafe,Observed value; no automatic normalization.
+facility_type_code,cafe_restaurant,مطعم ومقهى,Cafe restaurant,tripoliCafes|tripoliRestaurants,9,observed_consistent,cafe_restaurant,Observed value; no automatic normalization.
+facility_type_code,coffee_shop,مقهى وقهوة,Coffee shop,tripoliCafes,38,observed_consistent,coffee_shop,Observed value; no automatic normalization.
+facility_type_code,dessert_cafe,مقهى وحلويات,Dessert cafe,tripoliCafes,16,observed_consistent,dessert_cafe,Observed value; no automatic normalization.
+facility_type_code,dessert_shop,حلويات,Dessert shop,tripoliRestaurants,1,observed_consistent,dessert_shop,Observed value; no automatic normalization.
+facility_type_code,family_resort,منتجع عائلي,Family resort,resorts,34,observed_consistent,family_resort,Observed value; no automatic normalization.
+facility_type_code,fast_food,وجبات سريعة,Fast food,tripoliRestaurants,16,observed_consistent,fast_food,Observed value; no automatic normalization.
+facility_type_code,hostel,نزل,Hostel,hotels,60,observed_consistent,hostel,Observed value; no automatic normalization.
+facility_type_code,hotel,فندق,Hotel,hotels,441,observed_consistent,hotel,Observed value; no automatic normalization.
+facility_type_code,ice_cream_shop,مثلجات وآيس كريم,Ice cream shop,tripoliCafes,5,observed_consistent,ice_cream_shop,Observed value; no automatic normalization.
+facility_type_code,international_restaurant,مطعم دولي,International restaurant,tripoliRestaurants,14,observed_consistent,international_restaurant,Observed value; no automatic normalization.
+facility_type_code,juice_bar,عصائر,Juice bar,tripoliCafes,7,observed_consistent,juice_bar,Observed value; no automatic normalization.
+facility_type_code,resort,منتجع سياحي,Resort,hotels,11,observed_consistent,resort,Observed value; no automatic normalization.
+facility_type_code,restaurant,مطعم,Restaurant,tripoliRestaurants,19,observed_consistent,restaurant,Observed value; no automatic normalization.
+facility_type_code,restaurant_other,منشأة طعام أخرى,Other food establishment,tripoliRestaurants,3,observed_consistent,restaurant_other,Observed value; no automatic normalization.
+facility_type_code,review_required,تحتاج مراجعة,Review required,hotels|resorts|tripoliCafes|tripoliRestaurants,246,institutional_review,review_required,Observed value; no automatic normalization.
+facility_type_code,seafood_restaurant,مطعم أسماك ومأكولات بحرية,Seafood restaurant,tripoliRestaurants,2,observed_consistent,seafood_restaurant,Observed value; no automatic normalization.
+facility_type_code,shisha_cafe,مقهى يقدم الشيشة,Shisha cafe,tripoliCafes,1,observed_consistent,shisha_cafe,Observed value; no automatic normalization.
+facility_type_code,specialty_coffee,قهوة مختصة,Specialty coffee,tripoliCafes,2,observed_consistent,specialty_coffee,Observed value; no automatic normalization.
+facility_type_code,tea_house,بيت شاي,Tea house,tripoliCafes,1,observed_consistent,tea_house,Observed value; no automatic normalization.
+facility_type_code,tourist_complex,مجمع سياحي,Tourist complex,resorts,1,observed_consistent,tourist_complex,Observed value; no automatic normalization.
+facility_type_code,tourist_resort,منتجع سياحي,Tourist resort,resorts,48,observed_consistent,tourist_resort,Observed value; no automatic normalization.
+facility_type_code,tourist_village,قرية سياحية,Tourist village,hotels|resorts,51,observed_consistent,tourist_village,Observed value; no automatic normalization.
+facility_type_code,traditional_cafe,مقهى شعبي أو تقليدي,Traditional cafe,tripoliCafes,6,observed_consistent,traditional_cafe,Observed value; no automatic normalization.
+facility_type_code,traditional_restaurant,مطعم شعبي أو تقليدي,Traditional restaurant,tripoliRestaurants,9,observed_consistent,traditional_restaurant,Observed value; no automatic normalization.
+investment_type_code,existing_project_expansion,توسعة مشروع قائم,Existing project expansion,investment,1,observed_consistent,existing_project_expansion,Observed value; no automatic normalization.
+investment_type_code,hotel_project,مشروع فندقي,Hotel project,investment,395,observed_consistent,hotel_project,Observed value; no automatic normalization.
+investment_type_code,investment_opportunity,فرصة استثمارية,Investment opportunity,investment,1,observed_consistent,investment_opportunity,Observed value; no automatic normalization.
+investment_type_code,resort_project,مشروع منتجع سياحي,Tourism resort project,investment,119,observed_consistent,resort_project,Observed value; no automatic normalization.
+investment_type_code,review_required,تحتاج مراجعة,Review required,investment,157,institutional_review,review_required,Observed value; no automatic normalization.
+project_status_code,expansion,توسعة مشروع قائم,Existing project expansion,investment,1,observed_consistent,expansion,Observed value; no automatic normalization.
+project_status_code,unknown,تحتاج مراجعة | فرصة استثمارية | مشروع فندقي | مشروع منتجع سياحي,Hotel project | Investment opportunity | Review required | Tourism resort project,investment,672,institutional_review,unknown,Observed value; no automatic normalization.
+data_quality_status,high,,,hotels,161,observed_consistent,high,Observed value; no automatic normalization.
+data_quality_status,low,,,hotels|investment|resorts|tripoliCafes|tripoliRestaurants,1272,observed_consistent,low,Observed value; no automatic normalization.
+data_quality_status,medium,,,hotels|resorts|tripoliCafes|tripoliRestaurants,553,observed_consistent,medium,Observed value; no automatic normalization.
+data_review_status,integrated,,,hotels|investment|resorts|tripoliCafes|tripoliRestaurants,1310,observed_consistent,integrated,Observed value; no automatic normalization.
+data_review_status,review_required,,,hotels|investment|resorts|tripoliCafes|tripoliRestaurants,676,institutional_review,review_required,Observed value; no automatic normalization.
