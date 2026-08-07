@@ -1,8 +1,8 @@
 ﻿layer_id,feature_count,features_with_images,features_without_images,primary_images,gallery_images,total_linked_images,layer_context_images,coverage_percentage
-heritage,261,19,242,5,55,55,0,7.28
-akakus,196,43,153,0,94,94,0,21.94
-oldTripoli,135,114,21,0,484,484,0,84.44
-hotels,528,230,298,0,791,791,0,43.56
+heritage,261,19,242,19,53,55,0,7.28
+akakus,196,43,153,43,94,94,0,21.94
+oldTripoli,135,114,21,114,484,484,0,84.44
+hotels,528,230,298,230,791,791,0,43.56
 resorts,262,0,262,0,0,0,0,0.0
 tourism-villages,262,0,262,0,0,0,0,0.0
 tripoliRestaurants,75,0,75,0,0,0,0,0.0
