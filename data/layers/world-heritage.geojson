@@ -95,12 +95,23 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "technically_valid_pending_visual_verification",
+        "image_link_status": "runtime_linked_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
         "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_correction_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1",
+        "primary_image_candidate": "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-D5179154990536A1"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
       }
     },
     {
@@ -186,12 +197,23 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "technically_valid_pending_visual_verification",
+        "image_link_status": "runtime_linked_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
         "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_correction_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1",
+        "primary_image_candidate": "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-EB3970495DD0618E"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
       }
     },
     {
@@ -248,12 +270,23 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "technically_valid_pending_visual_verification",
+        "image_link_status": "runtime_linked_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
         "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_correction_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1",
+        "primary_image_candidate": "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-78BA295438D199F4"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
       }
     },
     {
@@ -2174,12 +2207,23 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "technically_valid_pending_visual_verification",
+        "image_link_status": "runtime_linked_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
         "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_correction_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1",
+        "primary_image_candidate": "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-02D99FA57565D0E7"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
       }
     },
     {
@@ -3724,12 +3768,23 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "technically_valid_pending_visual_verification",
+        "image_link_status": "runtime_linked_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
         "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_correction_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1",
+        "primary_image_candidate": "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-6EC30511C574D4E7"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
       }
     },
     {

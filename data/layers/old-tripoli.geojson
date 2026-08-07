@@ -1,0 +1,4585 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000001",
+      "properties": {
+        "id": "LY-TRI-000001",
+        "name_ar": "متحف السرايا الحمراء",
+        "name_en": "متحف السرايا الحمراء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 0,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1807868,
+          32.8958861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000002",
+      "properties": {
+        "id": "LY-TRI-000002",
+        "name_ar": "قلعة السرايا الحمراء",
+        "name_en": "قلعة السرايا الحمراء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 1,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1805473,
+          32.8960003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000003",
+      "properties": {
+        "id": "LY-TRI-000003",
+        "name_ar": "بحيرة السرايا الحمراء",
+        "name_en": "بحيرة السرايا الحمراء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 2,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.181027,
+          32.897264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000004",
+      "properties": {
+        "id": "LY-TRI-000004",
+        "name_ar": "قوس ماركوس اوريليوس",
+        "name_en": "قوس ماركوس اوريليوس",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 3,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000004/LY-TRI-000004__primary__01__AE5715AC1422__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000004/LY-TRI-000004__primary__01__AE5715AC1422__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000004/LY-TRI-000004__primary__01__AE5715AC1422__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-473CAE5715AC1422"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1759973,
+          32.9000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000005",
+      "properties": {
+        "id": "LY-TRI-000005",
+        "name_ar": "حصن القديس يعقوب (السرايا الحمراء)",
+        "name_en": "حصن القديس يعقوب (السرايا الحمراء)",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 4,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179828,
+          32.8962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000006",
+      "properties": {
+        "id": "LY-TRI-000006",
+        "name_ar": "برج \"القديس جورج\"",
+        "name_en": "برج \"القديس جورج\"",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 5,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180496,
+          32.895227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000007",
+      "properties": {
+        "id": "LY-TRI-000007",
+        "name_ar": "برج الساعة",
+        "name_en": "برج الساعة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 6,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179058,
+          32.896196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000008",
+      "properties": {
+        "id": "LY-TRI-000008",
+        "name_ar": "المكتبة الطرابلسية",
+        "name_en": "المكتبة الطرابلسية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 7,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176059,
+          32.898942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000009",
+      "properties": {
+        "id": "LY-TRI-000009",
+        "name_ar": "الكنيسة الأرتذوكسية",
+        "name_en": "الكنيسة الأرتذوكسية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 8,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175939,
+          32.898896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000010",
+      "properties": {
+        "id": "LY-TRI-000010",
+        "name_ar": "كنيسة السيدة مريم",
+        "name_en": "كنيسة السيدة مريم",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 9,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175719,
+          32.898236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000011",
+      "properties": {
+        "id": "LY-TRI-000011",
+        "name_ar": "المعبد اليهودي",
+        "name_en": "المعبد اليهودي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 10,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172696,
+          32.897088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000012",
+      "properties": {
+        "id": "LY-TRI-000012",
+        "name_ar": "مدرسة عثمان باشا الساقزلي",
+        "name_en": "مدرسة عثمان باشا الساقزلي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 11,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176432,
+          32.898813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000013",
+      "properties": {
+        "id": "LY-TRI-000013",
+        "name_ar": "قوس الصرارعي",
+        "name_en": "قوس الصرارعي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 12,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000013/LY-TRI-000013__primary__01__A4A0542B93A1__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000013/LY-TRI-000013__primary__01__A4A0542B93A1__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000013/LY-TRI-000013__primary__01__A4A0542B93A1__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-F337A4A0542B93A1"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178123,
+          32.8945834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000014",
+      "properties": {
+        "id": "LY-TRI-000014",
+        "name_ar": "حوش الصابون",
+        "name_en": "حوش الصابون",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 13,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174893,
+          32.89726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000015",
+      "properties": {
+        "id": "LY-TRI-000015",
+        "name_ar": "محطة سيارات أجرة بين المدن",
+        "name_en": "محطة سيارات أجرة بين المدن",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 14,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172672,
+          32.894993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000016",
+      "properties": {
+        "id": "LY-TRI-000016",
+        "name_ar": "مسرح \"البولتياما",
+        "name_en": "مسرح \"البولتياما",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 15,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.177918,
+          32.897574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000017",
+      "properties": {
+        "id": "LY-TRI-000017",
+        "name_ar": "دار البارود",
+        "name_en": "دار البارود",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 16,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000017/LY-TRI-000017__primary__01__4B1252F2B117__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000017/LY-TRI-000017__primary__01__4B1252F2B117__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000017/LY-TRI-000017__primary__01__4B1252F2B117__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-73034B1252F2B117"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180056,
+          32.894734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000018",
+      "properties": {
+        "id": "LY-TRI-000018",
+        "name_ar": "الحنفية (الشيشمة) العثمانية",
+        "name_en": "الحنفية (الشيشمة) العثمانية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 17,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000018/LY-TRI-000018__primary__01__25E917C50B33__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000018/LY-TRI-000018__primary__01__25E917C50B33__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000018/LY-TRI-000018__primary__01__25E917C50B33__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-17E525E917C50B33"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17309,
+          32.895597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000019",
+      "properties": {
+        "id": "LY-TRI-000019",
+        "name_ar": "البيت الموريسكي(كازا موريسكي)",
+        "name_en": "البيت الموريسكي(كازا موريسكي)",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 18,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000019/LY-TRI-000019__primary__01__B2C55FF38B98__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000019/LY-TRI-000019__primary__01__B2C55FF38B98__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000019/LY-TRI-000019__primary__01__B2C55FF38B98__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-1472B2C55FF38B98"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1772054,
+          32.8963209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000020",
+      "properties": {
+        "id": "LY-TRI-000020",
+        "name_ar": "البيت المزدهر كافي",
+        "name_en": "البيت المزدهر كافي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 19,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000020/LY-TRI-000020__primary__01__AA1928CC784B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000020/LY-TRI-000020__primary__01__AA1928CC784B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000020/LY-TRI-000020__primary__01__AA1928CC784B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-C367AA1928CC784B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1787331,
+          32.8966114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000021",
+      "properties": {
+        "id": "LY-TRI-000021",
+        "name_ar": "ميدان السيدة مريم",
+        "name_en": "ميدان السيدة مريم",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 20,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176104,
+          32.8987515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000022",
+      "properties": {
+        "id": "LY-TRI-000022",
+        "name_ar": "ميدان بنك روما",
+        "name_en": "ميدان بنك روما",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 21,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000022/LY-TRI-000022__primary__01__6D53C1B0141C__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000022/LY-TRI-000022__primary__01__6D53C1B0141C__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000022/LY-TRI-000022__primary__01__6D53C1B0141C__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-24E06D53C1B0141C"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760187,
+          32.8987542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000023",
+      "properties": {
+        "id": "LY-TRI-000023",
+        "name_ar": "الساحة ميدان الشهداء",
+        "name_en": "الساحة ميدان الشهداء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 22,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1806004,
+          32.8946192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000024",
+      "properties": {
+        "id": "LY-TRI-000024",
+        "name_ar": "قصر درغوت",
+        "name_en": "قصر درغوت",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 23,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000024/LY-TRI-000024__primary__01__819E57490E9C__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000024/LY-TRI-000024__primary__01__819E57490E9C__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000024/LY-TRI-000024__primary__01__819E57490E9C__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-05B7819E57490E9C"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1757101,
+          32.8986043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000025",
+      "properties": {
+        "id": "LY-TRI-000025",
+        "name_ar": "بيت اسكندر للفنون",
+        "name_en": "بيت اسكندر للفنون",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 24,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000025/LY-TRI-000025__primary__01__E7C8F411D21D__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000025/LY-TRI-000025__primary__01__E7C8F411D21D__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000025/LY-TRI-000025__primary__01__E7C8F411D21D__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-7D42E7C8F411D21D"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1762335,
+          32.8989823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000026",
+      "properties": {
+        "id": "LY-TRI-000026",
+        "name_ar": "دار عبدالله كريستا",
+        "name_en": "دار عبدالله كريستا",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 25,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1755069,
+          32.8988394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000027",
+      "properties": {
+        "id": "LY-TRI-000027",
+        "name_ar": "دار حسن الفقيه حسن للثقافة والفنون",
+        "name_en": "دار حسن الفقيه حسن للثقافة والفنون",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 26,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000027/LY-TRI-000027__primary__01__7D9C80D1964B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000027/LY-TRI-000027__primary__01__7D9C80D1964B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000027/LY-TRI-000027__primary__01__7D9C80D1964B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-23577D9C80D1964B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176053,
+          32.8995371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000028",
+      "properties": {
+        "id": "LY-TRI-000028",
+        "name_ar": "جهاز ادارة المدينة القديمة طرابلس",
+        "name_en": "جهاز ادارة المدينة القديمة طرابلس",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 27,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1740097,
+          32.8986647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000029",
+      "properties": {
+        "id": "LY-TRI-000029",
+        "name_ar": "Poseidon Art Gallery رواق بوسيدون للفنون",
+        "name_en": "Poseidon Art Gallery رواق بوسيدون للفنون",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 28,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176379,
+          32.8986382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000030",
+      "properties": {
+        "id": "LY-TRI-000030",
+        "name_ar": "دار الأمام على بن زياد الطرابلس",
+        "name_en": "دار الأمام على بن زياد الطرابلس",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 29,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1764858,
+          32.89894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000031",
+      "properties": {
+        "id": "LY-TRI-000031",
+        "name_ar": "حوش محمود بي",
+        "name_en": "حوش محمود بي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 30,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760701,
+          32.8993013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000032",
+      "properties": {
+        "id": "LY-TRI-000032",
+        "name_ar": "نصب تذكاري الشهداء",
+        "name_en": "نصب تذكاري الشهداء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 31,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1805538,
+          32.89427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000033",
+      "properties": {
+        "id": "LY-TRI-000033",
+        "name_ar": "Fountain Of Horse Marine",
+        "name_en": "Fountain Of Horse Marine",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 32,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1805458,
+          32.8942245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000034",
+      "properties": {
+        "id": "LY-TRI-000034",
+        "name_ar": "نافورة الميناء",
+        "name_en": "نافورة الميناء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 33,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1759414,
+          32.9018306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000035",
+      "properties": {
+        "id": "LY-TRI-000035",
+        "name_ar": "خزان مياه",
+        "name_en": "خزان مياه",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 34,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1735391,
+          32.9002288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000036",
+      "properties": {
+        "id": "LY-TRI-000036",
+        "name_ar": "ميناء طرابلس",
+        "name_en": "ميناء طرابلس",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 35,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1858333,
+          32.9022222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000037",
+      "properties": {
+        "id": "LY-TRI-000037",
+        "name_ar": "زنقة الريح",
+        "name_en": "زنقة الريح",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 36,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.177757,
+          32.898009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000038",
+      "properties": {
+        "id": "LY-TRI-000038",
+        "name_ar": "وسعاية مخزن الرخام",
+        "name_en": "وسعاية مخزن الرخام",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 37,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000038/LY-TRI-000038__primary__01__643CDF6C2C46__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000038/LY-TRI-000038__primary__01__643CDF6C2C46__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000038/LY-TRI-000038__primary__01__643CDF6C2C46__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-9112643CDF6C2C46"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1762314,
+          32.9001011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000039",
+      "properties": {
+        "id": "LY-TRI-000039",
+        "name_ar": "كوشة الصفار",
+        "name_en": "كوشة الصفار",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 38,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000039/LY-TRI-000039__primary__01__445EA919E31A__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000039/LY-TRI-000039__primary__01__445EA919E31A__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000039/LY-TRI-000039__primary__01__445EA919E31A__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-7B1A445EA919E31A"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1764672,
+          32.8954983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000040",
+      "properties": {
+        "id": "LY-TRI-000040",
+        "name_ar": "زنقة البدوي",
+        "name_en": "زنقة البدوي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 39,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000040/LY-TRI-000040__primary__01__16AA6A16B6C4__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000040/LY-TRI-000040__primary__01__16AA6A16B6C4__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000040/LY-TRI-000040__primary__01__16AA6A16B6C4__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-D88416AA6A16B6C4"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1786482,
+          32.8969358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000041",
+      "properties": {
+        "id": "LY-TRI-000041",
+        "name_ar": "زنقة الفرنسيس",
+        "name_en": "زنقة الفرنسيس",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 40,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000041/LY-TRI-000041__primary__01__BFC4F9E0A52F__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000041/LY-TRI-000041__primary__01__BFC4F9E0A52F__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000041/LY-TRI-000041__primary__01__BFC4F9E0A52F__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-6FB7BFC4F9E0A52F"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1754767,
+          32.8985944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000042",
+      "properties": {
+        "id": "LY-TRI-000042",
+        "name_ar": "شارع الأربع عرصات",
+        "name_en": "شارع الأربع عرصات",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 41,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176797,
+          32.897513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000043",
+      "properties": {
+        "id": "LY-TRI-000043",
+        "name_ar": "زنقة البقار",
+        "name_en": "زنقة البقار",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 42,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000043/LY-TRI-000043__primary__01__38BE08D0A139__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000043/LY-TRI-000043__primary__01__38BE08D0A139__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000043/LY-TRI-000043__primary__01__38BE08D0A139__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-081738BE08D0A139"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1778578,
+          32.8962658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000044",
+      "properties": {
+        "id": "LY-TRI-000044",
+        "name_ar": "زنقة القاجيجي",
+        "name_en": "زنقة القاجيجي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 43,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000044/LY-TRI-000044__primary__01__1A8830B0040A__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000044/LY-TRI-000044__primary__01__1A8830B0040A__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000044/LY-TRI-000044__primary__01__1A8830B0040A__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-0DE11A8830B0040A"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1755343,
+          32.8986335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000045",
+      "properties": {
+        "id": "LY-TRI-000045",
+        "name_ar": "زنقة الحرير",
+        "name_en": "زنقة الحرير",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 44,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000045/LY-TRI-000045__primary__01__48B0FB44719A__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000045/LY-TRI-000045__primary__01__48B0FB44719A__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000045/LY-TRI-000045__primary__01__48B0FB44719A__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-786748B0FB44719A"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1773305,
+          32.8975406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000046",
+      "properties": {
+        "id": "LY-TRI-000046",
+        "name_ar": "طريق الخندق",
+        "name_en": "طريق الخندق",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 45,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179852,
+          32.895709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000047",
+      "properties": {
+        "id": "LY-TRI-000047",
+        "name_ar": "زنقة الزلمومية",
+        "name_en": "زنقة الزلمومية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 46,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1784741,
+          32.8960338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000048",
+      "properties": {
+        "id": "LY-TRI-000048",
+        "name_ar": "زنقة البليبك",
+        "name_en": "زنقة البليبك",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 47,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1751659,
+          32.899214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000049",
+      "properties": {
+        "id": "LY-TRI-000049",
+        "name_ar": "زنقة الاسبان القنصلية الاسبانية",
+        "name_en": "زنقة الاسبان القنصلية الاسبانية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 48,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000049/LY-TRI-000049__primary__01__077CB62C8940__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000049/LY-TRI-000049__primary__01__077CB62C8940__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000049/LY-TRI-000049__primary__01__077CB62C8940__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-B889077CB62C8940"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1751854,
+          32.8994392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000050",
+      "properties": {
+        "id": "LY-TRI-000050",
+        "name_ar": "الساحة الشهداء",
+        "name_en": "الساحة الشهداء",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 49,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1806004,
+          32.8946192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000051",
+      "properties": {
+        "id": "LY-TRI-000051",
+        "name_ar": "جامع سيدي سالم المشاط",
+        "name_en": "جامع سيدي سالم المشاط",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 50,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000051/LY-TRI-000051__primary__01__4A2A53EADC07__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000051/LY-TRI-000051__primary__01__4A2A53EADC07__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000051/LY-TRI-000051__primary__01__4A2A53EADC07__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-064B4A2A53EADC07"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1746757,
+          32.9000166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000052",
+      "properties": {
+        "id": "LY-TRI-000052",
+        "name_ar": "مسجد بنور",
+        "name_en": "مسجد بنور",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 51,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000052/LY-TRI-000052__primary__01__3339136B110F__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000052/LY-TRI-000052__primary__01__3339136B110F__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000052/LY-TRI-000052__primary__01__3339136B110F__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-19303339136B110F"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760108,
+          32.8957416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000053",
+      "properties": {
+        "id": "LY-TRI-000053",
+        "name_ar": "مسجد بن سليمان",
+        "name_en": "مسجد بن سليمان",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 52,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1731203,
+          32.8991809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000054",
+      "properties": {
+        "id": "LY-TRI-000054",
+        "name_ar": "مسجد عبد الوهاب القيسي",
+        "name_en": "مسجد عبد الوهاب القيسي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 53,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000054/LY-TRI-000054__primary__01__792D47A8700B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000054/LY-TRI-000054__primary__01__792D47A8700B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000054/LY-TRI-000054__primary__01__792D47A8700B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-8AA3792D47A8700B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176524,
+          32.9002274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000055",
+      "properties": {
+        "id": "LY-TRI-000055",
+        "name_ar": "مسجد الصقلاني",
+        "name_en": "مسجد الصقلاني",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 54,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000055/LY-TRI-000055__primary__01__C6794AE5AD9B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000055/LY-TRI-000055__primary__01__C6794AE5AD9B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000055/LY-TRI-000055__primary__01__C6794AE5AD9B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-122EC6794AE5AD9B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760829,
+          32.8969521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000056",
+      "properties": {
+        "id": "LY-TRI-000056",
+        "name_ar": "جامع السنوسية",
+        "name_en": "جامع السنوسية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 55,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000056/LY-TRI-000056__primary__01__C97F0281CBCD__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000056/LY-TRI-000056__primary__01__C97F0281CBCD__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000056/LY-TRI-000056__primary__01__C97F0281CBCD__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-ECA0C97F0281CBCD"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1783195,
+          32.8934782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000057",
+      "properties": {
+        "id": "LY-TRI-000057",
+        "name_ar": "مسجد بن صابر",
+        "name_en": "مسجد بن صابر",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 56,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1742375,
+          32.8992241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000058",
+      "properties": {
+        "id": "LY-TRI-000058",
+        "name_ar": "جامع بن طابون،المدينة القديمة ،طرابلس الغرب",
+        "name_en": "جامع بن طابون،المدينة القديمة ،طرابلس الغرب",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 57,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000058/LY-TRI-000058__primary__01__A396298F215C__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000058/LY-TRI-000058__primary__01__A396298F215C__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000058/LY-TRI-000058__primary__01__A396298F215C__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-F7AFA396298F215C"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1773673,
+          32.8955075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000059",
+      "properties": {
+        "id": "LY-TRI-000059",
+        "name_ar": "مسجد بن طبيب",
+        "name_en": "مسجد بن طبيب",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 58,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000059/LY-TRI-000059__primary__01__4F7D15BA1CA9__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000059/LY-TRI-000059__primary__01__4F7D15BA1CA9__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000059/LY-TRI-000059__primary__01__4F7D15BA1CA9__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-9C844F7D15BA1CA9"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176356,
+          32.8972257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000060",
+      "properties": {
+        "id": "LY-TRI-000060",
+        "name_ar": "جامع بن لطيف زنقة الباز",
+        "name_en": "جامع بن لطيف زنقة الباز",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 59,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1743793,
+          32.8954483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000061",
+      "properties": {
+        "id": "LY-TRI-000061",
+        "name_ar": "مسجد بورقيبة",
+        "name_en": "مسجد بورقيبة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 60,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000061/LY-TRI-000061__primary__01__60A9C361F231__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000061/LY-TRI-000061__primary__01__60A9C361F231__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000061/LY-TRI-000061__primary__01__60A9C361F231__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-40E860A9C361F231"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1713906,
+          32.8943625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000062",
+      "properties": {
+        "id": "LY-TRI-000062",
+        "name_ar": "جامع سيدي الحطاب",
+        "name_en": "جامع سيدي الحطاب",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 61,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175005,
+          32.897385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000063",
+      "properties": {
+        "id": "LY-TRI-000063",
+        "name_ar": "مسجد الدباغ",
+        "name_en": "مسجد الدباغ",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 62,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000063/LY-TRI-000063__primary__01__3F699F851D7B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000063/LY-TRI-000063__primary__01__3F699F851D7B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000063/LY-TRI-000063__primary__01__3F699F851D7B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-4E283F699F851D7B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.177309,
+          32.8942735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000064",
+      "properties": {
+        "id": "LY-TRI-000064",
+        "name_ar": "مسجد الهدار - المدينة القديمة",
+        "name_en": "مسجد الهدار - المدينة القديمة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 63,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000064/LY-TRI-000064__primary__01__A7E577E96630__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000064/LY-TRI-000064__primary__01__A7E577E96630__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000064/LY-TRI-000064__primary__01__A7E577E96630__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-A344A7E577E96630"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1724371,
+          32.8972753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000065",
+      "properties": {
+        "id": "LY-TRI-000065",
+        "name_ar": "جامع قرجي",
+        "name_en": "جامع قرجي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 64,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175434,
+          32.899525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000066",
+      "properties": {
+        "id": "LY-TRI-000066",
+        "name_ar": "جامع سيدي اعطية الفلاح",
+        "name_en": "جامع سيدي اعطية الفلاح",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 65,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178345,
+          32.894633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000067",
+      "properties": {
+        "id": "LY-TRI-000067",
+        "name_ar": "جامع الخروبة",
+        "name_en": "جامع الخروبة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 66,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178227,
+          32.895984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000068",
+      "properties": {
+        "id": "LY-TRI-000068",
+        "name_ar": "جامع درغوث",
+        "name_en": "جامع درغوث",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 67,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1771649,
+          32.8987936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000069",
+      "properties": {
+        "id": "LY-TRI-000069",
+        "name_ar": "جامع شايب العين",
+        "name_en": "جامع شايب العين",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 68,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000069/LY-TRI-000069__primary__01__FA0C3434B21B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000069/LY-TRI-000069__primary__01__FA0C3434B21B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000069/LY-TRI-000069__primary__01__FA0C3434B21B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-3F21FA0C3434B21B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178114,
+          32.897122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000070",
+      "properties": {
+        "id": "LY-TRI-000070",
+        "name_ar": "جامع الدروج",
+        "name_en": "جامع الدروج",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 69,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1774526,
+          32.8962718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000071",
+      "properties": {
+        "id": "LY-TRI-000071",
+        "name_ar": "جامع محمود خزنا دار",
+        "name_en": "جامع محمود خزنا دار",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 70,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000071/LY-TRI-000071__primary__01__66CA94A2E016__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000071/LY-TRI-000071__primary__01__66CA94A2E016__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000071/LY-TRI-000071__primary__01__66CA94A2E016__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-464866CA94A2E016"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174657,
+          32.898146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000072",
+      "properties": {
+        "id": "LY-TRI-000072",
+        "name_ar": "او بما يعرف مسجد السريا الحمراء مسجد القلعة",
+        "name_en": "او بما يعرف مسجد السريا الحمراء مسجد القلعة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 71,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180364,
+          32.896034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000073",
+      "properties": {
+        "id": "LY-TRI-000073",
+        "name_ar": "جامع أحمد باشا القرمانللي",
+        "name_en": "جامع أحمد باشا القرمانللي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 72,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17953,
+          32.895306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000074",
+      "properties": {
+        "id": "LY-TRI-000074",
+        "name_ar": "جامع الناقة",
+        "name_en": "جامع الناقة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 73,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17883,
+          32.895372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000075",
+      "properties": {
+        "id": "LY-TRI-000075",
+        "name_ar": "جامع شان الشأن/مسجد الشنشان",
+        "name_en": "جامع شان الشأن/مسجد الشنشان",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 74,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179043,
+          32.896844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000076",
+      "properties": {
+        "id": "LY-TRI-000076",
+        "name_ar": "مسجد الزواية الكبيرة",
+        "name_en": "مسجد الزواية الكبيرة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 75,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1777915,
+          32.8942938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000077",
+      "properties": {
+        "id": "LY-TRI-000077",
+        "name_ar": "زاوية الكاتب",
+        "name_en": "زاوية الكاتب",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 76,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000077/LY-TRI-000077__primary__01__8C32DECB8309__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000077/LY-TRI-000077__primary__01__8C32DECB8309__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000077/LY-TRI-000077__primary__01__8C32DECB8309__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-5D3E8C32DECB8309"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17806,
+          32.898054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000078",
+      "properties": {
+        "id": "LY-TRI-000078",
+        "name_ar": "الزاوية الصغيرة",
+        "name_en": "الزاوية الصغيرة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 77,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175712,
+          32.90055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000079",
+      "properties": {
+        "id": "LY-TRI-000079",
+        "name_ar": "مبنى بنك دي روما",
+        "name_en": "مبنى بنك دي روما",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 78,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000079/LY-TRI-000079__primary__01__6D10CF623027__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000079/LY-TRI-000079__primary__01__6D10CF623027__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000079/LY-TRI-000079__primary__01__6D10CF623027__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-B5026D10CF623027"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176054,
+          32.898651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000080",
+      "properties": {
+        "id": "LY-TRI-000080",
+        "name_ar": "مبنى الريجية",
+        "name_en": "مبنى الريجية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 79,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.171564,
+          32.896212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000081",
+      "properties": {
+        "id": "LY-TRI-000081",
+        "name_ar": "القنصلية الفرنسية",
+        "name_en": "القنصلية الفرنسية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 80,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176054,
+          32.899477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000082",
+      "properties": {
+        "id": "LY-TRI-000082",
+        "name_ar": "حوش القرمانللي",
+        "name_en": "حوش القرمانللي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 81,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000082/LY-TRI-000082__primary__01__8FA287642F04__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000082/LY-TRI-000082__primary__01__8FA287642F04__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000082/LY-TRI-000082__primary__01__8FA287642F04__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-250D8FA287642F04"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176759,
+          32.897335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000083",
+      "properties": {
+        "id": "LY-TRI-000083",
+        "name_ar": "Galleria de bono",
+        "name_en": "Galleria de bono",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 82,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1819713,
+          32.8936113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000084",
+      "properties": {
+        "id": "LY-TRI-000084",
+        "name_ar": "جالاريا ماريوتي",
+        "name_en": "جالاريا ماريوتي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 83,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000084/LY-TRI-000084__primary__01__0855EA0BF5FC__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000084/LY-TRI-000084__primary__01__0855EA0BF5FC__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000084/LY-TRI-000084__primary__01__0855EA0BF5FC__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-E3D10855EA0BF5FC"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178165,
+          32.8938593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000085",
+      "properties": {
+        "id": "LY-TRI-000085",
+        "name_ar": "مبنى القنصلية الايطالية",
+        "name_en": "مبنى القنصلية الايطالية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 84,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176445,
+          32.898182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000086",
+      "properties": {
+        "id": "LY-TRI-000086",
+        "name_ar": "مبنى بلدية طرابلس التاريخية",
+        "name_en": "مبنى بلدية طرابلس التاريخية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 85,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.177768,
+          32.89729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000087",
+      "properties": {
+        "id": "LY-TRI-000087",
+        "name_ar": "برج بوليلة",
+        "name_en": "برج بوليلة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 86,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000087/LY-TRI-000087__primary__01__DBE1ECA6364B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000087/LY-TRI-000087__primary__01__DBE1ECA6364B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000087/LY-TRI-000087__primary__01__DBE1ECA6364B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-E07ADBE1ECA6364B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1664521,
+          32.8912251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000088",
+      "properties": {
+        "id": "LY-TRI-000088",
+        "name_ar": "المدرسة اليهودية",
+        "name_en": "المدرسة اليهودية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 87,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000088/LY-TRI-000088__primary__01__0A0DFB2B393D__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000088/LY-TRI-000088__primary__01__0A0DFB2B393D__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000088/LY-TRI-000088__primary__01__0A0DFB2B393D__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-14F50A0DFB2B393D"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.173403,
+          32.898796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000089",
+      "properties": {
+        "id": "LY-TRI-000089",
+        "name_ar": "القنصلية الإنجليزية",
+        "name_en": "القنصلية الإنجليزية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 88,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17493,
+          32.899326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000090",
+      "properties": {
+        "id": "LY-TRI-000090",
+        "name_ar": "المركز الصحي المدينة القديمة",
+        "name_en": "المركز الصحي المدينة القديمة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 89,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000090/LY-TRI-000090__primary__01__14ADFC5588F7__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000090/LY-TRI-000090__primary__01__14ADFC5588F7__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000090/LY-TRI-000090__primary__01__14ADFC5588F7__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-EDB214ADFC5588F7"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1720155021698,
+          32.8991758301819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000091",
+      "properties": {
+        "id": "LY-TRI-000091",
+        "name_ar": "مبنى الكلية الحربية المدرسة البحرية العثمانية",
+        "name_en": "مبنى الكلية الحربية المدرسة البحرية العثمانية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 90,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176005,
+          32.900769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000092",
+      "properties": {
+        "id": "LY-TRI-000092",
+        "name_ar": "نادي باب البحر للايكيدو_",
+        "name_en": "نادي باب البحر للايكيدو_",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 91,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1763685,
+          32.8999626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000093",
+      "properties": {
+        "id": "LY-TRI-000093",
+        "name_ar": "مطعم الخان الطربلسي",
+        "name_en": "مطعم الخان الطربلسي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 92,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1765266,
+          32.8983701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000094",
+      "properties": {
+        "id": "LY-TRI-000094",
+        "name_ar": "مطعم باب المدينة",
+        "name_en": "مطعم باب المدينة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 93,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000094/LY-TRI-000094__primary__01__F4856C3D5A1E__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000094/LY-TRI-000094__primary__01__F4856C3D5A1E__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000094/LY-TRI-000094__primary__01__F4856C3D5A1E__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-C653F4856C3D5A1E"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172626,
+          32.89564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000095",
+      "properties": {
+        "id": "LY-TRI-000095",
+        "name_ar": "مقهى الطبجي",
+        "name_en": "مقهى الطبجي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 94,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1757796,
+          32.8996999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000096",
+      "properties": {
+        "id": "LY-TRI-000096",
+        "name_ar": "مقهى السيدة مريم",
+        "name_en": "مقهى السيدة مريم",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 95,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000096/LY-TRI-000096__primary__01__10A0FAEF78DA__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000096/LY-TRI-000096__primary__01__10A0FAEF78DA__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000096/LY-TRI-000096__primary__01__10A0FAEF78DA__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-D32E10A0FAEF78DA"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1758661,
+          32.8986031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000097",
+      "properties": {
+        "id": "LY-TRI-000097",
+        "name_ar": "لاكورنو كافي",
+        "name_en": "لاكورنو كافي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 96,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000097/LY-TRI-000097__primary__01__CA288AC4FFD8__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000097/LY-TRI-000097__primary__01__CA288AC4FFD8__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000097/LY-TRI-000097__primary__01__CA288AC4FFD8__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-BE72CA288AC4FFD8"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1767018,
+          32.8996794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000098",
+      "properties": {
+        "id": "LY-TRI-000098",
+        "name_ar": "كافي دي روما",
+        "name_en": "كافي دي روما",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 97,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000098/LY-TRI-000098__primary__01__C215EEDFBBA4__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000098/LY-TRI-000098__primary__01__C215EEDFBBA4__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000098/LY-TRI-000098__primary__01__C215EEDFBBA4__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-B75EC215EEDFBBA4"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1785669,
+          32.8982841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000099",
+      "properties": {
+        "id": "LY-TRI-000099",
+        "name_ar": "مقهي باديه",
+        "name_en": "مقهي باديه",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 98,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000099/LY-TRI-000099__primary__01__2C36A0837DE7__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000099/LY-TRI-000099__primary__01__2C36A0837DE7__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000099/LY-TRI-000099__primary__01__2C36A0837DE7__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-AE2F2C36A0837DE7"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174363,
+          32.897921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000100",
+      "properties": {
+        "id": "LY-TRI-000100",
+        "name_ar": "بيتزا درغوت",
+        "name_en": "بيتزا درغوت",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 99,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000100/LY-TRI-000100__primary__01__46FB58A56676__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000100/LY-TRI-000100__primary__01__46FB58A56676__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000100/LY-TRI-000100__primary__01__46FB58A56676__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-420546FB58A56676"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1771226,
+          32.8990992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000101",
+      "properties": {
+        "id": "LY-TRI-000101",
+        "name_ar": "كازا كافيه",
+        "name_en": "كازا كافيه",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 100,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000101/LY-TRI-000101__primary__01__46A3D8B025A2__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000101/LY-TRI-000101__primary__01__46A3D8B025A2__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000101/LY-TRI-000101__primary__01__46A3D8B025A2__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-8D3346A3D8B025A2"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179286,
+          32.896135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000102",
+      "properties": {
+        "id": "LY-TRI-000102",
+        "name_ar": "مطعم الأثار",
+        "name_en": "مطعم الأثار",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 101,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000102/LY-TRI-000102__primary__01__3CDF7CAD565E__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000102/LY-TRI-000102__primary__01__3CDF7CAD565E__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000102/LY-TRI-000102__primary__01__3CDF7CAD565E__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-27D23CDF7CAD565E"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1756794,
+          32.9001517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000103",
+      "properties": {
+        "id": "LY-TRI-000103",
+        "name_ar": "مطعم فتوش المدينة القديمة ( قوس ماركوس )",
+        "name_en": "مطعم فتوش المدينة القديمة ( قوس ماركوس )",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 102,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000103/LY-TRI-000103__primary__01__AD440877AE8D__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000103/LY-TRI-000103__primary__01__AD440877AE8D__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000103/LY-TRI-000103__primary__01__AD440877AE8D__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-0B0BAD440877AE8D"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1759619,
+          32.9001439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000104",
+      "properties": {
+        "id": "LY-TRI-000104",
+        "name_ar": "مطعم ومعرض الاندلسسة",
+        "name_en": "مطعم ومعرض الاندلسسة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 103,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760625,
+          32.8998125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000105",
+      "properties": {
+        "id": "LY-TRI-000105",
+        "name_ar": "مطعم باب الحرية للمأكولات الشعبية",
+        "name_en": "مطعم باب الحرية للمأكولات الشعبية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 104,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000105/LY-TRI-000105__primary__01__4E0C3746CE7B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000105/LY-TRI-000105__primary__01__4E0C3746CE7B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000105/LY-TRI-000105__primary__01__4E0C3746CE7B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-75124E0C3746CE7B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1781693,
+          32.8943754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000106",
+      "properties": {
+        "id": "LY-TRI-000106",
+        "name_ar": "باب البحر",
+        "name_en": "باب البحر",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 105,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000106/LY-TRI-000106__primary__01__50966FFE4716__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000106/LY-TRI-000106__primary__01__50966FFE4716__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000106/LY-TRI-000106__primary__01__50966FFE4716__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-1D4E50966FFE4716"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1766543,
+          32.8997841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000107",
+      "properties": {
+        "id": "LY-TRI-000107",
+        "name_ar": "باب المنشية",
+        "name_en": "باب المنشية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 106,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18011,
+          32.895083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000108",
+      "properties": {
+        "id": "LY-TRI-000108",
+        "name_ar": "باب عبدالله",
+        "name_en": "باب عبدالله",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 107,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000108/LY-TRI-000108__primary__01__81AC5913EA1B__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000108/LY-TRI-000108__primary__01__81AC5913EA1B__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000108/LY-TRI-000108__primary__01__81AC5913EA1B__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-22FE81AC5913EA1B"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179125,
+          32.896173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000109",
+      "properties": {
+        "id": "LY-TRI-000109",
+        "name_ar": "باب زناتة",
+        "name_en": "باب زناتة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 108,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172747,
+          32.895345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000110",
+      "properties": {
+        "id": "LY-TRI-000110",
+        "name_ar": "باب الخندق",
+        "name_en": "باب الخندق",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 109,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180327,
+          32.895115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000111",
+      "properties": {
+        "id": "LY-TRI-000111",
+        "name_ar": "باب الجديد",
+        "name_en": "باب الجديد",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 110,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172519,
+          32.89557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000112",
+      "properties": {
+        "id": "LY-TRI-000112",
+        "name_ar": "باب الفلة أو باب الغولة",
+        "name_en": "باب الفلة أو باب الغولة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 111,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.171824,
+          32.898039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000113",
+      "properties": {
+        "id": "LY-TRI-000113",
+        "name_ar": "باب السريا باب القلعة",
+        "name_en": "باب السريا باب القلعة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 112,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1810946,
+          32.8980323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000114",
+      "properties": {
+        "id": "LY-TRI-000114",
+        "name_ar": "باب درغوث",
+        "name_en": "باب درغوث",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 113,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000114/LY-TRI-000114__primary__01__A2EB6C92341C__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000114/LY-TRI-000114__primary__01__A2EB6C92341C__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000114/LY-TRI-000114__primary__01__A2EB6C92341C__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-82FFA2EB6C92341C"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1773082,
+          32.8990341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000115",
+      "properties": {
+        "id": "LY-TRI-000115",
+        "name_ar": "باب الحرية",
+        "name_en": "باب الحرية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 114,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000115/LY-TRI-000115__primary__01__C0B9FAAFC9DB__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000115/LY-TRI-000115__primary__01__C0B9FAAFC9DB__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000115/LY-TRI-000115__primary__01__C0B9FAAFC9DB__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-D00AC0B9FAAFC9DB"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1779712,
+          32.8936459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000116",
+      "properties": {
+        "id": "LY-TRI-000116",
+        "name_ar": "سور المديمة القديمة",
+        "name_en": "سور المديمة القديمة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 115,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000116/LY-TRI-000116__primary__01__3CFA74697A1A__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000116/LY-TRI-000116__primary__01__3CFA74697A1A__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000116/LY-TRI-000116__primary__01__3CFA74697A1A__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-F8BB3CFA74697A1A"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.172157,
+          32.896921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000117",
+      "properties": {
+        "id": "LY-TRI-000117",
+        "name_ar": "سوق الصناعات التقليدية",
+        "name_en": "سوق الصناعات التقليدية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 116,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179823,
+          32.894921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000118",
+      "properties": {
+        "id": "LY-TRI-000118",
+        "name_ar": "سوق اللفة",
+        "name_en": "سوق اللفة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 117,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000118/LY-TRI-000118__primary__01__631F1888A7E7__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000118/LY-TRI-000118__primary__01__631F1888A7E7__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000118/LY-TRI-000118__primary__01__631F1888A7E7__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-A137631F1888A7E7"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1784337,
+          32.8955103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000119",
+      "properties": {
+        "id": "LY-TRI-000119",
+        "name_ar": "سوق الحوت",
+        "name_en": "سوق الحوت",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 118,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176242,
+          32.893444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000120",
+      "properties": {
+        "id": "LY-TRI-000120",
+        "name_ar": "سوق القزدارة",
+        "name_en": "سوق القزدارة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 119,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178975,
+          32.896259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000121",
+      "properties": {
+        "id": "LY-TRI-000121",
+        "name_ar": "سوق النسي",
+        "name_en": "سوق النسي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 120,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179501,
+          32.895014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000122",
+      "properties": {
+        "id": "LY-TRI-000122",
+        "name_ar": "سوق الرباع",
+        "name_en": "سوق الرباع",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 121,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000122/LY-TRI-000122__primary__01__CCFE878CF202__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000122/LY-TRI-000122__primary__01__CCFE878CF202__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000122/LY-TRI-000122__primary__01__CCFE878CF202__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-AF6CCCFE878CF202"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179436,
+          32.895728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000123",
+      "properties": {
+        "id": "LY-TRI-000123",
+        "name_ar": "سوق المشير",
+        "name_en": "سوق المشير",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 122,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000123/LY-TRI-000123__primary__01__F8B555664904__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000123/LY-TRI-000123__primary__01__F8B555664904__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000123/LY-TRI-000123__primary__01__F8B555664904__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-B228F8B555664904"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179941,
+          32.895264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000124",
+      "properties": {
+        "id": "LY-TRI-000124",
+        "name_ar": "سوق الترك",
+        "name_en": "سوق الترك",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 123,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1783933,
+          32.8967727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000125",
+      "properties": {
+        "id": "LY-TRI-000125",
+        "name_ar": "فندق الغدامسية",
+        "name_en": "فندق الغدامسية",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 124,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178991,
+          32.895484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000126",
+      "properties": {
+        "id": "LY-TRI-000126",
+        "name_ar": "فندق زميت الأثري",
+        "name_en": "فندق زميت الأثري",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 125,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000126/LY-TRI-000126__primary__01__3DD398AE2330__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000126/LY-TRI-000126__primary__01__3DD398AE2330__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000126/LY-TRI-000126__primary__01__3DD398AE2330__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-DF4A3DD398AE2330"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1757336,
+          32.8995729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000127",
+      "properties": {
+        "id": "LY-TRI-000127",
+        "name_ar": "فندق الزهر",
+        "name_en": "فندق الزهر",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 126,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179106,
+          32.896045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000128",
+      "properties": {
+        "id": "LY-TRI-000128",
+        "name_ar": "فندق الخان",
+        "name_en": "فندق الخان",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 127,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000128/LY-TRI-000128__primary__01__D2961C0FAA26__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000128/LY-TRI-000128__primary__01__D2961C0FAA26__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000128/LY-TRI-000128__primary__01__D2961C0FAA26__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-60A1D2961C0FAA26"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1766138,
+          32.8983275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000129",
+      "properties": {
+        "id": "LY-TRI-000129",
+        "name_ar": "فندق ميزران",
+        "name_en": "فندق ميزران",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 128,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000129/LY-TRI-000129__primary__01__86A1C4B6CD4F__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000129/LY-TRI-000129__primary__01__86A1C4B6CD4F__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000129/LY-TRI-000129__primary__01__86A1C4B6CD4F__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-3CAC86A1C4B6CD4F"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178838,
+          32.894669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000130",
+      "properties": {
+        "id": "LY-TRI-000130",
+        "name_ar": "فندق مادي الحسان",
+        "name_en": "فندق مادي الحسان",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 129,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178001,
+          32.897349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000131",
+      "properties": {
+        "id": "LY-TRI-000131",
+        "name_ar": "فندق الحبروش للنسيج اليدوي والالي",
+        "name_en": "فندق الحبروش للنسيج اليدوي والالي",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 130,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175694,
+          32.897757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000132",
+      "properties": {
+        "id": "LY-TRI-000132",
+        "name_ar": "فندق القرقني",
+        "name_en": "فندق القرقني",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 131,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000132/LY-TRI-000132__primary__01__666E623D3F1F__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000132/LY-TRI-000132__primary__01__666E623D3F1F__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000132/LY-TRI-000132__primary__01__666E623D3F1F__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-1255666E623D3F1F"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.179232,
+          32.894811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000133",
+      "properties": {
+        "id": "LY-TRI-000133",
+        "name_ar": "فندق إستراحة طرابلس المدينة",
+        "name_en": "فندق إستراحة طرابلس المدينة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 132,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1779621,
+          32.8984188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000134",
+      "properties": {
+        "id": "LY-TRI-000134",
+        "name_ar": "حمام درغوث الحمام الصغير",
+        "name_en": "حمام درغوث الحمام الصغير",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 133,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "primary_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000134/LY-TRI-000134__primary__01__350A4BD8EBB2__web-medium.webp",
+        "thumbnail_image_candidate": "assets/media/LIBYA/old-cities/LY-TRI-000134/LY-TRI-000134__primary__01__350A4BD8EBB2__thumbnail.webp",
+        "gallery_image_candidates": "assets/media/LIBYA/old-cities/LY-TRI-000134/LY-TRI-000134__primary__01__350A4BD8EBB2__web-medium.webp",
+        "gallery_image_candidate_ids": [
+          "IMG-659B350A4BD8EBB2"
+        ],
+        "gallery_candidate_roles": [
+          "primary"
+        ],
+        "image_candidate_count": 1,
+        "image_display_status": "provisional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1772236,
+          32.8983288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LY-TRI-000135",
+      "properties": {
+        "id": "LY-TRI-000135",
+        "name_ar": "حمام النساء_حمام الحلقة",
+        "name_en": "حمام النساء_حمام الحلقة",
+        "layer_id": "old-tripoli",
+        "category": "المدينة القديمة طرابلس",
+        "source": "KML conversion",
+        "source_file": "data/kml/final/old-tripoli.kml",
+        "source_record": 134,
+        "data_status": "provisional",
+        "publication_status": "published",
+        "geometry_status": "valid",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
+        "image_publication_status": "provisional_publication_candidate",
+        "image_link_status": "runtime_linked_pending_visual_verification",
+        "image_rights_status": "institutional_publication_approval",
+        "image_governance_version": "runtime_linkage_phase_v1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178355,
+          32.894901
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "source_file": "data/kml/final/old-tripoli.kml",
+    "generated_by": "build-akakus-old-tripoli-runtime-layers.py",
+    "methodology_version": "runtime_linkage_phase_v1"
+  }
+}
