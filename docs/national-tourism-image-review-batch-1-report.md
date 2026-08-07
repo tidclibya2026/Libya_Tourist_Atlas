@@ -15,3 +15,7 @@
 ## المخاطر والخطوة التالية
 
 الخطران الأساسيان هما التشابه البصري بين المواقع الأثرية واستخدام مشاهد سياقية عامة كصور محددة. الخطوة التالية هي تشغيل أداة المراجعة، تصدير `batch-1-review-decisions.json` أو CSV، ثم استيرادها بالسكريبت والتحقق من الحقوق قبل أي نشر.
+
+## Institutional approval import (2026-08-07)
+
+Approved by م. أسامة فرج الخبولي, مدير عام مركز المعلومات والتوثيق السياحي. The approval is limited to Batch 1 and records institutional publication approval, not ownership. Approved public derivatives: 74; approved primary images: 74; ambiguous/unsupported candidates remain deferred. Status: BATCH_1_INSTITUTIONALLY_APPROVED_AND_PUBLISHED.

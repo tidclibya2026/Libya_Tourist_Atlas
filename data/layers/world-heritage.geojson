@@ -40,67 +40,13 @@
         "publication_status": "published",
         "review_status": "visually_verified",
         "local_images": [
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-colonnade.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-002.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-003.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-004.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-005.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-007.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-008.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-009.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-010.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-011.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-017.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-018.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-019.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-020.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-021.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-022.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-023.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-024.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-026.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-027.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-028.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-029.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-030.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-magna-official-031.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-001.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-002.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-003.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-004.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-005.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-006.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-007.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-008.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-009.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-010.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-011.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-012.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-013.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-014.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-015.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-016.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-017.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-018.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-019.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-020.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-021.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-022.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-023.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-024.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-025.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-026.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-027.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-028.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-029.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-030.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/main-site/leptis-official-031.jpeg"
+          "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__web-medium.webp"
         ],
-        "image_count": 55,
+        "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "visually_verified",
+        "image_rights_status": "institutional_publication_approval",
+        "image_review_status": "institutionally_approved",
         "confidence": 1,
         "source_name_ar": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى)",
         "extended_data": {
@@ -137,7 +83,24 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__web-medium.webp",
+        "thumbnail_image": "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__thumbnail.webp",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/WH-MAIN-001/WH-MAIN-001__primary__01__9154990536A1__web-medium.webp"
+        ],
+        "gallery_image_ids": [
+          "IMG-D5179154990536A1"
+        ],
+        "gallery_roles": [
+          "primary"
+        ],
+        "image_link_status": "verified",
+        "image_quality_status": "high_or_acceptable",
+        "image_publication_status": "public",
+        "image_source_credit": "مركز المعلومات والتوثيق السياحي",
+        "image_attribution_required": true,
+        "image_governance_version": "batch_1_institutional_approval_v1"
       }
     },
     {
@@ -168,16 +131,13 @@
         "publication_status": "published",
         "review_status": "reviewed",
         "local_images": [
-          "assets/media/LIBYA/Sabratha/published/main-site/sabratha-main-aerial-001.JPG",
-          "assets/media/LIBYA/Sabratha/published/main-site/sabratha-main-site-001.jpg",
-          "assets/media/LIBYA/Sabratha/published/main-site/sabratha-main-site-002.jpg",
-          "assets/media/LIBYA/Sabratha/published/main-site/sabratha-main-site-old-001.jpg"
+          "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__web-medium.webp"
         ],
-        "image_count": 4,
+        "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "image_rights_status": "institutional_publication_approval",
+        "image_review_status": "institutionally_approved",
         "confidence": "high",
         "source_name_ar": "موقع صبراتة الأثري",
         "extended_data": {
@@ -214,7 +174,24 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__web-medium.webp",
+        "thumbnail_image": "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__thumbnail.webp",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/WH-WORLD-C0001/WH-WORLD-C0001__primary__01__70495DD0618E__web-medium.webp"
+        ],
+        "gallery_image_ids": [
+          "IMG-EB3970495DD0618E"
+        ],
+        "gallery_roles": [
+          "primary"
+        ],
+        "image_link_status": "verified",
+        "image_quality_status": "high_or_acceptable",
+        "image_publication_status": "public",
+        "image_source_credit": "مركز المعلومات والتوثيق السياحي",
+        "image_attribution_required": true,
+        "image_governance_version": "batch_1_institutional_approval_v1"
       }
     },
     {
@@ -245,14 +222,13 @@
         "publication_status": "published",
         "review_status": "reviewed",
         "local_images": [
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
-          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+          "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__web-medium.webp"
         ],
-        "image_count": 2,
+        "image_count": 1,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "confirmed",
+        "image_rights_status": "institutional_publication_approval",
+        "image_review_status": "institutionally_approved",
         "confidence": "high",
         "source_name_ar": "موقع شحات (قورينة) الأثري",
         "extended_data": {
@@ -260,7 +236,24 @@
         },
         "source_index": 3,
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__web-medium.webp",
+        "thumbnail_image": "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__thumbnail.webp",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/WH-WORLD-C0002/WH-WORLD-C0002__primary__01__295438D199F4__web-medium.webp"
+        ],
+        "gallery_image_ids": [
+          "IMG-78BA295438D199F4"
+        ],
+        "gallery_roles": [
+          "primary"
+        ],
+        "image_link_status": "verified",
+        "image_quality_status": "high_or_acceptable",
+        "image_publication_status": "public",
+        "image_source_credit": "مركز المعلومات والتوثيق السياحي",
+        "image_attribution_required": true,
+        "image_governance_version": "batch_1_institutional_approval_v1"
       }
     },
     {
@@ -2130,17 +2123,13 @@
         "publication_status": "published",
         "review_status": "visually_verified",
         "local_images": [
-          "assets/media/LIBYA/heritage/leptis-magna/published/septimius-severus-arch/septimius-severus-arch-wide.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/septimius-severus-arch/septimius-severus-arch-portrait.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/septimius-severus-arch/septimius-severus-arch-official-006.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/septimius-severus-arch/septimius-severus-arch-official-016.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/septimius-severus-arch/septimius-severus-arch-official-025.jpeg"
+          "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__web-medium.webp"
         ],
-        "image_count": 5,
+        "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "visually_verified",
+        "image_rights_status": "institutional_publication_approval",
+        "image_review_status": "institutionally_approved",
         "confidence": 1,
         "source_name_ar": "قوس سبتيموس سفيروس",
         "extended_data": {
@@ -2173,7 +2162,24 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__web-medium.webp",
+        "thumbnail_image": "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__thumbnail.webp",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/WH-LY-001-0001/WH-LY-001-0001__primary__01__9FA57565D0E7__web-medium.webp"
+        ],
+        "gallery_image_ids": [
+          "IMG-02D99FA57565D0E7"
+        ],
+        "gallery_roles": [
+          "primary"
+        ],
+        "image_link_status": "verified",
+        "image_quality_status": "high_or_acceptable",
+        "image_publication_status": "public",
+        "image_source_credit": "مركز المعلومات والتوثيق السياحي",
+        "image_attribution_required": true,
+        "image_governance_version": "batch_1_institutional_approval_v1"
       }
     },
     {
@@ -3667,26 +3673,13 @@
         "publication_status": "published",
         "review_status": "visually_verified",
         "local_images": [
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-stage-wide.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-stage-front.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-panorama.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-overview.jpg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-001.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-012.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-013.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-014.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-015.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-001.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-012.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-013.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-014.jpeg",
-          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-015.jpeg"
+          "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__web-medium.webp"
         ],
-        "image_count": 14,
+        "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
-        "image_review_status": "visually_verified",
+        "image_rights_status": "institutional_publication_approval",
+        "image_review_status": "institutionally_approved",
         "confidence": 1,
         "source_name_ar": "المسرح الروماني الخمس _ ليبيا",
         "extended_data": {
@@ -3719,7 +3712,24 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__web-medium.webp",
+        "thumbnail_image": "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__thumbnail.webp",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/WH-LY-001-0002/WH-LY-001-0002__primary__01__0511C574D4E7__web-medium.webp"
+        ],
+        "gallery_image_ids": [
+          "IMG-6EC30511C574D4E7"
+        ],
+        "gallery_roles": [
+          "primary"
+        ],
+        "image_link_status": "verified",
+        "image_quality_status": "high_or_acceptable",
+        "image_publication_status": "public",
+        "image_source_credit": "مركز المعلومات والتوثيق السياحي",
+        "image_attribution_required": true,
+        "image_governance_version": "batch_1_institutional_approval_v1"
       }
     },
     {
