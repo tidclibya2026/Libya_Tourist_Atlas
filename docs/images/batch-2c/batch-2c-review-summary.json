@@ -1,0 +1,12 @@
+{
+  "total_images": 25,
+  "high_quality": 12,
+  "acceptable": 13,
+  "manual_visual_reviews_completed": 0,
+  "approved_primary": 0,
+  "gallery_only": 0,
+  "rejected": 0,
+  "deferred": 0,
+  "cannot_determine": 0,
+  "shared_conflict_images": 3
+}
