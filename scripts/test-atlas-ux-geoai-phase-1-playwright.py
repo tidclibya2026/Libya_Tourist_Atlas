@@ -55,7 +55,7 @@ async def main():
         await page.locator('#geoaiInput').fill('مواقع طرابلس'); await page.locator('#geoaiForm button').click(); await page.wait_for_timeout(900); results.append(await check('SEARCH_OR_FILTER_TRIPOLI',await page.locator('[data-id="oldTripoli"]').is_checked() or await page.locator('#resultsPanel').is_visible()))
         for prompt in ['اعرض الفنادق','اعرض مواقع التراث العالمي','استكشف أكاكوس','اعرض فرص الاستثمار','المواقع القريبة','اعرض مواقع طرابلس']:
           await page.locator(f'[data-prompt="{prompt}"]').click(); await page.wait_for_timeout(120)
-        results.append(await check('GEOAI_QUICK_PROMPTS',await page.locator('#geoaiMessages .geoai-message').count()>=6))
+        await page.locator('#geoaiInput').fill('المواقع القريبة'); await page.locator('#geoaiForm button').click(); await page.wait_for_timeout(650); results.append(await check('GEOAI_NEARBY',await page.locator('#geoaiMessages').get_by_text('موقعًا قريبًا', exact=False).count()>0 or await page.locator('#resultsPanel').is_visible())); results.append(await check('GEOAI_QUICK_PROMPTS',await page.locator('#geoaiMessages .geoai-message').count()>=6))
         for width,height in [(375,812),(390,844),(430,932)]:
           await page.set_viewport_size({'width':width,'height':height}); await page.wait_for_timeout(100); results.append(await check(f'MOBILE_{width}_NO_HORIZONTAL_OVERFLOW',not await page.evaluate('document.documentElement.scrollWidth > window.innerWidth + 1'))); results.append(await check(f'MOBILE_{width}_GEOAI_VISIBLE',await page.locator('#geoaiButton').is_visible()))
         await browser.close()

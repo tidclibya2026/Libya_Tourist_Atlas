@@ -65,7 +65,16 @@
         return `أبحث في بيانات الأطلس عن «${query}».`;
       },
       clear_filters: () => { $('#clearBtn')?.click(); return 'تم مسح الفلاتر وإخفاء الطبقات.'; },
-      show_nearby: () => window.AtlasRuntime?.getSelectedFeature() ? 'أحسب المواقع القريبة من الموقع المحدد.' : 'اختر موقعًا من الخريطة أولًا.',
+      show_nearby: () => {
+        const selected = window.AtlasRuntime?.getSelectedFeature();
+        if (!selected || !window.AtlasGeoAINearby) return 'اختر موقعًا من الخريطة أولًا.';
+        const selectedId = selected.properties?.id || selected.properties?.canonical_id;
+        const origin = activeFeatures().find(row => row.id === selectedId);
+        if (!origin?.coordinates) return 'تعذر تحديد إحداثيات الموقع المحدد.';
+        const nearby = window.AtlasGeoAINearby.nearby(origin.coordinates, activeFeatures().filter(row => row.coordinates && row.id !== selectedId), 10);
+        showResults(nearby);
+        return nearby.length ? `وجدت ${nearby.length.toLocaleString('ar')} موقعًا قريبًا ضمن 10 كم.` : 'لا توجد مواقع قريبة في البيانات الحالية.';
+      },
       show_summary: () => {
         const query = String(text || '').trim();
         if (query && window.AtlasRuntime?.searchFeatures) {

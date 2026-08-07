@@ -1793,6 +1793,6 @@ window.AtlasRuntime = {
   resolveFeatureMedia
 };
 function normalizeAtlasSearchText(value) { return String(value || '').toLowerCase().normalize('NFD').replace(/[\u064B-\u065F\u0670]/g, '').replace(/[إأآ]/g, 'ا').replace(/ى/g, 'ي').replace(/\s+/g, ' ').trim(); }
-map.on('popupopen', event => { window.__atlasSelectedFeature = event.popup?._source?.feature || event.popup?._source || null; });
+map.on('popupopen', event => { window.__atlasSelectedFeature = event.popup?._source?.feature || event.popup?._source || null; if (window.AtlasGeoAIContext) window.AtlasGeoAIContext.update({ selectedFeature: window.__atlasSelectedFeature, mapCenter: [map.getCenter().lat, map.getCenter().lng], zoom: map.getZoom() }); });
 // Load the Phase 1 local UX layer after the stable map runtime.
 (function(){var files=['assets/geoai/geoai-intents.js','assets/geoai/geoai-context.js','assets/geoai/geoai-nearby.js','assets/geoai/geoai-recommendations.js','assets/geoai/geoai-actions.js','assets/geoai/geoai-provider.js','assets/geoai/geoai-engine.js','assets/atlas-ux-geoai.js'];function load(i){if(i>=files.length)return;var script=document.createElement('script');script.src=files[i];script.onload=function(){load(i+1);};script.onerror=function(){console.error('GeoAI local asset failed to load',files[i]);};document.body.appendChild(script);}load(0);}());
