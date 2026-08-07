@@ -30,6 +30,8 @@
 
 ## الطبقات
 
+طبقتا Resorts وTourism Villages تستخدمان GeoJSON واحدًا؛ لذلك لا يُحتسب عدد Features مرتين في تقرير التغطية.
+
 تم تحديث روابط الصور المؤكدة في GeoJSON التشغيلي، وإضافة `data/layer-media.json` لصور Hero/Gallery/Context على مستوى الطبقة، دون إسناد صور السياق إلى Features عشوائيًا، مع ربط ملفات Akakus وOld Tripoli التي تحمل معرفات Runtime صريحة. الصور العامة داخل مجلدات الطبقة دون معرف Feature لم تُربط بموقع عشوائي.
 
 ## الاختبارات
