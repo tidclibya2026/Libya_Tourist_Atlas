@@ -1,0 +1,21 @@
+{
+  "batch_2a_source_commit": "1c1a2e7",
+  "batch_2a_tool_commit": "637635af2b49bc04e527287983750715ed8fa3cd",
+  "batch_2a_working_set_path": "docs/images/batch-2a/batch-2a-review-working-set.csv",
+  "batch_2a_primary_recommendations_path": "docs/images/batch-2a/batch-2a-primary-recommendations.csv",
+  "batch_2a_shared_resolution_path": "docs/images/batch-2a/batch-2a-shared-image-resolution.csv",
+  "batch_2b_generation_script": "scripts/build-batch-2b-review-preparation.py",
+  "batch_2b_generation_commit": "35b7cc41a36a2fb5459211a2352c553f9002d352",
+  "input_sha256": {
+    "docs/images/batch-2a/batch-2a-review-working-set.csv": "04CC8EEEC4FC28370C3167E51F28F5F234FC1868135FD826AAB7382983B5F8E2",
+    "docs/images/batch-2a/batch-2a-primary-recommendations.csv": "0340B6B6FCA53D781CE3DB1F8541628E45E20E4D351A300FC9D8345B5024B9C2",
+    "docs/images/batch-2a/batch-2a-shared-image-resolution.csv": "C63462E2BA734B1EE6F0CE3F4BECFC7D81D4DD9FE74959A4EF6B6E1EF74FC314"
+  },
+  "generated_output_sha256": {
+    "docs/images/batch-2b/batch-2b-primary-final-candidates.csv": "B787726BE8A0B53609D192E422980564AD5F5668E3CE339040B73DEE14D6EC1C",
+    "docs/images/batch-2b/batch-2b-review-coverage.csv": "FC760F406A7F7DDE677AB15DFC3592E2B9F355BFD6DA643442E1FE6DF391AA8B",
+    "docs/images/batch-2b/batch-2b-shared-review-coverage.csv": "DC73536E1C968E4CA7EF5D5912892726CDF5138D9693A69F8668A20A4D45803B",
+    "docs/images/batch-2b/batch-2b-summary.json": "4B6615579218C193BB6722A56191A0B15ED8D44ABBE51ECC6B2C12BC5461A04E"
+  },
+  "reproducible": true
+}

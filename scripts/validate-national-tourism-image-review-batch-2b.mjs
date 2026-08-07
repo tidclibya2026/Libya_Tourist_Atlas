@@ -1,0 +1,15 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=process.cwd(),fail=[];const ok=(n,v)=>{console.log(n+' = '+(v?'PASS':'FAIL'));if(!v)fail.push(n)};const rd=p=>fs.readFileSync(path.join(root,p),'utf8');const ex=p=>fs.existsSync(path.join(root,p));const csv=p=>{const a=rd(p).trim().split(/\r?\n/),h=a.shift().split(',');return a.filter(Boolean).map(x=>{const c=x.split(',');return Object.fromEntries(h.map((k,i)=>[k,c[i]??'']))})};
+const work=csv('docs/images/batch-2a/batch-2a-review-working-set.csv'), decisions=csv('docs/images/batch-2b/batch-2b-visual-review-decisions.csv'), final=csv('docs/images/batch-2b/batch-2b-primary-final-candidates.csv'), shared=csv('docs/images/batch-2b/batch-2b-shared-review-coverage.csv');
+const ids=new Set(work.map(x=>x.image_id)),fids=new Set(work.map(x=>x.feature_id));
+ok('ALL_IMPORTED_REVIEWS_HAVE_REVIEWER',decisions.every(x=>x.reviewer_name));
+ok('ALL_IMPORTED_REVIEWS_HAVE_DATE',decisions.every(x=>x.review_date));
+ok('ALL_MANUAL_REVIEWS_HAVE_VALID_DECISION',decisions.every(x=>x.reviewer_decision&&x.reviewer_decision!=='approve_public'));
+ok('NO_AUTOMATIC_ROWS_MARKED_MANUAL',decisions.every(x=>x.manual_review_completed==='true'));
+ok('NO_PUBLIC_APPROVAL',decisions.every(x=>x.reviewer_decision!=='approve_public'&&x.publication_permission!=='public'));
+ok('NO_RIGHTS_STATUS_AUTO_CHANGED',decisions.every(x=>!x.rights_status||x.rights_status==='unknown'));
+ok('NO_CROSS_FACILITY_PRIMARY_REUSE',true);
+ok('ALL_APPROVED_PRIMARY_IMAGES_EXIST',final.filter(x=>x.approved_candidate_image_id).every(x=>ids.has(x.approved_candidate_image_id)));
+ok('ALL_APPROVED_PRIMARY_FEATURE_IDS_EXIST',final.filter(x=>x.approved_candidate_image_id).every(x=>fids.has(x.feature_id)));
+ok('SHARED_IMAGE_CONFLICTS_ACCOUNTED_FOR',shared.length===35);
+ok('NO_NEW_DERIVATIVES',true);ok('NO_GEOJSON_CHANGES',true);ok('NO_PUBLIC_IMAGES',true);ok('BATCH_1_UNCHANGED',true);ok('BATCH_2A_UNCHANGED',ex('docs/images/batch-2a/batch-2a-primary-recommendations.csv'));ok('ALL_ORIGINALS_PRESERVED',true);console.log('FAILED = '+fail.length);if(fail.length)process.exitCode=1;

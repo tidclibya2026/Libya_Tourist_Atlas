@@ -1,0 +1,231 @@
+﻿feature_id,facility_name_ar,facility_type,city_ar,approved_candidate_image_id,master_image_id,visual_match_status,facility_identity_status,primary_suitability,technical_quality,reviewer_name,review_date,rights_status,institutional_approval_status,publication_status,next_action
+LY-HOT-000001,فندق كورنثيا,hotel,,,IMG-2C6E751270A91DAA,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000002,فندق بينثابوليس,hotel,,,IMG-8A7CCCA2B7E60737,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000003,فندق جوهرة الواحة,hostel,,,IMG-7109F2C92F3524CC,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000004,فندق تبرس,hostel,,,IMG-1F1F62E31C92DC9F,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000005,منتجع شحات السياحي,resort,,,IMG-5E57E1652E9C5361,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000006,فندق المنارة,hotel,,,IMG-6E813051ABAE8EF8,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000007,فندق لؤلؤة الخليج,hostel,,,IMG-7FB51DD7960436EF,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000008,فندق التلال الوسيطة البيضاء,resort,,,IMG-12962076A3275132,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000009,العنود للشقق الفندقية,hotel,,,IMG-E8A0ACB419E446F1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000010,فندق الثريا,hotel,,,IMG-C703BA3F8EA4B26E,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000011,منتجع الينابيع السياحي,resort,,,IMG-84252D7DCE95F6A0,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000012,فندق برقة,hotel,,,IMG-5568E8921219816B,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000018,فندق الطاووس,hostel,,,IMG-70EDD68175987801,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000019,فندق الودان,hotel,,,IMG-8D9EA23C81887426,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000020,فندق دار السلام ( المسيرة سابقا ),hotel,,,IMG-FCAE0E7CAF03F59D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000021,فندق سان جورج,hotel,,,IMG-A6E700E352D9D346,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000022,فندق الحسنين الكبير,hostel,,,IMG-7F6D30A79425F860,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000023,بيوت الشباب,hostel,,,IMG-764C36CA540766FE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000024,فندق بلاغراي السياحي ( التلال سابقا ),hostel,,,IMG-ECA705914F3DDBD7,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000025,منتجع ايميليا,resort,,,IMG-08F6D5CE7DAC9C94,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000026,منتجع وموتيل الأمان,resort,,,IMG-C455F0239870E895,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000027,بيوت شباب غدامس,review_required,,,IMG-2A66FD84B44F3088,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000028,نالوت غدامس فندق باب العز,hotel,,,IMG-228F6BDB3D316354,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000029,فندق أبراج الوسطى,hotel,,,IMG-CB96DDDE68C5CFBE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000031,فندق قصر الفيروز,hostel,,,IMG-935DD19ECAFD33E4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000032,Royal Gardens Hotels,hostel,,,IMG-19CA1851ED79FB1D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000034,فندق احواص,hostel,,,IMG-522DC3EE12090AF5,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000035,فندق الانوار,hotel,,,IMG-03ECD13E8D5C6991,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000036,فندق الأخوة,hotel,,,IMG-D3FB20419603B1A1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000037,فندق الأصالة,hotel,,,IMG-D0E8CF7434915CC6,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000038,فندق الأصيل,hotel,,,IMG-DE7D1D958BED2577,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000039,فندق الأندلس,hotel,,,IMG-FF9B5C89FCA47753,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000040,فندق البركة,hotel,,,IMG-DBD02A9A43973386,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000041,فندق البستان,hotel,,,IMG-78A889EBB36B296C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000042,التاج للشقق الفندقية,hotel,,,IMG-FC371968523F74F4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000045,فندق جوهرة صبراتة السياحي,hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000046,فندق الجوهرة الزاوية,hotel,,,IMG-3219ADC72F5D3D54,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000049,فندق الخان الطرابلسي,hotel,,,IMG-443FF103E9C980C5,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000050,فندق الخليج,hostel,,,IMG-DFF472B57CBC2904,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000051,فندق الدبلوماسي,hotel,,,IMG-50A720DCFED91911,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000053,فندق الديار,hotel,,,IMG-56E98A5645B39F5D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000054,فندق الرابطة,hotel,,,IMG-0B35E801F141C640,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000055,فندق الرفيع,hostel,,,IMG-1289F69675F9BC19,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000056,فندق الريان,hotel,,,IMG-D4C607AB8D516F6C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000057,فندق الزهر,hotel,,,IMG-B12576573F81B667,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000058,فندق الزيتونة,hostel,,,IMG-663C7115DAD00DDA,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000059,فندق السرايا,hotel,,,IMG-94AC661C198FA9B4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000060,فندق زوارة,hostel,,,IMG-1826FC3DA9B6FF0D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000061,فندق السندباد,hotel,,,IMG-D811C87C391D5766,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000062,فندق الشجرة,hostel,,,IMG-096DC0A326F5DF45,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000064,فندق الشمس,hotel,,,IMG-B6E928DEACBB4687,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000065,فندق الصفوة,hostel,,,IMG-C5613AE16E174C4C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000066,فندق الصناعية مصراتة,hotel,,,IMG-67013592F955DB61,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000067,فندق الصولجان,hotel,,,IMG-214CCC8E1E22A28F,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000068,فندق العاصمة,hotel,,,IMG-2DF881E5E9936D8A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000071,فندق القوس,hotel,,,IMG-4C4A7EF4E59E1C56,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000072,فندق الكبير,hotel,,,IMG-50D31F0B8DD20094,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000074,فندق الماسة,hotel,,,IMG-29E63001ED6E6AA8,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000075,فندق المتوسط,hotel,,,IMG-5BE42BF01EA16B89,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000077,فندق المشكاة,hotel,,,IMG-FDB2049E02358947,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000078,فندق المنامة,hotel,,,IMG-F83777E607F937D9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000079,فندق النخلة,hotel,,,IMG-9DECD06211223AB2,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000080,فندق النقازة الخمس,resort,,,IMG-38960BB243DCAEBE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000081,فندق النهر,hostel,,,IMG-44F58819FE6505E3,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000084,فندق الواحات,hotel,,,IMG-D6889136D1DAD153,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000085,فندق الياسمين,hotel,,,IMG-477F3B49EC08BB94,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000086,فندق أجنحة قرطاج,hotel,,,IMG-C778F371CEE679A5,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000088,فندق بنت السيد,hotel,,,IMG-D1E6E47D8546628E,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000090,فندق بيت الأمان,hostel,,,IMG-20805D649E860231,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000091,فندق بيت الشرق,hostel,,,IMG-EF3B1425ACE980F9,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000093,لانكاستر برج الحياة ( ماريوت سابقا),hotel,,,IMG-988702877E84182E,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000094,فندق دار غدامس,hostel,,,IMG-611FCFB8ACD59250,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000095,فندق ديار الهناء,hotel,,,IMG-83CA82DB3EDF9B3C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000096,فندق ليبوس,hotel,,,IMG-C10554B3A3FB55E7,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000097,فندق ريكسوس,hotel,,,IMG-ED18EDDB741D1F0A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000098,فندق زليتن,hotel,,,IMG-DBD8425A1CC2BD0C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000099,فندق زميت,hotel,,,IMG-B8A9EE245BA8AD26,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000100,فندق زوارة,hotel,,,IMG-255FB8237A2F0054,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000102,فندق سفاري,hotel,,,IMG-9D8E2EB582BFCFAC,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000103,فندق سفاري 2,hotel,,,IMG-CCD95F291123DD4A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000105,فندق ضيافة ونيس,hotel,,,IMG-69E8B1DE5A71649E,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000106,فندق طرابلس الدولي,hotel,,,IMG-9C4AEF2C6F040553,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000107,فندق طليطلة,hotel,,,IMG-0E799557CED9064A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000108,فندق طيبة,hotel,,,IMG-F9A3C38667647920,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000109,فندق عمير,hostel,,,IMG-72372DA2CAC0811E,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000110,فندق عين الفرس,hotel,,,IMG-48C35F15AFAC03C4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000112,فندق غريان السياحي,hotel,,,IMG-B6A8AFA7F049B288,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000113,فندق قرطاج,hotel,,,IMG-C4A9802D583C2030,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000114,فندق قصر الظهرة,hotel,,,IMG-35D703EAB18EB32C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000115,فندق قصر الفيروز,hotel,,,IMG-BE5EAB4A5C09CAA4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000116,فندق قمر صبراتة,hotel,,,IMG-C8E867675C8382FE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000118,فندق لبدة السياحي الخمس,hotel,,,IMG-60A7D1321C83220B,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000119,فندق ليالي قرطاج,hotel,,,IMG-B10F334A01F52BC3,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000120,فندق ليبيا,hostel,,,IMG-777779309D76AB79,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000121,فندق مادي الحسان,hotel,,,IMG-48D58D48DAA701DC,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000123,فندق ومطعم الامتياز,hotel,,,IMG-1CF0D3EE8287CA23,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000125,فندق يفرن,hotel,,,IMG-4F0420A624DB83FF,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000128,فندق الثريا السياحي,hotel,,,IMG-F0443C68BFB8ECB7,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000130,فندق البتراء,hotel,,,IMG-86FE165F8F5ADA77,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000131,فندق البردي,hotel,,,IMG-D9758A121B1BEAC9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000132,فندق التلال,hotel,,,IMG-7FF5B1B7BB76C090,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000134,فندق الجغبوب,hotel,,,IMG-AA1CB588CAAD3FC9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000135,فندق الجلاء,hotel,,,IMG-30A4B61B55A2DB7C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000137,فندق الخان الطرابلسي,hotel,,,IMG-692D357EF64EECF5,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000138,فندق الرحاب,hotel,,,IMG-D8DD811770FB6083,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000143,فندق ابن الرومي,hotel,,,IMG-F95797DD27AB0604,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000145,فندق الحياة,hotel,,,IMG-341A618CE06A6ADF,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000148,فندق العوينات,hotel,,,IMG-6CBB24820D65DE0B,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000150,فندق الفضيل,hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000151,فندق الفضيل رأس لانوف,hotel,,,IMG-37F5CC01C65299DE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000152,فندق الفلك,hotel,,,IMG-BCB7E1B223D8203A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000154,فندق القلعة,hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000155,فندق الكاظم,hotel,,,IMG-F5A37F569C93E905,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000157,فندق المبروك,hotel,,,IMG-5A83A2F605CCF1EE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000158,فندق المتوسط الخمس,hostel,,,IMG-5BE42BF01EA16B89,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000160,فندق المدينة,hotel,,,IMG-C528015251C45B51,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000163,فندق المرج السياحي,hotel,,,IMG-190884A40D2ABF52,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000164,فندق المسيرة,hotel,,,IMG-9AD922FF37B51637,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000166,فندق المغرب العربي,hotel,,,IMG-B04C55A3A97695A6,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000169,فندق النخلة السياحي,hotel,,,IMG-8A4782794B4D09FE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000171,فندق النوران,hotel,,,IMG-2289A7A09D4A8335,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000181,فندق اليمامة,hotel,,,IMG-A477669901497B22,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000187,فندق أفريقيا,hotel,,,IMG-424BD318FC8C835A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000190,فندق أمال ليبيا,hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000193,فندق باب البحر,hotel,,,IMG-5CA2B4E101C57B5C,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000196,فندق بلازما,hotel,,,IMG-133A23B4A668D9F5,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000201,فندق توباكتس,hotel,,,IMG-6FA829EB83A8FCAC,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000209,فندق ديار الهناء,hotel,,,IMG-183CEDE059F1A189,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000221,فندق سفيروس الخمس,hotel,,,IMG-65266F5F116CC5BF,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000223,فندق صحارى ليبيا,hotel,,,IMG-597BB54E378E3D06,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000268,فندق الفصول الاربعة 3,hotel,,,IMG-F4B773F3F5826691,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000273,فندق النعيم,hostel,,,IMG-A8A2FE6C77946B50,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000275,فندق الفصول الاربعة 2,resort,,,IMG-1C3BA4BF58BF7974,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000276,فندق السفير,hotel,,,IMG-7E5D0782E12EA5D9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000277,فندق نور الثريا,hotel,,,IMG-66CB19A1EDEE23E0,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000278,فندق الشاطئ الذهبى,hotel,,,IMG-705FD2B233983894,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000279,فندق الصافي,hotel,,,IMG-ECE2E4D8B397371D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000281,فندق الفصول الابعة 1,hotel,,,IMG-2D45459AD8F9CC78,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000282,فندق سفارى,hotel,,,IMG-60C21FD40A4E4920,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000283,فندق زهرة الخليج,hotel,,,IMG-1CDC2C3D694FD21B,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000284,فندق السلاسل الذهبية,hostel,,,IMG-D852AA75FDEC7960,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000295,فندق تاج,hostel,,,IMG-A4E1C106CA5102C7,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000297,فندق أضواء قرطاج,hotel,,,IMG-3E4CED93BF7426F1,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000305,فندق الغزالة,hotel,,,IMG-B936AD7EBE9DAF62,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000307,فندق الديوان,hotel,,,IMG-D9CA53A7672879BF,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000314,فندق السرايا,hotel,,,IMG-5269628C74ADF318,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000318,الحبايب,review_required,,,IMG-9A036A41DCB17370,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000319,هوم بلازا_للشقق الفندقية,hotel,,,IMG-A5A330256BF13807,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000320,فندق الرحال,apartment_hotel,,,IMG-F35449759FEAB1E9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000321,الوادي 2 للشقق الفندقية,hotel,,,IMG-18D2823CC6168755,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000322,الأطلس للشقق الفندقية,hotel,,,IMG-00A08FB9993FDC6A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000323,فندق بيزا السياحي,resort,,,IMG-18EEA34E41204D8F,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000324,فندق قوز التيك,hotel,,,IMG-1389659C2264D447,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000331,فندق الراحة اجدابيا,hotel,,,IMG-558CE15AD985397D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000332,عمار او المجد للشقق الفندقية,hotel,,,IMG-3EA653CB93695794,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000333,فندق مزايا اجدابيا,hostel,,,IMG-CCC9ACB679F36245,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000334,فندق التوجان السياحي,hostel,,,IMG-8E4C579EE177DF57,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000335,نزل وقاعة الهاشمي,apartment_hotel,,,IMG-882914DCCBCD4B08,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000336,نزل وقاعة زهرة الخليج,hostel,,,IMG-66BACF4E74F7ABB8,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000337,الهضبة للشقق الفندقية,apartment_hotel,,,IMG-EEEE06A8EE8A5BBE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000338,الامان للشقق الفندقية,apartment_hotel,,,IMG-D7CE0E4AF92A71CB,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000339,نزل ماريا MARIYA,apartment_hotel,,,IMG-AF253CDB6BCF82B9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000340,فندق الرابطة,hostel,,,IMG-F9AC1761B241CDCE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000342,فندق غريان السياحي,hotel,,,IMG-E46FAAB47F3CCBB1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000343,فندق روايال غريان,hostel,,,IMG-99A77748F15BA271,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000344,فندق حوش بوغنوش,hotel,,,IMG-6F6E80FA1C398EEC,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000345,فندق اللؤلؤة السياحي البضاء,hotel,,,IMG-BEF1F2F1E807EA48,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000346,فندق لؤلؤة الخليج البيضاء,hotel,,,IMG-7A5BB67D81637BF8,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000349,النوران_ للشقق_الفندقية,hostel,,,IMG-6E08B25C96998D68,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000352,فندق اية الجبل البيضاء,apartment_hotel,,,IMG-E3EC8DB4F82EDA83,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000355,فندق برونتو البيضاء,apartment_hotel,,,IMG-9309D223CFC81510,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000356,عمارة الجوري للشقق الفندقية,hotel,,,IMG-ED140BC6281F6CDD,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000357,فندق العنود البيضاء,apartment_hotel,,,IMG-E8A0ACB419E446F1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000358,فندق الفردوس للشقق الفندقية,apartment_hotel,,,IMG-9975F81187555CC5,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000360,فندق مرحبا للخدمات السياحية,hotel,,,IMG-B0AD9CF0FB43F42C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000361,عمارة اضواء ليبيا للشقق الفندقية البيضاء,hotel,,,IMG-623A6611F4B7698B,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000363,فندق المرقب السياحي الخمس,hostel,,,IMG-B13C3832364395E2,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000364,فندق التوليب السياحي الخمس,apartment_hotel,,,IMG-D11FAF6F6E87CFB4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000365,فندق بيت سباب الخمس,hotel,,,IMG-53FEC56240658906,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000366,فندق الاخوة السياحي الخمس,hotel,,,IMG-B43053CBB4A73052,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000375,فندق الخليج,hostel,,,IMG-009FCBE892318CFC,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000376,فندق أضواء قرطاج,hotel,,,IMG-CCFE684B5BBCEC7A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000377,فندق اجنحة قرطاج,hotel,,,IMG-FA780C750B848E8D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000378,فندق الباشا,hotel,,,IMG-CCCFE0B970F832F5,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000379,دار السلام للشقق الفندقية,hotel,,,IMG-5E477A1F8A6E89A1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000380,فندق نيو سيتي,hotel,,,IMG-85C063D8E242F238,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000384,فندق جولف,hotel,,,IMG-16B5AE44B2B3A4BB,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000385,فندق زهرة الشمس,hotel,,,IMG-200BAB60F0A18FCA,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000386,فندق سنترو,hotel,,,IMG-D8F8879D56CD066C,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000388,فندق كيان 2,hostel,,,IMG-B3423DCCF6AED163,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000389,فندق نور الثريا السياحى,hostel,,,IMG-2A4B90E2E75CC0CA,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000390,فندق أويا,hotel,,,IMG-9D034CE7E72965BE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000392,اجنحة كراون للشقق الفندقية,apartment_hotel,,,IMG-D40BFD5F1791242A,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000393,الدلتا للشقق الفندقية 2,apartment_hotel,,,IMG-A54E8C552428C2A1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000394,الدلتا للشقق الفندقية 1,apartment_hotel,,,IMG-5CF299F9826456A1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000395,الشاطي الذهبي,hotel,,,IMG-7914DB8D81DF2433,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000396,العنوان للشقق الفندقيه,apartment_hotel,,,IMG-30D22D96D4FCFF21,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000398,القبس لشقق الفندقيه,apartment_hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000399,الماسة للأجنحة الفندقية,apartment_hotel,,,IMG-B108DCDC5B17A513,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000400,المجرة للشقق الفندقية,apartment_hotel,,,IMG-28E682522CDA25C9,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000401,المكان للشقق الفندقية,apartment_hotel,,,IMG-AB80F3A7AC9DB921,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000402,اوكا لشقق الفندقيه vib,apartment_hotel,,,IMG-0C9EAEDEE2B58063,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000404,إقامة قورينا الفاخرة,apartment_hotel,,,IMG-04126E6080B045F0,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000405,أجنحة الفوانيس للشقق الفندقية,apartment_hotel,,,IMG-5D78329B687890B1,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000406,بيت النوران للشقق الفندقية,apartment_hotel,,,IMG-FC46269845F8CE10,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000407,بيوت العاصمة للشقق الفندقية,apartment_hotel,,,IMG-A105AA72A1C35896,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000408,جواهر العاصمة للشقق الفندقية,hostel,,,IMG-4EC27B635DB76293,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000409,جولايا للشقق الفندقية,apartment_hotel,,,IMG-491C686DB6D65DE4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000410,جوهرة السلام للشقق الفندقية,apartment_hotel,,,IMG-F8219A12DC93F596,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000411,حدائق المشتل للشقق الفندقية,apartment_hotel,,,IMG-BC60B14A0F88EEA4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000412,دار الضيافة 2 للشقق الفندقية,apartment_hotel,,,,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000413,شركة العميد لايجار الشقق الفندقية,apartment_hotel,,,IMG-8DFBD08799490E77,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000414,شقق البرنس,apartment_hotel,,,IMG-1A5188ACCF8A12DE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000415,شقق الرواد المفروشة,apartment_hotel,,,IMG-7380249A8BF93BA4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000416,شقق فيلا ليبيا الفندقية,apartment_hotel,,,IMG-51291E43F2B090B3,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000417,فندق اكاكوس,hostel,,,IMG-89E98DEB4DDDEFFE,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000418,فندق الاخوة,hostel,,,IMG-FB3E8CA4F7E595E4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000419,فندق الاصالة,hostel,,,IMG-105BDC6F23C3BD0D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000421,فندق البتراء,hostel,,,IMG-86FE165F8F5ADA77,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000423,فندق البيت الراقي للشقق الفندقية,apartment_hotel,,,IMG-DA49C17306783B4F,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000424,فندق التاج,hotel,,,IMG-54088895E3542EC3,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000425,فندق التوفيق بلازا,hostel,,,IMG-8A7CD6243BB292CF,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000432,فندق الدبلوماسي,hotel,,,IMG-483CA60D335C3AB5,cannot_determine,cannot_determine,cannot_determine,low,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000434,فندق الديار,hotel,,,IMG-CBB5E7BC1A652E66,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000444,فندق الريان,hotel,,,IMG-2614A446FDF324E4,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000445,فندق الزيتونة,hostel,,,IMG-D23C714ED0FF8E33,cannot_determine,cannot_determine,cannot_determine,acceptable,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000446,فندق السرايا,hotel,,,IMG-A9FE60CE8BAB8B94,cannot_determine,cannot_determine,cannot_determine,high,,,unknown,false,pending_rights,needs_shared_conflict_resolution
+LY-HOT-000484,فندق المهاري رادسون بلو,resort,,,IMG-D8ACC0812637695D,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000496,فندق اوال,hotel,,,IMG-B69842C26D2B8DC4,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
+LY-HOT-000569,لانكاستر برج الحياة (ماريوت سابقا),hotel,,,IMG-CD983E0AAA414E3B,cannot_determine,cannot_determine,cannot_determine,thumbnail_only,,,unknown,false,pending_rights,needs_manual_review
