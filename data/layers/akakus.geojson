@@ -19,7 +19,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00001-01.png",
@@ -62,7 +62,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00002-01.png",
@@ -105,7 +105,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00003-01.png",
@@ -148,7 +148,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00004-01.png",
@@ -191,7 +191,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00005-01.png",
@@ -234,7 +234,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00006-01.png",
@@ -277,7 +277,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00007-01.png",
@@ -320,7 +320,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00008-01.png",
@@ -363,7 +363,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00009-01.png",
@@ -406,7 +406,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00010-01.png",
@@ -449,7 +449,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00011-01.png",
@@ -492,7 +492,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00012-01.png",
@@ -535,7 +535,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00013-01.png",
@@ -578,7 +578,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00014-01.png",
@@ -650,7 +650,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00016-01.png",
@@ -693,7 +693,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00017-01.png",
@@ -736,7 +736,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00018-01.png",
@@ -779,7 +779,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00019-01.png",
@@ -822,7 +822,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00020-01.png",
@@ -865,7 +865,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00021-01.png",
@@ -908,7 +908,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00022-01.png",
@@ -951,7 +951,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000023/LY-AKA-000023__primary__01__2DAE0868EC75__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000023/LY-AKA-000023__primary__01__2DAE0868EC75__thumbnail.webp",
@@ -1121,7 +1121,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00028-01.png",
@@ -1168,7 +1168,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000029/LY-AKA-000029__primary__01__DDC21CE84AE0__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000029/LY-AKA-000029__primary__01__DDC21CE84AE0__thumbnail.webp",
@@ -1222,7 +1222,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000030/LY-AKA-000030__primary__01__E817DBAE2AD4__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000030/LY-AKA-000030__primary__01__E817DBAE2AD4__thumbnail.webp",
@@ -1276,7 +1276,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00031-01.png",
@@ -1319,7 +1319,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000032/LY-AKA-000032__primary__01__D51FCAA1AFD4__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000032/LY-AKA-000032__primary__01__D51FCAA1AFD4__thumbnail.webp",
@@ -1431,7 +1431,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00035-01.png",
@@ -1507,7 +1507,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000037/LY-AKA-000037__primary__01__0D3A8231D05C__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000037/LY-AKA-000037__primary__01__0D3A8231D05C__thumbnail.webp",
@@ -1594,7 +1594,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00039-01.png",
@@ -1637,7 +1637,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00040-01.png",
@@ -1680,7 +1680,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00041-01.png",
@@ -1752,7 +1752,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00043-01.png",
@@ -1944,7 +1944,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000049/LY-AKA-000049__primary__01__55A680866449__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000049/LY-AKA-000049__primary__01__55A680866449__thumbnail.webp",
@@ -3622,7 +3622,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000106/LY-AKA-000106__primary__01__408CE9AABF02__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000106/LY-AKA-000106__primary__01__408CE9AABF02__thumbnail.webp",
@@ -4865,7 +4865,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00148-01.png",
@@ -5082,7 +5082,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000155/LY-AKA-000155__primary__01__8E93DA77F5A1__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000155/LY-AKA-000155__primary__01__8E93DA77F5A1__thumbnail.webp",
@@ -5136,7 +5136,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "primary_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000156/LY-AKA-000156__primary__01__EF0B47BCE1DA__web-medium.webp",
         "thumbnail_image_candidate": "assets/media/LIBYA/heritage/LY-AKA-000156/LY-AKA-000156__primary__01__EF0B47BCE1DA__thumbnail.webp",
@@ -5277,7 +5277,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00160-01.png",
@@ -6190,7 +6190,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00191-01.png",
@@ -6233,7 +6233,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00192-01.png",
@@ -6276,7 +6276,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00193-01.png",
@@ -6377,7 +6377,7 @@
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_governance_version": "runtime_linkage_phase_v1",
         "local_images": [
           "assets/images/akakus/akakus-LY-AKAKUS-00196-01.png",
