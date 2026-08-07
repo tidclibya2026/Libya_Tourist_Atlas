@@ -46,7 +46,7 @@
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_publication_approval",
-        "image_review_status": "institutionally_approved",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى)",
         "extended_data": {
@@ -95,12 +95,12 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "verified",
+        "image_link_status": "technically_valid_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
-        "image_publication_status": "public",
+        "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1"
       }
     },
     {
@@ -137,7 +137,7 @@
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_publication_approval",
-        "image_review_status": "institutionally_approved",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": "high",
         "source_name_ar": "موقع صبراتة الأثري",
         "extended_data": {
@@ -186,12 +186,12 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "verified",
+        "image_link_status": "technically_valid_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
-        "image_publication_status": "public",
+        "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1"
       }
     },
     {
@@ -228,7 +228,7 @@
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_publication_approval",
-        "image_review_status": "institutionally_approved",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": "high",
         "source_name_ar": "موقع شحات (قورينة) الأثري",
         "extended_data": {
@@ -248,12 +248,12 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "verified",
+        "image_link_status": "technically_valid_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
-        "image_publication_status": "public",
+        "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1"
       }
     },
     {
@@ -2129,7 +2129,7 @@
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_publication_approval",
-        "image_review_status": "institutionally_approved",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "قوس سبتيموس سفيروس",
         "extended_data": {
@@ -2174,12 +2174,12 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "verified",
+        "image_link_status": "technically_valid_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
-        "image_publication_status": "public",
+        "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1"
       }
     },
     {
@@ -3679,7 +3679,7 @@
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
         "image_rights_status": "institutional_publication_approval",
-        "image_review_status": "institutionally_approved",
+        "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "المسرح الروماني الخمس _ ليبيا",
         "extended_data": {
@@ -3724,12 +3724,12 @@
         "gallery_roles": [
           "primary"
         ],
-        "image_link_status": "verified",
+        "image_link_status": "technically_valid_pending_visual_verification",
         "image_quality_status": "high_or_acceptable",
-        "image_publication_status": "public",
+        "image_publication_status": "provisional_publication_candidate",
         "image_source_credit": "مركز المعلومات والتوثيق السياحي",
         "image_attribution_required": true,
-        "image_governance_version": "batch_1_institutional_approval_v1"
+        "image_governance_version": "batch_1_institutional_approval_correction_v1"
       }
     },
     {

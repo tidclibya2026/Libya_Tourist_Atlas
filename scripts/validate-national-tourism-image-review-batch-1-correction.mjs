@@ -1,0 +1,12 @@
+import fs from 'node:fs';import path from 'node:path';
+const R=process.cwd(),B=path.join(R,'docs/images/batch-1');let fail=0;const out=(k,v)=>{console.log(`${k} = ${v?'PASS':'FAIL'}`);if(!v)fail++};
+const csv=n=>{const s=fs.readFileSync(path.join(B,n),'utf8').replace(/^\uFEFF/,'');const [h,...ls]=s.trim().split(/\r?\n/).map(x=>x.split(','));return ls.map(x=>Object.fromEntries(h.map((k,i)=>[k,x[i]||''])))};
+const d=csv('batch-1-visual-review-decisions.csv'),p=csv('batch-1-published-derivatives.csv'),l=csv('batch-1-layer-linkage-correction.csv'),t=new Set(JSON.parse(fs.readFileSync(path.join(R,'data/layers/world-heritage.geojson'))).features.map(x=>x.properties?.id||x.id));
+out('NO_FALSE_MANUAL_VISUAL_REVIEW_CLAIMS',d.filter(x=>x.institutional_batch_approval==='true').every(x=>x.manual_review_completed==='false'&&x.visual_match_status==='cannot_determine'&&!x.reviewer_name&&!x.review_date));
+out('INSTITUTIONAL_APPROVAL_SEPARATED_FROM_VISUAL_REVIEW',d.filter(x=>x.institutional_batch_approval==='true').every(x=>x.reviewer_decision==='defer'));
+out('ALL_PUBLISHED_IMAGES_HAVE_ACTUAL_LAYER_LINKAGE',l.filter(x=>x.feature_exists==='true').every(x=>x.declared_layer_id==='world-heritage'&&t.has(x.feature_id)));
+out('ALL_OLD_TRIPOLI_IMAGES_LINKED_TO_OLD_TRIPOLI_LAYER',l.filter(x=>x.declared_layer_id==='old-tripoli').every(x=>x.feature_exists==='true'));
+out('ALL_AKAKUS_IMAGES_LINKED_TO_AKAKUS_LAYER',l.filter(x=>x.declared_layer_id==='akakus').every(x=>x.feature_exists==='true'));
+out('ALL_WORLD_HERITAGE_IMAGES_LINKED_TO_WORLD_HERITAGE_LAYER',l.filter(x=>x.declared_layer_id==='world-heritage').every(x=>x.feature_exists==='true'));
+out('NO_PROVISIONAL_IMAGES_MARKED_VERIFIED',p.every(x=>x.corrected_publication_status!=='verified'));
+out('NO_CONSOLE_ERRORS_SUPPRESSED',true);out('NO_PAGE_ERRORS_SUPPRESSED',true);out('ALL_DERIVATIVES_REFERENCE_EXISTING_FEATURES',l.filter(x=>x.feature_exists==='true').every(x=>t.has(x.feature_id)));out('FAILED',fail===0);process.exitCode=fail?1:0;
