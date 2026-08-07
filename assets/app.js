@@ -472,6 +472,36 @@ function buildHeritageHierarchy(heritageState) {
   });
 }
 
+
+function isLocalMediaPath(path) {
+  return typeof path === 'string' && path.trim() !== '' && !/^(?:[a-z]+:)?\/\//i.test(path) && !path.startsWith('data:') && !path.startsWith('blob:') && !/^[A-Za-z]:[\\/]/.test(path);
+}
+
+function resolveFeatureMedia(feature) {
+  const properties = feature?.properties || feature || {};
+  const values = [];
+  const add = value => {
+    if (!value) return;
+    if (Array.isArray(value)) { value.forEach(add); return; }
+    if (typeof value === 'string') {
+      const text = value.trim();
+      if (text.startsWith('[') && text.endsWith(']')) {
+        try { const parsed = JSON.parse(text); if (Array.isArray(parsed)) { parsed.forEach(add); return; } } catch { /* preserve normal path */ }
+      }
+      if (isLocalMediaPath(text)) values.push(text);
+    }
+  };
+  add(properties.primary_image);
+  add(properties.gallery_images);
+  add(properties.local_images);
+  add(properties.images);
+  add(properties.photos);
+  add(properties.photo);
+  add(properties.image);
+  add(properties.external_images);
+  const galleryImages = values.map(value => normalizeMediaUrl(value)).filter(Boolean).filter((value, index, all) => all.indexOf(value) === index);
+  return { primaryImage: galleryImages[0] || '', galleryImages: galleryImages.slice(0, 12), hasFeatureImage: galleryImages.length > 0, source: galleryImages.length ? 'feature_schema' : 'placeholder' };
+}
 function cleanPopup(
   layer,
   cfg,
@@ -519,110 +549,18 @@ function cleanPopup(
   );
 
   const publicRightsStatuses = new Set([
-    'center_owned',
-    'ministry_owned',
-    'government_owned',
-    'official_partner_permission',
-    'photographer_permission',
-    'open_license_documented',
-    'public_domain_documented'
+    'center_owned', 'ministry_owned', 'government_owned', 'official_partner_permission',
+    'photographer_permission', 'open_license_documented', 'public_domain_documented'
   ]);
-
-  const imagePublicationPermission =
-    properties.image_publication_status ||
-    properties.publication_permission ||
-    '';
-
-  const imageRightsStatus =
-    properties.image_rights_status || '';
-
+  const imagePublicationPermission = properties.image_publication_status || properties.publication_permission || '';
+  const imageRightsStatus = properties.image_rights_status || properties.rights_status || '';
+  const imageDisplayAuthorization = properties.institutional_display_authorization === 'approved';
+  const publicRightsAllowed = imagePublicationPermission === 'public' && publicRightsStatuses.has(imageRightsStatus);
   const imageAllowedForMode = INTERNAL_ADMIN_MODE
-    ? ['public', 'internal_only'].includes(imagePublicationPermission)
-    : imagePublicationPermission === 'public' &&
-      publicRightsStatuses.has(imageRightsStatus);
-
-  const localImages = imageAllowedForMode && Array.isArray(properties.local_images)
-    ? properties.local_images.filter(path =>
-        typeof path === 'string' &&
-        !/^(?:[a-z]+:)?\/\//i.test(path) &&
-        !path.startsWith('data:') &&
-        !path.startsWith('blob:')
-      )
-    : [];
-
-  const mediaValues = imageAllowedForMode ? [
-    properties.external_images,
-    properties.images,
-    properties.photos,
-    properties.photo,
-    properties.image,
-    properties.images_json
-  ] : [];
-
-  const directMedia = [];
-
-  for (const value of mediaValues) {
-    if (!value) {
-      continue;
-    }
-
-    if (Array.isArray(value)) {
-      directMedia.push(...value);
-      continue;
-    }
-
-    if (typeof value === 'string') {
-      const trimmed = value.trim();
-
-      if (
-        trimmed.startsWith('[') &&
-        trimmed.endsWith(']')
-      ) {
-        try {
-          const parsedImages =
-            JSON.parse(trimmed);
-
-          if (Array.isArray(parsedImages)) {
-            directMedia.push(
-              ...parsedImages
-            );
-
-            continue;
-          }
-        } catch {
-          // Keep processing as a normal value.
-        }
-      }
-
-      directMedia.push(trimmed);
-    }
-  }
-
-  const kmlMedia = imageAllowedForMode && placemark
-    ? extractPlacemarkImages(
-        placemark,
-        properties,
-        kmlFileUrl
-      )
-    : [];
-
-  const photoPaths = [
-    ...localImages,
-    ...directMedia,
-    ...kmlMedia
-  ]
-    .map(path =>
-      normalizeMediaUrl(
-        path,
-        kmlFileUrl
-      )
-    )
-    .filter(Boolean)
-    .filter(
-      (path, index, values) =>
-        values.indexOf(path) === index
-    )
-    .slice(0, 6);
+    ? imageDisplayAuthorization || publicRightsAllowed || ['public', 'internal_only'].includes(imagePublicationPermission)
+    : imageDisplayAuthorization || publicRightsAllowed;
+  const mediaResolution = resolveFeatureMedia({ properties });
+  const photoPaths = imageAllowedForMode ? mediaResolution.galleryImages : [];
 
   const cleanText =
     cleanGeoJsonDescription(
@@ -1842,5 +1780,19 @@ setTimeout(() => {
 }, 350);
 
 
+
+window.AtlasRuntime = {
+  showLayer(layerId) { const cfg = layers.find(item => item.id === layerId); const checkbox = document.querySelector(`[data-id="${layerId}"]`); if (checkbox) checkbox.checked = true; if (cfg) toggleLayer(cfg, true); return !!cfg; },
+  hideLayer(layerId) { const cfg = layers.find(item => item.id === layerId); const checkbox = document.querySelector(`[data-id="${layerId}"]`); if (checkbox) checkbox.checked = false; if (cfg) toggleLayer(cfg, false); return !!cfg; },
+  getLayerFeatures(layerId) { const result = []; const value = state[layerId]; if (!value?.group) return result; eachAtlasFeature(value.group, layer => result.push(layer)); return result; },
+  getAllFeatures() { return layers.flatMap(layer => this.getLayerFeatures(layer.id).map(feature => ({ feature, layerId: layer.id }))); },
+  getActiveLayers() { return layers.filter(layer => state[layer.id]?.group && map.hasLayer(state[layer.id].group)).map(layer => layer.id); },
+  searchFeatures(query) { const normalized = normalizeAtlasSearchText(query); return this.getAllFeatures().filter(item => { const p = item.feature.feature?.properties || {}; const text = [p.id,p.canonical_id,p.name_ar,p.name_en,p.name,p.ar_name,p.en_name,p.description_ar,p.description_en,p.description,p.city_ar,p.city_en,p.municipality_ar,p.municipality_en,p.category,p.category_ar,p.subcategory_ar,p.parent_site_name_ar].filter(Boolean).join(' '); return normalizeAtlasSearchText(text).includes(normalized); }); },
+  focusFeature(feature) { if (!feature) return false; if (feature.__atlasContainer?.zoomToShowLayer && typeof feature.getLatLng === 'function') { feature.__atlasContainer.zoomToShowLayer(feature, () => feature.openPopup()); return true; } if (typeof feature.getLatLng === 'function') map.setView(feature.getLatLng(), 14); else if (typeof feature.getBounds === 'function') map.fitBounds(feature.getBounds(), { maxZoom: 14 }); setTimeout(() => feature.openPopup(), 0); return true; },
+  getSelectedFeature() { return window.__atlasSelectedFeature || null; },
+  resolveFeatureMedia
+};
+function normalizeAtlasSearchText(value) { return String(value || '').toLowerCase().normalize('NFD').replace(/[\u064B-\u065F\u0670]/g, '').replace(/[إأآ]/g, 'ا').replace(/ى/g, 'ي').replace(/\s+/g, ' ').trim(); }
+map.on('popupopen', event => { window.__atlasSelectedFeature = event.popup?._source?.feature || event.popup?._source || null; });
 // Load the Phase 1 local UX layer after the stable map runtime.
 (function(){var files=['assets/geoai/geoai-intents.js','assets/geoai/geoai-context.js','assets/geoai/geoai-nearby.js','assets/geoai/geoai-recommendations.js','assets/geoai/geoai-actions.js','assets/geoai/geoai-provider.js','assets/geoai/geoai-engine.js','assets/atlas-ux-geoai.js'];function load(i){if(i>=files.length)return;var script=document.createElement('script');script.src=files[i];script.onload=function(){load(i+1);};script.onerror=function(){console.error('GeoAI local asset failed to load',files[i]);};document.body.appendChild(script);}load(0);}());

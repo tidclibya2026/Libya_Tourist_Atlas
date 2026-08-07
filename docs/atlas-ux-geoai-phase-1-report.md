@@ -50,3 +50,8 @@ GeoJSON is reused from the current runtime state; images remain lazy; search use
 ## Future backend
 
 The future contract is documented in `docs/ai/geoai-api-contract.md`; no backend is implemented in this phase.
+
+## Visual regression repair
+
+The popup regression was caused by the old permission gate treating institutional_display_authorization=approved plus local image paths as unavailable when rights remained unknown. The repair introduces
+esolveFeatureMedia(feature) with schema-aware priority (primary_image, gallery, local_images, other documented local fields) and keeps layer context media out of feature popups. A read-only window.AtlasRuntime API now powers layer actions and feature search. GeoAI free text normalizes Arabic text and falls back to loaded-feature search for names such as Leptis, Ghadames, and the Arch of Septimius Severus. No GeoJSON, rights metadata, image files, or coordinates were changed.

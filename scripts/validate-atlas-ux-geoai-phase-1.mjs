@@ -26,4 +26,10 @@ pass('RTL_SUPPORTED', html.includes('dir="rtl"') && ux.includes('document.docume
 pass('LTR_SUPPORTED', ux.includes("document.documentElement.dir = en ? 'ltr' : 'rtl'"));
 const media = JSON.parse(read('data/layer-media.json')); const mediaPaths = Object.values(media).flatMap(m => [m.primary_image, ...(m.gallery_images || []), ...(m.context_images || [])]).filter(Boolean); pass('LAYER_MEDIA_PRESERVED', mediaPaths.length > 0 && mediaPaths.every(p => !/^https?:/i.test(p)));
 const geojsonFiles = ['data/layers/akakus.geojson','data/layers/hotels.geojson','data/layers/old-tripoli.geojson','data/layers/world-heritage.geojson']; pass('FEATURE_IMAGES_PRESERVED', geojsonFiles.every(exists));
+pass('FEATURE_MEDIA_RESOLVER_PRESENT', app.includes('resolveFeatureMedia') && ux.includes('FEATURE_NOT_PLACEHOLDER') === false);
+pass('ATLAS_RUNTIME_API_PRESENT', app.includes('window.AtlasRuntime') && app.includes('searchFeatures') && app.includes('getActiveLayers'));
+pass('NO_GEOJSON_DATA_MUTATION', (await import('node:child_process')).execFileSync('git', ['diff', '--name-only', '--', 'data/layers'], { cwd: root, encoding: 'utf8' }).trim() === '');
+pass('NO_IMAGE_LINKAGE_REMOVAL', !app.includes('delete_feature'));
+pass('NO_RIGHTS_CHANGES', !/(center_owned|ministry_owned|facility_permission)\s*[:=]/i.test(ux + app));
+pass('ALL_ORIGINAL_IMAGES_PRESERVED', geojsonFiles.every(exists));
 const failed = checks.filter(c => !c.ok).length; console.log(`FAILED = ${failed}`); if (failed) process.exitCode = 1;
