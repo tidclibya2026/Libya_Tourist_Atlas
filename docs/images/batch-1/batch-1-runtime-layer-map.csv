@@ -1,0 +1,5 @@
+﻿declared_layer_id,runtime_config_id,runtime_geojson_path,geojson_exists,loaded_by_app,feature_count,approved_image_count,linkage_status,notes
+world-heritage,worldHeritage,data/layers/world-heritage.geojson,true,true,212,5,provisional_linked,Individual visual verification remains pending.
+akakus,akakus,,false,false,0,9,withheld_pending_linkage,KML exists but is not counted as runtime GeoJSON.
+old-tripoli,oldTripoli,,false,false,0,60,withheld_pending_linkage,KML exists but is not counted as runtime GeoJSON.
+rock-art,rockArt,,false,false,0,0,not_applicable,No approved images.
