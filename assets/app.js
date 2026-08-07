@@ -101,6 +101,7 @@ const layers = [
 
 const layerNamesEn = { heritage: 'World Heritage', akakus: 'Akakus', oldTripoli: 'Old Tripoli', hotels: 'Hotels', tripoliRestaurants: 'Tripoli Restaurants', tripoliCafes: 'Tripoli Cafes', resorts: 'Resorts', investment: 'Investment', naturalGithub: 'Natural Resources', national: 'National Atlas' };
 const INTERNAL_ADMIN_MODE = new URLSearchParams(window.location.search).get('mode') === 'internal';
+const layerMediaPromise = fetch('data/layer-media.json').then(r => r.ok ? r.json() : {}).catch(() => ({}));
 for (const cfg of layers) {
   Object.assign(cfg, { nameAr: cfg.name, nameEn: layerNamesEn[cfg.id] || cfg.name, visibleByDefault: cfg.id === 'heritage', cluster: true, popupType: 'gallery' });
 }
@@ -248,6 +249,18 @@ for (const cfg of layers) {
   `;
 
   list.appendChild(card);
+  layerMediaPromise.then(media => {
+    const m = media[cfg.id];
+    if (!m?.primary_image) return;
+    const img = document.createElement('img');
+    img.className = 'layer-media-hero';
+    img.loading = 'lazy';
+    img.decoding = 'async';
+    img.alt = `${cfg.name} — صورة سياقية للطبقة`;
+    img.src = m.primary_image;
+    img.addEventListener('error', () => img.remove());
+    card.insertBefore(img, card.firstChild);
+  });
 
   if (cfg.id === 'heritage') {
     const hierarchy = document.createElement('div');

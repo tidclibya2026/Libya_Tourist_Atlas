@@ -45,7 +45,7 @@
         "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى)",
@@ -111,7 +111,10 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown"
       }
     },
     {
@@ -147,7 +150,7 @@
         "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": "high",
         "source_name_ar": "موقع صبراتة الأثري",
@@ -213,7 +216,10 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown"
       }
     },
     {
@@ -249,7 +255,7 @@
         "image_count": 1,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": "high",
         "source_name_ar": "موقع شحات (قورينة) الأثري",
@@ -286,7 +292,10 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown"
       }
     },
     {
@@ -395,7 +404,7 @@
         "image_count": 4,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "مدينة غدامس القديمة",
@@ -433,7 +442,18 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-001.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-002.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-003.jpg",
+          "assets/media/LIBYA/heritage/ghadames/published/main-site/ghadames-main-site-004.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -2024,10 +2044,10 @@
           "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-014.jpeg",
           "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-015.jpeg"
         ],
-        "image_count": 14,
+        "image_count": 12,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "المسرح",
@@ -2060,7 +2080,26 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-stage-wide.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-stage-wide.jpg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-stage-front.jpg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-panorama.jpg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-overview.jpg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-001.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-012.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-013.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-014.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/theatre-official-015.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-001.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-012.jpeg",
+          "assets/media/LIBYA/heritage/leptis-magna/published/theatre/leptis-official-013.jpeg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -2161,7 +2200,7 @@
         "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "قوس سبتيموس سفيروس",
@@ -2223,7 +2262,10 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown"
       }
     },
     {
@@ -3588,7 +3630,7 @@
         "image_count": 1,
         "image_source": "existing_atlas_media",
         "image_owner_ar": "existing_atlas_media",
-        "image_rights_status": "existing_project_asset",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "السوق الرومانية",
@@ -3621,7 +3663,15 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/leptis-magna/published/roman-market/roman-market-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/leptis-magna/published/roman-market/roman-market-001.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -3722,7 +3772,7 @@
         "image_count": 1,
         "image_source": "official_and_existing_atlas_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_publication_approval",
+        "image_rights_status": "unknown",
         "image_review_status": "institutionally_approved_pending_visual_verification",
         "confidence": 1,
         "source_name_ar": "المسرح الروماني الخمس _ ليبيا",
@@ -3784,7 +3834,10 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown"
       }
     },
     {
@@ -5047,7 +5100,7 @@
         "image_count": 2,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "متحف روماني",
@@ -5079,7 +5132,16 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/Sabratha/published/roman-museum/sabratha-roman-museum-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/Sabratha/published/roman-museum/sabratha-roman-museum-001.jpg",
+          "assets/media/LIBYA/Sabratha/published/roman-museum/sabratha-roman-museum-002.JPG"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -6500,7 +6562,7 @@
         "image_count": 8,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "مسرح صبراته الأثري",
@@ -6533,7 +6595,22 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-001.jpg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-002.jpeg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-003.jpg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-004.jpg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-005.jpg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-006.jpg",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-007.JPG",
+          "assets/media/LIBYA/Sabratha/published/theatre/sabratha-theatre-008.JPG"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -6570,7 +6647,7 @@
         "image_count": 2,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "الضريح البونيقي",
@@ -6603,7 +6680,16 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/Sabratha/published/punic-mausoleum/sabratha-punic-mausoleum-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/Sabratha/published/punic-mausoleum/sabratha-punic-mausoleum-001.jpg",
+          "assets/media/LIBYA/Sabratha/published/punic-mausoleum/sabratha-punic-mausoleum-002.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -6684,7 +6770,7 @@
         "image_count": 2,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "الامفيثياتر",
@@ -6716,7 +6802,16 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/Sabratha/published/amphitheatre/sabratha-amphitheatre-001.JPG",
+        "gallery_images": [
+          "assets/media/LIBYA/Sabratha/published/amphitheatre/sabratha-amphitheatre-001.JPG",
+          "assets/media/LIBYA/Sabratha/published/amphitheatre/sabratha-amphitheatre-002.JPG"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -6817,7 +6912,7 @@
         "image_count": 2,
         "image_source": "official_center_media_visual_review",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "مسرح شحات الاثري",
@@ -6834,7 +6929,16 @@
         },
         "source_index": 104,
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/features/archaeological-theatre/archaeological-theatre-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/archaeological-theatre/archaeological-theatre-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/archaeological-theatre/archaeological-theatre-002.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -7024,7 +7128,7 @@
         "image_count": 2,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "أثار قورينا",
@@ -7041,7 +7145,16 @@
         },
         "source_index": 108,
         "image_match_type": "site_general",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-001.JPG",
+          "assets/media/LIBYA/heritage/cyrene/published/main-site/cyrene-main-aerial-002.JPG"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -7587,7 +7700,7 @@
         "image_count": 1,
         "image_source": "official_center_media_visual_review",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "نبع أبولو",
@@ -7604,7 +7717,15 @@
         },
         "source_index": 119,
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/features/fountain-of-apollo/fountain-of-apollo-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/fountain-of-apollo/fountain-of-apollo-001.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -7844,7 +7965,7 @@
         "image_count": 1,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "low",
         "source_name_ar": "معبد زيوس في قورينا",
@@ -7861,7 +7982,15 @@
         },
         "source_index": 124,
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/features/cyrene-temple-of-zeus-001.jpeg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/cyrene-temple-of-zeus-001.jpeg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -7901,7 +8030,7 @@
         "image_count": 5,
         "image_source": "official_center_media_visual_review",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "السوق اليوناني القديم اغورا",
@@ -7918,7 +8047,19 @@
         },
         "source_index": 125,
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-002.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-003.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-004.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/greek-agora/greek-agora-005.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -7958,7 +8099,7 @@
         "image_count": 5,
         "image_source": "official_center_media_visual_review",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed_visual_match",
         "confidence": "low",
         "source_name_ar": "Byzantine basilica",
@@ -7975,7 +8116,19 @@
         },
         "source_index": 126,
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-001.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-002.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-003.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-004.jpg",
+          "assets/media/LIBYA/heritage/cyrene/published/features/byzantine-basilica/byzantine-basilica-005.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {
@@ -11327,7 +11480,7 @@
         "image_count": 1,
         "image_source": "official_center_media",
         "image_owner_ar": "مركز المعلومات والتوثيق السياحي",
-        "image_rights_status": "institutional_ownership",
+        "image_rights_status": "unknown",
         "image_review_status": "confirmed",
         "confidence": "high",
         "source_name_ar": "عين الفرس",
@@ -11356,7 +11509,15 @@
           "data/incoming/world-heritage-team-update.kml"
         ],
         "image_match_type": "exact_feature",
-        "image_match_confidence": "high"
+        "image_match_confidence": "high",
+        "primary_image": "assets/media/LIBYA/heritage/ghadames/published/ain-al-faras/ghadames-ain-al-faras-001.jpg",
+        "gallery_images": [
+          "assets/media/LIBYA/heritage/ghadames/published/ain-al-faras/ghadames-ain-al-faras-001.jpg"
+        ],
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       }
     },
     {

@@ -1,0 +1,9 @@
+﻿layer_id,source_folder,primary_image,gallery_image_count,context_image_count,feature_linked_image_count,runtime_enabled,rights_status,authorization_status
+heritage,assets/images/world-heritage,assets/images/world-heritage/world-heritage-LY-WH-000180-01.png,12,56,0,True,unknown,approved
+akakus,assets/images/akakus,assets/images/akakus/akakus-LY-AKAKUS-00001-01.png,12,82,94,True,unknown,approved
+oldTripoli,assets/images/old-tripoli,assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.png,12,460,0,True,unknown,approved
+hotels,assets/images/hotels,assets/images/hotels/hotels-LY-HOTELS-00001-05.png,12,1514,791,True,unknown,approved
+resorts,assets/images/resorts,assets/images/resorts/resorts-LY-RES-000002-02.png,12,4,0,True,unknown,approved
+tripoliRestaurants,assets/images/restaurants,,0,0,0,False,unknown,approved
+tripoliCafes,assets/images/cafes,,0,0,0,False,unknown,approved
+investment,assets/images/investment,assets/images/investment/investment-LY-INV-000001-01.png,12,1380,0,True,unknown,approved

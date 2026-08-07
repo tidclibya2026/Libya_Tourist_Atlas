@@ -1,0 +1,9 @@
+﻿layer_id,feature_count,features_with_images,features_without_images,primary_images,gallery_images,total_linked_images,layer_context_images,coverage_percentage
+heritage,261,19,242,0,12,0,56,7.28
+akakus,196,43,153,43,106,94,82,21.94
+oldTripoli,135,114,21,0,12,0,460,84.44
+hotels,528,230,298,230,803,791,1514,43.56
+resorts,262,0,262,0,12,0,4,0.0
+tripoliRestaurants,75,0,75,0,0,0,0,0.0
+tripoliCafes,404,0,404,0,0,0,0,0.0
+investment,615,0,615,0,12,0,1380,0.0
