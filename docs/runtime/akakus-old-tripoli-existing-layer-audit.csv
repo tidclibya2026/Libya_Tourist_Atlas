@@ -1,0 +1,3 @@
+﻿layer_id,geojson_path,exists,loaded_by_app,feature_count,id_field,geometry_types,contains_akakus_features,contains_old_tripoli_features,candidate_for_reuse,recommended_action,notes
+akakus,data/layers/akakus.geojson,true,true,196,id,Point,true,false,false,runtime layer created from KML,
+old-tripoli,data/layers/old-tripoli.geojson,true,true,135,id,Point,false,true,false,runtime layer created from KML,

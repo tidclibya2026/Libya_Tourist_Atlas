@@ -19,7 +19,8 @@ const layers = [
   {
     id: 'akakus',
     name: 'تادرارت أكاكوس والفن الصخري',
-    file: 'data/kml/final/akakus.kml',
+    type: 'geojson',
+    url: 'data/layers/akakus.geojson',
     icon: '🪨',
     color: '#b45309',
     meta: 'الفن الصخري والمشهد الصحراوي'
@@ -27,7 +28,8 @@ const layers = [
 {
   id: 'oldTripoli',
   name: 'المدينة القديمة طرابلس',
-  file: 'data/kml/final/old-tripoli.kml',
+  type: 'geojson',
+  url: 'data/layers/old-tripoli.geojson',
   icon: '🕌',
   color: '#0891b2',
   meta: 'المعالم التاريخية والصور المحلية'
