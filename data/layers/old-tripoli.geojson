@@ -20,7 +20,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00001-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +63,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00002-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00002-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00002-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00002-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00002-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +106,33 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00003-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +172,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00004-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +219,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00005-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00005-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00005-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00005-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00005-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +262,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00006-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00006-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00006-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00006-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00006-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -205,7 +305,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00007-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +352,31 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-008-mymaps-73f55fdcf804.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-008-mymaps-73f55fdcf804.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00008-03.webp"
+        ],
+        "image_count": 7,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-008-mymaps-73f55fdcf804.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +405,23 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-009-mymaps-45b1b8e01b88.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00009-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00009-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-009-mymaps-45b1b8e01b88.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00009-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00009-01.webp"
+        ],
+        "image_count": 3,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-009-mymaps-45b1b8e01b88.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +450,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00010-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00010-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00010-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00010-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00010-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +493,23 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-011-mymaps-32eb5ad6a842.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00011-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00011-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-011-mymaps-32eb5ad6a842.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00011-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00011-01.webp"
+        ],
+        "image_count": 3,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-011-mymaps-32eb5ad6a842.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -350,7 +538,31 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-012-mymaps-d4b2ffac0f44.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-012-mymaps-d4b2ffac0f44.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00012-03.webp"
+        ],
+        "image_count": 7,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-012-mymaps-d4b2ffac0f44.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +602,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00013-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00013-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00013-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00013-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00013-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -419,7 +645,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00014-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +725,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00016-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00016-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00016-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00016-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00016-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -517,7 +779,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00017-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00017-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00017-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00017-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00017-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -557,7 +833,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00018-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -597,7 +891,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00019-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00019-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00019-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00019-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00019-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +945,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00020-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +996,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00021-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -706,7 +1058,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00022-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00022-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00022-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00022-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00022-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +1141,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00024-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +1199,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00025-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -844,7 +1246,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-03.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00026-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -884,7 +1304,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00027-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00027-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00027-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00027-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00027-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -913,7 +1347,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00028-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00028-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00028-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00028-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00028-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1029,7 +1477,19 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-032-mymaps-47787052ac3b.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-032-mymaps-47787052ac3b.webp"
+        ],
+        "image_count": 1,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-032-mymaps-47787052ac3b.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1634,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00037-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00037-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00037-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00037-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00037-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1214,7 +1688,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00038-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00038-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00038-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00038-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00038-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1254,7 +1742,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00039-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1294,7 +1800,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00040-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1862,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00041-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1363,7 +1909,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00042-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1403,7 +1971,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00043-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1443,7 +2033,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00044-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1483,7 +2099,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00045-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1610,7 +2252,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00049-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1679,7 +2343,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00051-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00051-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00051-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00051-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00051-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1719,7 +2397,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00052-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1748,7 +2452,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00053-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1788,7 +2510,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00054-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1828,7 +2568,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00055-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1868,7 +2630,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00056-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1937,7 +2717,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00058-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1977,7 +2779,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00059-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2866,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00061-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00061-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00061-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00061-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00061-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2075,7 +2909,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00062-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00062-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00062-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00062-02.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00062-02.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2115,7 +2963,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00063-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00063-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00063-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00063-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00063-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2155,7 +3017,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00064-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2184,7 +3064,33 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00065-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2213,7 +3119,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00066-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2242,7 +3166,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00067-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00067-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00067-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00067-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00067-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +3209,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00068-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2311,7 +3267,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00069-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2340,7 +3318,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00070-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2380,7 +3380,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00071-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2438,7 +3464,33 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00073-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2467,7 +3519,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00074-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00074-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00074-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00074-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00074-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2496,7 +3562,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00075-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2565,7 +3653,23 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-077-mymaps-2091baec7b49.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00077-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00077-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-077-mymaps-2091baec7b49.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00077-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00077-01.webp"
+        ],
+        "image_count": 3,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-077-mymaps-2091baec7b49.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2594,7 +3698,27 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-078-mymaps-71348ead3aa5.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-078-mymaps-71348ead3aa5.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00078-02.webp"
+        ],
+        "image_count": 5,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-078-mymaps-71348ead3aa5.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2634,7 +3758,35 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-079-mymaps-d9609d3621a8.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-079-mymaps-d9609d3621a8.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00079-04.webp"
+        ],
+        "image_count": 9,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-079-mymaps-d9609d3621a8.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2663,7 +3815,27 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-080-mymaps-106164a57f86.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-080-mymaps-106164a57f86.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00080-02.webp"
+        ],
+        "image_count": 5,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-080-mymaps-106164a57f86.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2692,7 +3864,31 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-081-mymaps-854d74944446.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-081-mymaps-854d74944446.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00081-03.webp"
+        ],
+        "image_count": 7,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-081-mymaps-854d74944446.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2732,7 +3928,31 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-082-mymaps-3bc6b5d24cc6.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-082-mymaps-3bc6b5d24cc6.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00082-03.webp"
+        ],
+        "image_count": 7,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-082-mymaps-3bc6b5d24cc6.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2761,7 +3981,19 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-083-mymaps-e5193326f3d2.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-083-mymaps-e5193326f3d2.webp"
+        ],
+        "image_count": 1,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-083-mymaps-e5193326f3d2.webp",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2801,7 +4033,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00084-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2859,7 +4113,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00086-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00086-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00086-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00086-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00086-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2899,7 +4167,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00087-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2939,7 +4229,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00088-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00088-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00088-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00088-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00088-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2968,7 +4272,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00089-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3008,7 +4330,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00090-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3037,7 +4377,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00091-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00091-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00091-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00091-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00091-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +4420,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00092-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00092-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00092-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00092-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00092-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3095,7 +4463,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00093-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3135,7 +4521,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00094-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00094-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00094-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00094-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00094-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3164,7 +4564,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00095-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3204,7 +4626,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00096-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00096-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00096-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00096-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00096-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3244,7 +4680,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00097-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3284,7 +4742,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00098-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3324,7 +4800,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00099-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3364,7 +4862,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00100-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3404,7 +4924,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00101-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00101-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00101-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00101-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00101-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3444,7 +4978,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00102-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3484,7 +5040,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00103-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3513,7 +5091,33 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00104-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3553,7 +5157,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00105-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3593,7 +5223,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00106-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00106-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00106-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00106-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00106-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3622,7 +5266,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00107-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00107-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00107-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00107-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00107-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3662,7 +5320,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00108-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00108-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00108-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00108-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00108-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3691,7 +5363,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00109-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00109-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00109-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00109-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00109-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3720,7 +5406,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00110-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3749,7 +5457,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00111-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00111-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00111-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00111-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00111-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3778,7 +5500,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00112-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00112-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00112-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00112-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00112-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3807,7 +5543,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00113-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00113-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00113-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00113-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00113-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3847,7 +5597,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00114-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3887,7 +5655,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00115-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3927,7 +5717,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00116-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3956,7 +5764,37 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-04.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-05.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-05.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-04.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-05.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-05.webp"
+        ],
+        "image_count": 10,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00117-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +5834,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00118-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4025,7 +5881,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00119-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00119-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00119-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00119-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00119-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4054,7 +5924,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00120-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4083,7 +5975,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00121-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00121-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00121-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00121-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00121-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4123,7 +6029,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00122-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00122-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00122-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00122-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00122-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4163,7 +6083,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00123-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4192,7 +6130,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00124-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +6177,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00125-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00125-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00125-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00125-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00125-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4261,7 +6231,29 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00126-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4290,7 +6282,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00127-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4330,7 +6340,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00128-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00128-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00128-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00128-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00128-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4370,7 +6394,33 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-04.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-03.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-04.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-04.webp"
+        ],
+        "image_count": 8,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00129-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4399,7 +6449,29 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-03.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-02.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-03.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-03.webp"
+        ],
+        "image_count": 6,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00130-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4468,7 +6540,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00132-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4537,7 +6627,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-01.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-01.webp",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-02.png",
+          "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/old-tripoli/old-tripoli-LY-OLD-TRIPOLI-00134-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",

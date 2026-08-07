@@ -1,0 +1,10 @@
+﻿folder_path,source_layer_name,runtime_layer_id,runtime_geojson,runtime_feature_count,mapping_status,confidence,notes
+assets/images/world-heritage,world-heritage,heritage,data/layers/world-heritage.geojson,261,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/akakus,akakus,akakus,data/layers/akakus.geojson,196,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/old-tripoli,old-tripoli,oldTripoli,data/layers/old-tripoli.geojson,135,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/hotels,hotels,hotels,data/layers/hotels.geojson,528,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/resorts,resorts,resorts,data/layers/tourist-villages-resorts.geojson,262,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/tourism-villages,tourism-villages,tourism-villages,data/layers/tourist-villages-resorts.geojson,262,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/restaurants,restaurants,tripoliRestaurants,data/layers/tripoli-restaurants.geojson,75,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/cafes,cafes,tripoliCafes,data/layers/tripoli-cafes.geojson,404,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.
+assets/images/investment,investment,investment,data/layers/tourism-investment-projects.geojson,615,confirmed_by_existing_integration,high,Runtime GeoJSON loaded by assets/app.js.

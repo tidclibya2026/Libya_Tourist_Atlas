@@ -20,7 +20,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00001-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00001-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00001-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00001-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00001-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +63,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00002-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00002-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00002-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00002-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00002-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +106,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00003-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00003-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00003-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00003-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00003-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -107,7 +149,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00004-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00004-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00004-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00004-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00004-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +192,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00005-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00005-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00005-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00005-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00005-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +235,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00006-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00006-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00006-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00006-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00006-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +278,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00007-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00007-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00007-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00007-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00007-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -223,7 +321,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00008-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00008-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00008-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00008-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00008-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +364,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00009-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00009-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00009-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00009-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00009-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -281,7 +407,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00010-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00010-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00010-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00010-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00010-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +450,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00011-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00011-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00011-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00011-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00011-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +493,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00012-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00012-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00012-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00012-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00012-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +536,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00013-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00013-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00013-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00013-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00013-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +579,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00014-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00014-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00014-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00014-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00014-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +651,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00016-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00016-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00016-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00016-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00016-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +694,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00017-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00017-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00017-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00017-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00017-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +737,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00018-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00018-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00018-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00018-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00018-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -542,7 +780,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00019-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00019-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00019-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00019-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00019-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -571,7 +823,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00020-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00020-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00020-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00020-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00020-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -600,7 +866,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00021-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00021-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00021-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00021-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00021-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +909,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00022-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00022-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00022-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00022-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00022-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -669,7 +963,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00023-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00023-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00023-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00023-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00023-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -814,7 +1122,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00028-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00028-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -854,7 +1180,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00029-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00029-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00029-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00029-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00029-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +1234,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00030-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00030-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00030-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00030-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00030-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -923,7 +1277,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00031-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00031-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00031-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00031-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00031-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -963,7 +1331,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00032-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00032-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00032-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00032-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00032-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1050,7 +1432,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00035-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00035-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1119,7 +1519,25 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00037-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00037-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1177,7 +1595,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00039-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00039-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00039-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00039-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00039-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1638,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00040-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00040-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00040-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00040-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00040-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1235,7 +1681,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00041-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00041-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00041-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00041-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00041-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1293,7 +1753,25 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-02.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-01.webp",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-02.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00043-02.webp"
+        ],
+        "image_count": 4,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00043-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1478,7 +1956,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00049-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00049-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00049-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00049-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00049-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3142,7 +3634,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00106-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00106-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00106-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00106-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00106-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4360,7 +4866,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00148-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00148-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00148-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00148-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00148-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4574,7 +5094,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00155-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00155-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00155-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00155-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00155-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4614,7 +5148,21 @@
           "primary"
         ],
         "image_candidate_count": 1,
-        "image_display_status": "provisional"
+        "image_display_status": "provisional",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00156-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00156-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00156-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00156-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00156-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -4730,7 +5278,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00160-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00160-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00160-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00160-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00160-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -5629,7 +6191,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00191-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00191-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00191-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00191-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00191-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -5658,7 +6234,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00192-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00192-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00192-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00192-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00192-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -5687,7 +6277,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00193-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00193-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00193-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00193-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00193-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -5774,7 +6378,21 @@
         "image_publication_status": "provisional_publication_candidate",
         "image_link_status": "runtime_linked_pending_visual_verification",
         "image_rights_status": "institutional_publication_approval",
-        "image_governance_version": "runtime_linkage_phase_v1"
+        "image_governance_version": "runtime_linkage_phase_v1",
+        "local_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00196-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00196-01.webp"
+        ],
+        "gallery_images": [
+          "assets/images/akakus/akakus-LY-AKAKUS-00196-01.png",
+          "assets/images/akakus/akakus-LY-AKAKUS-00196-01.webp"
+        ],
+        "image_count": 2,
+        "primary_image": "assets/images/akakus/akakus-LY-AKAKUS-00196-01.png",
+        "layer_assignment_status": "user_curated_confirmed",
+        "institutional_display_authorization": "approved",
+        "rights_status": "unknown",
+        "image_source_credit": "unknown"
       },
       "geometry": {
         "type": "Point",

@@ -1,0 +1,101 @@
+[
+  {
+    "layer_id": "heritage",
+    "feature_count": 261,
+    "features_with_images": 19,
+    "features_without_images": 242,
+    "primary_images": 5,
+    "gallery_images": 55,
+    "total_linked_images": 55,
+    "layer_context_images": 0,
+    "coverage_percentage": 7.28
+  },
+  {
+    "layer_id": "akakus",
+    "feature_count": 196,
+    "features_with_images": 43,
+    "features_without_images": 153,
+    "primary_images": 0,
+    "gallery_images": 94,
+    "total_linked_images": 94,
+    "layer_context_images": 0,
+    "coverage_percentage": 21.94
+  },
+  {
+    "layer_id": "oldTripoli",
+    "feature_count": 135,
+    "features_with_images": 114,
+    "features_without_images": 21,
+    "primary_images": 0,
+    "gallery_images": 484,
+    "total_linked_images": 484,
+    "layer_context_images": 0,
+    "coverage_percentage": 84.44
+  },
+  {
+    "layer_id": "hotels",
+    "feature_count": 528,
+    "features_with_images": 230,
+    "features_without_images": 298,
+    "primary_images": 0,
+    "gallery_images": 791,
+    "total_linked_images": 791,
+    "layer_context_images": 0,
+    "coverage_percentage": 43.56
+  },
+  {
+    "layer_id": "resorts",
+    "feature_count": 262,
+    "features_with_images": 0,
+    "features_without_images": 262,
+    "primary_images": 0,
+    "gallery_images": 0,
+    "total_linked_images": 0,
+    "layer_context_images": 0,
+    "coverage_percentage": 0.0
+  },
+  {
+    "layer_id": "tourism-villages",
+    "feature_count": 262,
+    "features_with_images": 0,
+    "features_without_images": 262,
+    "primary_images": 0,
+    "gallery_images": 0,
+    "total_linked_images": 0,
+    "layer_context_images": 0,
+    "coverage_percentage": 0.0
+  },
+  {
+    "layer_id": "tripoliRestaurants",
+    "feature_count": 75,
+    "features_with_images": 0,
+    "features_without_images": 75,
+    "primary_images": 0,
+    "gallery_images": 0,
+    "total_linked_images": 0,
+    "layer_context_images": 0,
+    "coverage_percentage": 0.0
+  },
+  {
+    "layer_id": "tripoliCafes",
+    "feature_count": 404,
+    "features_with_images": 0,
+    "features_without_images": 404,
+    "primary_images": 0,
+    "gallery_images": 0,
+    "total_linked_images": 0,
+    "layer_context_images": 0,
+    "coverage_percentage": 0.0
+  },
+  {
+    "layer_id": "investment",
+    "feature_count": 615,
+    "features_with_images": 0,
+    "features_without_images": 615,
+    "primary_images": 0,
+    "gallery_images": 0,
+    "total_linked_images": 0,
+    "layer_context_images": 0,
+    "coverage_percentage": 0.0
+  }
+]
