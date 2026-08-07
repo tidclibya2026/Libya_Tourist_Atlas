@@ -105,10 +105,11 @@ for (const cfg of layers) {
 
 const map = L.map('map', {
   zoomControl: true,
-  minZoom: 4
+  minZoom: 4,
+  maxZoom: 19
 }).setView([27.2, 17.2], 5);
 
-const baseLayers = {
+const baseLayers = window.__ATLAS_OFFLINE__ ? {} : {
   'خريطة فاتحة': L.tileLayer(
     'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
     {
@@ -125,7 +126,7 @@ const baseLayers = {
   )
 };
 
-baseLayers['خريطة فاتحة'].addTo(map);
+if (baseLayers['خريطة فاتحة']) baseLayers['خريطة فاتحة'].addTo(map);
 L.control.layers(baseLayers, null, { position: 'topleft' }).addTo(map);
 
 const state = {};

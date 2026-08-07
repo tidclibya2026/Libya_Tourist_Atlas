@@ -5,5 +5,9 @@
     "validate:kml": "node scripts/validate-kml-layers.mjs",
     "test:atlas": "node scripts/smoke-test-atlas.mjs",
     "test:popup-media": "node scripts/test-popup-media.mjs"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "leaflet.markercluster": "1.5.3"
   }
 }
