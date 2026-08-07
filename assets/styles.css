@@ -994,3 +994,5 @@ main {
 }
 
 .layer-media-hero{display:block;width:100%;max-height:96px;object-fit:cover;border-radius:8px;margin-bottom:6px}
+
+@import url('atlas-ux-geoai.css');
