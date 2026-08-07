@@ -1,0 +1,791 @@
+﻿feature_id,name_ar,facility_type,city_ar,candidate_images,current_images,master_candidates,high_quality_candidates,acceptable_candidates,ambiguous_candidates,rights_known,rights_unknown,primary_candidate,gallery_candidates,manual_review_required,coverage_status
+LY-HOT-000001,فندق كورنثيا,hotel,طرابلس - طريق الكورنيش,1,1,1,0,0,0,0,1,IMG-FA97329E9A9EC2B8,1,true,strong_candidate_coverage
+LY-HOT-000002,فندق بينثابوليس,hotel,شارع العروبة,3,3,3,0,0,0,0,3,IMG-498ED4DC235794F3,3,true,strong_candidate_coverage
+LY-HOT-000003,فندق جوهرة الواحة,hostel,غدامس,4,4,3,0,0,0,0,4,IMG-B802642D83C0705A,4,true,strong_candidate_coverage
+LY-HOT-000004,فندق تبرس,hostel,كاباو,2,2,2,0,0,0,0,2,IMG-D290D5E752B7F249,2,true,strong_candidate_coverage
+LY-HOT-000005,منتجع شحات السياحي,resort,شحات,3,3,3,1,2,0,0,3,IMG-02BE325FA2853805,3,true,strong_candidate_coverage
+LY-HOT-000006,فندق المنارة,hotel,سوسة,3,3,3,0,3,0,0,3,IMG-C1C05F1A9D79A78A,3,true,strong_candidate_coverage
+LY-HOT-000007,فندق لؤلؤة الخليج,hostel,"يقع الفندق في منطقة حيوية بالقرب من ""المنفذ/مفوز الحرية"" وبجوار مسجد مكة. البيضاء ليبيا شارع العروبة",2,2,2,0,0,0,0,2,IMG-7703B3398C7DF70E,2,true,strong_candidate_coverage
+LY-HOT-000008,فندق التلال الوسيطة البيضاء,resort,شارع عمر المختار- الوسيطة,4,4,4,0,0,0,0,4,IMG-5EB2C1FAE325444C,4,true,strong_candidate_coverage
+LY-HOT-000009,العنود للشقق الفندقية,hotel,البيضاء ليبيا شارع طه حسين,4,4,4,0,0,0,0,4,IMG-819089A3F33FB55C,4,true,strong_candidate_coverage
+LY-HOT-000010,فندق الثريا,hotel,"مقابل الادارة العامة للادارة المصارف التجارية, Al-Baida, Libya,",5,5,5,0,0,0,0,5,IMG-55D8F93ACEA7906A,5,true,strong_candidate_coverage
+LY-HOT-000011,منتجع الينابيع السياحي,resort,درنة ليبيا,2,2,2,2,0,0,0,2,IMG-65AB52B2F6CC48F7,2,true,strong_candidate_coverage
+LY-HOT-000012,فندق برقة,hotel,"Al Bayda, Libya, https://ly.arabplaces.com/jabal-al- مقابل من مصرف تجاري الوطني ادارة المصارف, Al Bayda', Libya akhdar/63682",1,1,1,0,0,0,0,1,IMG-119A09082CDA83D7,1,true,strong_candidate_coverage
+LY-HOT-000013,فندق الهديل,hostel,"شارع القهاوي خلف مصرف الجمهورية , Al Bayda', Libya",0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000014,فندق بن يدر,hotel,غدامس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000015,فندق نجوم غدامس,hotel,غدامس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000016,فندق باب الفتح,hostel,ليبيا غدامس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000017,فندق فكتوريا,hotel,شارع الظهرة الكبيرة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000018,فندق الطاووس,hostel,تاجوراء - الساحلي,4,4,4,0,0,0,0,4,IMG-70EDD68175987801,4,true,strong_candidate_coverage
+LY-HOT-000019,فندق الودان,hotel,شارع سيدي عيسى - الظهرة,4,4,4,0,0,0,0,4,IMG-6A860408D3A66731,4,true,strong_candidate_coverage
+LY-HOT-000020,فندق دار السلام ( المسيرة سابقا ),hotel,الشارع الرئيسي: طريق بنغازي (الطريق الساحلي).المدينة: طبرق، ليبيا.Map data ©2026 Terms200 m,4,4,3,0,0,0,0,4,IMG-872A6D479BE28E01,4,true,strong_candidate_coverage
+LY-HOT-000021,فندق سان جورج,hotel,"مقابل ميناء طبرق البحري, Tobruk, Libya",4,4,4,0,0,0,0,4,IMG-3CBAB36D93017A02,4,true,strong_candidate_coverage
+LY-HOT-000022,فندق الحسنين الكبير,hostel,الخمس,3,3,3,0,0,0,0,3,IMG-19C3F36AD1E19044,3,true,strong_candidate_coverage
+LY-HOT-000023,بيوت الشباب,hostel,"شحات - خلف مديرية أمن شحات, Shahhat, Libya شحات",4,4,4,2,1,0,0,4,IMG-56A6440E48860943,4,true,strong_candidate_coverage
+LY-HOT-000024,فندق بلاغراي السياحي ( التلال سابقا ),hostel,يقع على يمين الطريق المؤدي غرباً للادارة العامة لجامعة عمر المختاربجوار السكن الجامعي، البيضاء ليبيا,4,4,4,0,0,0,0,4,IMG-F5D8E40E6C1EA4DB,4,true,strong_candidate_coverage
+LY-HOT-000025,منتجع ايميليا,resort,يقع المنتجع مباشرة على شاطئ بحر مدينة درنة بالقرب من ملعب درنة البلدي.درنة,5,5,4,0,0,0,0,5,IMG-E4FA3718C8C00988,5,true,strong_candidate_coverage
+LY-HOT-000026,منتجع وموتيل الأمان,resort,طريق الأبرق شحات,4,4,3,0,0,0,0,4,IMG-2B0470543FB41D5D,4,true,strong_candidate_coverage
+LY-HOT-000027,بيوت شباب غدامس,review_required,يقع البيت في مدينة غدامس بالقرب من المثلث الحدودي المشترك بين ليبيا وتونس والجزائر,1,1,1,0,0,0,0,1,IMG-76159BDC315DE906,1,true,strong_candidate_coverage
+LY-HOT-000028,نالوت غدامس فندق باب العز,hotel,يقع الفندق في شارع الزفزاف، نالوت، بالقرب من محطة البنزين,3,3,3,0,0,0,0,3,IMG-EEC9D5AE902233A5,3,true,strong_candidate_coverage
+LY-HOT-000029,فندق أبراج الوسطى,hotel,"الشارع الرئيسي مقابل محطة الاقمار الصناعية, Sert, Libya",2,2,2,0,0,0,0,2,IMG-0F373BA333C2EBDE,2,true,strong_candidate_coverage
+LY-HOT-000030,فندق طيبة,hostel,سبها حي عبدالكافي.. جزيرة التقويم والقياس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000031,فندق قصر الفيروز,hostel,حي دمشق، بالقرب من مستشفى الخضراء ومحلات البيت المعمور للمواد المنزلية.طرابلس,6,6,6,0,0,0,0,6,IMG-4B53EBB6AABCC1D3,6,true,strong_candidate_coverage
+LY-HOT-000032,Royal Gardens Hotels,hostel,العنوان: كازا لانجس - بجانب المؤسسة الوطنية للنفط و مقابل دار الافتاء جنة العريفطرابلس,3,3,3,0,0,0,0,3,IMG-5BA106F592D0332E,3,true,strong_candidate_coverage
+LY-HOT-000033,فندق ابونواس,hotel,لا يوجد معلومات عن مرفق,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000034,فندق احواص,hostel,يقع الفندق في شارع الفنيدقة، تحديداً في الجهة المقابلة لمبنى جامع الناقة (ويعرف أيضاً بمقابلته لجامع الفنيدقة),1,1,1,0,1,0,0,1,IMG-5ED99B628601EBD3,1,true,strong_candidate_coverage
+LY-HOT-000035,فندق الانوار,hotel,فندق الانوار بالزاوية يقع علي الطريق الساحلي بالقرب من الاشارة الضوئية القرضابية,4,4,4,1,2,0,0,4,IMG-657CB03042B5C04B,4,true,strong_candidate_coverage
+LY-HOT-000036,فندق الأخوة,hotel,"Omer almokhtar, Omer almokhtar، طرابلس",4,4,4,0,0,0,0,4,IMG-02413AAE55399FB1,4,true,strong_candidate_coverage
+LY-HOT-000037,فندق الأصالة,hotel,طرابلس شارع بالخير مقابل مسجد بالخير,3,3,3,0,0,0,0,3,IMG-5806382F3E321975,3,true,strong_candidate_coverage
+LY-HOT-000038,فندق الأصيل,hotel,طرابلس، شارع الجمهورية، بالقرب من جامع مولاي محمد وخلف المختبر الصحي المرجعي,5,5,5,0,0,0,0,5,IMG-2BEC7C4B87BFEE2A,5,true,strong_candidate_coverage
+LY-HOT-000039,فندق الأندلس,hotel,شارع الكندي، متفرع من شارع عمر المختار، طرابلس، ليبيا,3,3,3,0,0,0,0,3,IMG-95E3447DAE58A495,3,true,strong_candidate_coverage
+LY-HOT-000040,فندق البركة,hotel,شارع سناء محيدلي، مصراتة,4,4,4,0,0,0,0,4,IMG-4C26C96431EC63BA,4,true,strong_candidate_coverage
+LY-HOT-000041,فندق البستان,hotel,السراج، طرابلس، ليبيا,5,5,5,0,0,0,0,5,IMG-A3FECBDF161B5CCE,5,true,strong_candidate_coverage
+LY-HOT-000042,التاج للشقق الفندقية,hotel,شارع طرابلس، أمام ميدان الشهداء، مصراتة، ليبيا,2,2,2,0,0,0,0,2,IMG-C6DFB6BFEF341C5D,2,true,strong_candidate_coverage
+LY-HOT-000043,(فندق الطُبجية )فندق التاجوري,hotel,المدينة القديمة طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000044,فندق الجبل,hotel,مصراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000045,فندق جوهرة صبراتة السياحي,hotel,يقع الفندق في وسط مدينة صبراتة، وتحديداً في شارع عمر المختار,2,2,1,0,0,0,0,2,IMG-2A5F837F7840D805,2,true,strong_candidate_coverage
+LY-HOT-000046,فندق الجوهرة الزاوية,hotel,يقع الفندق في قلب مدينة الزاوية بميدان الشهداء,1,1,1,0,0,0,0,1,IMG-2AE0615B4101D7F4,1,true,strong_candidate_coverage
+LY-HOT-000047,يعرف باسم (فندق الوادي ) فندق الحديقة,hotel,شارع الوادي، بالقرب من وسط البلاد وجزيرة الجرات، طرابلس، ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000048,فندق الحمام السياحي,hotel,لا يعمل حالياً كفندق أو شقق إقامة متاحة للمواطنين,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000049,فندق الخان الطرابلسي,hotel,يقع في شارع أربعة عرصات بالمدينة القديمة,5,5,5,0,0,0,0,5,IMG-C7239FBDF94ED0B0,5,true,strong_candidate_coverage
+LY-HOT-000050,فندق الخليج,hostel,يقع في شارع جمال عبد الناصر، بالقرب من قلب العاصمة طرابلس,3,3,3,0,0,0,0,3,IMG-B51A8889CBB17DA7,3,true,strong_candidate_coverage
+LY-HOT-000051,فندق الدبلوماسي,hotel,شارع شوقي، طرابلس,2,2,2,0,0,0,0,2,IMG-9A077AB897E06613,2,true,strong_candidate_coverage
+LY-HOT-000052,فندق الدوحة,hotel,يقع الفندق في وسط المدينة، تحديداً في شارع عمر المختار مقابل شارع العملة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000053,فندق الديار,hotel,يقع الفندق في شارع جمال (شارع المفاتيح) وسط المدينة,3,3,3,0,0,0,0,3,IMG-76FF508F0B7A8565,3,true,strong_candidate_coverage
+LY-HOT-000054,فندق الرابطة,hotel,يتوسط الفندق مدينة غريان ويقع تحديداً في منطقة تغسات,4,4,4,0,0,0,0,4,IMG-5A8F81B9322E3F57,4,true,strong_candidate_coverage
+LY-HOT-000055,فندق الرفيع,hostel,شارع الرشيد، خلف محكمة شمال طرابلس، طرابلس، ليبيا,1,1,1,0,0,0,0,1,IMG-C75C7E18E8905149,1,true,strong_candidate_coverage
+LY-HOT-000056,فندق الريان,hotel,"طرابلس Omer almokhtar, Omer almokhtar، طرابلس",6,6,6,0,0,0,0,6,IMG-67A5A64E322D0F37,6,true,strong_candidate_coverage
+LY-HOT-000057,فندق الزهر,hotel,يقع الفندق في سوق الترك، المدينة القديمة، طرابلس,5,5,5,0,0,0,0,5,IMG-B7DE3703E4372DC6,5,true,strong_candidate_coverage
+LY-HOT-000058,فندق الزيتونة,hostel,مدينة بني وليد بليبيا,4,4,4,3,1,0,0,4,IMG-63F705E27DA71CF5,4,true,strong_candidate_coverage
+LY-HOT-000059,فندق السرايا,hotel,يقع الفندق في شارع عمر المختار، مباشرةً أمام معرض طرابلس الدولي,4,4,4,0,0,0,0,4,IMG-12604B3B51DF48AE,4,true,strong_candidate_coverage
+LY-HOT-000060,فندق زوارة,hostel,مدينة زوارة مقابل المدينة الرياضية,3,3,3,0,0,0,0,3,IMG-529535B1FF6858C1,3,true,strong_candidate_coverage
+LY-HOT-000061,فندق السندباد,hotel,طرابلس، شارع عمر المختار، مقابل مصيف الليدو (السندباد سابقاً).طرابلس,1,1,1,0,0,0,0,1,IMG-1FEA6DD92699F439,1,true,strong_candidate_coverage
+LY-HOT-000062,فندق الشجرة,hostel,شارع سيدي عيسى، منطقة الظهرة، طرابلس، ليبيا,2,2,2,0,0,0,0,2,IMG-20030B09B95C21F0,2,true,strong_candidate_coverage
+LY-HOT-000063,فندق الشرق,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000064,فندق الشمس,hotel,شارع يعقوب بن إسحاق الكندي، طرابلس,4,4,4,0,0,0,0,4,IMG-301D258252D7F3D2,4,true,strong_candidate_coverage
+LY-HOT-000065,فندق الصفوة,hostel,شارع البلدية طرابلس,4,4,4,0,0,0,0,4,IMG-FC2F7E0A509C8E80,4,true,strong_candidate_coverage
+LY-HOT-000066,فندق الصناعية مصراتة,hotel,,5,5,5,0,0,0,0,5,IMG-07D179D8F1F3B4C8,5,true,strong_candidate_coverage
+LY-HOT-000067,فندق الصولجان,hotel,شارع عمر المختار، طرابلسطرابلس,2,2,2,0,0,0,0,2,IMG-506CFAE19599447E,2,true,strong_candidate_coverage
+LY-HOT-000068,فندق العاصمة,hotel,"شارع الرصافى, V5QF+RMV متفرع من عمر المختار الرئيسى, 50 متر،, طرابلس",3,3,3,0,0,0,0,3,IMG-2754AC0FDB2BC23D,3,true,strong_candidate_coverage
+LY-HOT-000069,فندق الغدامسية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000070,فندق القرقني,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000071,فندق القوس,hotel,,5,5,5,0,0,0,0,5,IMG-8F2297D7FBB16C96,5,true,strong_candidate_coverage
+LY-HOT-000072,فندق الكبير,hotel,,5,5,5,0,0,0,0,5,IMG-0FA01A3B05B019A0,5,true,strong_candidate_coverage
+LY-HOT-000073,فندق الكرومة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000074,فندق الماسة,hotel,,5,5,5,0,0,0,0,5,IMG-5F1F8C35419379DF,5,true,strong_candidate_coverage
+LY-HOT-000075,فندق المتوسط,hotel,شارع 17 فبراير، بجوار الجامع الجديد، وسط مدينة الخمس، ليبيا,5,5,5,0,0,0,0,5,IMG-4F0A3CE02FA1B883,5,true,strong_candidate_coverage
+LY-HOT-000076,فندق المدينة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000077,فندق المشكاة,hotel,شارع عمرو بن العاص,3,3,3,0,0,0,0,3,IMG-31E0CFFABE88906C,3,true,strong_candidate_coverage
+LY-HOT-000078,فندق المنامة,hotel,فندق محلي يقع في قلب العاصمة الليبية طرابلس السويحلي,3,3,3,0,0,0,0,3,IMG-F83777E607F937D9,3,true,strong_candidate_coverage
+LY-HOT-000079,فندق النخلة,hotel,,5,5,5,0,0,0,0,5,IMG-280C1B178E8D3CFF,5,true,strong_candidate_coverage
+LY-HOT-000080,فندق النقازة الخمس,resort,طريق النهر، الخمس، ليبيا,5,5,5,0,0,0,0,5,IMG-03FE1BFC24DF7657,5,true,strong_candidate_coverage
+LY-HOT-000081,فندق النهر,hostel,العنوان: طرابلس، شارع طارق بن زياد (الموازي لشارع المعري)، بالقرب من مسجد بورقيبة,3,3,3,0,0,0,0,3,IMG-00DF5A97DE0DCF00,3,true,strong_candidate_coverage
+LY-HOT-000082,فندق الهنشيري,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000083,فندق الهيشة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000084,فندق الواحات,hotel,,1,1,1,0,0,0,0,1,IMG-612CCDBF36460E46,1,true,strong_candidate_coverage
+LY-HOT-000085,فندق الياسمين,hotel,,3,3,3,0,0,0,0,3,IMG-477F3B49EC08BB94,3,true,strong_candidate_coverage
+LY-HOT-000086,فندق أجنحة قرطاج,hotel,,5,5,5,0,0,0,0,5,IMG-F7EC6271B650752B,5,true,strong_candidate_coverage
+LY-HOT-000087,فندق أفريقيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000088,فندق بنت السيد,hotel,يقع الفندق في أول شارع سيدي يعقوب، تحديداً عند ناصية وسعاية مخزن الرخام داخل أسوار المدينة القديمة,1,1,1,0,1,0,0,1,IMG-599C8099E31AA502,1,true,strong_candidate_coverage
+LY-HOT-000089,فندق بودلغوسة,hotel,يقع الفندق في محلة المدينة القديمة، تحديداً عند طريق الحِلقة (أو زنقة جامع الدروج,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000090,فندق بيت الأمان,hostel,منطقة الظهرة، طرابلس، ليبيا,4,4,4,0,0,0,0,4,IMG-51AB10EF4C188BE1,4,true,strong_candidate_coverage
+LY-HOT-000091,فندق بيت الشرق,hostel,يقع الفندق في شارع الرازي، وتحديداً خلف شارع الكندي في مدينة طرابلس,3,3,3,2,1,0,0,3,IMG-EF3B1425ACE980F9,3,true,strong_candidate_coverage
+LY-HOT-000092,فندق تابكت,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000093,لانكاستر برج الحياة ( ماريوت سابقا),hotel,طرابلس امام مصيف flyboard سابقا,5,5,5,0,0,0,0,5,IMG-CB4676B3E9A8B840,5,true,strong_candidate_coverage
+LY-HOT-000094,فندق دار غدامس,hostel,يقع بالقرب من المدينة القديمة,5,5,5,0,0,0,0,5,IMG-7AC07FEBBAB341ED,5,true,strong_candidate_coverage
+LY-HOT-000095,فندق ديار الهناء,hotel,,4,4,4,0,0,0,0,4,IMG-92E4F00620C05EFB,4,true,strong_candidate_coverage
+LY-HOT-000096,فندق ليبوس,hotel,,3,3,3,0,0,0,0,3,IMG-F9F53CED1C50A8BD,3,true,strong_candidate_coverage
+LY-HOT-000097,فندق ريكسوس,hotel,,5,5,5,0,0,0,0,5,IMG-0D74F9F296DF86DD,5,true,strong_candidate_coverage
+LY-HOT-000098,فندق زليتن,hotel,,3,3,3,0,0,0,0,3,IMG-C8F2AC0814DA6F5B,3,true,strong_candidate_coverage
+LY-HOT-000099,فندق زميت,hotel,,10,10,10,0,0,0,0,10,IMG-9F297B4C0B40C957,10,true,strong_candidate_coverage
+LY-HOT-000100,فندق زوارة,hotel,,4,4,4,0,0,0,0,4,IMG-50C88BA946BC9961,4,true,strong_candidate_coverage
+LY-HOT-000101,فندق سرايا الليبو,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000102,فندق سفاري,hotel,,5,5,5,0,0,0,0,5,IMG-055271F1382E9D5A,5,true,strong_candidate_coverage
+LY-HOT-000103,فندق سفاري 2,hotel,,3,3,3,0,0,0,0,3,IMG-5FD7D29019D53E4A,3,true,strong_candidate_coverage
+LY-HOT-000104,فندق شروق افريقيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000105,فندق ضيافة ونيس,hotel,,6,6,6,0,0,0,0,6,IMG-9D9788DF5F512236,6,true,strong_candidate_coverage
+LY-HOT-000106,فندق طرابلس الدولي,hotel,,6,6,6,0,0,0,0,6,IMG-473D64CC0B4F095E,6,true,strong_candidate_coverage
+LY-HOT-000107,فندق طليطلة,hotel,,4,4,4,0,0,0,0,4,IMG-6580CB7EB805DFF0,4,true,strong_candidate_coverage
+LY-HOT-000108,فندق طيبة,hotel,الموقع: يقع وسط العاصمة طرابلس، وتحديداً في ميدان السويحلي - خلف شارع الرازي (شارع الكندي),3,3,3,0,0,0,0,3,IMG-60AE2A53516D38B5,3,true,strong_candidate_coverage
+LY-HOT-000109,فندق عمير,hostel,يقع الفندق في شارع الكندي، طرابلس، ليبيا,3,3,3,0,0,0,0,3,IMG-14E7A433C1AA23C9,3,true,strong_candidate_coverage
+LY-HOT-000110,فندق عين الفرس,hotel,,2,2,2,0,0,0,0,2,IMG-DA0ECA578123941F,2,true,strong_candidate_coverage
+LY-HOT-000111,فندق غابة الكشافة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000112,فندق غريان السياحي,hotel,,5,5,5,0,0,0,0,5,IMG-6BCB30EA9DC9D585,5,true,strong_candidate_coverage
+LY-HOT-000113,فندق قرطاج,hotel,,5,5,5,0,0,0,0,5,IMG-046EDC55FFD15293,5,true,strong_candidate_coverage
+LY-HOT-000114,فندق قصر الظهرة,hotel,,6,6,6,0,0,0,0,6,IMG-9177C7EFBB2B6B7C,6,true,strong_candidate_coverage
+LY-HOT-000115,فندق قصر الفيروز,hotel,,5,5,5,0,0,0,0,5,IMG-110FEF464D2C395F,5,true,strong_candidate_coverage
+LY-HOT-000116,فندق قمر صبراتة,hotel,,1,1,1,0,0,0,0,1,IMG-418C257283B4249C,1,true,strong_candidate_coverage
+LY-HOT-000117,فندق كونتنتال,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000118,فندق لبدة السياحي الخمس,hotel,يقع الفندق في مدينة الخمس بليبيا، بالقرب من مدخل مدينة لبدة الأثرية,9,9,9,0,0,0,0,9,IMG-67129E3029742E03,9,true,strong_candidate_coverage
+LY-HOT-000119,فندق ليالي قرطاج,hotel,,3,3,3,0,0,0,0,3,IMG-E6FB468A34553F69,3,true,strong_candidate_coverage
+LY-HOT-000120,فندق ليبيا,hostel,قع في موقع حيوي يربط بين شارع المسعودي وشارع عمر المختار,6,6,6,0,0,0,0,6,IMG-E154B829B141A067,6,true,strong_candidate_coverage
+LY-HOT-000121,فندق مادي الحسان,hotel,,4,4,4,0,0,0,0,4,IMG-433F949188978281,4,true,strong_candidate_coverage
+LY-HOT-000122,فندق واستراحة جادو,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000123,فندق ومطعم الامتياز,hotel,,6,6,6,0,0,0,0,6,IMG-4CC4FED28261BA62,6,true,strong_candidate_coverage
+LY-HOT-000124,فندق ومطعم النزهة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000125,فندق يفرن,hotel,,1,1,1,0,0,0,0,1,IMG-E62FE6C2A48E1957,1,true,strong_candidate_coverage
+LY-HOT-000126,طرابلس للشقق الفندقية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000127,نزل طرابلس الحديث,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000128,فندق الثريا السياحي,hotel,,5,5,5,0,0,0,0,5,IMG-8D254ED37F12A687,5,true,strong_candidate_coverage
+LY-HOT-000129,فندق الأنيس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000130,فندق البتراء,hotel,,5,5,5,0,0,0,0,5,IMG-274B8FDFA79EB046,5,true,strong_candidate_coverage
+LY-HOT-000131,فندق البردي,hotel,,4,4,4,0,0,0,0,4,IMG-BD576D6C7A28616B,4,true,strong_candidate_coverage
+LY-HOT-000132,فندق التلال,hotel,,5,5,5,0,0,0,0,5,IMG-E4F857A3669A2646,5,true,strong_candidate_coverage
+LY-HOT-000133,فندق الجبل الأخضر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000134,فندق الجغبوب,hotel,,2,2,2,0,0,0,0,2,IMG-8084340B4BB7CB22,2,true,strong_candidate_coverage
+LY-HOT-000135,فندق الجلاء,hotel,,3,3,3,0,0,0,0,3,IMG-94025569E10A3EC8,3,true,strong_candidate_coverage
+LY-HOT-000137,فندق الخان الطرابلسي,hotel,يقع في شارع أربعة عرصات بالمدينة القديمة,9,9,9,0,0,0,0,9,IMG-692D357EF64EECF5,9,true,strong_candidate_coverage
+LY-HOT-000138,فندق الرحاب,hotel,يقع الفندق في شارع ابن مطروح، بالقرب من ميدان السويحلي، ويبعد حوالي 10 دقائق بالسيارة عن المدينة القديمة والقلعة الحمراء (السرايا الحمراء),2,2,2,0,0,0,0,2,IMG-29F498B195A17DAE,2,true,strong_candidate_coverage
+LY-HOT-000140,فندق الزيتونة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000142,فندق السلام,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000143,فندق ابن الرومي,hotel,فندق ابن الرومي طرابلس_شارع الرشيد,1,1,1,0,0,0,0,1,IMG-C04C7358AE4C64F2,1,true,strong_candidate_coverage
+LY-HOT-000144,فندق اجدابيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000145,فندق الحياة,hotel,93FM+HG8، مصراتة,5,5,5,0,0,0,0,5,IMG-4F1BF241FA1C1032,5,true,strong_candidate_coverage
+LY-HOT-000146,فندق الصحراوي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000148,فندق العوينات,hotel,,1,1,1,0,0,0,0,1,IMG-1E9790A7A8F159ED,1,true,strong_candidate_coverage
+LY-HOT-000149,فندق الفردوس,hotel,يقع في منطقة المغار، وسط البلاد، درنة، ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000150,فندق الفضيل,hotel,,5,5,4,0,0,0,0,5,IMG-03C03752D4FFB0D9,5,true,strong_candidate_coverage
+LY-HOT-000151,فندق الفضيل رأس لانوف,hotel,,2,2,2,0,0,0,0,2,IMG-7408B0FEE6E15B14,2,true,strong_candidate_coverage
+LY-HOT-000152,فندق الفلك,hotel,,3,3,3,0,0,0,0,3,IMG-E3245A512704B018,3,true,strong_candidate_coverage
+LY-HOT-000153,فندق القرضابية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000154,فندق القلعة,hotel,,1,1,0,0,0,0,0,1,IMG-4DE50FE5C77F11DC,1,true,strong_candidate_coverage
+LY-HOT-000155,فندق الكاظم,hotel,,1,1,1,0,0,0,0,1,IMG-C1A63B7C18A696CC,1,true,strong_candidate_coverage
+LY-HOT-000157,فندق المبروك,hotel,يقع الفندق في شارع ابن الرومي، وهو متفرع من شارع الرشيد الشهير,3,3,3,0,0,0,0,3,IMG-65010E3F7285D3C4,3,true,strong_candidate_coverage
+LY-HOT-000158,فندق المتوسط الخمس,hostel,"شارع 17 فبراير ...مقابل الجامع الجديد, Al Khums, Libya, 00218",3,3,3,0,0,0,0,3,IMG-4F0A3CE02FA1B883,3,true,strong_candidate_coverage
+LY-HOT-000159,فندق المدينة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000160,فندق المدينة,hotel,,4,4,4,0,0,0,0,4,IMG-4ECEDB1678C21ED6,4,true,strong_candidate_coverage
+LY-HOT-000162,فندق المدينة,hotel,اجدابيا ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000163,فندق المرج السياحي,hotel,,4,4,4,0,0,0,0,4,IMG-4D69B0877B8F026F,4,true,strong_candidate_coverage
+LY-HOT-000164,فندق المسيرة,hotel,,5,5,4,0,0,0,0,5,IMG-36DA0CCAB2BCB61C,5,true,strong_candidate_coverage
+LY-HOT-000166,فندق المغرب العربي,hotel,,4,4,4,0,0,0,0,4,IMG-D345EAAFD727F3C0,4,true,strong_candidate_coverage
+LY-HOT-000167,فندق المنار,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000168,فندق النادي الليبي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000169,فندق النخلة السياحي,hotel,,5,5,5,0,0,0,0,5,IMG-87993A1E3CB548BA,5,true,strong_candidate_coverage
+LY-HOT-000170,فندق النخيل - مغلق,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000171,فندق النوران,hotel,,5,5,5,0,0,0,0,5,IMG-1DBC5EAF16A5E4BE,5,true,strong_candidate_coverage
+LY-HOT-000172,فندق الهاروج,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000176,فندق الوادي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000178,فندق الياقوتة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000179,فندق الياقوتة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000180,فندق اليقين,hostel,شارع المسيرة الكبرى,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000181,فندق اليمامة,hotel,ميدان السويحلي طرابلس,2,2,2,0,0,0,0,2,IMG-ED94159E9BC6C717,2,true,strong_candidate_coverage
+LY-HOT-000182,فندق اوزو,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000183,فندق ايلاف,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000184,فندق أبراج المدينة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000185,فندق أجنحة قرطاج,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000186,فندق أفريقيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000187,فندق أفريقيا,hotel,شارع الامام سحنون,3,3,3,0,0,0,0,3,IMG-3B56150C8DAA5F16,3,true,strong_candidate_coverage
+LY-HOT-000188,فندق أكاكوس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000189,فندق أكاكوس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000190,فندق أمال ليبيا,hotel,الطريق الدائري جدابيا ليبيا Q6JJ+47X,3,3,2,0,0,0,0,3,IMG-2F048837E230F91F,3,true,strong_candidate_coverage
+LY-HOT-000191,فندق أوجلة السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000192,فندق أويا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000193,فندق باب البحر,hotel,بجانب ذات العماد,4,4,4,3,1,0,0,4,IMG-A3170ECA96244672,4,true,strong_candidate_coverage
+LY-HOT-000194,فندق براك,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000195,فندق برينيتشي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000196,فندق بلازما,hotel,428 شارع عمر المختار، طرابلس، ليبيا,5,5,5,3,2,0,0,5,IMG-5FE1ABA6DADBA795,5,true,strong_candidate_coverage
+LY-HOT-000198,فندق بنغازي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000201,فندق توباكتس,hotel,424 شارع عمر المختار، طرابلس، ليبيا (أمام محطة الوقود وبجانب مستشفى الجلاء),4,4,4,3,1,0,0,4,IMG-00D26D8EDC613DDE,4,true,strong_candidate_coverage
+LY-HOT-000202,فندق تيبستي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000203,فندق جاكرتا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000204,فندق جالو السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000205,فندق جرمة السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000206,فندق جليانة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000207,فندق دار جرمة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000208,فندق دوجال السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000209,فندق ديار الهناء,hotel,,1,1,1,0,0,0,0,1,IMG-23AE35FD4B853F4A,1,true,strong_candidate_coverage
+LY-HOT-000210,فندق رواسي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000211,فندق رويال,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000212,فندق ريباس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000216,فندق زهرة البطنان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000218,فندق زين,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000221,فندق سفيروس الخمس,hotel,يقع في منطقة المرقب بمدينة الخمس، ويتميز بكونه قريباً جداً من المواقع الأثرية الشهيرة مثل لبدة العظمى (Leptis Magna) وفيلا سيلين,4,4,4,0,0,0,0,4,IMG-7D1036F871E7B856,4,true,strong_candidate_coverage
+LY-HOT-000223,فندق صحارى ليبيا,hotel,شارع عمر المختار، طرابلس، ليبيا (مقابل مستشفى الجلاء للأطفال,3,3,3,2,1,0,0,3,IMG-5255F49255B9CDBC,3,true,strong_candidate_coverage
+LY-HOT-000226,فندق عمر الخيام,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000229,فندق فيلا النوران,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000230,فندق قاطش,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000232,فندق قصر البيضاء,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000234,فندق قصر الفضيل,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000236,فندق قصر النيل,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000237,فندق قصر الواحة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000238,فندق قصور الضيافة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000239,فندق قصي للشقق المفروشة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000241,فندق قورينا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000243,فندق لؤلؤة درنة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000246,فندق ميزران,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000247,فندق هارون,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000251,الفندق السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000252,الفندق القديم,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000253,الفندق الكبير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000254,القرية السياحية قاريونس,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000256,نزل المدينة,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000257,نزل أمباي,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000258,نزل بيروت,hostel,شارع الرفاعي، شارع عمر المختار طرابلس المركز,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000260,نزل مرحبا,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000261,الماسة للشقق الفندقية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000262,فندق فزان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000263,فندق المختار,hostel,يقع الفندق في شارع الكندي المتفرع قرب شارع الرشيد وشارع عمر المختار، طرابلس، ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000264,فندق قصر كاباو,hotel,طريق قصر كاباو، كاباو,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000265,فندق الأفريقي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000266,فندق قرطاج السياحى1,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000267,فندق السارة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000268,فندق الفصول الاربعة 3,hotel,,1,1,1,0,0,0,0,1,IMG-674C0626690A6B84,1,true,strong_candidate_coverage
+LY-HOT-000269,فندق أوال,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000270,فندق المتوسط,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000271,فندق قرطاج السياحى2,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000272,فندق التوفيق 2,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000273,فندق النعيم,hostel,يقع في منطقة المغار، وسط البلاد، درنة، ليبيا,5,5,5,1,4,0,0,5,IMG-07823DE59E73877A,5,true,strong_candidate_coverage
+LY-HOT-000274,نزل كيلو بتراء,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000275,فندق الفصول الاربعة 2,resort,شارع الرصافي المتفرع من شارع عمر المختار الرئيسي، طرابلس، ليبيا,3,3,3,3,0,0,0,3,IMG-AB2F785A48F45260,3,true,strong_candidate_coverage
+LY-HOT-000276,فندق السفير,hotel,"Omer almokhtar, Omer almokhtar، طرابلس",2,2,2,0,0,0,0,2,IMG-E240158CEC65F3C9,2,true,strong_candidate_coverage
+LY-HOT-000277,فندق نور الثريا,hotel,شارع عمر المختار، متفرع من شارع الأحواص (أو شارع المازني),3,3,3,2,0,0,0,3,IMG-4D715E6F645A91E4,3,true,strong_candidate_coverage
+LY-HOT-000278,فندق الشاطئ الذهبى,hotel,طريق الكورنيش (طريق الشط)، أمام مصيف السندباد سابقاً، طرابلس، ليبيا,4,4,4,0,3,0,0,4,IMG-3143393C3BB12C6B,4,true,strong_candidate_coverage
+LY-HOT-000279,فندق الصافي,hotel,طرابلس+218 21-4444011,1,1,1,0,0,0,0,1,IMG-D58DFEE97D5305FF,1,true,strong_candidate_coverage
+LY-HOT-000280,فندق بوابة أفريقيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000281,فندق الفصول الابعة 1,hotel,شارع عمر المختار,1,1,1,0,0,0,0,1,IMG-D0E4C14FEF216C2C,1,true,strong_candidate_coverage
+LY-HOT-000282,فندق سفارى,hotel,يقع الفندق في شارع طارق بن زياد (بالقرب من محطة أبو رجيلة وجامع بورقيبة) في طرابلس، ليبيا,1,1,1,0,0,0,0,1,IMG-BED506EA5E4A268B,1,true,strong_candidate_coverage
+LY-HOT-000283,فندق زهرة الخليج,hotel,تفرع من شارع عمر المختار، شارع جمال عبد الناصر، طرابلس، ليبيا,2,2,2,1,1,0,0,2,IMG-F3E648AD7CE0F676,2,true,strong_candidate_coverage
+LY-HOT-000284,فندق السلاسل الذهبية,hostel,"طرابلس شارع عمر المختار,",3,3,3,0,3,0,0,3,IMG-FD63377BEAD728F4,3,true,strong_candidate_coverage
+LY-HOT-000285,فندق النورس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000286,فندق التوفيق 1,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000287,فندق اليسر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000288,فندق الخيام العربية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000289,فندق الرشيد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000290,فندق أسامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000291,فندق الزيتونة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000292,فندق ريباس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000293,فندق طليطلة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000294,فندق صبراتة,hotel,السويحلي طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000295,فندق تاج,hostel,شارع كندي، متفرع من ميدان السويحلي، بجانب شارع عمر المختار,3,3,3,2,1,0,0,3,IMG-AB22C6D40D93616F,3,true,strong_candidate_coverage
+LY-HOT-000296,فندق الكندي,hotel,اربعة شوارع الكندي طرابلس ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000297,فندق أضواء قرطاج,hotel,يقع في شارع الوادي (بعد جزيرة الجرات),3,3,3,3,0,0,0,3,IMG-4B501E6BBD73EAFE,3,true,strong_candidate_coverage
+LY-HOT-000298,فندق البشير,hotel,شارع الكندي، طرابلس، ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000299,فندق الهاني,hostel,يقع الفندق في شارع أنطونيو ستوباني ما يعرف محليا ب بورقيبة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000300,فندق القنصل فندق القنصل,hotel,شارع الكندي طرابلس ليبيا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000301,فندق الجبل الاخضر,hotel,يقع الفندق في وسط المدينة الحيوي، وتحديداً في شارع المأمون,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000302,الفتح,review_required,مغلق مؤقتا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000303,فندق قصر ليبيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000304,Hotel Haroun 2,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000305,فندق الغزالة,hotel,,1,1,1,0,0,0,0,1,IMG-23317BED444CE147,1,true,strong_candidate_coverage
+LY-HOT-000306,فندق كيان طرابلس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000307,فندق الديوان,hotel,شارع سيدي منيذر,3,3,3,0,0,0,0,3,IMG-B957081BDFD31AD9,3,true,strong_candidate_coverage
+LY-HOT-000308,فندق نيو ستي New City hotel,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000309,فندق الدالي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000310,زهرة الشمس,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000311,فندق ضيافة طرابلس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000312,فندق الفتح شارع الرشيد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000313,فندق بلخير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000314,فندق السرايا,hotel,يقع الفندق في شارع عمر المختار، وتحديداً أمام معرض طرابلس الدولي,4,4,4,1,3,0,0,4,IMG-B9573C8C7FB931A8,4,true,strong_candidate_coverage
+LY-HOT-000315,فندق الوحدة العربية,hotel,يقع الفندق عند الإشارة الضوئية بشارع جمال عبد الناصر في طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000316,فندق الكنوز الذهبية,hostel,شارع عمر المختار سيمافرو جمال عبد الناصر السويحلي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000317,فندق الشراع,hotel,لا يوجد معلومات متوافرة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000318,الحبايب,review_required,+218 92-5512135,2,2,2,0,0,0,0,2,IMG-C342E390F07568AB,2,true,strong_candidate_coverage
+LY-HOT-000319,هوم بلازا_للشقق الفندقية,hotel,مصراتة شارع،، المطبات,1,1,1,0,0,0,0,1,IMG-FB95B3497C1F55CA,1,true,strong_candidate_coverage
+LY-HOT-000320,فندق الرحال,apartment_hotel,: مصراتة، بجوار فندق قوز التيك، مقابل مدخل كلية السياحة والضيافة,1,1,1,0,0,0,0,1,IMG-007802D9BC5D755F,1,true,strong_candidate_coverage
+LY-HOT-000321,الوادي 2 للشقق الفندقية,hotel,مصراتة,1,1,1,0,0,0,0,1,IMG-6114B601BF0B1A8C,1,true,strong_candidate_coverage
+LY-HOT-000322,الأطلس للشقق الفندقية,hotel,,2,2,2,0,0,0,0,2,IMG-8E4486514CFFA7F7,2,true,strong_candidate_coverage
+LY-HOT-000323,فندق بيزا السياحي,resort,مدينة مصراتة منطقة يدر طريق البحر (خط الساحل) مقابل منتجع مصراتة السياحي مباشرة,4,4,4,1,2,0,0,4,IMG-7C37736A8EF80145,4,true,strong_candidate_coverage
+LY-HOT-000324,فندق قوز التيك,hotel,مصراتة,2,2,2,0,0,0,0,2,IMG-F11E4A59FEBF8315,2,true,strong_candidate_coverage
+LY-HOT-000325,النجمة الذهبية لشقق الفندقية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000326,الفخامه للشقق المفروشه,review_required,091-0343800,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000327,اوس لشقق المفروشه,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000328,فندق الساحل,apartment_hotel,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000329,الجوهرة للشقق الفندقية,apartment_hotel,اجدابيا ليبيا طريق اوجلة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000330,فندق اجدابيا السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000331,فندق الراحة اجدابيا,hotel,يقع بالقرب من صيدلية الرحيق الشافي في حي دمشق.اجدابيا ليبيا,3,3,3,0,0,0,0,3,IMG-844AB3082A456BFB,3,true,strong_candidate_coverage
+LY-HOT-000332,عمار او المجد للشقق الفندقية,hotel,خلف مصرف الوحدة شارع عمر المختار اجدابيا ليبيا,3,3,3,0,0,0,0,3,IMG-C1AE737C120905FA,3,true,strong_candidate_coverage
+LY-HOT-000333,فندق مزايا اجدابيا,hostel,في مدينة أجدابيا، تحديداً مقابل جزيرة السويسي,3,3,2,0,0,0,0,3,IMG-D93EABF8C6526D6E,3,true,strong_candidate_coverage
+LY-HOT-000334,فندق التوجان السياحي,hostel,اجدابيا / شارع انتلات بجوار مطعم الديوان,3,3,3,0,0,0,0,3,IMG-35322FD32CA106B6,3,true,strong_candidate_coverage
+LY-HOT-000335,نزل وقاعة الهاشمي,apartment_hotel,يقع في مدينة طبرق، منطقة 2WMQ+QF,1,1,1,0,0,0,0,1,IMG-C99CB2EDA0546E4A,1,true,strong_candidate_coverage
+LY-HOT-000336,نزل وقاعة زهرة الخليج,hostel,حي نجمة الخليج – مفترق فوزي مختار,3,3,3,0,0,0,0,3,IMG-9B0A5BE0E41F60DC,3,true,strong_candidate_coverage
+LY-HOT-000337,الهضبة للشقق الفندقية,apartment_hotel,لفندق في مدينة طبرق على الطريق الدائري، ويتميز بقربه من ميناء طبرق البحري,3,3,3,0,0,0,0,3,IMG-8965EEC8E5FF047F,3,true,strong_candidate_coverage
+LY-HOT-000338,الامان للشقق الفندقية,apartment_hotel,"مفترق رابعة, Tobruk, Libya",2,2,2,0,0,0,0,2,IMG-500722E7A72A0CB8,2,true,strong_candidate_coverage
+LY-HOT-000339,نزل ماريا MARIYA,apartment_hotel,طبرق، ليبيا (بالقرب من حي التسليح),3,3,3,0,0,0,0,3,IMG-85FF2A28B63234FE,3,true,strong_candidate_coverage
+LY-HOT-000340,فندق الرابطة,hostel,غريان /تغسات,1,1,1,0,0,0,0,1,IMG-BD20E72787241A92,1,true,strong_candidate_coverage
+LY-HOT-000341,فندق سمر قند,hotel,غريان، بالقرب من محطة الركوبة العامة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000342,فندق غريان السياحي,hotel,"شارع النهضة, Gharyan, Libya, فندق غريان السياحي https://maps.app.goo.gl/UB87UsJ6Rh6bxvQv6",3,3,3,0,0,0,0,3,IMG-4B76AA9E191EC586,3,true,strong_candidate_coverage
+LY-HOT-000343,فندق روايال غريان,hostel,"Libya, Gharyan, Libya, Royal Hotel, 52GF+X7J، غريان مقابل كلية الطب البشري - جامعة غريان",4,4,4,0,0,0,0,4,IMG-B2F0F8C95D27D07E,4,true,strong_candidate_coverage
+LY-HOT-000344,فندق حوش بوغنوش,hotel,طريق الحمراء طريق البحرية، غريان,4,4,4,0,0,0,0,4,IMG-A99658DB11939621,4,true,strong_candidate_coverage
+LY-HOT-000345,فندق اللؤلؤة السياحي البضاء,hotel,,4,4,4,0,0,0,0,4,IMG-C1997F4EB6ECAB93,4,true,strong_candidate_coverage
+LY-HOT-000346,فندق لؤلؤة الخليج البيضاء,hotel,يقع في مدينة البيضاء، وتحديداً في منطقة مفوز الحرية,4,4,4,0,0,0,0,4,IMG-5875E6DDBB7440C2,4,true,strong_candidate_coverage
+LY-HOT-000347,فندق قصر البيضاء,hotel,تم ازالته,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000348,فندق القاهرة البيضاء,hotel,مغلق حاليا,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000349,النوران_ للشقق_الفندقية,hostel,طريق الدائري، بجوار محطة شيل ومقابل مستشفى السلام، البيضاء,4,4,4,0,0,0,0,4,IMG-65F952AC1826FCC9,4,true,strong_candidate_coverage
+LY-HOT-000350,مكة للشقق الفندقية البيضاء,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000351,برج المدينة للشقق الفندقية البيضاء,hotel,يقع البرج في شارع البكوش بمدينة البيضاء، ويتميز بموقع استراتيجي وحيوي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000352,فندق اية الجبل البيضاء,apartment_hotel,يتوسط مدينة البيضاء، في شارع مدرسة الفاتح الثانوية. مما يجعله قريباً من أغلب المطاعم والمرافق الحيوية.خرائط جوجل: يمكنك الوصول إلى موقع الفندق عبر خرائط جوجل,3,3,3,0,0,0,0,3,IMG-2986C5A66BB26BE3,3,true,strong_candidate_coverage
+LY-HOT-000353,فندق برقة السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000354,فندق افريقيا البيضاء,hostel,يقع الفندق في مدينة البيضاء، ويتميز بموقع هادئ وسهل الوصول إليه,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000355,فندق برونتو البيضاء,apartment_hotel,طريق الدائري بعد كوبري مول جواهر,2,2,1,0,0,0,0,2,IMG-CCB429063BDA2EAE,2,true,strong_candidate_coverage
+LY-HOT-000356,عمارة الجوري للشقق الفندقية,hotel,"الغريقة قرب مدرسة عمر, Al Bayda', Libya, LY",3,3,3,0,0,0,0,3,IMG-17E2B625E5E1BCA6,3,true,strong_candidate_coverage
+LY-HOT-000357,فندق العنود البيضاء,apartment_hotel,لبيضاء الجبل الاخضر .ليبيا,7,7,7,0,0,0,0,7,IMG-819089A3F33FB55C,7,true,strong_candidate_coverage
+LY-HOT-000358,فندق الفردوس للشقق الفندقية,apartment_hotel,مدينة البيضاء / شارع العروبة خلف مصرف الوحدة,4,4,4,0,0,0,0,4,IMG-14245C39708E3BCD,4,true,strong_candidate_coverage
+LY-HOT-000359,فندق قصر الضيافة للشقق الفندقية البيضاء,apartment_hotel,يقع الفندق في المدخل الغربي لمدينة البيضاء، وتحديداً عند مفترق رويفع الأنصاري على الطريق المؤدية إلى الطريق الدائري,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000360,فندق مرحبا للخدمات السياحية,hotel,يقع الفندق في منطقة البيضاء الجديدة عند المدخل الشرقي للمدينة، وتحديداً خلف مجمع باب الحارة,5,5,5,0,0,0,0,5,IMG-BACA013556C590D9,5,true,strong_candidate_coverage
+LY-HOT-000361,عمارة اضواء ليبيا للشقق الفندقية البيضاء,hotel,"مدخل البيضاء الشرقي خلف مركز البكوش , Al Bayda', Libya",4,4,4,0,0,0,0,4,IMG-9BF85753F3D4472A,4,true,strong_candidate_coverage
+LY-HOT-000362,فندق الاندلس السياحي الخمس,hotel,يقع فندق الأندلس في مدينة الخمس بليبيا على الطريق الساحلي (طريق طرابلس),0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000363,فندق المرقب السياحي الخمس,hostel,أحد خيارات الإقامة المعروفة في مدينة الخمس، ويتميز بموقعه الاستراتيجي على الطريق الساحلي بالقرب من الإشارة الضوئية (سيمافرو لبدة,2,2,2,0,0,0,0,2,IMG-0457C54827D282C9,2,true,strong_candidate_coverage
+LY-HOT-000364,فندق التوليب السياحي الخمس,apartment_hotel,في مدينة الخمس بليبيا، وتحديداً في شارع المدينة الرياضية على طريق كلية الآداب,5,5,5,0,0,0,0,5,IMG-BDD22CBAB3D84BB7,5,true,strong_candidate_coverage
+LY-HOT-000365,فندق بيت سباب الخمس,hotel,"شارع الرياضية, Al Khums, Libya",1,1,1,0,0,0,0,1,IMG-6DE54E582E1827F9,1,true,strong_candidate_coverage
+LY-HOT-000366,فندق الاخوة السياحي الخمس,hotel,يقع في شارع الشط، وسط المدينة (بالقرب من منطقة المنتزه).الخمس، ليبيا,3,3,3,2,1,0,0,3,IMG-0AD416076AE4E41A,3,true,strong_candidate_coverage
+LY-HOT-000367,فندق الليلك ALlilac hotel,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000368,فندق البحيرات السبعة السياحي,hotel,"بجوار مقهى الديوانية, بنغازي",0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000369,فندق برنيتشي السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000370,Sabratha youth hostel _بيت شباب صبراتة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000371,Lancaster Al Salam Resort - منتجع لانكستر السلام,resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000372,فندق الساحل,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000373,المعهد القومي العلاج الأورام صبراتة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000374,السيلفيوم للشقق المفروشة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000375,فندق الخليج,hostel,,2,2,2,0,0,0,0,2,IMG-3689B35FCE5A7ED0,2,true,strong_candidate_coverage
+LY-HOT-000376,فندق أضواء قرطاج,hotel,,3,3,3,0,0,0,0,3,IMG-1BD693AB20394DC5,3,true,strong_candidate_coverage
+LY-HOT-000377,فندق اجنحة قرطاج,hotel,,2,2,2,0,0,0,0,2,IMG-6569E1B0BB8E0782,2,true,strong_candidate_coverage
+LY-HOT-000378,فندق الباشا,hotel,,4,4,4,0,0,0,0,4,IMG-ED83FCE5201AF85C,4,true,strong_candidate_coverage
+LY-HOT-000379,دار السلام للشقق الفندقية,hotel,,4,4,4,0,0,0,0,4,IMG-65EB7AC18CE64A22,4,true,strong_candidate_coverage
+LY-HOT-000380,فندق نيو سيتي,hotel,,3,3,3,0,0,0,0,3,IMG-E9E5D5D57BE0E74A,3,true,strong_candidate_coverage
+LY-HOT-000381,فندق الهانى,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000382,فندق اليسر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000383,فندق جنان النوار,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000384,فندق جولف,hotel,,4,4,4,0,0,0,0,4,IMG-666F1656E7D3A85E,4,true,strong_candidate_coverage
+LY-HOT-000385,فندق زهرة الشمس,hotel,,2,2,2,0,0,0,0,2,IMG-D7133115A485D29B,2,true,strong_candidate_coverage
+LY-HOT-000386,فندق سنترو,hotel,,2,2,2,0,0,0,0,2,IMG-BB1EDEC4DA9BCC9F,2,true,strong_candidate_coverage
+LY-HOT-000387,فندق صبراتة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000388,فندق كيان 2,hostel,,3,3,3,0,0,0,0,3,IMG-A1754166EF9651FE,3,true,strong_candidate_coverage
+LY-HOT-000389,فندق نور الثريا السياحى,hostel,,4,4,4,0,0,0,0,4,IMG-F19D53660A0C5316,4,true,strong_candidate_coverage
+LY-HOT-000390,فندق أويا,hotel,,4,4,4,0,0,0,0,4,IMG-DD01B3202625761C,4,true,strong_candidate_coverage
+LY-HOT-000391,فندق منتجع الطاووس,resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000392,اجنحة كراون للشقق الفندقية,apartment_hotel,,3,3,3,0,0,0,0,3,IMG-9B12B9937D7300CA,3,true,strong_candidate_coverage
+LY-HOT-000393,الدلتا للشقق الفندقية 2,apartment_hotel,,3,3,3,0,0,0,0,3,IMG-FEB66814946A0C34,3,true,strong_candidate_coverage
+LY-HOT-000394,الدلتا للشقق الفندقية 1,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-646D87B3751258C3,4,true,strong_candidate_coverage
+LY-HOT-000395,الشاطي الذهبي,hotel,,4,4,4,0,0,0,0,4,IMG-3F3998976A1F9DD4,4,true,strong_candidate_coverage
+LY-HOT-000396,العنوان للشقق الفندقيه,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-4A9145DFE8B3BDD1,4,true,strong_candidate_coverage
+LY-HOT-000397,تحت الصيانة الفندق الكبير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000398,القبس لشقق الفندقيه,apartment_hotel,,3,3,2,0,0,0,0,3,IMG-8463F4C0B4C523C4,3,true,strong_candidate_coverage
+LY-HOT-000399,الماسة للأجنحة الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-A3238C4AC13F9C7F,4,true,strong_candidate_coverage
+LY-HOT-000400,المجرة للشقق الفندقية,apartment_hotel,,3,3,3,0,0,0,0,3,IMG-9067216E5A3805E8,3,true,strong_candidate_coverage
+LY-HOT-000401,المكان للشقق الفندقية,apartment_hotel,,4,4,3,0,0,0,0,4,IMG-071FE7CDBF486A2C,4,true,strong_candidate_coverage
+LY-HOT-000402,اوكا لشقق الفندقيه vib,apartment_hotel,,5,5,5,0,0,0,0,5,IMG-62556205882AEEA0,5,true,strong_candidate_coverage
+LY-HOT-000403,إقامة إيفا للشق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000404,إقامة قورينا الفاخرة,apartment_hotel,,5,5,5,0,0,0,0,5,IMG-1CE1F1A994793506,5,true,strong_candidate_coverage
+LY-HOT-000405,أجنحة الفوانيس للشقق الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-04F9E0CDB205B35F,4,true,strong_candidate_coverage
+LY-HOT-000406,بيت النوران للشقق الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-62C4E7036D00D879,4,true,strong_candidate_coverage
+LY-HOT-000407,بيوت العاصمة للشقق الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-D9EDED0098CA6015,4,true,strong_candidate_coverage
+LY-HOT-000408,جواهر العاصمة للشقق الفندقية,hostel,,5,5,5,0,0,0,0,5,IMG-1841627598673B86,5,true,strong_candidate_coverage
+LY-HOT-000409,جولايا للشقق الفندقية,apartment_hotel,,5,5,5,0,0,0,0,5,IMG-DE13875E15FF98C7,5,true,strong_candidate_coverage
+LY-HOT-000410,جوهرة السلام للشقق الفندقية,apartment_hotel,,5,5,5,0,0,0,0,5,IMG-B72D016B90536F00,5,true,strong_candidate_coverage
+LY-HOT-000411,حدائق المشتل للشقق الفندقية,apartment_hotel,,5,5,4,0,0,0,0,5,IMG-176798488A35C25B,5,true,strong_candidate_coverage
+LY-HOT-000412,دار الضيافة 2 للشقق الفندقية,apartment_hotel,,5,5,4,0,0,0,0,5,IMG-8C23E869CDE883F2,5,true,strong_candidate_coverage
+LY-HOT-000413,شركة العميد لايجار الشقق الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-FD41C8ED19ACA6CA,4,true,strong_candidate_coverage
+LY-HOT-000414,شقق البرنس,apartment_hotel,,3,3,3,0,0,0,0,3,IMG-3859DF30E43751C6,3,true,strong_candidate_coverage
+LY-HOT-000415,شقق الرواد المفروشة,apartment_hotel,,3,3,3,0,0,0,0,3,IMG-7053C4C6903C739C,3,true,strong_candidate_coverage
+LY-HOT-000416,شقق فيلا ليبيا الفندقية,apartment_hotel,,4,4,4,0,0,0,0,4,IMG-7A112E81106A3622,4,true,strong_candidate_coverage
+LY-HOT-000417,فندق اكاكوس,hostel,,3,3,2,0,0,0,0,3,IMG-71F0147F76EA876C,3,true,strong_candidate_coverage
+LY-HOT-000418,فندق الاخوة,hostel,,3,3,3,0,0,0,0,3,IMG-0369D2CCBFEBB36D,3,true,strong_candidate_coverage
+LY-HOT-000419,فندق الاصالة,hostel,,3,3,3,0,0,0,0,3,IMG-DC8036C639747547,3,true,strong_candidate_coverage
+LY-HOT-000420,فندق الاندلس,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000421,فندق البتراء,hostel,,4,4,3,0,0,0,0,4,IMG-D5C7DDCCE12EA1FE,4,true,strong_candidate_coverage
+LY-HOT-000422,فندق البشير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000423,فندق البيت الراقي للشقق الفندقية,apartment_hotel,,1,1,1,0,0,0,0,1,IMG-CEB56CEBA46AE29E,1,true,strong_candidate_coverage
+LY-HOT-000424,فندق التاج,hotel,,4,4,4,2,1,0,0,4,IMG-46821D9B585FFE64,4,true,strong_candidate_coverage
+LY-HOT-000425,فندق التوفيق بلازا,hostel,,4,4,3,2,1,0,0,4,IMG-622D25A255534D5F,4,true,strong_candidate_coverage
+LY-HOT-000426,فندق الجبل الأخضر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000427,فندق الجرات,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000428,فندق الخان الطرابلسي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000429,فندق الخليج,hostel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000430,فندق الخيام العربية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000431,فندق الدالي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000432,فندق الدبلوماسي,hotel,,2,2,2,0,1,0,0,2,IMG-1B3C9820F53BEE88,2,true,strong_candidate_coverage
+LY-HOT-000433,فندق الدوحة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000434,فندق الديار,hotel,,3,3,3,0,3,0,0,3,IMG-9D2B03FE06D8CF71,3,true,strong_candidate_coverage
+LY-HOT-000435,فندق الديوان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000436,فندق الديوان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000439,فندق الرحاب,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000440,فندق الرحاب 1,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000441,فندق الرحاب 2,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000442,فندق الرفيع,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000443,فندق الرواد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000444,فندق الريان,hotel,,3,3,3,1,2,0,0,3,IMG-4CAA6944989EC466,3,true,strong_candidate_coverage
+LY-HOT-000445,فندق الزيتونة,hostel,,4,4,4,0,2,0,0,4,IMG-C2390CB8BDA7A88F,4,true,strong_candidate_coverage
+LY-HOT-000446,فندق السرايا,hotel,,4,4,4,1,3,0,0,4,IMG-5F0B87CC56980023,4,true,strong_candidate_coverage
+LY-HOT-000447,فندق السرايا السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000448,فندق السفير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000449,فندق السفينة الزرقاء,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000450,فندق السلاسل الذهبية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000451,فندق السلطان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000452,فندق السلطان داون تاون,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000453,فندق السندباد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000454,فندق الشاطئ الذهبي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000455,فندق الشجرة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000456,فندق الشمس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000457,فندق الصافي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000458,فندق الصفوة للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000459,فندق الصولجان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000460,فندق الضيافة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000461,فندق الطريق,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000462,فندق العاصمة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000463,فندق الفتح,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000464,فندق الفردوس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000465,فندق الفصول الأربعة ( 1 ),hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000466,فندق الفصول الأربعة ( 2 ),hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000467,فندق الفصول الأربعة ( 3 ),hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000468,فندق القلعة السياحي للشقق المفروشة,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000469,فندق القنصل,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000470,فندق القوس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000471,فندق الكندي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000472,فندق الكنوز الدهبية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000473,فندق اللؤلؤة,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000474,فندق الليلك,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000475,فندق المأمون,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000476,فندق المبروك,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000477,فندق المتوسط,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000478,فندق المتوسط,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000481,فندق المختار,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000482,فندق المشكاة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000483,فندق المنامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000484,فندق المهاري رادسون بلو,resort,,2,2,2,0,1,0,0,2,IMG-5907F4EB5DA0B991,2,true,strong_candidate_coverage
+LY-HOT-000485,فندق النخلة السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000486,فندق النهر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000487,فندق النورس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000488,فندق الهاني,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000489,فندق الهناء,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000490,فندق الواحات,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000491,فندق الوادي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000492,فندق الودان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000493,فندق الياسمينة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000494,فندق الياقوتة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000495,فندق اليقين,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000496,فندق اوال,hotel,,3,3,3,0,0,0,0,3,IMG-D2C42BD4A4895D81,3,true,strong_candidate_coverage
+LY-HOT-000497,فندق أجنحة الوليد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000498,فندق أسامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000499,فندق أسامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000500,فندق أسامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000501,فندق أسامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000502,فندق باب البحر,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000503,فندق باب طرابلس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000504,فندق برج المدينة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000505,فندق برج كورنثيا باب أفريقيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000506,فندق بلازما,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000507,فندق بلخير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000508,فندق بلخير السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000509,فندق بيت الامان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000510,فندق بيت الشرق,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000511,فندق بيت الضيافة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000512,فندق بيروت,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000513,فندق تاج دبي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000514,فندق توباكتس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000515,فندق جاكرتا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000516,فندق جي دبليو ماروت,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000517,فندق دار طرابلس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000518,فندق ديكنة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000519,فندق ذا ريسدنس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000520,فندق رويال جاردنس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000521,فندق ريزيدينس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000522,فندق زميت الأثري,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000523,فندق زهرة الخليج,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000524,فندق سارة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000525,فندق سبراتا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000526,فندق سفارى,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000527,فندق سما و بلقيس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000528,فندق سما وبلقيس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000529,فندق صحراء ليبيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000530,فندق ضيافة ونيس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000531,فندق طرابلس الدولى,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000532,فندق طليطلة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000533,فندق طيبة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000534,فندق عمير,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000535,فندق غصن الذهب,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000536,فندق فكتوريا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000537,فندق الاندلس /فندق فوربوينتس شيرتون,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000538,فندق قرطاج,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000539,فندق قصر الظهرة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000540,فندق قصر الياقوت,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000541,فندق قصر ليبيا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000542,فندق قلعة صفيت,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000543,فندق هارون,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000544,فندق قورينا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000545,فندق كريستال,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000546,فندق كليوباترا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000547,فندق كيان,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000548,فندق كيفالاي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000549,فندق كيلو بترا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000550,فندق ليبوس,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000551,فندق ليبيا السياحي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000552,فندق ماريقولد,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000553,فندق مجد الضيافة,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000554,فندق مرحبا,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000555,فندق ناريـز ( NARIZ HOTEL),hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000556,فندق نزهة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000557,فندق نيو ستي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000558,فندق هايتي,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000559,قرية تاجوراء السياحية,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000560,قصر العائلة للشقق الفندقية الفرع الثاني,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000561,لبدة إفريقيا للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000562,لمسة للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000563,مساكن القدس للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000564,مساكن القدس للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000567,منازل الشط للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000568,والي للشقق الفندقية,apartment_hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000569,لانكاستر برج الحياة (ماريوت سابقا),hotel,,4,4,3,0,0,0,0,4,IMG-C73E517BCA650C42,4,true,strong_candidate_coverage
+LY-HOT-000571,فندق اليمامة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-HOT-000572,فندق الصفوة,hotel,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00001,قرية إدوس السياحية,beach_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TRI-00001,قرية مرمرة السياحية,tourist_resort,طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00002,قرية فيرونا السياحية,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00003,قرية البرتقالة,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00004,قرية شط النخيل زوارة,accommodation_resort_other,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00005,قرية أوليڤيا السياحية - زوارة,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00006,منتجع تايتانيك,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00007,إقامة تولين السياحية,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00008,VILLA HAYA,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00009,منتجع زين السياحي,accommodation_resort_other,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00010,قرية تيبودا السياحيه,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00011,منتجع سيتي بارك زوارة,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00001,قرية جوهرة صبراتة السياحية,tourist_village,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00002,قرية المغرب العربي صبراتة,tourist_village,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00003,مركب تليل السياحي_صبراتة,tourist_village,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00001,القرية السياحية جنزور,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TRI-00002,قرية بالم سيتي/قرية النخيل السياحية طرابلس,tourist_village,طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TRI-00003,القرية السياحية الريقاتة,tourist_village,طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TRI-00004,مركب شيراتون - النقاط الأربعة,tourist_complex,طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00002,القرية السياحية تاجوراء,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00003,منتجع سمرلاند المائي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00001,مصيف قرية مارينا السياحية,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00002,قرية قصر سيلين العائلية,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00003,قرية حدائق غنيمة,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00004,إستراحة شط غنيمة,accommodation_resort_other,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TRI-00005,قرية المتوسط العائلية,family_resort,طرابلس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00005,قرية قوس غنيمة السياحية,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00006,قرية لؤلؤة غنيمة العائلية,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00007,قرية شمس البحر,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00008,قرية الشاطيء الذهبي,tourist_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00009,منتجع سي شيلز,tourist_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00010,منتجع حوض البحر Seapool Resort,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00011,قرية الخمس السياحية,accommodation_resort_other,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00012,قريه غنيمه العائليه,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00013,قرية اكوا مارين السياحية,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00014,قرية جنيف العائلية غنيمة,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00015,منتجع شاطئ غنيمة,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00016,شاليهات بن حمودة العائلي,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00004,منتجع كريستال السياحي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00005,منتجع رويال السياحي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00006,القويعة,beach_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00007,منتجع فيلا دريم هاوس,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00008,منتجع شط مريم,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00009,استراحة الجود القويعه,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00010,منتجع اتش تي السياحي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00011,منتجع اتش تي 3,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00012,منتجع شاليهات للاجار,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00013,قرية العطايا العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00014,منتجع برستيج,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00015,قرية القويعة السياحية,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00016,شاليهات بن بية,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00017,قرية ميار البحر العائليه,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00018,قرية أغيث السياحية,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00019,قرية الخلة السياحية العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00020,مجمع جواهر لاند,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00021,منتجع دار البحر,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00022,منتجع وادي بالنور,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00023,منتجع بيتش هاوس,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00024,قرية قوس غنيمة السياحية,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00025,منتجع ايليت السياحي,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00026,قرية شمس البحر,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00017,قرية لؤلؤة غنيمة العائلية,family_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00027,شاليهات ركن النيروز,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00028,قرية رأس الحمراء العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00018,قرية شاطئ النخيل الذهبي,tourist_village,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZLI-00001,قرية أصيل السياحية,tourist_village,زليتن,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZLI-00002,قرية الهُزم السياحية,tourist_village,زليتن,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-MIS-00001,منتجع الأمان السياحي,tourist_resort,مصراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-MIS-00002,منتجع مصراتة,tourist_resort,مصراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-MIS-00003,منتجع فينيسيا/مصراتة,tourist_resort,مصراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-MIS-00004,قرية زريق السياحية,tourist_village,مصراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00029,حي قصور الضيافة_سرت,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00001,شاليهات ريماس,accommodation_resort_other,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00002,قرية شاطيء النخيل,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00003,منتجع مارينا بنغازي السياحي,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00004,منتجع الصفوة السياحي,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00005,منتجع ماربيلا السياحي,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00006,مجمع الاصالة السياحي,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00007,قرية الفاضل,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00008,منتجع الأسيل,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00009,منتجع الماسة السياحي,accommodation_resort_other,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00010,منتجع قاريونس العائلي,family_resort,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00011,منتجع النخلة الذهبية,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00012,منتجع فايا لارجو,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BEN-00013,قرية قمرت السياحية,tourist_village,بنغازي,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00030,منتجع التلال الحمامة,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00031,منتجع الجراري السياحي - للعائلات,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00032,منتجع ومصيف الحمامة,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00033,قرية إيلاف السياحية,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BAY-00001,شاليهات الحدائق الملكية,accommodation_resort_other,البيضاء,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BAY-00002,منتجع وادي الكوف,tourist_resort,البيضاء,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00034,منتجع إيلاند السياحي,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00035,منتجع كنزي السياحي,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00036,منتجع سوسه,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00037,مصيف القريه/رأس الهلال,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00038,منتجع الينابيع السياحي,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00039,منتجع الاثرون السياحي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-DER-00001,منتجع إيميليا السياحي,tourist_resort,درنة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-DER-00002,مصيف 1805,tourist_resort,درنة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00040,منتجع الابرق السياحي,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00001,منتج شحات السياحي,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00002,منتجع وموتيل الأمان 1,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00003,منتجع وموتيل الأمان 3,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00004,شاليهات بوعطية,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00005,منتجع جود السياحي,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-KHO-00019,إستراحات فردية درجة أولى,tourist_resort,الخمس,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00006,إستراحات فردية,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00007,منتجع الاسرة السعيدة,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00008,شاليهات بومؤمن,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SHA-00009,منتجع سيف للسياحه ولاستثمار,tourist_resort,شحات,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-TOB-00001,منتجع وفندق ريفان السياحي,accommodation_resort_other,طبرق,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00012,قرية سبتيموس السياحية - زوارة,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00013,قرية سيمو السياحية - زوارة,accommodation_resort_other,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZLI-00003,منتجع الهادريان زليتن,accommodation_resort_other,زليتن,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00041,منتجع سفارى السياحى,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00014,قرية اوديسا السياحية,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00015,Azul house استراحة ازول,tourist_village,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00016,DiVano Resort,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00017,منتجع لاجون Lagoon Resort,tourist_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00018,Barracuda Village - منتجع باراكودا,accommodation_resort_other,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00042,Oea Village - Diar Al Bahr,tourist_village,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00043,قرية قوس غنيمة السياحية,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00044,La Vida Resort & Beach Club,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00045,استراحة اونان,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00046,Resort Zuwara,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00047,Beach House,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00019,استراحة سيليا زوارة,review_required,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00048,استراحة نبض الحياة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00049,Villa Helena,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00050,Crystal House إستراحة كريستال,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00051,استرحات انيار المميزة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00052,اقامة لونا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00053,استراحة LAREN,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00020,منتجع بالي زوارة/Bali village,review_required,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00054,Sea room,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00055,Guest house,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00056,منتجع الملّاحة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00021,مصيف أبناء الغالي العائلي-زوارة,family_resort,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00057,استراحة فايق بكه,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00022,قصر الضيافة زوارة,review_required,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00058,استراحة الشاطئ,beach_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00059,استراحة دار الضيافة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00023,استراحة فيرونا زوارة,review_required,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00060,استراحة نوفل,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-ZUW-00024,شاطئ بحر زوارة,review_required,زوارة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00061,المصيف المفتوح تليل,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00062,مصيف مارينا تليل العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00063,Lancaster Al Salam Resort - منتجع لانكستر السلام,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00004,مصيف اللوتس العائلي صبراتة,family_resort,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00064,شاطئ تليل السياحي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00065,مصيف اللؤلؤة تليل,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00005,مصيف النادي البحري العائلي صبراتة,beach_resort,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00066,استراحات الفخامة صبراته,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00067,إستراحة الجوهرة - تليل,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00068,استراحة رويال,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00069,استراحة تليل,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00070,استراحة روندا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-BAY-00003,استراحة البيضاء,review_required,البيضاء,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00071,إستراحة المنتزه تليل,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00006,استراحة القمر المضيء صبراتة تليل,review_required,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00072,استراحه مرجان,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00073,استراحة ليالي تليل,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00074,استراحة ادم,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00075,إستراحة أبان,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00076,منتجع الفنار السياحي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00077,مجموعة استراحات الجرف,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00078,إستراحة بيت الفخامه,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00079,استراحة قورينا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00080,استراحة اتار صبراته,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00081,استراحة ميار,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00082,استراحه فينيسيا صبراته,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00083,استراحة الزيتونة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-SAB-00007,Sabratha youth hostel _بيت شباب صبراتة,review_required,صبراتة,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00084,استراحة ومصيف باب البحر,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00085,مقسم استراحات بن سالم,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00086,إستراحة سوفانا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00087,استراحة لازورد صبراته,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00088,استراحة مرجانة (الحرابي),review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00089,مصيف ليبيا العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00090,مصيف صرمان العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00091,استراحة مرمرة جوددائم,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00092,استراحة البحر الابيض. JUDDIAM,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00093,مشروع برج النصر الفندقي/ شركة الذابلة للاستثمار,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00094,مشروع لؤلؤة المدينة قرية النفط,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00095,مصيف شاطئ الرمال,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00096,مصيف نسيم البحر العائلى,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00097,مصيف جنى العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00098,مصيف وقرية بيلسان العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00099,مصيف جسر الطاقة العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00100,مصيف القلعة العائلي 32,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00101,مصيف اﻻمان والمرح العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00102,مصيف جيران البحر العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00103,ڤيلا لاڤيستا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00104,Private house برايفت هاوس,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00105,ROYAL DYAR Resort Hotel,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00106,Cyrine Resort,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00107,استراحة القويعة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00108,Alameer Villa ڤيلا الأمير,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00109,Villa mfm,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00110,W استراحة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00111,استراحة السلام,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00112,استراحات ابناء يوسف منيصير,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00113,استراحات شاطئ غوط الرمان,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00114,A.G.S villa,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00115,استراحة فاميلي رست,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00116,استراحة بن طابون,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00117,إستراحة ليان للإيجار اليومي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00118,Villa SIMO,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00119,إستراحة ليان للإيجار اليومي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00120,استراحة هلا مدريد القره بوللي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00121,ليڤينت/Levent Family Resort,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00122,منتجع الماسة السياحي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00123,Compound Rawasi,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00124,استراحة فايف قولد ستار,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00125,استراحة زهرة القويعة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00126,The Twins استراحات التوأم,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00127,منتجع إيليت,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00128,شاليه شمس البحر القره بوللي,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00129,شاليه النورس,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00130,استراحة ديلان,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00131,Crown Beach Resort,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00132,Salem Elgamoudi Beach House,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00133,Bali s BEACH HOUSE,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00134,Alhady Elmelliti Beach House,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00135,Golden beach village,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00136,شاطي القره بوللي منطقة القويعة السياحية,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00137,منتجع كريستال السياحي 1,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00138,استراحة لابلازا -LA PLAZA,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00139,إستراحة القويعة العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00140,استراحة كازا دولتشي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00141,استراحات الدلفين الفاخرة 1 و 2 و 3 و4,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00142,استراحة ارام للاستجمام العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00143,Villa Lugano ڤيلا لوچانو,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00144,حلا البحر للعائلات,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00145,Villa Mia فيلا ميا,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00146,لمة العيلة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00147,استراحة نسائم البحر,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00148,Villa golden star,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00149,فيلا الصاري العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00150,بيت الصبار,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00151,فيلا الشاهين,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00152,Hesham Al Askari Marine Rest House,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00153,La Coral,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00154,استراحة شمس للعائلات,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00155,فيلا ملكة A,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00156,فيلا غسق,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00157,فيلا روعة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00158,شاليه قطر الندى,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00159,النوران العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00160,شاليه الدلفين,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00161,شاليه همام,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00162,Villa Mare ڤيلا ماري,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00163,فيلا كراون Villa Crown,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00164,فيلا سانتوريني,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00165,شاليه ماسة,accommodation_resort_other,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00166,استراحة مارية العائلية,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00167,استراحة اللؤلؤة,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00168,استراحة روح البحر,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00169,Ataya Resort,tourist_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00170,مقسم شاطئ النرجس السياحي,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00171,استراحة فرحات لاند,review_required,,0,0,0,0,0,0,0,0,,0,false,no_images
+LY-ACC-RES-NAT-00172,مصيف الامان فم الوادي العائلي,family_resort,,0,0,0,0,0,0,0,0,,0,false,no_images
