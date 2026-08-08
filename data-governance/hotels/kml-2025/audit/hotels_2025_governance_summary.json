@@ -1,0 +1,27 @@
+{
+  "source_kml": "الفنادق_LY.kml",
+  "kml_placemarks": 585,
+  "canonical_units_after_high_conf_same_name_100m_dedup": 436,
+  "high_conf_duplicate_groups": 123,
+  "high_conf_redundant_records": 149,
+  "same_name_100_500m_review_groups": 8,
+  "kml_records_with_image_urls": 231,
+  "kml_image_urls_total": 829,
+  "atlas_id_strong": 324,
+  "atlas_id_review": 87,
+  "atlas_id_low": 23,
+  "atlas_id_unmatched": 2,
+  "center_media_folders": 53,
+  "center_media_images": 1403,
+  "center_media_kml_strong": 40,
+  "center_media_kml_probable": 0,
+  "center_media_kml_review": 13,
+  "center_media_with_atlas_id": 23,
+  "governance_rules": {
+    "KML_2025": "Current Spatial Truth",
+    "Center_Photo_Archive": "Primary Media Source",
+    "Historical_Archives": "Provenance & Historical Names",
+    "Unified_Registry": "Atlas IDs & Data Governance"
+  },
+  "geometry_policy": "Canonical draft retains exact coordinates from selected source KML Placemark; no averaging is used for published geometry."
+}

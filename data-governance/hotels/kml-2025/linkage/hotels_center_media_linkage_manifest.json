@@ -1,0 +1,1394 @@
+[
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "الزيتونة",
+    "image_count": 22,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "الزيتونة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0065",
+        "name": "فندق الزيتونة",
+        "latitude": 31.756525,
+        "longitude": 14.0148
+      },
+      {
+        "cluster_id": "HOT-KML2025-0066",
+        "name": "فندق الزيتونة",
+        "latitude": 32.89049,
+        "longitude": 13.19201
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "باب البحر",
+    "image_count": 47,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0196",
+    "kml_current_name": "فندق باب البحر",
+    "kml_latitude": 32.8945957,
+    "kml_longitude": 13.1650299,
+    "atlas_id": "LTA-2026-HOT-00290",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "باب البحر",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0196",
+        "name": "فندق باب البحر",
+        "latitude": 32.8945957,
+        "longitude": 13.1650299
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "جي ديبلو مارويت",
+    "image_count": 45,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0113",
+    "kml_current_name": "لانكاستر برج الحياة ( ماريوت سابقا)",
+    "kml_latitude": 32.89019,
+    "kml_longitude": 13.164378,
+    "atlas_id": "LTA-2026-HOT-00605",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "جي ديبلو مارويت",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0113",
+        "name": "لانكاستر برج الحياة ( ماريوت سابقا)",
+        "latitude": 32.89019,
+        "longitude": 13.164378
+      }
+    ],
+    "approved_note": "معتمد يدويًا للربط"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "ريباس",
+    "image_count": 15,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0211",
+    "kml_current_name": "فندق ريباس",
+    "kml_latitude": 32.897097,
+    "kml_longitude": 13.207075,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_LOW",
+    "historical_name": "ريباس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0211",
+        "name": "فندق ريباس",
+        "latitude": 32.897097,
+        "longitude": 13.207075
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "شيراتون",
+    "image_count": 13,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0415",
+    "kml_current_name": "فندق الاندلس /فندق فوربوينتس شيرتون",
+    "kml_latitude": 32.881078,
+    "kml_longitude": 13.146443,
+    "atlas_id": "LTA-2026-HOT-00581",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "شيراتون",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0415",
+        "name": "فندق الاندلس /فندق فوربوينتس شيرتون",
+        "latitude": 32.881078,
+        "longitude": 13.146443
+      }
+    ],
+    "approved_note": "معتمد يدويًا للربط"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "صحراء ليبيا",
+    "image_count": 9,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0413",
+    "kml_current_name": "فندق صحراء ليبيا",
+    "kml_latitude": 32.88533,
+    "kml_longitude": 13.16299,
+    "atlas_id": "LTA-2026-HOT-00407",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "صحراء ليبيا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0413",
+        "name": "فندق صحراء ليبيا",
+        "latitude": 32.88533,
+        "longitude": 13.16299
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "صور اكاكوس",
+    "image_count": 16,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "صور اكاكوس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0191",
+        "name": "فندق أكاكوس",
+        "latitude": 24.958349,
+        "longitude": 10.182599
+      },
+      {
+        "cluster_id": "HOT-KML2025-0192",
+        "name": "فندق اكاكوس",
+        "latitude": 32.89236,
+        "longitude": 13.19143
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "صور الودان",
+    "image_count": 36,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0021",
+    "kml_current_name": "فندق الودان",
+    "kml_latitude": 32.8926825,
+    "kml_longitude": 13.1908995,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "صور الودان",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0021",
+        "name": "فندق الودان",
+        "latitude": 32.8926825,
+        "longitude": 13.1908995
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "صور فندق المهاري",
+    "image_count": 6,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0392",
+    "kml_current_name": "فندق المهاري رادسون بلو",
+    "kml_latitude": 32.8959784,
+    "kml_longitude": 13.1997991,
+    "atlas_id": "LTA-2026-HOT-00559",
+    "atlas_id_status": "ATLAS_ID_STRONG",
+    "historical_name": "صور فندق المهاري",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0392",
+        "name": "فندق المهاري رادسون بلو",
+        "latitude": 32.8959784,
+        "longitude": 13.1997991
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق  الساره",
+    "image_count": 12,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0243",
+    "kml_current_name": "فندق السارة",
+    "kml_latitude": 32.887004,
+    "kml_longitude": 13.173311,
+    "atlas_id": "LTA-2026-HOT-00405",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق  الساره",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0243",
+        "name": "فندق السارة",
+        "latitude": 32.887004,
+        "longitude": 13.173311
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق أويا",
+    "image_count": 24,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0195",
+    "kml_current_name": "فندق أويا",
+    "kml_latitude": 32.88905,
+    "kml_longitude": 13.17718,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق أويا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0195",
+        "name": "فندق أويا",
+        "latitude": 32.88905,
+        "longitude": 13.17718
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الأخوة",
+    "image_count": 8,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0040",
+    "kml_current_name": "فندق الأخوة",
+    "kml_latitude": 32.891645,
+    "kml_longitude": 13.17406,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الأخوة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0040",
+        "name": "فندق الأخوة",
+        "latitude": 32.891645,
+        "longitude": 13.17406
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق التوفيق",
+    "image_count": 12,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق التوفيق",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0248",
+        "name": "فندق التوفيق 2",
+        "latitude": 32.891418,
+        "longitude": 13.193296
+      },
+      {
+        "cluster_id": "HOT-KML2025-0262",
+        "name": "فندق التوفيق 1",
+        "latitude": 32.891197,
+        "longitude": 13.192806
+      },
+      {
+        "cluster_id": "HOT-KML2025-0372",
+        "name": "فندق التوفيق بلازا",
+        "latitude": 32.81173,
+        "longitude": 13.193512
+      },
+      {
+        "cluster_id": "HOT-KML2025-0373",
+        "name": "فندق التوفيق بلازا",
+        "latitude": 32.89108,
+        "longitude": 13.19269
+      },
+      {
+        "cluster_id": "HOT-KML2025-0047",
+        "name": "فندق التاجوري",
+        "latitude": 32.895846,
+        "longitude": 13.178313
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الثريا",
+    "image_count": 67,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق الثريا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0010",
+        "name": "فندق الثريا",
+        "latitude": 32.764375,
+        "longitude": 21.75694
+      },
+      {
+        "cluster_id": "HOT-KML2025-0011",
+        "name": "فندق الثريا السياحي",
+        "latitude": 29.039751,
+        "longitude": 21.53529
+      },
+      {
+        "cluster_id": "HOT-KML2025-0012",
+        "name": "فندق الثريا",
+        "latitude": 32.8914,
+        "longitude": 13.17296
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الخيام العربية",
+    "image_count": 5,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق الخيام العربية",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0265",
+        "name": "فندق الخيام العربية",
+        "latitude": 32.890968,
+        "longitude": 13.194048
+      },
+      {
+        "cluster_id": "HOT-KML2025-0266",
+        "name": "فندق الخيام العربية",
+        "latitude": 32.89736,
+        "longitude": 13.206868
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الدبلوماسي",
+    "image_count": 21,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0058",
+    "kml_current_name": "فندق الدبلوماسي",
+    "kml_latitude": 32.889142,
+    "kml_longitude": 13.173639,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الدبلوماسي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0058",
+        "name": "فندق الدبلوماسي",
+        "latitude": 32.889142,
+        "longitude": 13.173639
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الديار",
+    "image_count": 12,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0060",
+    "kml_current_name": "فندق الديار",
+    "kml_latitude": 32.891565,
+    "kml_longitude": 13.17449,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الديار",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0060",
+        "name": "فندق الديار",
+        "latitude": 32.891565,
+        "longitude": 13.17449
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الريان",
+    "image_count": 25,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0063",
+    "kml_current_name": "فندق الريان",
+    "kml_latitude": 32.89056,
+    "kml_longitude": 13.172645,
+    "atlas_id": "LTA-2026-HOT-00104",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق الريان",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0063",
+        "name": "فندق الريان",
+        "latitude": 32.89056,
+        "longitude": 13.172645
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق السفير",
+    "image_count": 23,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0252",
+    "kml_current_name": "فندق السفير",
+    "kml_latitude": 32.891282,
+    "kml_longitude": 13.172765,
+    "atlas_id": "LTA-2026-HOT-00140",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق السفير",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0252",
+        "name": "فندق السفير",
+        "latitude": 32.891282,
+        "longitude": 13.172765
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق السلاسل الذهبية",
+    "image_count": 19,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0260",
+    "kml_current_name": "فندق السلاسل الذهبية",
+    "kml_latitude": 32.885084,
+    "kml_longitude": 13.16218,
+    "atlas_id": "LTA-2026-HOT-00417",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق السلاسل الذهبية",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0260",
+        "name": "فندق السلاسل الذهبية",
+        "latitude": 32.885084,
+        "longitude": 13.16218
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الشاطي الذهبي",
+    "image_count": 28,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0255",
+    "kml_current_name": "الشاطي الذهبي",
+    "kml_latitude": 32.886058,
+    "kml_longitude": 13.162695,
+    "atlas_id": "LTA-2026-HOT-00414",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق الشاطي الذهبي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0255",
+        "name": "الشاطي الذهبي",
+        "latitude": 32.886058,
+        "longitude": 13.162695
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الشجرة",
+    "image_count": 4,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0073",
+    "kml_current_name": "فندق الشجرة",
+    "kml_latitude": 32.893513,
+    "kml_longitude": 13.195069,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الشجرة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0073",
+        "name": "فندق الشجرة",
+        "latitude": 32.893513,
+        "longitude": 13.195069
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الصافي",
+    "image_count": 136,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0256",
+    "kml_current_name": "فندق الصافي",
+    "kml_latitude": 32.889351,
+    "kml_longitude": 13.174036,
+    "atlas_id": "LTA-2026-HOT-00251",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق الصافي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0256",
+        "name": "فندق الصافي",
+        "latitude": 32.889351,
+        "longitude": 13.174036
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الصولجان",
+    "image_count": 23,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0079",
+    "kml_current_name": "فندق الصولجان",
+    "kml_latitude": 32.885736,
+    "kml_longitude": 13.162941,
+    "atlas_id": "LTA-2026-HOT-00262",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق الصولجان",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0079",
+        "name": "فندق الصولجان",
+        "latitude": 32.885736,
+        "longitude": 13.162941
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الضيافة",
+    "image_count": 14,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0383",
+    "kml_current_name": "فندق الضيافة",
+    "kml_latitude": 32.89226,
+    "kml_longitude": 13.172,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الضيافة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0383",
+        "name": "فندق الضيافة",
+        "latitude": 32.89226,
+        "longitude": 13.172
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الفصول الاربعة 2",
+    "image_count": 12,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0251",
+    "kml_current_name": "فندق الفصول الاربعة 2",
+    "kml_latitude": 32.891864,
+    "kml_longitude": 13.173923,
+    "atlas_id": "LTA-2026-HOT-00118",
+    "atlas_id_status": "ATLAS_ID_STRONG",
+    "historical_name": "فندق الفصول الاربعة 2",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0251",
+        "name": "فندق الفصول الاربعة 2",
+        "latitude": 32.891864,
+        "longitude": 13.173923
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الفصول الاربعة1",
+    "image_count": 1,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق الفصول الاربعة1",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0385",
+        "name": "فندق الفصول الأربعة ( 1 )",
+        "latitude": 32.89087,
+        "longitude": 13.17354
+      },
+      {
+        "cluster_id": "HOT-KML2025-0258",
+        "name": "فندق الفصول الابعة 1",
+        "latitude": 32.890845,
+        "longitude": 13.173452
+      },
+      {
+        "cluster_id": "HOT-KML2025-0244",
+        "name": "فندق الفصول الاربعة 3",
+        "latitude": 32.889742,
+        "longitude": 13.17393
+      },
+      {
+        "cluster_id": "HOT-KML2025-0251",
+        "name": "فندق الفصول الاربعة 2",
+        "latitude": 32.891864,
+        "longitude": 13.173923
+      },
+      {
+        "cluster_id": "HOT-KML2025-0290",
+        "name": "فندق الوحدة العربية",
+        "latitude": 32.891721,
+        "longitude": 13.174852
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الكندي",
+    "image_count": 18,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0271",
+    "kml_current_name": "فندق الكندي",
+    "kml_latitude": 32.89234,
+    "kml_longitude": 13.17304,
+    "atlas_id": "LTA-2026-HOT-00101",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق الكندي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0271",
+        "name": "فندق الكندي",
+        "latitude": 32.89234,
+        "longitude": 13.17304
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق المختار",
+    "image_count": 16,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0239",
+    "kml_current_name": "فندق المختار",
+    "kml_latitude": 32.892153,
+    "kml_longitude": 13.171528,
+    "atlas_id": "LTA-2026-HOT-00130",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق المختار",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0239",
+        "name": "فندق المختار",
+        "latitude": 32.892153,
+        "longitude": 13.171528
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق النورس",
+    "image_count": 3,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0261",
+    "kml_current_name": "فندق النورس",
+    "kml_latitude": 32.89127,
+    "kml_longitude": 13.19275,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق النورس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0261",
+        "name": "فندق النورس",
+        "latitude": 32.89127,
+        "longitude": 13.19275
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق الياقوتة",
+    "image_count": 49,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق الياقوتة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0184",
+        "name": "فندق الياقوتة",
+        "latitude": 32.89129,
+        "longitude": 13.17631
+      },
+      {
+        "cluster_id": "HOT-KML2025-0185",
+        "name": "فندق الياقوتة",
+        "latitude": 32.249558,
+        "longitude": 20.180843
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق برج المدينة",
+    "image_count": 16,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0397",
+    "kml_current_name": "فندق برج المدينة",
+    "kml_latitude": 32.88987,
+    "kml_longitude": 13.17303,
+    "atlas_id": "LTA-2026-HOT-00564",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق برج المدينة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0397",
+        "name": "فندق برج المدينة",
+        "latitude": 32.88987,
+        "longitude": 13.17303
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق بلازما",
+    "image_count": 31,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0199",
+    "kml_current_name": "فندق بلازما",
+    "kml_latitude": 32.8856711,
+    "kml_longitude": 13.1640086,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق بلازما",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0199",
+        "name": "فندق بلازما",
+        "latitude": 32.8856711,
+        "longitude": 13.1640086
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق بوابة افريقيا",
+    "image_count": 17,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0257",
+    "kml_current_name": "فندق بوابة أفريقيا",
+    "kml_latitude": 32.888548,
+    "kml_longitude": 13.17631,
+    "atlas_id": "LTA-2026-HOT-00415",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق بوابة افريقيا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0257",
+        "name": "فندق بوابة أفريقيا",
+        "latitude": 32.888548,
+        "longitude": 13.17631
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق توباكتس",
+    "image_count": 34,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0201",
+    "kml_current_name": "فندق توباكتس",
+    "kml_latitude": 32.886025,
+    "kml_longitude": 13.1653469,
+    "atlas_id": "LTA-2026-HOT-00093",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق توباكتس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0201",
+        "name": "فندق توباكتس",
+        "latitude": 32.886025,
+        "longitude": 13.1653469
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق دار طرابلس",
+    "image_count": 3,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0403",
+    "kml_current_name": "فندق دار طرابلس",
+    "kml_latitude": 32.891919,
+    "kml_longitude": 13.192052,
+    "atlas_id": "LTA-2026-HOT-00571",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق دار طرابلس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0403",
+        "name": "فندق دار طرابلس",
+        "latitude": 32.891919,
+        "longitude": 13.192052
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق سفاري السياحي",
+    "image_count": 19,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق سفاري السياحي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0123",
+        "name": "فندق سفاري",
+        "latitude": 32.373698,
+        "longitude": 15.101947
+      },
+      {
+        "cluster_id": "HOT-KML2025-0124",
+        "name": "فندق سفارى",
+        "latitude": 32.893144,
+        "longitude": 13.171191
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق طيبة",
+    "image_count": 7,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق طيبة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0032",
+        "name": "فندق طيبة",
+        "latitude": 27.0540692,
+        "longitude": 14.4217629
+      },
+      {
+        "cluster_id": "HOT-KML2025-0033",
+        "name": "فندق طيبة",
+        "latitude": 32.891926,
+        "longitude": 13.171801
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق قورينا",
+    "image_count": 19,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0226",
+    "kml_current_name": "فندق قورينا",
+    "kml_latitude": 32.89095,
+    "kml_longitude": 13.1935,
+    "atlas_id": "LTA-2026-HOT-00145",
+    "atlas_id_status": "ATLAS_ID_STRONG",
+    "historical_name": "فندق قورينا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0226",
+        "name": "فندق قورينا",
+        "latitude": 32.89095,
+        "longitude": 13.1935
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "فندق هارون",
+    "image_count": 44,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0229",
+    "kml_current_name": "فندق هارون",
+    "kml_latitude": 32.89047,
+    "kml_longitude": 13.19167,
+    "atlas_id": "LTA-2026-HOT-00303",
+    "atlas_id_status": "CENTER_MEDIA_MASTER_ID_APPROVED",
+    "historical_name": "فندق هارون",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0229",
+        "name": "فندق هارون",
+        "latitude": 32.89047,
+        "longitude": 13.19167
+      }
+    ],
+    "approved_note": "قابل للربط بعد فحص بصري سريع"
+  },
+  {
+    "archive": "الفنادق المصنفة 2016",
+    "folder": "كورنتيا",
+    "image_count": 14,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0001",
+    "kml_current_name": "فندق كورنثيا",
+    "kml_latitude": 32.89692,
+    "kml_longitude": 13.170402,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "كورنتيا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0001",
+        "name": "فندق كورنثيا",
+        "latitude": 32.89692,
+        "longitude": 13.170402
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "بيت الامان",
+    "image_count": 7,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0110",
+    "kml_current_name": "فندق بيت الأمان",
+    "kml_latitude": 32.8904765,
+    "kml_longitude": 13.1922543,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "بيت الامان",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0110",
+        "name": "فندق بيت الأمان",
+        "latitude": 32.8904765,
+        "longitude": 13.1922543
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "صور فندق الشرق",
+    "image_count": 48,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0074",
+    "kml_current_name": "فندق الشرق",
+    "kml_latitude": 32.887358,
+    "kml_longitude": 13.176029,
+    "atlas_id": "LTA-2026-HOT-00266",
+    "atlas_id_status": "ATLAS_ID_STRONG",
+    "historical_name": "صور فندق الشرق",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0074",
+        "name": "فندق الشرق",
+        "latitude": 32.887358,
+        "longitude": 13.176029
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "صور فندق اوال",
+    "image_count": 14,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "صور فندق اوال",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0245",
+        "name": "فندق أوال",
+        "latitude": 32.887839,
+        "longitude": 13.171814
+      },
+      {
+        "cluster_id": "HOT-KML2025-0246",
+        "name": "فندق اوال",
+        "latitude": 32.8888903,
+        "longitude": 13.17211
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "صور نور الثريا",
+    "image_count": 25,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "صور نور الثريا",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0253",
+        "name": "فندق  نور الثريا",
+        "latitude": 32.891377,
+        "longitude": 13.172944
+      },
+      {
+        "cluster_id": "HOT-KML2025-0254",
+        "name": "فندق نور الثريا السياحى",
+        "latitude": 32.8894048,
+        "longitude": 13.1723954
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق البتراء",
+    "image_count": 22,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0153",
+    "kml_current_name": "فندق البتراء",
+    "kml_latitude": 32.888535,
+    "kml_longitude": 13.173758,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق البتراء",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0153",
+        "name": "فندق البتراء",
+        "latitude": 32.888535,
+        "longitude": 13.173758
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق الخليج",
+    "image_count": 27,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0056",
+    "kml_current_name": "فندق الخليج",
+    "kml_latitude": 32.889158,
+    "kml_longitude": 13.175692,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق الخليج",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0056",
+        "name": "فندق الخليج",
+        "latitude": 32.889158,
+        "longitude": 13.175692
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق العاصمة",
+    "image_count": 148,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0080",
+    "kml_current_name": "فندق العاصمة",
+    "kml_latitude": 32.8896055,
+    "kml_longitude": 13.1742892,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق العاصمة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0080",
+        "name": "فندق العاصمة",
+        "latitude": 32.8896055,
+        "longitude": 13.1742892
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق الفصول الاربعة 3",
+    "image_count": 19,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0244",
+    "kml_current_name": "فندق الفصول الاربعة 3",
+    "kml_latitude": 32.889742,
+    "kml_longitude": 13.17393,
+    "atlas_id": "LTA-2026-HOT-00406",
+    "atlas_id_status": "ATLAS_ID_STRONG",
+    "historical_name": "فندق الفصول الاربعة 3",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0244",
+        "name": "فندق الفصول الاربعة 3",
+        "latitude": 32.889742,
+        "longitude": 13.17393
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق ضيافة ونيس",
+    "image_count": 63,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0128",
+    "kml_current_name": "فندق ضيافة ونيس",
+    "kml_latitude": 32.674606,
+    "kml_longitude": 13.173898,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق ضيافة ونيس",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0128",
+        "name": "فندق ضيافة ونيس",
+        "latitude": 32.674606,
+        "longitude": 13.173898
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق طرابلس الدولي",
+    "image_count": 24,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_STRONG",
+    "kml_cluster_id": "HOT-KML2025-0129",
+    "kml_current_name": "فندق طرابلس الدولي",
+    "kml_latitude": 32.8898719,
+    "kml_longitude": 13.1751773,
+    "atlas_id": null,
+    "atlas_id_status": "ATLAS_ID_REVIEW",
+    "historical_name": "فندق طرابلس الدولي",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0129",
+        "name": "فندق طرابلس الدولي",
+        "latitude": 32.8898719,
+        "longitude": 13.1751773
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق طليطلة",
+    "image_count": 42,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق طليطلة",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0130",
+        "name": "فندق طليطلة",
+        "latitude": 32.892212,
+        "longitude": 13.203761
+      },
+      {
+        "cluster_id": "HOT-KML2025-0131",
+        "name": "فندق طليطلة",
+        "latitude": 32.892241,
+        "longitude": 13.200475
+      }
+    ],
+    "approved_note": null
+  },
+  {
+    "archive": "الفنادق غير المصنفة 2016",
+    "folder": "فندق قرطاج",
+    "image_count": 19,
+    "media_source": "CENTER_PHOTO_ARCHIVE",
+    "media_priority": 1,
+    "kml_match_status": "CENTER_MEDIA_TO_KML_REVIEW_MULTI_LOCATION",
+    "kml_cluster_id": null,
+    "kml_current_name": null,
+    "kml_latitude": null,
+    "kml_longitude": null,
+    "atlas_id": null,
+    "atlas_id_status": "PENDING_KML_MATCH",
+    "historical_name": "فندق قرطاج",
+    "candidate_clusters": [
+      {
+        "cluster_id": "HOT-KML2025-0136",
+        "name": "فندق قرطاج",
+        "latitude": 32.889549,
+        "longitude": 13.179976
+      },
+      {
+        "cluster_id": "HOT-KML2025-0137",
+        "name": "فندق قرطاج",
+        "latitude": 32.892179,
+        "longitude": 13.172593
+      }
+    ],
+    "approved_note": null
+  }
+]
