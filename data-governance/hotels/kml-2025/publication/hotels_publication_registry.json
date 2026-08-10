@@ -1,0 +1,6596 @@
+[
+  {
+    "kml_cluster_id": "HOT-KML2025-0001",
+    "atlas_id": null,
+    "current_name": "فندق كورنثيا",
+    "latitude": 32.89692,
+    "longitude": 13.170402,
+    "source_kml_indices": [
+      1
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 14,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0002",
+    "atlas_id": null,
+    "current_name": "فندق بينثابوليس",
+    "latitude": 32.76474,
+    "longitude": 21.760411,
+    "source_kml_indices": [
+      2
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0003",
+    "atlas_id": null,
+    "current_name": "فندق جوهرة الواحة",
+    "latitude": 30.1414398,
+    "longitude": 9.5073294,
+    "source_kml_indices": [
+      3
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0004",
+    "atlas_id": "LTA-2026-HOT-00019",
+    "current_name": "فندق تبرس",
+    "latitude": 31.777558,
+    "longitude": 11.327179,
+    "source_kml_indices": [
+      4
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0005",
+    "atlas_id": null,
+    "current_name": "منتجع شحات السياحي",
+    "latitude": 32.82451,
+    "longitude": 21.87935,
+    "source_kml_indices": [
+      5
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0006",
+    "atlas_id": null,
+    "current_name": "فندق المنارة",
+    "latitude": 32.900626,
+    "longitude": 21.964767,
+    "source_kml_indices": [
+      6
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0007",
+    "atlas_id": null,
+    "current_name": "فندق لؤلؤة الخليج",
+    "latitude": 32.76469,
+    "longitude": 21.77744,
+    "source_kml_indices": [
+      7
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0008",
+    "atlas_id": "LTA-2026-HOT-00332",
+    "current_name": "فندق التلال الوسيطة البيضاء",
+    "latitude": 32.793224,
+    "longitude": 21.733303,
+    "source_kml_indices": [
+      8
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0009",
+    "atlas_id": "LTA-2026-HOT-00174",
+    "current_name": "العنود للشقق الفندقية",
+    "latitude": 32.7664,
+    "longitude": 21.7417,
+    "source_kml_indices": [
+      9
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0010",
+    "atlas_id": "LTA-2026-HOT-00285",
+    "current_name": "فندق الثريا",
+    "latitude": 32.764375,
+    "longitude": 21.75694,
+    "source_kml_indices": [
+      10
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0011",
+    "atlas_id": null,
+    "current_name": "فندق الثريا السياحي",
+    "latitude": 29.039751,
+    "longitude": 21.53529,
+    "source_kml_indices": [
+      134
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0012",
+    "atlas_id": "LTA-2026-HOT-00098",
+    "current_name": "فندق الثريا",
+    "latitude": 32.8914,
+    "longitude": 13.17296,
+    "source_kml_indices": [
+      434
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 67,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0013",
+    "atlas_id": null,
+    "current_name": "منتجع الينابيع السياحي",
+    "latitude": 32.8815,
+    "longitude": 22.19025,
+    "source_kml_indices": [
+      11
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0014",
+    "atlas_id": null,
+    "current_name": "فندق برقة",
+    "latitude": 32.765259,
+    "longitude": 21.756955,
+    "source_kml_indices": [
+      12,
+      365
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0015",
+    "atlas_id": "LTA-2026-HOT-00335",
+    "current_name": "فندق الهديل",
+    "latitude": 32.763233,
+    "longitude": 21.754296,
+    "source_kml_indices": [
+      13
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0016",
+    "atlas_id": null,
+    "current_name": "فندق بن يدر",
+    "latitude": 30.1222996,
+    "longitude": 9.5108003,
+    "source_kml_indices": [
+      14
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0017",
+    "atlas_id": null,
+    "current_name": "فندق نجوم غدامس",
+    "latitude": 30.1874247,
+    "longitude": 9.3918572,
+    "source_kml_indices": [
+      15
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0018",
+    "atlas_id": null,
+    "current_name": "فندق باب الفتح",
+    "latitude": 30.0869095,
+    "longitude": 9.1691024,
+    "source_kml_indices": [
+      16
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0019",
+    "atlas_id": null,
+    "current_name": "فندق فكتوريا",
+    "latitude": 32.891366,
+    "longitude": 13.194387,
+    "source_kml_indices": [
+      17,
+      549
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0020",
+    "atlas_id": null,
+    "current_name": "فندق الطاووس",
+    "latitude": 32.873784,
+    "longitude": 13.317541,
+    "source_kml_indices": [
+      18,
+      396
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0021",
+    "atlas_id": null,
+    "current_name": "فندق الودان",
+    "latitude": 32.8926825,
+    "longitude": 13.1908995,
+    "source_kml_indices": [
+      19,
+      505
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 36,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0022",
+    "atlas_id": null,
+    "current_name": "فندق دار السلام  ( المسيرة سابقا )",
+    "latitude": 32.073038,
+    "longitude": 23.968133,
+    "source_kml_indices": [
+      20
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0023",
+    "atlas_id": null,
+    "current_name": "فندق سان جورج",
+    "latitude": 32.079853,
+    "longitude": 23.973432,
+    "source_kml_indices": [
+      21
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0024",
+    "atlas_id": "LTA-2026-HOT-00346",
+    "current_name": "فندق الحسنين الكبير",
+    "latitude": 32.643382,
+    "longitude": 14.251271,
+    "source_kml_indices": [
+      22
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0025",
+    "atlas_id": null,
+    "current_name": "بيوت الشباب",
+    "latitude": 32.812983,
+    "longitude": 21.863206,
+    "source_kml_indices": [
+      23
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0026",
+    "atlas_id": "LTA-2026-HOT-00347",
+    "current_name": "فندق بلاغراي السياحي ( التلال سابقا )",
+    "latitude": 32.761737,
+    "longitude": 21.717713,
+    "source_kml_indices": [
+      24
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0027",
+    "atlas_id": null,
+    "current_name": "منتجع ايميليا",
+    "latitude": 32.798444,
+    "longitude": 22.562225,
+    "source_kml_indices": [
+      25
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0028",
+    "atlas_id": null,
+    "current_name": "منتجع وموتيل الأمان",
+    "latitude": 32.801784,
+    "longitude": 21.894339,
+    "source_kml_indices": [
+      26
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0029",
+    "atlas_id": null,
+    "current_name": "بيوت شباب غدامس",
+    "latitude": 30.2053928,
+    "longitude": 9.2282079,
+    "source_kml_indices": [
+      27
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0030",
+    "atlas_id": "LTA-2026-HOT-00451",
+    "current_name": "نالوت غدامس فندق باب العز",
+    "latitude": 31.887663,
+    "longitude": 10.970617,
+    "source_kml_indices": [
+      28
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0031",
+    "atlas_id": "LTA-2026-HOT-00349",
+    "current_name": "فندق أبراج الوسطى",
+    "latitude": 31.2045712,
+    "longitude": 16.5532364,
+    "source_kml_indices": [
+      29
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0032",
+    "atlas_id": "LTA-2026-HOT-00350",
+    "current_name": "فندق طيبة",
+    "latitude": 27.0540692,
+    "longitude": 14.4217629,
+    "source_kml_indices": [
+      30
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0033",
+    "atlas_id": null,
+    "current_name": "فندق طيبة",
+    "latitude": 32.891926,
+    "longitude": 13.171801,
+    "source_kml_indices": [
+      114,
+      546
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 7,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0034",
+    "atlas_id": "LTA-2026-HOT-00351",
+    "current_name": "فندق قصر الفيروز",
+    "latitude": 32.849774,
+    "longitude": 13.192323,
+    "source_kml_indices": [
+      31,
+      121,
+      246
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0035"
+    ],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0036",
+    "atlas_id": "LTA-2026-HOT-00352",
+    "current_name": "Royal Gardens Hotels",
+    "latitude": 32.886288,
+    "longitude": 13.190115,
+    "source_kml_indices": [
+      32
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0037",
+    "atlas_id": "LTA-2026-HOT-00079",
+    "current_name": "فندق ابونواس",
+    "latitude": 32.86352,
+    "longitude": 13.091442,
+    "source_kml_indices": [
+      33
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0038",
+    "atlas_id": "LTA-2026-HOT-00073",
+    "current_name": "فندق احواص",
+    "latitude": 32.89542,
+    "longitude": 13.179075,
+    "source_kml_indices": [
+      34
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0039",
+    "atlas_id": "LTA-2026-HOT-00029",
+    "current_name": "فندق الانوار",
+    "latitude": 32.748233,
+    "longitude": 12.733733,
+    "source_kml_indices": [
+      35
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0040",
+    "atlas_id": null,
+    "current_name": "فندق الأخوة",
+    "latitude": 32.891645,
+    "longitude": 13.17406,
+    "source_kml_indices": [
+      36,
+      423
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 8,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0041",
+    "atlas_id": null,
+    "current_name": "فندق الاصالة",
+    "latitude": 32.8917799,
+    "longitude": 13.1787384,
+    "source_kml_indices": [
+      37,
+      424
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0042",
+    "atlas_id": null,
+    "current_name": "فندق الأصيل",
+    "latitude": 32.8820246,
+    "longitude": 13.1859935,
+    "source_kml_indices": [
+      38
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0043",
+    "atlas_id": null,
+    "current_name": "فندق الأندلس",
+    "latitude": 32.8920905,
+    "longitude": 13.1725203,
+    "source_kml_indices": [
+      39,
+      425
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0044",
+    "atlas_id": null,
+    "current_name": "فندق البركة",
+    "latitude": 32.3760978,
+    "longitude": 15.095907,
+    "source_kml_indices": [
+      40
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0045",
+    "atlas_id": null,
+    "current_name": "فندق البستان",
+    "latitude": 32.802301,
+    "longitude": 13.078352,
+    "source_kml_indices": [
+      41
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0046",
+    "atlas_id": "LTA-2026-HOT-00359",
+    "current_name": "التاج للشقق الفندقية",
+    "latitude": 32.3739209,
+    "longitude": 15.087767,
+    "source_kml_indices": [
+      42
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0047",
+    "atlas_id": "LTA-2026-HOT-00153",
+    "current_name": "فندق التاجوري",
+    "latitude": 32.895846,
+    "longitude": 13.178313,
+    "source_kml_indices": [
+      43
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0048",
+    "atlas_id": "LTA-2026-HOT-00082",
+    "current_name": "فندق الجبل",
+    "latitude": 32.371113,
+    "longitude": 15.095,
+    "source_kml_indices": [
+      44,
+      139
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0049",
+    "atlas_id": "LTA-2026-HOT-00360",
+    "current_name": "فندق جوهرة صبراتة السياحي",
+    "latitude": 32.794776,
+    "longitude": 12.477513,
+    "source_kml_indices": [
+      45
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0050",
+    "atlas_id": "LTA-2026-HOT-00030",
+    "current_name": "فندق الجوهرة الزاوية",
+    "latitude": 32.751953,
+    "longitude": 12.726081,
+    "source_kml_indices": [
+      46
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0051",
+    "atlas_id": "LTA-2026-HOT-00122",
+    "current_name": "فندق الحديقة",
+    "latitude": 32.891087,
+    "longitude": 13.179292,
+    "source_kml_indices": [
+      47,
+      143
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0052",
+    "atlas_id": "LTA-2026-HOT-00309",
+    "current_name": "فندق الحمام السياحي",
+    "latitude": 32.734657,
+    "longitude": 12.393222,
+    "source_kml_indices": [
+      48,
+      144
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0053",
+    "atlas_id": "LTA-2026-HOT-00265",
+    "current_name": "فندق الحياة",
+    "latitude": 32.888706,
+    "longitude": 13.176502,
+    "source_kml_indices": [
+      49,
+      145
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0054",
+    "atlas_id": "LTA-2026-HOT-00396",
+    "current_name": "فندق الحياة",
+    "latitude": 32.374023,
+    "longitude": 15.08382,
+    "source_kml_indices": [
+      155
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0055",
+    "atlas_id": null,
+    "current_name": "فندق الخان الطرابلسي",
+    "latitude": 32.898502,
+    "longitude": 13.176539,
+    "source_kml_indices": [
+      50,
+      146,
+      437
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0056",
+    "atlas_id": null,
+    "current_name": "فندق الخليج",
+    "latitude": 32.889158,
+    "longitude": 13.175692,
+    "source_kml_indices": [
+      51,
+      380,
+      438
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 27,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0057",
+    "atlas_id": "LTA-2026-HOT-00314",
+    "current_name": "فندق الخليل السياحي",
+    "latitude": 32.796391,
+    "longitude": 12.485278,
+    "source_kml_indices": [
+      52,
+      147
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0058",
+    "atlas_id": null,
+    "current_name": "فندق الدبلوماسي",
+    "latitude": 32.889142,
+    "longitude": 13.173639,
+    "source_kml_indices": [
+      53,
+      441,
+      442,
+      443,
+      444
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 21,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0059",
+    "atlas_id": "LTA-2026-HOT-00133",
+    "current_name": "فندق الدوحة",
+    "latitude": 32.89215,
+    "longitude": 13.17177,
+    "source_kml_indices": [
+      54,
+      445
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0060",
+    "atlas_id": null,
+    "current_name": "فندق الديار",
+    "latitude": 32.891565,
+    "longitude": 13.17449,
+    "source_kml_indices": [
+      55,
+      446
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 12,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0061",
+    "atlas_id": null,
+    "current_name": "فندق الرابطة",
+    "latitude": 32.169727,
+    "longitude": 13.014282,
+    "source_kml_indices": [
+      56,
+      352
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0062",
+    "atlas_id": null,
+    "current_name": "فندق الرفيع",
+    "latitude": 32.893521,
+    "longitude": 13.172588,
+    "source_kml_indices": [
+      57,
+      454
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0063",
+    "atlas_id": "LTA-2026-HOT-00104",
+    "current_name": "فندق الريان",
+    "latitude": 32.89056,
+    "longitude": 13.172645,
+    "source_kml_indices": [
+      58,
+      456
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 25,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0064",
+    "atlas_id": "LTA-2026-HOT-00070",
+    "current_name": "فندق الزهر",
+    "latitude": 32.896046,
+    "longitude": 13.179107,
+    "source_kml_indices": [
+      59,
+      149
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0065",
+    "atlas_id": "LTA-2026-HOT-00008",
+    "current_name": "فندق الزيتونة",
+    "latitude": 31.756525,
+    "longitude": 14.0148,
+    "source_kml_indices": [
+      60,
+      150
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0066",
+    "atlas_id": "LTA-2026-HOT-00092",
+    "current_name": "فندق الزيتونة",
+    "latitude": 32.89049,
+    "longitude": 13.19201,
+    "source_kml_indices": [
+      302,
+      458
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 22,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0067",
+    "atlas_id": null,
+    "current_name": "فندق السرايا",
+    "latitude": 32.888588,
+    "longitude": 13.170639,
+    "source_kml_indices": [
+      61,
+      151,
+      460
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0068",
+    "atlas_id": "LTA-2026-HOT-00437",
+    "current_name": "فندق السرايا",
+    "latitude": 32.89165,
+    "longitude": 13.17589,
+    "source_kml_indices": [
+      325,
+      459
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0070",
+    "atlas_id": null,
+    "current_name": "فندق زوارة",
+    "latitude": 32.92326,
+    "longitude": 12.099145,
+    "source_kml_indices": [
+      105,
+      228
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0071",
+    "atlas_id": "LTA-2026-HOT-00256",
+    "current_name": "فندق السندباد",
+    "latitude": 32.885987,
+    "longitude": 13.162691,
+    "source_kml_indices": [
+      63,
+      466
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0072",
+    "atlas_id": "LTA-2026-HOT-00016",
+    "current_name": "فندق الشاطىء",
+    "latitude": 32.930157,
+    "longitude": 12.104337,
+    "source_kml_indices": [
+      64
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0073",
+    "atlas_id": null,
+    "current_name": "فندق الشجرة",
+    "latitude": 32.893513,
+    "longitude": 13.195069,
+    "source_kml_indices": [
+      65,
+      468
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 4,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0074",
+    "atlas_id": "LTA-2026-HOT-00266",
+    "current_name": "فندق الشرق",
+    "latitude": 32.887358,
+    "longitude": 13.176029,
+    "source_kml_indices": [
+      66
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 48,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0075",
+    "atlas_id": null,
+    "current_name": "فندق الشمس",
+    "latitude": 32.892486,
+    "longitude": 13.173321,
+    "source_kml_indices": [
+      67,
+      469
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0076",
+    "atlas_id": "LTA-2026-HOT-00060",
+    "current_name": "فندق الصحراوي",
+    "latitude": 32.933887,
+    "longitude": 12.0825,
+    "source_kml_indices": [
+      68,
+      156
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0077",
+    "atlas_id": null,
+    "current_name": "فندق الصفوة",
+    "latitude": 32.890226,
+    "longitude": 13.188258,
+    "source_kml_indices": [
+      69,
+      585
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0078",
+    "atlas_id": null,
+    "current_name": "فندق الصناعية مصراتة",
+    "latitude": 32.373493,
+    "longitude": 15.090645,
+    "source_kml_indices": [
+      70,
+      157
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0079",
+    "atlas_id": "LTA-2026-HOT-00262",
+    "current_name": "فندق الصولجان",
+    "latitude": 32.885736,
+    "longitude": 13.162941,
+    "source_kml_indices": [
+      71,
+      472
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 23,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0080",
+    "atlas_id": null,
+    "current_name": "فندق العاصمة",
+    "latitude": 32.8896055,
+    "longitude": 13.1742892,
+    "source_kml_indices": [
+      72,
+      475
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 148,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0081",
+    "atlas_id": null,
+    "current_name": "فندق الغدامسية",
+    "latitude": 32.895485,
+    "longitude": 13.178981,
+    "source_kml_indices": [
+      73
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0082",
+    "atlas_id": "LTA-2026-HOT-00069",
+    "current_name": "فندق القرقني",
+    "latitude": 32.894751,
+    "longitude": 13.179208,
+    "source_kml_indices": [
+      74
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0083",
+    "atlas_id": null,
+    "current_name": "فندق القوس",
+    "latitude": 32.893078,
+    "longitude": 13.193539,
+    "source_kml_indices": [
+      75,
+      483
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0084",
+    "atlas_id": null,
+    "current_name": "فندق الكبير",
+    "latitude": 32.3738,
+    "longitude": 15.095371,
+    "source_kml_indices": [
+      76
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0085",
+    "atlas_id": "LTA-2026-HOT-00085",
+    "current_name": "الفندق الكبير",
+    "latitude": 32.114559,
+    "longitude": 20.060369,
+    "source_kml_indices": [
+      264
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0086",
+    "atlas_id": "LTA-2026-HOT-00284",
+    "current_name": "فندق الكرومة",
+    "latitude": 31.864727,
+    "longitude": 11.892359,
+    "source_kml_indices": [
+      77,
+      166
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0087",
+    "atlas_id": null,
+    "current_name": "فندق الماسة",
+    "latitude": 32.373474,
+    "longitude": 15.085841,
+    "source_kml_indices": [
+      78
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0088",
+    "atlas_id": null,
+    "current_name": "فندق المتوسط",
+    "latitude": 32.652981,
+    "longitude": 14.26402,
+    "source_kml_indices": [
+      79
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0089",
+    "atlas_id": "LTA-2026-HOT-00138",
+    "current_name": "فندق المتوسط",
+    "latitude": 32.88921,
+    "longitude": 13.18494,
+    "source_kml_indices": [
+      281,
+      490,
+      491,
+      492,
+      493
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0090",
+    "atlas_id": "LTA-2026-HOT-00089",
+    "current_name": "فندق المدينة",
+    "latitude": 32.753613,
+    "longitude": 12.726944,
+    "source_kml_indices": [
+      80,
+      171
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0091",
+    "atlas_id": "LTA-2026-HOT-00058",
+    "current_name": "فندق المدينة",
+    "latitude": 32.767067,
+    "longitude": 21.785664,
+    "source_kml_indices": [
+      169
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0092",
+    "atlas_id": "LTA-2026-HOT-00075",
+    "current_name": "فندق المدينة",
+    "latitude": 31.206654,
+    "longitude": 16.588852,
+    "source_kml_indices": [
+      170
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0093",
+    "atlas_id": "LTA-2026-HOT-00280",
+    "current_name": "فندق المدينة",
+    "latitude": 30.757528,
+    "longitude": 20.22394,
+    "source_kml_indices": [
+      172
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0094",
+    "atlas_id": "LTA-2026-HOT-00162",
+    "current_name": "فندق المرقب",
+    "latitude": 32.642418,
+    "longitude": 14.252599,
+    "source_kml_indices": [
+      81,
+      174
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0095",
+    "atlas_id": "LTA-2026-HOT-00121",
+    "current_name": "فندق المشكاة",
+    "latitude": 32.891571,
+    "longitude": 13.179752,
+    "source_kml_indices": [
+      82,
+      176,
+      495
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0096",
+    "atlas_id": "LTA-2026-HOT-00376",
+    "current_name": "فندق المنامة",
+    "latitude": 32.893541,
+    "longitude": 13.172993,
+    "source_kml_indices": [
+      83,
+      496
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0097",
+    "atlas_id": null,
+    "current_name": "فندق النخلة السياحي",
+    "latitude": 32.890724,
+    "longitude": 13.196285,
+    "source_kml_indices": [
+      84,
+      180,
+      498
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0098",
+    "atlas_id": "LTA-2026-HOT-00275",
+    "current_name": "فندق النقازة الخمس",
+    "latitude": 32.694199,
+    "longitude": 14.098898,
+    "source_kml_indices": [
+      85
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0099",
+    "atlas_id": null,
+    "current_name": "فندق النهر",
+    "latitude": 32.8935913,
+    "longitude": 13.1711084,
+    "source_kml_indices": [
+      86,
+      499
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0100",
+    "atlas_id": "LTA-2026-HOT-00157",
+    "current_name": "فندق الهنشيري",
+    "latitude": 32.897038,
+    "longitude": 13.177876,
+    "source_kml_indices": [
+      87,
+      184
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0101",
+    "atlas_id": "LTA-2026-HOT-00021",
+    "current_name": "فندق الهيشة",
+    "latitude": 31.453671,
+    "longitude": 15.258722,
+    "source_kml_indices": [
+      88,
+      185
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0102",
+    "atlas_id": "LTA-2026-HOT-00247",
+    "current_name": "فندق الواحات",
+    "latitude": 32.887352,
+    "longitude": 13.168939,
+    "source_kml_indices": [
+      89,
+      186,
+      503
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0103",
+    "atlas_id": "LTA-2026-HOT-00161",
+    "current_name": "فندق الياسمين",
+    "latitude": 32.887569,
+    "longitude": 13.1842,
+    "source_kml_indices": [
+      90,
+      188
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0104",
+    "atlas_id": null,
+    "current_name": "فندق أجنحة قرطاج",
+    "latitude": 32.8909651,
+    "longitude": 13.177545,
+    "source_kml_indices": [
+      91,
+      196,
+      382
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0105",
+    "atlas_id": "LTA-2026-HOT-00083",
+    "current_name": "فندق أفريقيا",
+    "latitude": 32.378033,
+    "longitude": 15.092281,
+    "source_kml_indices": [
+      92
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0106",
+    "atlas_id": "LTA-2026-HOT-00024",
+    "current_name": "فندق أفريقيا",
+    "latitude": 27.02809,
+    "longitude": 14.438138,
+    "source_kml_indices": [
+      197
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0107",
+    "atlas_id": "LTA-2026-HOT-00291",
+    "current_name": "فندق أفريقيا",
+    "latitude": 30.758682,
+    "longitude": 20.221619,
+    "source_kml_indices": [
+      198
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0108",
+    "atlas_id": "LTA-2026-HOT-00067",
+    "current_name": "فندق بنت السيد",
+    "latitude": 32.900146,
+    "longitude": 13.175939,
+    "source_kml_indices": [
+      93,
+      208
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0109",
+    "atlas_id": "LTA-2026-HOT-00190",
+    "current_name": "فندق بودلغوسة",
+    "latitude": 32.894421,
+    "longitude": 13.178583,
+    "source_kml_indices": [
+      94,
+      210
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0110",
+    "atlas_id": null,
+    "current_name": "فندق بيت الأمان",
+    "latitude": 32.8904765,
+    "longitude": 13.1922543,
+    "source_kml_indices": [
+      95,
+      522
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 7,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0111",
+    "atlas_id": null,
+    "current_name": "فندق بيت الشرق",
+    "latitude": 32.8922214,
+    "longitude": 13.1722496,
+    "source_kml_indices": [
+      96,
+      523
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0112",
+    "atlas_id": "LTA-2026-HOT-00051",
+    "current_name": "فندق تابكت",
+    "latitude": 32.373779,
+    "longitude": 15.084174,
+    "source_kml_indices": [
+      97,
+      211
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0113",
+    "atlas_id": "LTA-2026-HOT-00605",
+    "current_name": "لانكاستر برج الحياة ( ماريوت سابقا)",
+    "latitude": 32.89019,
+    "longitude": 13.164378,
+    "source_kml_indices": [
+      98,
+      582
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 45,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0114",
+    "atlas_id": null,
+    "current_name": "فندق دار غدامس",
+    "latitude": 30.0286488,
+    "longitude": 9.490862,
+    "source_kml_indices": [
+      99
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0115",
+    "atlas_id": null,
+    "current_name": "فندق ديار الهناء",
+    "latitude": 32.378174,
+    "longitude": 15.090561,
+    "source_kml_indices": [
+      100
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0116",
+    "atlas_id": "LTA-2026-HOT-00182",
+    "current_name": "فندق ديار الهناء",
+    "latitude": 32.373939,
+    "longitude": 15.096167,
+    "source_kml_indices": [
+      220
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0118",
+    "atlas_id": null,
+    "current_name": "فندق ليبوس",
+    "latitude": 32.897506,
+    "longitude": 13.208031,
+    "source_kml_indices": [
+      563
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0119",
+    "atlas_id": "LTA-2026-HOT-00253",
+    "current_name": "فندق ريكسوس",
+    "latitude": 32.859509,
+    "longitude": 13.193808,
+    "source_kml_indices": [
+      102,
+      224
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0120",
+    "atlas_id": "LTA-2026-HOT-00188",
+    "current_name": "فندق زليتن",
+    "latitude": 32.475266,
+    "longitude": 14.559985,
+    "source_kml_indices": [
+      103,
+      225
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0121",
+    "atlas_id": "LTA-2026-HOT-00066",
+    "current_name": "فندق زميت",
+    "latitude": 32.899632,
+    "longitude": 13.175705,
+    "source_kml_indices": [
+      104,
+      226
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0122",
+    "atlas_id": "LTA-2026-HOT-00257",
+    "current_name": "فندق سرايا الليبو",
+    "latitude": 32.893341,
+    "longitude": 13.179074,
+    "source_kml_indices": [
+      106,
+      230
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0123",
+    "atlas_id": null,
+    "current_name": "فندق سفاري",
+    "latitude": 32.373698,
+    "longitude": 15.101947,
+    "source_kml_indices": [
+      107
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0124",
+    "atlas_id": "LTA-2026-HOT-00110",
+    "current_name": "فندق سفارى",
+    "latitude": 32.893144,
+    "longitude": 13.171191,
+    "source_kml_indices": [
+      293,
+      539
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 19,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0125",
+    "atlas_id": "LTA-2026-HOT-00150",
+    "current_name": "فندق سفاري 2",
+    "latitude": 32.351223,
+    "longitude": 15.04225,
+    "source_kml_indices": [
+      108,
+      231
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0126",
+    "atlas_id": "LTA-2026-HOT-00014",
+    "current_name": "فندق سفيروس",
+    "latitude": 32.644596,
+    "longitude": 14.250641,
+    "source_kml_indices": [
+      109
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0127",
+    "atlas_id": "LTA-2026-HOT-00267",
+    "current_name": "فندق شروق افريقيا",
+    "latitude": 32.890488,
+    "longitude": 13.182145,
+    "source_kml_indices": [
+      110,
+      233
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0128",
+    "atlas_id": null,
+    "current_name": "فندق ضيافة ونيس",
+    "latitude": 32.674606,
+    "longitude": 13.173898,
+    "source_kml_indices": [
+      111,
+      235,
+      543
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 63,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0129",
+    "atlas_id": null,
+    "current_name": "فندق طرابلس الدولي",
+    "latitude": 32.8898719,
+    "longitude": 13.1751773,
+    "source_kml_indices": [
+      112,
+      544
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 24,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0130",
+    "atlas_id": "LTA-2026-HOT-00139",
+    "current_name": "فندق طليطلة",
+    "latitude": 32.892212,
+    "longitude": 13.203761,
+    "source_kml_indices": [
+      113,
+      236,
+      304,
+      545
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0131"
+    ],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 42,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0132",
+    "atlas_id": null,
+    "current_name": "فندق عمير",
+    "latitude": 32.892131,
+    "longitude": 13.1724352,
+    "source_kml_indices": [
+      115,
+      547
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0133",
+    "atlas_id": null,
+    "current_name": "فندق عين الفرس",
+    "latitude": 30.0343914,
+    "longitude": 9.6417117,
+    "source_kml_indices": [
+      116
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0134",
+    "atlas_id": "LTA-2026-HOT-00175",
+    "current_name": "فندق غابة الكشافة",
+    "latitude": 31.951923,
+    "longitude": 12.315046,
+    "source_kml_indices": [
+      117,
+      238
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0135",
+    "atlas_id": null,
+    "current_name": "فندق غريان السياحي",
+    "latitude": 32.172661,
+    "longitude": 13.030462,
+    "source_kml_indices": [
+      118,
+      239,
+      354
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0136",
+    "atlas_id": "LTA-2026-HOT-00154",
+    "current_name": "فندق قرطاج",
+    "latitude": 32.889549,
+    "longitude": 13.179976,
+    "source_kml_indices": [
+      119,
+      242
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0137",
+    "atlas_id": "LTA-2026-HOT-00582",
+    "current_name": "فندق قرطاج",
+    "latitude": 32.892179,
+    "longitude": 13.172593,
+    "source_kml_indices": [
+      551
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0138",
+    "atlas_id": "LTA-2026-HOT-00120",
+    "current_name": "فندق قصر الظهرة",
+    "latitude": 32.888687,
+    "longitude": 13.193874,
+    "source_kml_indices": [
+      120,
+      244
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0140",
+    "atlas_id": "LTA-2026-HOT-00274",
+    "current_name": "فندق قمر صبراتة",
+    "latitude": 32.792946,
+    "longitude": 12.486354,
+    "source_kml_indices": [
+      122,
+      251
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0141",
+    "atlas_id": "LTA-2026-HOT-00124",
+    "current_name": "فندق كونتنتال",
+    "latitude": 32.890827,
+    "longitude": 13.176499,
+    "source_kml_indices": [
+      123,
+      253
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0142",
+    "atlas_id": "LTA-2026-HOT-00453",
+    "current_name": "فندق لبدة السياحي الخمس",
+    "latitude": 32.640457,
+    "longitude": 14.278957,
+    "source_kml_indices": [
+      124
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0143",
+    "atlas_id": "LTA-2026-HOT-00081",
+    "current_name": "فندق ليالي قرطاج",
+    "latitude": 32.882137,
+    "longitude": 13.175961,
+    "source_kml_indices": [
+      125,
+      255
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0144",
+    "atlas_id": null,
+    "current_name": "فندق ليبيا",
+    "latitude": 32.887112,
+    "longitude": 13.164703,
+    "source_kml_indices": [
+      126,
+      564
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0145",
+    "atlas_id": "LTA-2026-HOT-00074",
+    "current_name": "فندق مادي الحسان",
+    "latitude": 32.89735,
+    "longitude": 13.178001,
+    "source_kml_indices": [
+      127,
+      256
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0146",
+    "atlas_id": "LTA-2026-HOT-00294",
+    "current_name": "فندق واستراحة جادو",
+    "latitude": 31.939745,
+    "longitude": 12.087632,
+    "source_kml_indices": [
+      128,
+      259
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0147",
+    "atlas_id": null,
+    "current_name": "فندق ومطعم الامتياز",
+    "latitude": 32.354399,
+    "longitude": 15.099292,
+    "source_kml_indices": [
+      129
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0148",
+    "atlas_id": "LTA-2026-HOT-00033",
+    "current_name": "فندق ومطعم النزهة",
+    "latitude": 32.757835,
+    "longitude": 12.749993,
+    "source_kml_indices": [
+      130,
+      260
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0149",
+    "atlas_id": "LTA-2026-HOT-00010",
+    "current_name": "فندق يفرن",
+    "latitude": 32.059994,
+    "longitude": 12.518972,
+    "source_kml_indices": [
+      131,
+      261
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0150",
+    "atlas_id": "LTA-2026-HOT-00167",
+    "current_name": "طرابلس للشقق الفندقية",
+    "latitude": 32.878799,
+    "longitude": 13.203281,
+    "source_kml_indices": [
+      132,
+      266
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0151",
+    "atlas_id": "LTA-2026-HOT-00306",
+    "current_name": "نزل طرابلس الحديث",
+    "latitude": 32.898422,
+    "longitude": 13.177862,
+    "source_kml_indices": [
+      133,
+      270
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0152",
+    "atlas_id": "LTA-2026-HOT-00053",
+    "current_name": "فندق الأنيس",
+    "latitude": 32.118919,
+    "longitude": 20.058214,
+    "source_kml_indices": [
+      135
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0153",
+    "atlas_id": null,
+    "current_name": "فندق البتراء",
+    "latitude": 32.888535,
+    "longitude": 13.173758,
+    "source_kml_indices": [
+      136,
+      426
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 22,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0154",
+    "atlas_id": "LTA-2026-HOT-00392",
+    "current_name": "فندق البردي",
+    "latitude": 31.753349,
+    "longitude": 25.087399,
+    "source_kml_indices": [
+      137
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0155",
+    "atlas_id": "LTA-2026-HOT-00276",
+    "current_name": "فندق التلال",
+    "latitude": 32.759859,
+    "longitude": 21.716139,
+    "source_kml_indices": [
+      138
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0156",
+    "atlas_id": "LTA-2026-HOT-00297",
+    "current_name": "فندق الجبل الأخضر",
+    "latitude": 32.763145,
+    "longitude": 22.640741,
+    "source_kml_indices": [
+      140
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0157",
+    "atlas_id": "LTA-2026-HOT-00427",
+    "current_name": "فندق الجبل الأخضر",
+    "latitude": 32.89486,
+    "longitude": 13.17295,
+    "source_kml_indices": [
+      312,
+      435
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0158",
+    "atlas_id": "LTA-2026-HOT-00295",
+    "current_name": "فندق الجغبوب",
+    "latitude": 32.080338,
+    "longitude": 23.97657,
+    "source_kml_indices": [
+      141
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0159",
+    "atlas_id": "LTA-2026-HOT-00204",
+    "current_name": "فندق الجلاء",
+    "latitude": 32.080662,
+    "longitude": 23.972946,
+    "source_kml_indices": [
+      142
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0160",
+    "atlas_id": null,
+    "current_name": "فندق الرحاب",
+    "latitude": 32.893204,
+    "longitude": 13.173246,
+    "source_kml_indices": [
+      148,
+      451
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0161",
+    "atlas_id": null,
+    "current_name": "فندق السلام",
+    "latitude": 32.924809,
+    "longitude": 12.098621,
+    "source_kml_indices": [
+      62,
+      152
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0069"
+    ],
+    "identity_relinked_cluster_ids": [
+      "HOT-KML2025-0069"
+    ],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0162",
+    "atlas_id": "LTA-2026-HOT-00111",
+    "current_name": "فندق ابن الرومي",
+    "latitude": 32.89311,
+    "longitude": 13.172151,
+    "source_kml_indices": [
+      153
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0163",
+    "atlas_id": null,
+    "current_name": "فندق اجدابيا السياحي",
+    "latitude": 30.75706,
+    "longitude": 20.223,
+    "source_kml_indices": [
+      154,
+      342
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0164",
+    "atlas_id": "LTA-2026-HOT-00160",
+    "current_name": "فندق العوينات",
+    "latitude": 25.780432,
+    "longitude": 10.566841,
+    "source_kml_indices": [
+      158
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0165",
+    "atlas_id": "LTA-2026-HOT-00172",
+    "current_name": "فندق الفردوس",
+    "latitude": 32.767277,
+    "longitude": 22.637859,
+    "source_kml_indices": [
+      159
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0166",
+    "atlas_id": "LTA-2026-HOT-00552",
+    "current_name": "فندق الفردوس",
+    "latitude": 32.89315,
+    "longitude": 13.17684,
+    "source_kml_indices": [
+      477
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0167",
+    "atlas_id": "LTA-2026-HOT-00039",
+    "current_name": "فندق الفضيل",
+    "latitude": 32.09071,
+    "longitude": 20.049503,
+    "source_kml_indices": [
+      160
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0168",
+    "atlas_id": "LTA-2026-HOT-00245",
+    "current_name": "فندق الفضيل رأس لانوف",
+    "latitude": 30.589722,
+    "longitude": 18.420834,
+    "source_kml_indices": [
+      161
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0169",
+    "atlas_id": "LTA-2026-HOT-00296",
+    "current_name": "فندق الفلك",
+    "latitude": 32.080894,
+    "longitude": 23.976387,
+    "source_kml_indices": [
+      162
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0170",
+    "atlas_id": "LTA-2026-HOT-00254",
+    "current_name": "فندق القرضابية",
+    "latitude": 31.211296,
+    "longitude": 16.622601,
+    "source_kml_indices": [
+      163
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0171",
+    "atlas_id": "LTA-2026-HOT-00025",
+    "current_name": "فندق القلعة",
+    "latitude": 27.033804,
+    "longitude": 14.432752,
+    "source_kml_indices": [
+      164
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0172",
+    "atlas_id": "LTA-2026-HOT-00026",
+    "current_name": "فندق الكاظم",
+    "latitude": 27.037169,
+    "longitude": 14.428192,
+    "source_kml_indices": [
+      165
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0173",
+    "atlas_id": null,
+    "current_name": "فندق المبروك",
+    "latitude": 32.892877,
+    "longitude": 13.1723517,
+    "source_kml_indices": [
+      167,
+      489
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0174",
+    "atlas_id": null,
+    "current_name": "فندق المتوسط الخمس",
+    "latitude": 32.652981,
+    "longitude": 14.26402,
+    "source_kml_indices": [
+      168
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0175",
+    "atlas_id": "LTA-2026-HOT-00003",
+    "current_name": "فندق المرج السياحي",
+    "latitude": 32.49588,
+    "longitude": 20.836086,
+    "source_kml_indices": [
+      173
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0176",
+    "atlas_id": "LTA-2026-HOT-00277",
+    "current_name": "فندق المسيرة",
+    "latitude": 32.073318,
+    "longitude": 23.968134,
+    "source_kml_indices": [
+      175
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0177",
+    "atlas_id": "LTA-2026-HOT-00283",
+    "current_name": "فندق المغرب العربي",
+    "latitude": 32.79665,
+    "longitude": 12.456023,
+    "source_kml_indices": [
+      177
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0178",
+    "atlas_id": "LTA-2026-HOT-00099",
+    "current_name": "فندق المنار",
+    "latitude": 32.891778,
+    "longitude": 13.172946,
+    "source_kml_indices": [
+      178
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0179",
+    "atlas_id": "LTA-2026-HOT-00042",
+    "current_name": "فندق النادي الليبي",
+    "latitude": 32.136784,
+    "longitude": 20.077461,
+    "source_kml_indices": [
+      179
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0180",
+    "atlas_id": "LTA-2026-HOT-00022",
+    "current_name": "فندق النخيل - مغلق",
+    "latitude": 29.123215,
+    "longitude": 15.938066,
+    "source_kml_indices": [
+      181
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0181",
+    "atlas_id": "LTA-2026-HOT-00086",
+    "current_name": "فندق النوران",
+    "latitude": 32.127663,
+    "longitude": 20.075045,
+    "source_kml_indices": [
+      182
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0182",
+    "atlas_id": "LTA-2026-HOT-00012",
+    "current_name": "فندق الهاروج",
+    "latitude": 29.130289,
+    "longitude": 15.950174,
+    "source_kml_indices": [
+      183
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0183",
+    "atlas_id": "LTA-2026-HOT-00156",
+    "current_name": "فندق الوادي",
+    "latitude": 32.88846,
+    "longitude": 13.18057,
+    "source_kml_indices": [
+      187,
+      504
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0184",
+    "atlas_id": "LTA-2026-HOT-00155",
+    "current_name": "فندق الياقوتة",
+    "latitude": 32.89129,
+    "longitude": 13.17631,
+    "source_kml_indices": [
+      189,
+      507
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 49,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0185",
+    "atlas_id": "LTA-2026-HOT-00170",
+    "current_name": "فندق الياقوتة",
+    "latitude": 32.249558,
+    "longitude": 20.180843,
+    "source_kml_indices": [
+      190
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0186",
+    "atlas_id": "LTA-2026-HOT-00134",
+    "current_name": "فندق اليقين",
+    "latitude": 32.8924,
+    "longitude": 13.172999,
+    "source_kml_indices": [
+      191,
+      508
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0187",
+    "atlas_id": "LTA-2026-HOT-00106",
+    "current_name": "فندق اليمامة",
+    "latitude": 32.8923265,
+    "longitude": 13.174318,
+    "source_kml_indices": [
+      192,
+      584
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0188",
+    "atlas_id": "LTA-2026-HOT-00090",
+    "current_name": "فندق اوزو",
+    "latitude": 32.101406,
+    "longitude": 20.058546,
+    "source_kml_indices": [
+      193
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0189",
+    "atlas_id": "LTA-2026-HOT-00077",
+    "current_name": "فندق ايلاف",
+    "latitude": 32.770733,
+    "longitude": 22.643206,
+    "source_kml_indices": [
+      194
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0190",
+    "atlas_id": "LTA-2026-HOT-00260",
+    "current_name": "فندق أبراج المدينة",
+    "latitude": 32.8898132,
+    "longitude": 13.1731091,
+    "source_kml_indices": [
+      195
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0191",
+    "atlas_id": "LTA-2026-HOT-00159",
+    "current_name": "فندق أكاكوس",
+    "latitude": 24.958349,
+    "longitude": 10.182599,
+    "source_kml_indices": [
+      199
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0192",
+    "atlas_id": null,
+    "current_name": "فندق اكاكوس",
+    "latitude": 32.89236,
+    "longitude": 13.19143,
+    "source_kml_indices": [
+      200,
+      422
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 16,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0193",
+    "atlas_id": "LTA-2026-HOT-00281",
+    "current_name": "فندق أمال ليبيا",
+    "latitude": 30.780668,
+    "longitude": 20.23069,
+    "source_kml_indices": [
+      201
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0194",
+    "atlas_id": "LTA-2026-HOT-00062",
+    "current_name": "فندق أوجلة السياحي",
+    "latitude": 29.168243,
+    "longitude": 21.292574,
+    "source_kml_indices": [
+      202
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0195",
+    "atlas_id": null,
+    "current_name": "فندق أويا",
+    "latitude": 32.88905,
+    "longitude": 13.17718,
+    "source_kml_indices": [
+      203,
+      395
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 24,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0196",
+    "atlas_id": "LTA-2026-HOT-00290",
+    "current_name": "فندق باب البحر",
+    "latitude": 32.8945957,
+    "longitude": 13.1650299,
+    "source_kml_indices": [
+      204,
+      515
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 47,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0197",
+    "atlas_id": "LTA-2026-HOT-00063",
+    "current_name": "فندق براك",
+    "latitude": 27.53722,
+    "longitude": 14.286153,
+    "source_kml_indices": [
+      205
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0198",
+    "atlas_id": "LTA-2026-HOT-00054",
+    "current_name": "فندق برينيتشي",
+    "latitude": 32.113476,
+    "longitude": 20.059597,
+    "source_kml_indices": [
+      206
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0199",
+    "atlas_id": null,
+    "current_name": "فندق بلازما",
+    "latitude": 32.8856711,
+    "longitude": 13.1640086,
+    "source_kml_indices": [
+      207,
+      519
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 31,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0200",
+    "atlas_id": "LTA-2026-HOT-00088",
+    "current_name": "فندق بنغازي",
+    "latitude": 32.13039,
+    "longitude": 20.076538,
+    "source_kml_indices": [
+      209
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0201",
+    "atlas_id": "LTA-2026-HOT-00093",
+    "current_name": "فندق توباكتس",
+    "latitude": 32.886025,
+    "longitude": 13.1653469,
+    "source_kml_indices": [
+      212,
+      527
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 34,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0202",
+    "atlas_id": "LTA-2026-HOT-00043",
+    "current_name": "فندق تيبستي",
+    "latitude": 32.11058,
+    "longitude": 20.068462,
+    "source_kml_indices": [
+      213
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0203",
+    "atlas_id": "LTA-2026-HOT-00152",
+    "current_name": "فندق جاكرتا",
+    "latitude": 32.88863,
+    "longitude": 13.18665,
+    "source_kml_indices": [
+      214,
+      528
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0204",
+    "atlas_id": "LTA-2026-HOT-00017",
+    "current_name": "فندق جالو السياحي",
+    "latitude": 29.032753,
+    "longitude": 21.545835,
+    "source_kml_indices": [
+      215
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0205",
+    "atlas_id": "LTA-2026-HOT-00186",
+    "current_name": "فندق جرمة السياحي",
+    "latitude": 26.526762,
+    "longitude": 13.068645,
+    "source_kml_indices": [
+      216
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0206",
+    "atlas_id": "LTA-2026-HOT-00037",
+    "current_name": "فندق جليانة",
+    "latitude": 32.084225,
+    "longitude": 20.045986,
+    "source_kml_indices": [
+      217
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0207",
+    "atlas_id": "LTA-2026-HOT-00185",
+    "current_name": "فندق دار جرمة",
+    "latitude": 26.524315,
+    "longitude": 13.06489,
+    "source_kml_indices": [
+      218
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0208",
+    "atlas_id": "LTA-2026-HOT-00177",
+    "current_name": "فندق دوجال السياحي",
+    "latitude": 32.122803,
+    "longitude": 20.06068,
+    "source_kml_indices": [
+      219
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0209",
+    "atlas_id": "LTA-2026-HOT-00013",
+    "current_name": "فندق رواسي",
+    "latitude": 29.117167,
+    "longitude": 15.915834,
+    "source_kml_indices": [
+      221
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0210",
+    "atlas_id": "LTA-2026-HOT-00137",
+    "current_name": "فندق رويال",
+    "latitude": 32.888264,
+    "longitude": 13.185294,
+    "source_kml_indices": [
+      222
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0211",
+    "atlas_id": null,
+    "current_name": "فندق ريباس",
+    "latitude": 32.897097,
+    "longitude": 13.207075,
+    "source_kml_indices": [
+      101,
+      223,
+      303
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0117"
+    ],
+    "identity_relinked_cluster_ids": [
+      "HOT-KML2025-0117"
+    ],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 15,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0212",
+    "atlas_id": "LTA-2026-HOT-00293",
+    "current_name": "فندق زهرة البطنان",
+    "latitude": 32.083584,
+    "longitude": 23.976208,
+    "source_kml_indices": [
+      227
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0213",
+    "atlas_id": "LTA-2026-HOT-00288",
+    "current_name": "فندق زين",
+    "latitude": 32.0741,
+    "longitude": 23.941698,
+    "source_kml_indices": [
+      229
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0214",
+    "atlas_id": null,
+    "current_name": "فندق سفيروس الخمس",
+    "latitude": 32.644596,
+    "longitude": 14.250641,
+    "source_kml_indices": [
+      232
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0215",
+    "atlas_id": "LTA-2026-HOT-00255",
+    "current_name": "فندق صحارى ليبيا",
+    "latitude": 32.8851818,
+    "longitude": 13.163813,
+    "source_kml_indices": [
+      234
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0216",
+    "atlas_id": "LTA-2026-HOT-00041",
+    "current_name": "فندق عمر الخيام",
+    "latitude": 32.117958,
+    "longitude": 20.056427,
+    "source_kml_indices": [
+      237
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0217",
+    "atlas_id": null,
+    "current_name": "فندق فيلا النوران",
+    "latitude": 32.107414,
+    "longitude": 20.208708,
+    "source_kml_indices": [
+      240
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0218",
+    "atlas_id": "LTA-2026-HOT-00076",
+    "current_name": "فندق قاطش",
+    "latitude": 32.771667,
+    "longitude": 22.62608,
+    "source_kml_indices": [
+      241
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0219",
+    "atlas_id": "LTA-2026-HOT-00028",
+    "current_name": "فندق قصر البيضاء",
+    "latitude": 32.762676,
+    "longitude": 21.743811,
+    "source_kml_indices": [
+      243
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0220",
+    "atlas_id": "LTA-2026-HOT-00470",
+    "current_name": "فندق قصر البيضاء",
+    "latitude": 32.75924,
+    "longitude": 21.73796,
+    "source_kml_indices": [
+      359
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0221",
+    "atlas_id": "LTA-2026-HOT-00038",
+    "current_name": "فندق قصر الفضيل",
+    "latitude": 32.093102,
+    "longitude": 20.050541,
+    "source_kml_indices": [
+      245
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0222",
+    "atlas_id": "LTA-2026-HOT-00052",
+    "current_name": "فندق قصر النيل",
+    "latitude": 32.119003,
+    "longitude": 20.056025,
+    "source_kml_indices": [
+      247
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0223",
+    "atlas_id": "LTA-2026-HOT-00158",
+    "current_name": "فندق قصر الواحة",
+    "latitude": 32.888051,
+    "longitude": 13.18655,
+    "source_kml_indices": [
+      248
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0224",
+    "atlas_id": "LTA-2026-HOT-00244",
+    "current_name": "فندق قصور الضيافة",
+    "latitude": 31.193056,
+    "longitude": 16.573889,
+    "source_kml_indices": [
+      249
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0225",
+    "atlas_id": "LTA-2026-HOT-00310",
+    "current_name": "فندق قصي للشقق المفروشة",
+    "latitude": 32.085758,
+    "longitude": 23.971741,
+    "source_kml_indices": [
+      250
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0226",
+    "atlas_id": "LTA-2026-HOT-00145",
+    "current_name": "فندق قورينا",
+    "latitude": 32.89095,
+    "longitude": 13.1935,
+    "source_kml_indices": [
+      252,
+      557
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 19,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0227",
+    "atlas_id": "LTA-2026-HOT-00002",
+    "current_name": "فندق لؤلؤة درنة",
+    "latitude": 32.754139,
+    "longitude": 22.654371,
+    "source_kml_indices": [
+      254
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0228",
+    "atlas_id": "LTA-2026-HOT-00068",
+    "current_name": "فندق ميزران",
+    "latitude": 32.894693,
+    "longitude": 13.178912,
+    "source_kml_indices": [
+      257
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0229",
+    "atlas_id": "LTA-2026-HOT-00303",
+    "current_name": "فندق هارون",
+    "latitude": 32.89047,
+    "longitude": 13.19167,
+    "source_kml_indices": [
+      258,
+      556
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 44,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0230",
+    "atlas_id": null,
+    "current_name": "الفندق السياحي",
+    "latitude": 32.375557,
+    "longitude": 15.091389,
+    "source_kml_indices": [
+      262
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0231",
+    "atlas_id": "LTA-2026-HOT-00178",
+    "current_name": "الفندق القديم",
+    "latitude": 32.500561,
+    "longitude": 20.891672,
+    "source_kml_indices": [
+      263
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0232",
+    "atlas_id": null,
+    "current_name": "القرية السياحية قاريونس",
+    "latitude": 32.060608,
+    "longitude": 20.037174,
+    "source_kml_indices": [
+      265
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0233",
+    "atlas_id": null,
+    "current_name": "نزل المدينة",
+    "latitude": 24.964026,
+    "longitude": 10.176822,
+    "source_kml_indices": [
+      267
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0234",
+    "atlas_id": "LTA-2026-HOT-00169",
+    "current_name": "نزل أمباي",
+    "latitude": 26.079599,
+    "longitude": 13.521364,
+    "source_kml_indices": [
+      268
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0235",
+    "atlas_id": null,
+    "current_name": "نزل بيروت",
+    "latitude": 32.8918347,
+    "longitude": 13.174871,
+    "source_kml_indices": [
+      269
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0236",
+    "atlas_id": null,
+    "current_name": "نزل مرحبا",
+    "latitude": 32.891996,
+    "longitude": 13.193521,
+    "source_kml_indices": [
+      271
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0237",
+    "atlas_id": "LTA-2026-HOT-00164",
+    "current_name": "الماسة للشقق الفندقية",
+    "latitude": 32.356847,
+    "longitude": 15.098727,
+    "source_kml_indices": [
+      272
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0238",
+    "atlas_id": "LTA-2026-HOT-00061",
+    "current_name": "فندق فزان",
+    "latitude": 27.04336,
+    "longitude": 14.42566,
+    "source_kml_indices": [
+      273
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0239",
+    "atlas_id": "LTA-2026-HOT-00130",
+    "current_name": "فندق المختار",
+    "latitude": 32.892153,
+    "longitude": 13.171528,
+    "source_kml_indices": [
+      274,
+      494
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 16,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0240",
+    "atlas_id": "LTA-2026-HOT-00403",
+    "current_name": "فندق قصر كاباو",
+    "latitude": 31.845286,
+    "longitude": 11.32759,
+    "source_kml_indices": [
+      275
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0241",
+    "atlas_id": "LTA-2026-HOT-00035",
+    "current_name": "فندق الأفريقي",
+    "latitude": 32.75209,
+    "longitude": 22.664324,
+    "source_kml_indices": [
+      276
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0242",
+    "atlas_id": "LTA-2026-HOT-00404",
+    "current_name": "فندق قرطاج السياحى1",
+    "latitude": 32.887489,
+    "longitude": 13.175625,
+    "source_kml_indices": [
+      277
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 19,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0243",
+    "atlas_id": "LTA-2026-HOT-00405",
+    "current_name": "فندق السارة",
+    "latitude": 32.887004,
+    "longitude": 13.173311,
+    "source_kml_indices": [
+      278
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 12,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0244",
+    "atlas_id": "LTA-2026-HOT-00406",
+    "current_name": "فندق الفصول الاربعة 3",
+    "latitude": 32.889742,
+    "longitude": 13.17393,
+    "source_kml_indices": [
+      279,
+      480
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 19,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0246",
+    "atlas_id": "LTA-2026-HOT-00119",
+    "current_name": "فندق اوال",
+    "latitude": 32.8888903,
+    "longitude": 13.17211,
+    "source_kml_indices": [
+      280,
+      509
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0245"
+    ],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 14,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0247",
+    "atlas_id": "LTA-2026-HOT-00408",
+    "current_name": "فندق قرطاج السياحى2",
+    "latitude": 32.88743,
+    "longitude": 13.175251,
+    "source_kml_indices": [
+      282
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0248",
+    "atlas_id": "LTA-2026-HOT-00409",
+    "current_name": "فندق التوفيق 2",
+    "latitude": 32.891418,
+    "longitude": 13.193296,
+    "source_kml_indices": [
+      283
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0249",
+    "atlas_id": "LTA-2026-HOT-00410",
+    "current_name": "فندق النعيم",
+    "latitude": 32.890007,
+    "longitude": 13.246278,
+    "source_kml_indices": [
+      284
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0250",
+    "atlas_id": "LTA-2026-HOT-00413",
+    "current_name": "نزل كيلو بتراء",
+    "latitude": 32.892135,
+    "longitude": 13.192921,
+    "source_kml_indices": [
+      285
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0251",
+    "atlas_id": "LTA-2026-HOT-00118",
+    "current_name": "فندق الفصول الاربعة 2",
+    "latitude": 32.891864,
+    "longitude": 13.173923,
+    "source_kml_indices": [
+      286,
+      479
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 12,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0252",
+    "atlas_id": "LTA-2026-HOT-00140",
+    "current_name": "فندق السفير",
+    "latitude": 32.891282,
+    "longitude": 13.172765,
+    "source_kml_indices": [
+      287,
+      461
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 23,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0254",
+    "atlas_id": null,
+    "current_name": "فندق نور الثريا السياحى",
+    "latitude": 32.8894048,
+    "longitude": 13.1723954,
+    "source_kml_indices": [
+      288,
+      394
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0253"
+    ],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 25,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0255",
+    "atlas_id": null,
+    "current_name": "الشاطي الذهبي",
+    "latitude": 32.886058,
+    "longitude": 13.162695,
+    "source_kml_indices": [
+      289,
+      400,
+      467
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 28,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0256",
+    "atlas_id": "LTA-2026-HOT-00251",
+    "current_name": "فندق الصافي",
+    "latitude": 32.889351,
+    "longitude": 13.174036,
+    "source_kml_indices": [
+      290,
+      470
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 136,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0257",
+    "atlas_id": "LTA-2026-HOT-00415",
+    "current_name": "فندق بوابة أفريقيا",
+    "latitude": 32.888548,
+    "longitude": 13.17631,
+    "source_kml_indices": [
+      291
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 17,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0258",
+    "atlas_id": null,
+    "current_name": "فندق الفصول الابعة 1",
+    "latitude": 32.890845,
+    "longitude": 13.173452,
+    "source_kml_indices": [
+      292
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0259",
+    "atlas_id": "LTA-2026-HOT-00143",
+    "current_name": "فندق زهرة الخليج",
+    "latitude": 32.8936004,
+    "longitude": 13.1718122,
+    "source_kml_indices": [
+      294,
+      536
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0260",
+    "atlas_id": "LTA-2026-HOT-00417",
+    "current_name": "فندق السلاسل الذهبية",
+    "latitude": 32.885084,
+    "longitude": 13.16218,
+    "source_kml_indices": [
+      295,
+      463
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 19,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0261",
+    "atlas_id": null,
+    "current_name": "فندق النورس",
+    "latitude": 32.89127,
+    "longitude": 13.19275,
+    "source_kml_indices": [
+      296,
+      500
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 3,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0262",
+    "atlas_id": "LTA-2026-HOT-00419",
+    "current_name": "فندق التوفيق 1",
+    "latitude": 32.891197,
+    "longitude": 13.192806,
+    "source_kml_indices": [
+      297
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 12,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0263",
+    "atlas_id": "LTA-2026-HOT-00301",
+    "current_name": "فندق اليسر",
+    "latitude": 32.892294,
+    "longitude": 13.193206,
+    "source_kml_indices": [
+      298
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0264",
+    "atlas_id": "LTA-2026-HOT-00497",
+    "current_name": "فندق اليسر",
+    "latitude": 32.8816,
+    "longitude": 13.17601,
+    "source_kml_indices": [
+      387
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0265",
+    "atlas_id": "LTA-2026-HOT-00420",
+    "current_name": "فندق الخيام العربية",
+    "latitude": 32.890968,
+    "longitude": 13.194048,
+    "source_kml_indices": [
+      299
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 5,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0266",
+    "atlas_id": "LTA-2026-HOT-00540",
+    "current_name": "فندق الخيام العربية",
+    "latitude": 32.89736,
+    "longitude": 13.206868,
+    "source_kml_indices": [
+      439
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0267",
+    "atlas_id": "LTA-2026-HOT-00421",
+    "current_name": "فندق الرشيد",
+    "latitude": 32.889625,
+    "longitude": 13.170814,
+    "source_kml_indices": [
+      300
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0268",
+    "atlas_id": "LTA-2026-HOT-00258",
+    "current_name": "فندق أسامة",
+    "latitude": 32.887337,
+    "longitude": 13.175677,
+    "source_kml_indices": [
+      301,
+      511,
+      512,
+      513,
+      514
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0269",
+    "atlas_id": null,
+    "current_name": "فندق صبراتة",
+    "latitude": 32.89222,
+    "longitude": 13.17402,
+    "source_kml_indices": [
+      305,
+      392
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0270",
+    "atlas_id": "LTA-2026-HOT-00423",
+    "current_name": "فندق تاج",
+    "latitude": 32.8923656,
+    "longitude": 13.1730691,
+    "source_kml_indices": [
+      306
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0271",
+    "atlas_id": "LTA-2026-HOT-00101",
+    "current_name": "فندق الكندي",
+    "latitude": 32.89234,
+    "longitude": 13.17304,
+    "source_kml_indices": [
+      307,
+      484
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 18,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0272",
+    "atlas_id": null,
+    "current_name": "فندق أضواء قرطاج",
+    "latitude": 32.89236,
+    "longitude": 13.17257,
+    "source_kml_indices": [
+      308,
+      381
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0273",
+    "atlas_id": null,
+    "current_name": "فندق البشير",
+    "latitude": 32.89176,
+    "longitude": 13.17164,
+    "source_kml_indices": [
+      309,
+      427
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0274",
+    "atlas_id": null,
+    "current_name": "فندق الهاني",
+    "latitude": 32.892273,
+    "longitude": 13.172338,
+    "source_kml_indices": [
+      310,
+      386,
+      501
+    ],
+    "merged_cluster_ids": [
+      "HOT-KML2025-0275"
+    ],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0276",
+    "atlas_id": "LTA-2026-HOT-00426",
+    "current_name": "فندق القنصل فندق القنصل",
+    "latitude": 32.892304,
+    "longitude": 13.171369,
+    "source_kml_indices": [
+      311
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0277",
+    "atlas_id": null,
+    "current_name": "الفتح",
+    "latitude": 32.894213,
+    "longitude": 13.17353,
+    "source_kml_indices": [
+      313
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0278",
+    "atlas_id": "LTA-2026-HOT-00551",
+    "current_name": "فندق الفتح",
+    "latitude": 32.88943,
+    "longitude": 13.17782,
+    "source_kml_indices": [
+      476
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0279",
+    "atlas_id": "LTA-2026-HOT-00428",
+    "current_name": "فندق قصر ليبيا",
+    "latitude": 32.89311,
+    "longitude": 13.19433,
+    "source_kml_indices": [
+      314,
+      554
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0280",
+    "atlas_id": "LTA-2026-HOT-00429",
+    "current_name": "Hotel Haroun 2",
+    "latitude": 32.892715,
+    "longitude": 13.193761,
+    "source_kml_indices": [
+      315
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0281",
+    "atlas_id": "LTA-2026-HOT-00430",
+    "current_name": "فندق الغزالة",
+    "latitude": 32.893183,
+    "longitude": 13.18964,
+    "source_kml_indices": [
+      316
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0282",
+    "atlas_id": "LTA-2026-HOT-00431",
+    "current_name": "فندق كيان طرابلس",
+    "latitude": 32.890554,
+    "longitude": 13.194714,
+    "source_kml_indices": [
+      317
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0283",
+    "atlas_id": "LTA-2026-HOT-00432",
+    "current_name": "فندق الديوان",
+    "latitude": 32.887842,
+    "longitude": 13.177438,
+    "source_kml_indices": [
+      318,
+      447,
+      448,
+      449,
+      450
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0284",
+    "atlas_id": "LTA-2026-HOT-00433",
+    "current_name": "فندق نيو ستي New City hotel",
+    "latitude": 32.887944,
+    "longitude": 13.176395,
+    "source_kml_indices": [
+      319
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0285",
+    "atlas_id": "LTA-2026-HOT-00273",
+    "current_name": "فندق الدالي",
+    "latitude": 32.88785,
+    "longitude": 13.17488,
+    "source_kml_indices": [
+      320,
+      440
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0286",
+    "atlas_id": "LTA-2026-HOT-00500",
+    "current_name": "فندق زهرة الشمس",
+    "latitude": 32.88975,
+    "longitude": 13.17626,
+    "source_kml_indices": [
+      321,
+      390
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0287",
+    "atlas_id": "LTA-2026-HOT-00434",
+    "current_name": "فندق ضيافة طرابلس",
+    "latitude": 32.8898781,
+    "longitude": 13.1760833,
+    "source_kml_indices": [
+      322
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0288",
+    "atlas_id": "LTA-2026-HOT-00435",
+    "current_name": "فندق الفتح شارع الرشيد",
+    "latitude": 32.88945,
+    "longitude": 13.17786,
+    "source_kml_indices": [
+      323
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0289",
+    "atlas_id": null,
+    "current_name": "فندق بلخير",
+    "latitude": 32.8907,
+    "longitude": 13.17728,
+    "source_kml_indices": [
+      324,
+      520,
+      521
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0290",
+    "atlas_id": "LTA-2026-HOT-00438",
+    "current_name": "فندق الوحدة العربية",
+    "latitude": 32.891721,
+    "longitude": 13.174852,
+    "source_kml_indices": [
+      326
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0291",
+    "atlas_id": "LTA-2026-HOT-00439",
+    "current_name": "فندق الكنوز الذهبية",
+    "latitude": 32.891349,
+    "longitude": 13.17438,
+    "source_kml_indices": [
+      327
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0292",
+    "atlas_id": "LTA-2026-HOT-00441",
+    "current_name": "فندق الشراع",
+    "latitude": 32.89219,
+    "longitude": 13.172951,
+    "source_kml_indices": [
+      328,
+      583
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0293",
+    "atlas_id": null,
+    "current_name": "الحبايب",
+    "latitude": 32.371804,
+    "longitude": 15.084422,
+    "source_kml_indices": [
+      329
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0294",
+    "atlas_id": "LTA-2026-HOT-00442",
+    "current_name": "هوم بلازا_للشقق الفندقية",
+    "latitude": 32.375353,
+    "longitude": 15.07754,
+    "source_kml_indices": [
+      330
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0295",
+    "atlas_id": "LTA-2026-HOT-00443",
+    "current_name": "فندق الرحال",
+    "latitude": 32.380662,
+    "longitude": 15.082266,
+    "source_kml_indices": [
+      331
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0296",
+    "atlas_id": "LTA-2026-HOT-00444",
+    "current_name": "الوادي 2 للشقق الفندقية",
+    "latitude": 32.387677,
+    "longitude": 15.087115,
+    "source_kml_indices": [
+      332
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0297",
+    "atlas_id": "LTA-2026-HOT-00445",
+    "current_name": "الأطلس للشقق الفندقية",
+    "latitude": 32.387962,
+    "longitude": 15.086856,
+    "source_kml_indices": [
+      333
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0298",
+    "atlas_id": "LTA-2026-HOT-00446",
+    "current_name": "الفاخر للشقق الفندقية",
+    "latitude": 32.38522,
+    "longitude": 15.108194,
+    "source_kml_indices": [
+      334
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0299",
+    "atlas_id": "LTA-2026-HOT-00447",
+    "current_name": "فندق بيزا السياحي",
+    "latitude": 32.402325,
+    "longitude": 15.115341,
+    "source_kml_indices": [
+      335
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0300",
+    "atlas_id": "LTA-2026-HOT-00046",
+    "current_name": "فندق قوز التيك",
+    "latitude": 32.380215,
+    "longitude": 15.083572,
+    "source_kml_indices": [
+      336
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0301",
+    "atlas_id": "LTA-2026-HOT-00448",
+    "current_name": "النجمة الذهبية لشقق الفندقية",
+    "latitude": 32.375713,
+    "longitude": 15.093732,
+    "source_kml_indices": [
+      337
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0302",
+    "atlas_id": null,
+    "current_name": "الفخامه للشقق المفروشه",
+    "latitude": 32.794278,
+    "longitude": 12.478584,
+    "source_kml_indices": [
+      338
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0303",
+    "atlas_id": null,
+    "current_name": "اوس لشقق المفروشه",
+    "latitude": 32.79517,
+    "longitude": 12.47739,
+    "source_kml_indices": [
+      339
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0304",
+    "atlas_id": "LTA-2026-HOT-00449",
+    "current_name": "فندق الساحل",
+    "latitude": 32.801842,
+    "longitude": 12.434615,
+    "source_kml_indices": [
+      340
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0305",
+    "atlas_id": "LTA-2026-HOT-00454",
+    "current_name": "الجوهرة للشقق الفندقية",
+    "latitude": 30.7575,
+    "longitude": 20.22385,
+    "source_kml_indices": [
+      341
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0306",
+    "atlas_id": "LTA-2026-HOT-00456",
+    "current_name": "فندق الراحة اجدابيا",
+    "latitude": 30.760417,
+    "longitude": 20.198851,
+    "source_kml_indices": [
+      343
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0307",
+    "atlas_id": "LTA-2026-HOT-00457",
+    "current_name": "عمار او المجد للشقق الفندقية",
+    "latitude": 30.760196,
+    "longitude": 20.221715,
+    "source_kml_indices": [
+      344
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0308",
+    "atlas_id": null,
+    "current_name": "فندق مزايا اجدابيا",
+    "latitude": 30.760196,
+    "longitude": 20.221715,
+    "source_kml_indices": [
+      345
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0309",
+    "atlas_id": "LTA-2026-HOT-00458",
+    "current_name": "فندق التوجان السياحي",
+    "latitude": 30.761777,
+    "longitude": 20.233088,
+    "source_kml_indices": [
+      346
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0310",
+    "atlas_id": "LTA-2026-HOT-00459",
+    "current_name": "نزل وقاعة الهاشمي",
+    "latitude": 32.034474,
+    "longitude": 23.93866,
+    "source_kml_indices": [
+      347
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0311",
+    "atlas_id": "LTA-2026-HOT-00460",
+    "current_name": "نزل وقاعة زهرة الخليج",
+    "latitude": 32.02618,
+    "longitude": 23.96998,
+    "source_kml_indices": [
+      348
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0312",
+    "atlas_id": "LTA-2026-HOT-00461",
+    "current_name": "الهضبة للشقق الفندقية",
+    "latitude": 32.079275,
+    "longitude": 23.975839,
+    "source_kml_indices": [
+      349
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0313",
+    "atlas_id": "LTA-2026-HOT-00462",
+    "current_name": "الامان للشقق الفندقية",
+    "latitude": 32.073514,
+    "longitude": 23.939431,
+    "source_kml_indices": [
+      350
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0314",
+    "atlas_id": "LTA-2026-HOT-00463",
+    "current_name": "نزل ماريا MARIYA",
+    "latitude": 32.03109,
+    "longitude": 23.99551,
+    "source_kml_indices": [
+      351
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0315",
+    "atlas_id": "LTA-2026-HOT-00465",
+    "current_name": "فندق سمر قند",
+    "latitude": 32.167909,
+    "longitude": 13.009773,
+    "source_kml_indices": [
+      353
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0316",
+    "atlas_id": "LTA-2026-HOT-00467",
+    "current_name": "فندق روايال  غريان",
+    "latitude": 32.177538,
+    "longitude": 13.023293,
+    "source_kml_indices": [
+      355
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0317",
+    "atlas_id": "LTA-2026-HOT-00240",
+    "current_name": "فندق حوش بوغنوش",
+    "latitude": 32.211137,
+    "longitude": 13.010537,
+    "source_kml_indices": [
+      356
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0318",
+    "atlas_id": "LTA-2026-HOT-00468",
+    "current_name": "فندق اللؤلؤة السياحي البضاء",
+    "latitude": 32.75896,
+    "longitude": 21.737579,
+    "source_kml_indices": [
+      357
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0319",
+    "atlas_id": "LTA-2026-HOT-00469",
+    "current_name": "فندق لؤلؤة الخليج البيضاء",
+    "latitude": 32.765129,
+    "longitude": 21.776861,
+    "source_kml_indices": [
+      358
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0320",
+    "atlas_id": "LTA-2026-HOT-00471",
+    "current_name": "فندق القاهرة البيضاء",
+    "latitude": 32.76199,
+    "longitude": 21.74344,
+    "source_kml_indices": [
+      360
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0321",
+    "atlas_id": "LTA-2026-HOT-00472",
+    "current_name": "النوران_ للشقق_الفندقية",
+    "latitude": 32.76868,
+    "longitude": 21.738238,
+    "source_kml_indices": [
+      361
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0322",
+    "atlas_id": "LTA-2026-HOT-00473",
+    "current_name": "مكة للشقق الفندقية البيضاء",
+    "latitude": 32.760241,
+    "longitude": 21.752891,
+    "source_kml_indices": [
+      362
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0323",
+    "atlas_id": "LTA-2026-HOT-00474",
+    "current_name": "برج المدينة للشقق الفندقية  البيضاء",
+    "latitude": 32.769666,
+    "longitude": 21.788118,
+    "source_kml_indices": [
+      363
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0324",
+    "atlas_id": "LTA-2026-HOT-00475",
+    "current_name": "فندق اية الجبل البيضاء",
+    "latitude": 32.763852,
+    "longitude": 21.754817,
+    "source_kml_indices": [
+      364
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0325",
+    "atlas_id": "LTA-2026-HOT-00477",
+    "current_name": "فندق افريقيا البيضاء",
+    "latitude": 32.76413,
+    "longitude": 21.754998,
+    "source_kml_indices": [
+      366
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0326",
+    "atlas_id": "LTA-2026-HOT-00478",
+    "current_name": "فندق برونتو البيضاء",
+    "latitude": 32.770748,
+    "longitude": 21.771261,
+    "source_kml_indices": [
+      367
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0327",
+    "atlas_id": "LTA-2026-HOT-00479",
+    "current_name": "عمارة الجوري للشقق الفندقية",
+    "latitude": 32.75384,
+    "longitude": 21.75352,
+    "source_kml_indices": [
+      368
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0328",
+    "atlas_id": "LTA-2026-HOT-00480",
+    "current_name": "فندق العنود البيضاء",
+    "latitude": 32.76448,
+    "longitude": 21.75517,
+    "source_kml_indices": [
+      369
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0329",
+    "atlas_id": "LTA-2026-HOT-00481",
+    "current_name": "فندق الفردوس للشقق الفندقية",
+    "latitude": 32.764204,
+    "longitude": 21.747586,
+    "source_kml_indices": [
+      370
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0330",
+    "atlas_id": "LTA-2026-HOT-00482",
+    "current_name": "فندق قصر الضيافة للشقق الفندقية البيضاء",
+    "latitude": 32.762472,
+    "longitude": 21.729493,
+    "source_kml_indices": [
+      371
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0331",
+    "atlas_id": "LTA-2026-HOT-00483",
+    "current_name": "فندق مرحبا للخدمات السياحية",
+    "latitude": 32.768201,
+    "longitude": 21.788587,
+    "source_kml_indices": [
+      372
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0332",
+    "atlas_id": "LTA-2026-HOT-00484",
+    "current_name": "عمارة اضواء ليبيا للشقق الفندقية البيضاء",
+    "latitude": 32.770384,
+    "longitude": 21.790027,
+    "source_kml_indices": [
+      373
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0333",
+    "atlas_id": "LTA-2026-HOT-00485",
+    "current_name": "فندق الاندلس السياحي الخمس",
+    "latitude": 32.63268,
+    "longitude": 14.277712,
+    "source_kml_indices": [
+      374
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0334",
+    "atlas_id": "LTA-2026-HOT-00486",
+    "current_name": "فندق المرقب السياحي  الخمس",
+    "latitude": 32.629778,
+    "longitude": 14.282431,
+    "source_kml_indices": [
+      375
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0335",
+    "atlas_id": "LTA-2026-HOT-00487",
+    "current_name": "فندق التوليب السياحي الخمس",
+    "latitude": 32.650804,
+    "longitude": 14.249288,
+    "source_kml_indices": [
+      376
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0336",
+    "atlas_id": "LTA-2026-HOT-00488",
+    "current_name": "فندق بيت سباب الخمس",
+    "latitude": 32.648142,
+    "longitude": 14.24756,
+    "source_kml_indices": [
+      377
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0337",
+    "atlas_id": "LTA-2026-HOT-00489",
+    "current_name": "فندق الاخوة السياحي الخمس",
+    "latitude": 32.655196,
+    "longitude": 14.263151,
+    "source_kml_indices": [
+      378
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0338",
+    "atlas_id": null,
+    "current_name": "فندق الليلك ALlilac hotel",
+    "latitude": 32.8942135,
+    "longitude": 13.196533,
+    "source_kml_indices": [
+      379
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0339",
+    "atlas_id": "LTA-2026-HOT-00493",
+    "current_name": "فندق الباشا",
+    "latitude": 32.88716,
+    "longitude": 13.17601,
+    "source_kml_indices": [
+      383
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0340",
+    "atlas_id": "LTA-2026-HOT-00494",
+    "current_name": "دار السلام للشقق الفندقية",
+    "latitude": 32.853567,
+    "longitude": 13.239475,
+    "source_kml_indices": [
+      384
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0341",
+    "atlas_id": "LTA-2026-HOT-00495",
+    "current_name": "فندق  نيو سيتي",
+    "latitude": 32.89235,
+    "longitude": 13.17231,
+    "source_kml_indices": [
+      385
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0342",
+    "atlas_id": null,
+    "current_name": "فندق جنان النوار",
+    "latitude": 32.890747,
+    "longitude": 13.179595,
+    "source_kml_indices": [
+      388
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0343",
+    "atlas_id": "LTA-2026-HOT-00499",
+    "current_name": "فندق جولف",
+    "latitude": 32.88649,
+    "longitude": 13.19071,
+    "source_kml_indices": [
+      389
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0344",
+    "atlas_id": "LTA-2026-HOT-00501",
+    "current_name": "فندق سنترو",
+    "latitude": 32.89369,
+    "longitude": 13.18131,
+    "source_kml_indices": [
+      391
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0345",
+    "atlas_id": "LTA-2026-HOT-00503",
+    "current_name": "فندق كيان 2",
+    "latitude": 32.88216,
+    "longitude": 13.17596,
+    "source_kml_indices": [
+      393
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0346",
+    "atlas_id": "LTA-2026-HOT-00507",
+    "current_name": "اجنحة كراون للشقق الفندقية",
+    "latitude": 32.8475,
+    "longitude": 13.29381,
+    "source_kml_indices": [
+      397
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0347",
+    "atlas_id": "LTA-2026-HOT-00508",
+    "current_name": "الدلتا للشقق الفندقية 2",
+    "latitude": 32.84882,
+    "longitude": 13.29394,
+    "source_kml_indices": [
+      398
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0348",
+    "atlas_id": "LTA-2026-HOT-00509",
+    "current_name": "الدلتا للشقق الفندقية 1",
+    "latitude": 32.86091,
+    "longitude": 13.19749,
+    "source_kml_indices": [
+      399
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0349",
+    "atlas_id": "LTA-2026-HOT-00510",
+    "current_name": "العنوان للشقق الفندقيه",
+    "latitude": 32.889375,
+    "longitude": 13.193034,
+    "source_kml_indices": [
+      401
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0350",
+    "atlas_id": "LTA-2026-HOT-00241",
+    "current_name": "تحت الصيانة الفندق الكبير",
+    "latitude": 32.89343,
+    "longitude": 13.18473,
+    "source_kml_indices": [
+      402
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0351",
+    "atlas_id": "LTA-2026-HOT-00511",
+    "current_name": "القبس لشقق الفندقيه",
+    "latitude": 32.8519,
+    "longitude": 13.26757,
+    "source_kml_indices": [
+      403
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0352",
+    "atlas_id": "LTA-2026-HOT-00512",
+    "current_name": "الماسة للأجنحة الفندقية",
+    "latitude": 32.88728,
+    "longitude": 13.18267,
+    "source_kml_indices": [
+      404
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0353",
+    "atlas_id": "LTA-2026-HOT-00513",
+    "current_name": "المجرة للشقق الفندقية",
+    "latitude": 32.84615,
+    "longitude": 13.31136,
+    "source_kml_indices": [
+      405
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0354",
+    "atlas_id": "LTA-2026-HOT-00514",
+    "current_name": "المكان للشقق الفندقية",
+    "latitude": 32.88933,
+    "longitude": 13.17589,
+    "source_kml_indices": [
+      406
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0355",
+    "atlas_id": "LTA-2026-HOT-00515",
+    "current_name": "اوكا لشقق الفندقيه vib",
+    "latitude": 32.88827,
+    "longitude": 13.180711,
+    "source_kml_indices": [
+      407
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0356",
+    "atlas_id": "LTA-2026-HOT-00516",
+    "current_name": "إقامة إيفا للشق الفندقية",
+    "latitude": 32.83415,
+    "longitude": 13.23122,
+    "source_kml_indices": [
+      408
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0357",
+    "atlas_id": "LTA-2026-HOT-00517",
+    "current_name": "إقامة قورينا الفاخرة",
+    "latitude": 32.88687,
+    "longitude": 13.19489,
+    "source_kml_indices": [
+      409
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0358",
+    "atlas_id": "LTA-2026-HOT-00518",
+    "current_name": "أجنحة الفوانيس للشقق الفندقية",
+    "latitude": 32.8946,
+    "longitude": 13.2047,
+    "source_kml_indices": [
+      410
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0359",
+    "atlas_id": "LTA-2026-HOT-00519",
+    "current_name": "بيت النوران للشقق الفندقية",
+    "latitude": 32.84898,
+    "longitude": 13.28782,
+    "source_kml_indices": [
+      411
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0360",
+    "atlas_id": "LTA-2026-HOT-00520",
+    "current_name": "بيوت العاصمة للشقق الفندقية",
+    "latitude": 32.843787,
+    "longitude": 13.248638,
+    "source_kml_indices": [
+      412
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0361",
+    "atlas_id": "LTA-2026-HOT-00521",
+    "current_name": "جواهر العاصمة للشقق الفندقية",
+    "latitude": 32.891888,
+    "longitude": 13.21042,
+    "source_kml_indices": [
+      413
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0362",
+    "atlas_id": "LTA-2026-HOT-00522",
+    "current_name": "جولايا للشقق الفندقية",
+    "latitude": 32.88071,
+    "longitude": 13.19665,
+    "source_kml_indices": [
+      414
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0363",
+    "atlas_id": "LTA-2026-HOT-00523",
+    "current_name": "جوهرة السلام للشقق الفندقية",
+    "latitude": 32.84695,
+    "longitude": 13.29389,
+    "source_kml_indices": [
+      415
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0364",
+    "atlas_id": "LTA-2026-HOT-00524",
+    "current_name": "حدائق المشتل للشقق الفندقية",
+    "latitude": 32.85064,
+    "longitude": 13.28383,
+    "source_kml_indices": [
+      416
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0365",
+    "atlas_id": "LTA-2026-HOT-00525",
+    "current_name": "دار الضيافة 2 للشقق الفندقية",
+    "latitude": 32.83993,
+    "longitude": 13.256248,
+    "source_kml_indices": [
+      417
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0366",
+    "atlas_id": "LTA-2026-HOT-00526",
+    "current_name": "شركة العميد لايجار الشقق الفندقية",
+    "latitude": 32.82608,
+    "longitude": 13.25056,
+    "source_kml_indices": [
+      418
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0367",
+    "atlas_id": "LTA-2026-HOT-00527",
+    "current_name": "شقق البرنس",
+    "latitude": 32.836532,
+    "longitude": 13.263127,
+    "source_kml_indices": [
+      419
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0368",
+    "atlas_id": "LTA-2026-HOT-00528",
+    "current_name": "شقق الرواد المفروشة",
+    "latitude": 32.84575,
+    "longitude": 13.1667,
+    "source_kml_indices": [
+      420
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0369",
+    "atlas_id": "LTA-2026-HOT-00529",
+    "current_name": "شقق فيلا ليبيا الفندقية",
+    "latitude": 32.847428,
+    "longitude": 13.259625,
+    "source_kml_indices": [
+      421
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0370",
+    "atlas_id": "LTA-2026-HOT-00536",
+    "current_name": "فندق البيت الراقي للشقق الفندقية",
+    "latitude": 32.841437,
+    "longitude": 13.257115,
+    "source_kml_indices": [
+      428
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0371",
+    "atlas_id": "LTA-2026-HOT-00537",
+    "current_name": "فندق التاج",
+    "latitude": 32.892292,
+    "longitude": 13.173142,
+    "source_kml_indices": [
+      429
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0372",
+    "atlas_id": "LTA-2026-HOT-00538",
+    "current_name": "فندق التوفيق بلازا",
+    "latitude": 32.81173,
+    "longitude": 13.193512,
+    "source_kml_indices": [
+      430,
+      432
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0373",
+    "atlas_id": "LTA-2026-HOT-00198",
+    "current_name": "فندق التوفيق بلازا",
+    "latitude": 32.89108,
+    "longitude": 13.19269,
+    "source_kml_indices": [
+      431,
+      433
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0374",
+    "atlas_id": "LTA-2026-HOT-00539",
+    "current_name": "فندق الجرات",
+    "latitude": 32.890334,
+    "longitude": 13.17827,
+    "source_kml_indices": [
+      436
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0375",
+    "atlas_id": "LTA-2026-HOT-00128",
+    "current_name": "فندق الرحاب 1",
+    "latitude": 32.89328,
+    "longitude": 13.173006,
+    "source_kml_indices": [
+      452
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0376",
+    "atlas_id": "LTA-2026-HOT-00541",
+    "current_name": "فندق الرحاب 2",
+    "latitude": 32.893612,
+    "longitude": 13.172757,
+    "source_kml_indices": [
+      453
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0377",
+    "atlas_id": "LTA-2026-HOT-00542",
+    "current_name": "فندق الرواد",
+    "latitude": 32.84566,
+    "longitude": 13.16672,
+    "source_kml_indices": [
+      455
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0378",
+    "atlas_id": "LTA-2026-HOT-00543",
+    "current_name": "فندق الزهور",
+    "latitude": 32.89014,
+    "longitude": 13.184363,
+    "source_kml_indices": [
+      457
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0379",
+    "atlas_id": "LTA-2026-HOT-00545",
+    "current_name": "فندق السفينة الزرقاء",
+    "latitude": 32.89028,
+    "longitude": 13.18844,
+    "source_kml_indices": [
+      462
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0380",
+    "atlas_id": "LTA-2026-HOT-00547",
+    "current_name": "فندق السلطان",
+    "latitude": 32.89231,
+    "longitude": 13.19688,
+    "source_kml_indices": [
+      464
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0381",
+    "atlas_id": "LTA-2026-HOT-00548",
+    "current_name": "فندق السلطان داون تاون",
+    "latitude": 32.887215,
+    "longitude": 13.173253,
+    "source_kml_indices": [
+      465
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0382",
+    "atlas_id": "LTA-2026-HOT-00549",
+    "current_name": "فندق الصفوة للشقق الفندقية",
+    "latitude": 32.8903,
+    "longitude": 13.1886,
+    "source_kml_indices": [
+      471
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0383",
+    "atlas_id": null,
+    "current_name": "فندق الضيافة",
+    "latitude": 32.89226,
+    "longitude": 13.172,
+    "source_kml_indices": [
+      473
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 14,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0384",
+    "atlas_id": null,
+    "current_name": "فندق الطريق",
+    "latitude": 32.7974846,
+    "longitude": 13.5800649,
+    "source_kml_indices": [
+      474
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0385",
+    "atlas_id": null,
+    "current_name": "فندق الفصول الأربعة ( 1 )",
+    "latitude": 32.89087,
+    "longitude": 13.17354,
+    "source_kml_indices": [
+      478
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 1,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0386",
+    "atlas_id": "LTA-2026-HOT-00554",
+    "current_name": "فندق القلعة السياحي للشقق المفروشة",
+    "latitude": 32.84635,
+    "longitude": 13.16694,
+    "source_kml_indices": [
+      481
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0387",
+    "atlas_id": "LTA-2026-HOT-00555",
+    "current_name": "فندق القنصل",
+    "latitude": 32.89232,
+    "longitude": 13.17139,
+    "source_kml_indices": [
+      482
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0388",
+    "atlas_id": "LTA-2026-HOT-00556",
+    "current_name": "فندق الكنوز الدهبية",
+    "latitude": 32.8914,
+    "longitude": 13.174283,
+    "source_kml_indices": [
+      485
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0389",
+    "atlas_id": "LTA-2026-HOT-00557",
+    "current_name": "فندق اللؤلؤة",
+    "latitude": 32.88663,
+    "longitude": 13.16297,
+    "source_kml_indices": [
+      486
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0390",
+    "atlas_id": null,
+    "current_name": "فندق الليلك",
+    "latitude": 32.89431,
+    "longitude": 13.196468,
+    "source_kml_indices": [
+      487
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0391",
+    "atlas_id": "LTA-2026-HOT-00558",
+    "current_name": "فندق المأمون",
+    "latitude": 32.89429,
+    "longitude": 13.17422,
+    "source_kml_indices": [
+      488
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0392",
+    "atlas_id": "LTA-2026-HOT-00559",
+    "current_name": "فندق المهاري رادسون بلو",
+    "latitude": 32.8959784,
+    "longitude": 13.1997991,
+    "source_kml_indices": [
+      497
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 6,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0393",
+    "atlas_id": "LTA-2026-HOT-00108",
+    "current_name": "فندق الهناء",
+    "latitude": 32.89193,
+    "longitude": 13.17509,
+    "source_kml_indices": [
+      502
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0394",
+    "atlas_id": "LTA-2026-HOT-00561",
+    "current_name": "فندق الياسمينة",
+    "latitude": 32.88789,
+    "longitude": 13.18507,
+    "source_kml_indices": [
+      506
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0395",
+    "atlas_id": "LTA-2026-HOT-00562",
+    "current_name": "فندق أجنحة الوليد",
+    "latitude": 32.886231,
+    "longitude": 13.19003,
+    "source_kml_indices": [
+      510
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0396",
+    "atlas_id": "LTA-2026-HOT-00563",
+    "current_name": "فندق باب طرابلس",
+    "latitude": 32.87239,
+    "longitude": 13.17819,
+    "source_kml_indices": [
+      516
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0397",
+    "atlas_id": "LTA-2026-HOT-00564",
+    "current_name": "فندق برج المدينة",
+    "latitude": 32.88987,
+    "longitude": 13.17303,
+    "source_kml_indices": [
+      517
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 16,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0398",
+    "atlas_id": "LTA-2026-HOT-00565",
+    "current_name": "فندق برج كورنثيا باب أفريقيا",
+    "latitude": 32.897016,
+    "longitude": 13.170857,
+    "source_kml_indices": [
+      518
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0399",
+    "atlas_id": "LTA-2026-HOT-00567",
+    "current_name": "فندق بيت الضيافة",
+    "latitude": 32.8627,
+    "longitude": 13.10091,
+    "source_kml_indices": [
+      524
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0400",
+    "atlas_id": "LTA-2026-HOT-00568",
+    "current_name": "فندق بيروت",
+    "latitude": 32.89186,
+    "longitude": 13.17501,
+    "source_kml_indices": [
+      525
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0401",
+    "atlas_id": "LTA-2026-HOT-00569",
+    "current_name": "فندق تاج دبي",
+    "latitude": 32.892203,
+    "longitude": 13.173948,
+    "source_kml_indices": [
+      526
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0402",
+    "atlas_id": null,
+    "current_name": "فندق جي دبليو ماروت",
+    "latitude": 32.891567,
+    "longitude": 13.164639,
+    "source_kml_indices": [
+      529
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0403",
+    "atlas_id": "LTA-2026-HOT-00571",
+    "current_name": "فندق دار طرابلس",
+    "latitude": 32.891919,
+    "longitude": 13.192052,
+    "source_kml_indices": [
+      530
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 3,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0404",
+    "atlas_id": "LTA-2026-HOT-00259",
+    "current_name": "فندق ديكنة",
+    "latitude": 32.888213,
+    "longitude": 13.17661,
+    "source_kml_indices": [
+      531
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0405",
+    "atlas_id": "LTA-2026-HOT-00572",
+    "current_name": "فندق ذا ريسدنس",
+    "latitude": 32.88884,
+    "longitude": 13.19399,
+    "source_kml_indices": [
+      532
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0406",
+    "atlas_id": "LTA-2026-HOT-00573",
+    "current_name": "فندق رويال جاردنس",
+    "latitude": 32.88628,
+    "longitude": 13.19012,
+    "source_kml_indices": [
+      533
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0407",
+    "atlas_id": "LTA-2026-HOT-00574",
+    "current_name": "فندق ريزيدينس",
+    "latitude": 32.88867,
+    "longitude": 13.19378,
+    "source_kml_indices": [
+      534
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0408",
+    "atlas_id": null,
+    "current_name": "فندق زميت الأثري",
+    "latitude": 32.89958,
+    "longitude": 13.17576,
+    "source_kml_indices": [
+      535
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0409",
+    "atlas_id": null,
+    "current_name": "فندق سارة",
+    "latitude": 32.885297,
+    "longitude": 13.163005,
+    "source_kml_indices": [
+      537
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0410",
+    "atlas_id": "LTA-2026-HOT-00576",
+    "current_name": "فندق سبراتا",
+    "latitude": 32.88722,
+    "longitude": 13.191319,
+    "source_kml_indices": [
+      538
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0411",
+    "atlas_id": null,
+    "current_name": "فندق سما و بلقيس",
+    "latitude": 32.88931,
+    "longitude": 13.17925,
+    "source_kml_indices": [
+      540
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0412",
+    "atlas_id": null,
+    "current_name": "فندق سما وبلقيس",
+    "latitude": 32.88947,
+    "longitude": 13.17881,
+    "source_kml_indices": [
+      541
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0413",
+    "atlas_id": "LTA-2026-HOT-00407",
+    "current_name": "فندق صحراء ليبيا",
+    "latitude": 32.88533,
+    "longitude": 13.16299,
+    "source_kml_indices": [
+      542
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 9,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0414",
+    "atlas_id": "LTA-2026-HOT-00579",
+    "current_name": "فندق غصن الذهب",
+    "latitude": 32.89133,
+    "longitude": 13.16923,
+    "source_kml_indices": [
+      548
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0415",
+    "atlas_id": null,
+    "current_name": "فندق الاندلس /فندق فوربوينتس شيرتون",
+    "latitude": 32.881078,
+    "longitude": 13.146443,
+    "source_kml_indices": [
+      550
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 1,
+    "center_media_image_count": 13,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0416",
+    "atlas_id": "LTA-2026-HOT-00583",
+    "current_name": "فندق قصر الياقوت",
+    "latitude": 32.8913,
+    "longitude": 13.17632,
+    "source_kml_indices": [
+      553
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0417",
+    "atlas_id": "LTA-2026-HOT-00584",
+    "current_name": "فندق قلعة صفيت",
+    "latitude": 32.893137,
+    "longitude": 13.171082,
+    "source_kml_indices": [
+      555
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0418",
+    "atlas_id": "LTA-2026-HOT-00585",
+    "current_name": "فندق كريستال",
+    "latitude": 32.888509,
+    "longitude": 13.177715,
+    "source_kml_indices": [
+      558
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0419",
+    "atlas_id": "LTA-2026-HOT-00586",
+    "current_name": "فندق كليوباترا",
+    "latitude": 32.89206,
+    "longitude": 13.19292,
+    "source_kml_indices": [
+      559
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0420",
+    "atlas_id": "LTA-2026-HOT-00587",
+    "current_name": "فندق كيان",
+    "latitude": 32.89062,
+    "longitude": 13.1948,
+    "source_kml_indices": [
+      560
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0421",
+    "atlas_id": "LTA-2026-HOT-00588",
+    "current_name": "فندق كيفالاي",
+    "latitude": 32.855747,
+    "longitude": 13.198579,
+    "source_kml_indices": [
+      561
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0422",
+    "atlas_id": "LTA-2026-HOT-00589",
+    "current_name": "فندق كيلو بترا",
+    "latitude": 32.89192,
+    "longitude": 13.193203,
+    "source_kml_indices": [
+      562
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0423",
+    "atlas_id": "LTA-2026-HOT-00592",
+    "current_name": "فندق ماريقولد",
+    "latitude": 32.890861,
+    "longitude": 13.192639,
+    "source_kml_indices": [
+      565
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0424",
+    "atlas_id": "LTA-2026-HOT-00593",
+    "current_name": "فندق مجد الضيافة",
+    "latitude": 32.846506,
+    "longitude": 13.135809,
+    "source_kml_indices": [
+      566
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0425",
+    "atlas_id": "LTA-2026-HOT-00594",
+    "current_name": "فندق مرحبا",
+    "latitude": 32.89188,
+    "longitude": 13.19337,
+    "source_kml_indices": [
+      567
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0426",
+    "atlas_id": "LTA-2026-HOT-00595",
+    "current_name": "فندق ناريـز ( NARIZ HOTEL)",
+    "latitude": 32.89559,
+    "longitude": 13.20266,
+    "source_kml_indices": [
+      568
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0427",
+    "atlas_id": "LTA-2026-HOT-00596",
+    "current_name": "فندق نزهة",
+    "latitude": 32.881335,
+    "longitude": 13.20022,
+    "source_kml_indices": [
+      569
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0428",
+    "atlas_id": "LTA-2026-HOT-00597",
+    "current_name": "فندق نيو ستي",
+    "latitude": 32.88784,
+    "longitude": 13.176188,
+    "source_kml_indices": [
+      570
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0429",
+    "atlas_id": "LTA-2026-HOT-00598",
+    "current_name": "فندق هايتي",
+    "latitude": 32.893914,
+    "longitude": 13.172014,
+    "source_kml_indices": [
+      571
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0430",
+    "atlas_id": "LTA-2026-HOT-00599",
+    "current_name": "قرية تاجوراء السياحية",
+    "latitude": 32.86274,
+    "longitude": 13.42945,
+    "source_kml_indices": [
+      572
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0431",
+    "atlas_id": "LTA-2026-HOT-00600",
+    "current_name": "قصر العائلة للشقق الفندقية الفرع الثاني",
+    "latitude": 32.89163,
+    "longitude": 13.21628,
+    "source_kml_indices": [
+      573
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0432",
+    "atlas_id": null,
+    "current_name": "لبدة إفريقيا للشقق الفندقية",
+    "latitude": 32.853777,
+    "longitude": 13.239434,
+    "source_kml_indices": [
+      574
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0433",
+    "atlas_id": "LTA-2026-HOT-00601",
+    "current_name": "لمسة للشقق الفندقية",
+    "latitude": 32.88966,
+    "longitude": 13.18492,
+    "source_kml_indices": [
+      575
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0434",
+    "atlas_id": "LTA-2026-HOT-00602",
+    "current_name": "مساكن القدس للشقق الفندقية",
+    "latitude": 32.879495,
+    "longitude": 13.179476,
+    "source_kml_indices": [
+      576,
+      577,
+      578,
+      579
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0435",
+    "atlas_id": "LTA-2026-HOT-00603",
+    "current_name": "منازل الشط للشقق الفندقية",
+    "latitude": 32.90408,
+    "longitude": 13.23361,
+    "source_kml_indices": [
+      580
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  },
+  {
+    "kml_cluster_id": "HOT-KML2025-0436",
+    "atlas_id": "LTA-2026-HOT-00604",
+    "current_name": "والي للشقق الفندقية",
+    "latitude": 32.905556,
+    "longitude": 13.265857,
+    "source_kml_indices": [
+      581
+    ],
+    "merged_cluster_ids": [],
+    "identity_relinked_cluster_ids": [],
+    "center_media_folder_count": 0,
+    "center_media_image_count": 0,
+    "publication_status": "DATA_GOVERNANCE_READY"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "phase": "HOTELS_KML2025_GIS_REVIEW_CLOSURE",
+  "review_groups": 5,
+  "decisions": {
+    "merge_to_canonical": 2,
+    "split_identity": 2,
+    "publish_canonical_quarantine_conflict": 1
+  },
+  "canonical_decisions": {
+    "HOT-DUP-REVIEW-001": "HOT-KML2025-0034",
+    "HOT-DUP-REVIEW-002": "HOT-KML2025-0070",
+    "HOT-DUP-REVIEW-003": "HOT-KML2025-0118",
+    "HOT-DUP-REVIEW-005": "HOT-KML2025-0138",
+    "HOT-DUP-REVIEW-008": "HOT-KML2025-0274"
+  },
+  "identity_corrections": [
+    {
+      "cluster_id": "HOT-KML2025-0069",
+      "incorrect_identity": "فندق زوارة",
+      "correct_identity": "فندق السلام",
+      "action": "RELINK_TO_EXISTING_AL_SALAM_RECORD"
+    },
+    {
+      "cluster_id": "HOT-KML2025-0117",
+      "incorrect_identity": "فندق ليبوس",
+      "correct_identity": "فندق ريباس",
+      "action": "RELINK_TO_EXISTING_RIBAS_RECORD"
+    }
+  ],
+  "quarantine": [
+    {
+      "cluster_id": "HOT-KML2025-0139",
+      "displayed_name": "فندق قصر الظهرة",
+      "reason": "IDENTITY_METADATA_CONFLICT_WITH_AKAKUS_HOTEL",
+      "public_publish": false
+    }
+  ],
+  "rules": {
+    "source_kml_unchanged": true,
+    "no_coordinate_averaging": true,
+    "no_source_record_deletion": true,
+    "preserve_provenance": true
+  },
+  "publication_status": "READY_FOR_FINAL_BUILD_WITH_QUARANTINED_CONFLICT"
+}
