@@ -607,9 +607,26 @@ function cleanPopup(
       )
     : [];
 
+  const kmlExternalMediaAllowed =
+    cfg.id === 'hotels' &&
+    localImages.length === 0 &&
+    properties.kml_media_publication_status === 'public' &&
+    properties.kml_media_display_authorization === 'approved_for_atlas_display' &&
+    properties.kml_media_rights_status === 'external_source_not_center_owned';
+
+  const kmlExternalMedia =
+    kmlExternalMediaAllowed &&
+    Array.isArray(properties.kml_image_urls)
+      ? properties.kml_image_urls.filter(url =>
+          typeof url === 'string' &&
+          /^https:\/\//i.test(url)
+        )
+      : [];
+
   const photoPaths = [
     ...localImages,
     ...directMedia,
+    ...kmlExternalMedia,
     ...kmlMedia
   ]
     .map(path =>
@@ -768,7 +785,7 @@ function cleanPopup(
         ${photoPaths.length > 1 ? `
           <div class="popup-gallery-controls" role="group" aria-label="التنقل بين صور الموقع">
             <button type="button" class="popup-gallery-prev" aria-label="الصورة السابقة">‹</button>
-            <span class="popup-gallery-counter" aria-live="polite">1 / ${photoPaths.length}</span>
+            <span class="popup-gallery-counter" dir="ltr" aria-live="polite">1 / ${photoPaths.length}</span>
             <button type="button" class="popup-gallery-next" aria-label="الصورة التالية">›</button>
           </div>
         ` : ''}
@@ -1841,3 +1858,4 @@ setTimeout(() => {
     toggleLayer(layers[0], true);
   }
 }, 350);
+

@@ -1,0 +1,13 @@
+{
+  "phase": "HOTELS_KML2025_FALLBACK_ONLY",
+  "runtime_hotels": 428,
+  "center_archive_hotels": 53,
+  "kml_fallback_hotels": 178,
+  "kml_fallback_images": 684,
+  "placeholder_hotels": 197,
+  "invalid_kml_urls": 0,
+  "center_kml_mixing": false,
+  "rule": "CENTER_ONLY -> KML_ONLY_IF_NO_CENTER -> PLACEHOLDER",
+  "geometry_changes": 0,
+  "status": "PASS"
+}
