@@ -1,0 +1,9 @@
+﻿review_group_id,normalized_name,cluster_ids_100m,kml_indices,names,min_pair_distance_m,max_pair_distance_m,decision,canonical_cluster_id,review_note
+HOT-DUP-REVIEW-001,قصر الفيروز,HOT-KML2025-0034 | HOT-KML2025-0035,31 | 121 | 246,فندق قصر الفيروز,0.0,455.9,,,
+HOT-DUP-REVIEW-002,زواره,HOT-KML2025-0069 | HOT-KML2025-0070,62 | 105 | 228,فندق زوارة,0.0,179.1,,,
+HOT-DUP-REVIEW-003,ليبوس,HOT-KML2025-0117 | HOT-KML2025-0118,101 | 563,فندق ليبوس,114.0,114.0,,,
+HOT-DUP-REVIEW-004,طليطله,HOT-KML2025-0130 | HOT-KML2025-0131,113 | 236 | 304 | 545,فندق طليطلة,0.0,313.3,,,
+HOT-DUP-REVIEW-005,قصر الظهره,HOT-KML2025-0138 | HOT-KML2025-0139,120 | 244 | 552,فندق قصر الظهرة,0.0,489.6,,,
+HOT-DUP-REVIEW-006,اوال,HOT-KML2025-0245 | HOT-KML2025-0246,280 | 509,فندق أوال | فندق اوال,120.1,120.1,,,
+HOT-DUP-REVIEW-007,نور الثريا,HOT-KML2025-0253 | HOT-KML2025-0254,288 | 394,فندق نور الثريا السياحى | فندق  نور الثريا,225.2,225.2,,,
+HOT-DUP-REVIEW-008,الهاني,HOT-KML2025-0274 | HOT-KML2025-0275,310 | 386 | 501,فندق الهانى | فندق الهاني,31.7,167.0,,,

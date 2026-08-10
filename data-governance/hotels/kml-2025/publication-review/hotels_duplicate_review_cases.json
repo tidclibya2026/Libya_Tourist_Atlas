@@ -1,0 +1,98 @@
+[
+  {
+    "review_group_id": "HOT-DUP-REVIEW-001",
+    "normalized_name": "قصر الفيروز",
+    "cluster_ids_100m": "HOT-KML2025-0034 | HOT-KML2025-0035",
+    "kml_indices": "31 | 121 | 246",
+    "names": "فندق قصر الفيروز",
+    "min_pair_distance_m": 0.0,
+    "max_pair_distance_m": 455.9,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-002",
+    "normalized_name": "زواره",
+    "cluster_ids_100m": "HOT-KML2025-0069 | HOT-KML2025-0070",
+    "kml_indices": "62 | 105 | 228",
+    "names": "فندق زوارة",
+    "min_pair_distance_m": 0.0,
+    "max_pair_distance_m": 179.1,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-003",
+    "normalized_name": "ليبوس",
+    "cluster_ids_100m": "HOT-KML2025-0117 | HOT-KML2025-0118",
+    "kml_indices": "101 | 563",
+    "names": "فندق ليبوس",
+    "min_pair_distance_m": 114.0,
+    "max_pair_distance_m": 114.0,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-004",
+    "normalized_name": "طليطله",
+    "cluster_ids_100m": "HOT-KML2025-0130 | HOT-KML2025-0131",
+    "kml_indices": "113 | 236 | 304 | 545",
+    "names": "فندق طليطلة",
+    "min_pair_distance_m": 0.0,
+    "max_pair_distance_m": 313.3,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-005",
+    "normalized_name": "قصر الظهره",
+    "cluster_ids_100m": "HOT-KML2025-0138 | HOT-KML2025-0139",
+    "kml_indices": "120 | 244 | 552",
+    "names": "فندق قصر الظهرة",
+    "min_pair_distance_m": 0.0,
+    "max_pair_distance_m": 489.6,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-006",
+    "normalized_name": "اوال",
+    "cluster_ids_100m": "HOT-KML2025-0245 | HOT-KML2025-0246",
+    "kml_indices": "280 | 509",
+    "names": "فندق أوال | فندق اوال",
+    "min_pair_distance_m": 120.1,
+    "max_pair_distance_m": 120.1,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-007",
+    "normalized_name": "نور الثريا",
+    "cluster_ids_100m": "HOT-KML2025-0253 | HOT-KML2025-0254",
+    "kml_indices": "288 | 394",
+    "names": "فندق نور الثريا السياحى | فندق  نور الثريا",
+    "min_pair_distance_m": 225.2,
+    "max_pair_distance_m": 225.2,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  },
+  {
+    "review_group_id": "HOT-DUP-REVIEW-008",
+    "normalized_name": "الهاني",
+    "cluster_ids_100m": "HOT-KML2025-0274 | HOT-KML2025-0275",
+    "kml_indices": "310 | 386 | 501",
+    "names": "فندق الهانى | فندق الهاني",
+    "min_pair_distance_m": 31.7,
+    "max_pair_distance_m": 167.0,
+    "decision": "",
+    "canonical_cluster_id": "",
+    "review_note": ""
+  }
+]

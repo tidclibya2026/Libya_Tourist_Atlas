@@ -1,0 +1,9 @@
+{
+  "phase": "HOTELS_KML2025_PUBLICATION_REVIEW",
+  "media_review_total": 13,
+  "media_resolved": 13,
+  "spatial_review_total": 8,
+  "spatial_merged": 3,
+  "spatial_hold_for_gis": 5,
+  "publication_status": "PENDING_5_GIS_VERIFICATIONS"
+}

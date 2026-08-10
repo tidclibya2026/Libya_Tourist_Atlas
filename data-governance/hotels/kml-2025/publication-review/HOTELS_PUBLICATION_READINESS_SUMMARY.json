@@ -1,0 +1,14 @@
+{
+  "phase": "HOTELS_KML2025_PUBLICATION_READINESS",
+  "source_policy": {
+    "spatial_truth": "KML_2025",
+    "primary_media": "CENTER_PHOTO_ARCHIVE",
+    "historical_names": "HISTORICAL_ARCHIVES",
+    "governance_id": "UNIFIED_REGISTRY"
+  },
+  "media_total_folders": 53,
+  "media_strong_links": 40,
+  "media_review_cases": 13,
+  "duplicate_spatial_review_cases": 8,
+  "publication_status": "PENDING_HUMAN_REVIEW"
+}

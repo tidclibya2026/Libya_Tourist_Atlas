@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.19423,
+        32.89308
+      ]
+    },
+    "properties": {
+      "kml_cluster_id": "HOT-KML2025-0139",
+      "current_name": "فندق قصر الظهرة",
+      "source": "KML 2025",
+      "spatial_truth": "CURRENT_SPATIAL_TRUTH_2025",
+      "canonical_kml_index": 552,
+      "source_kml_indices": [
+        552
+      ],
+      "high_conf_duplicate_count": 0,
+      "atlas_id": null,
+      "atlas_match_status": "ATLAS_ID_REVIEW",
+      "kml_image_count": 0,
+      "kml_image_urls": [],
+      "center_media_folder_count": 0,
+      "center_media_image_count": 0,
+      "center_media_folders": [],
+      "primary_media_rule": "CENTER_PHOTO_ARCHIVE_FIRST_THEN_KML",
+      "publication_status": "QUARANTINED",
+      "quarantine_reason": "IDENTITY_METADATA_CONFLICT_WITH_AKAKUS_HOTEL",
+      "review_status": "GIS_METADATA_REVIEW_REQUIRED"
+    }
+  }
+]

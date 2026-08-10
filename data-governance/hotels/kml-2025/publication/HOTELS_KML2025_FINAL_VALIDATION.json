@@ -1,0 +1,31 @@
+{
+  "phase": "HOTELS_KML2025_FINAL_VALIDATION",
+  "counts": {
+    "draft_canonical_features": 436,
+    "merged_or_identity_relinked_records": 7,
+    "quarantined_records": 1,
+    "public_final_features": 428,
+    "center_media_folders": 53,
+    "center_media_images": 1403
+  },
+  "checks": {
+    "geometry_unchanged": true,
+    "no_coordinate_averaging": true,
+    "public_cluster_ids_unique": true,
+    "excluded_records_not_public": true,
+    "all_center_media_folders_linked": true,
+    "all_center_media_links_approved": true,
+    "quarantine_excluded_from_public": true,
+    "source_files_modified": false,
+    "runtime_local_media_paths_ready": false
+  },
+  "exceptions": {
+    "geometry_changes": [],
+    "duplicate_public_cluster_ids": [],
+    "excluded_still_public": [],
+    "media_unresolved": [],
+    "media_not_approved": []
+  },
+  "data_governance_result": "PASS",
+  "runtime_publication_result": "PENDING_LOCAL_MEDIA_ASSET_INTEGRATION"
+}
