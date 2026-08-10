@@ -1,0 +1,33 @@
+{
+  "phase": "HOTELS_KML2025_RUNTIME_RELEASE_CANDIDATE",
+  "governed_features": 428,
+  "center_media_hotels": 53,
+  "center_archive_images_governed": 1403,
+  "runtime_source_images": 396,
+  "webp_derivatives": 1188,
+  "runtime_asset_size_mb": 75.75,
+  "missing_runtime_images": 0,
+  "geometry_policy": "EXACT_SOURCE_COORDINATES_NO_AVERAGING",
+  "spatial_truth": "KML_2025",
+  "media_source": "CENTER_PHOTO_ARCHIVE",
+  "manual_browser_spot_check": {
+    "status": "PASS",
+    "confirmed_examples": [
+      "فندق باب البحر",
+      "فنادق أخرى مرتبطة بأرشيف المركز"
+    ],
+    "gallery_display": "UP_TO_8_IMAGES_CONFIRMED"
+  },
+  "checks": {
+    "governed_features_428": true,
+    "center_media_hotels_53": true,
+    "runtime_source_images_396": true,
+    "webp_derivatives_1188": true,
+    "missing_runtime_images_0": true,
+    "quarantine_0139_excluded": true,
+    "runtime_geojson_enabled": true,
+    "gallery_limit_8": true
+  },
+  "release_status": "PASS",
+  "next": "READY_FOR_GIT_COMMIT"
+}
