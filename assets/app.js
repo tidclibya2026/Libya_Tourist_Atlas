@@ -38,10 +38,11 @@ const layers = [
     id: 'hotels',
     name: 'الفنادق والإيواء',
     type: 'geojson',
-    url: 'data/layers/hotels.geojson',
+    url: 'data/layers/hotels-kml2025-runtime.geojson',
     icon: '🏨',
     color: '#dc2626',
-    meta: 'منشآت الإيواء السياحي'
+    maxGalleryImages: 8,
+    meta: 'مجموعة نشر الفنادق المحكومة وفق KML 2025'
   },
   {
     id: 'tripoliRestaurants',
@@ -622,7 +623,7 @@ function cleanPopup(
       (path, index, values) =>
         values.indexOf(path) === index
     )
-    .slice(0, 6);
+    .slice(0, cfg.maxGalleryImages || 6);
 
   const cleanText =
     cleanGeoJsonDescription(

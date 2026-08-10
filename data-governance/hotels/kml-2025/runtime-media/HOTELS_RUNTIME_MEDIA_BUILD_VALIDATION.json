@@ -1,0 +1,31 @@
+{
+  "validation": {
+    "phase": "HOTELS_CENTER_MEDIA_RUNTIME_BUILD",
+    "visual_qa_hotels": 53,
+    "archive_images_governed": 1403,
+    "runtime_source_images_expected": 396,
+    "runtime_source_images_processed": 396,
+    "variants_per_source": 3,
+    "derivatives_expected": 1188,
+    "derivatives_created": 1188,
+    "runtime_asset_bytes": 79432222,
+    "runtime_asset_megabytes": 75.75,
+    "largest_asset": {
+      "path": "assets/media/LIBYA/hotels/LTA-2026-HOT-00093/LTA-2026-HOT-00093__primary__01__3EAC60B54D3C__web-large.webp",
+      "bytes": 454590
+    },
+    "write_errors": 0,
+    "missing_outputs": 0,
+    "duplicate_output_paths": 0,
+    "source_files_modified": false,
+    "source_modification_count": 0,
+    "runtime_geojson_updated": false,
+    "atlas_application_updated": false,
+    "build_status": "PASS",
+    "next_status": "READY_FOR_GEOJSON_AND_ATLAS_INTEGRATION"
+  },
+  "write_errors": [],
+  "missing_outputs": [],
+  "duplicate_output_paths": [],
+  "source_changes": []
+}
