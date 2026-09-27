@@ -1,0 +1,52 @@
+name: Atlas Develop Build
+
+on:
+  push:
+    branches:
+      - develop
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: apps/portal
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: apps/portal/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static Atlas
+        env:
+          GITHUB_PAGES: 'true'
+        run: npm run build
+
+      - name: Verify exported pages and images
+        shell: bash
+        run: |
+          test -f out/index.html
+          test -f out/atlas-v23/hero/sabratha-approved.webp
+          test -f out/atlas-v23/hero/leptis-magna.webp
+          grep -q '/Libya_Tourist_Atlas/atlas-v23/' out/index.html
+
+      - name: Upload Atlas preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: atlas-v26-static-preview
+          path: apps/portal/out
+          retention-days: 14
