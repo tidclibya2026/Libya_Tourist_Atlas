@@ -1,0 +1,24 @@
+.hero{width:100%;overflow:hidden;background:#fff;color:#133455;direction:rtl}
+.stage{position:relative;width:100%;height:min(75vw,780px);min-height:380px;background:#102940;overflow:hidden}
+.slide{position:absolute;inset:0;opacity:0;transition:opacity 1.3s ease-in-out;pointer-events:none}
+.current{opacity:1;z-index:1}
+.photo{width:100%!important;height:100%!important;object-fit:cover!important;object-position:center center;filter:none!important;}
+/* NO full-frame overlays, gradients, blur, color filters or tinted pseudo elements. */
+.photoBadge{position:absolute;top:22px;right:3%;z-index:3;background:#fff;color:#21486a;border-radius:4px;padding:9px 16px;font:700 12px Arial,sans-serif;letter-spacing:.08em;box-shadow:0 4px 15px #0002}
+.controls{position:absolute;bottom:25px;left:3%;z-index:3;display:flex;align-items:center;gap:12px;background:#fff;border-radius:50px;padding:6px 12px;box-shadow:0 8px 25px #0002;direction:ltr;font:700 14px Arial,sans-serif}
+.controls button{width:36px;height:36px;border:0;border-radius:50%;background:#164b83;color:#fff;font-size:26px;line-height:1;cursor:pointer}
+.caption{width:100%;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(260px,.8fr);gap:50px;padding:36px max(25px,5vw);background:#fff;border-bottom:1px solid #dee7ef;align-items:center}
+.story .eyebrow{display:block;color:#9c7c40;font-weight:800;font-size:13px}
+.story h1{font-size:clamp(29px,3vw,45px);line-height:1.32;color:#123c65;font-weight:800;margin:7px 0}
+.story p{color:#587084;line-height:1.9;max-width:800px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.actions a{display:inline-block;background:#154b83;color:#fff;text-decoration:none;padding:12px 18px;border-radius:5px;font-weight:700}
+.actions .secondary{background:#fff;border:1px solid #154b83;color:#154b83}
+.currentText{border-right:3px solid #c3a062;padding:0 20px;min-height:130px}
+.currentText span{color:#a07c35;font-size:13px;font-weight:700}.currentText h2{font-size:27px;color:#173b5e;margin:8px 0}.currentText p{color:#536c82;line-height:1.7;font-size:14px}
+.currentText button{background:transparent;color:#174c83;border:0;border-bottom:1px solid #174c83;font-weight:700;cursor:pointer;padding:7px 0}
+.dots{display:flex;justify-content:center;gap:8px;background:#fff;padding:0 16px 24px}
+.dot,.dotActive{height:8px;width:22px;border:0;border-radius:12px;background:#c2d1dd;cursor:pointer}
+.dotActive{width:37px;background:#c1a05c}
+@media(max-width:850px){.caption{display:block;padding:28px 18px}.currentText{margin-top:24px}.stage{height:58svh;min-height:300px}.photoBadge{font-size:10px}}
+@media(prefers-reduced-motion:reduce){.slide{transition:none}}

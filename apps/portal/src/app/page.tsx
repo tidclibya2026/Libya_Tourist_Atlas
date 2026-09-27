@@ -1,69 +1,55 @@
-import Image from "next/image";
+"use client";
+import { useMemo, useState } from "react";
+import PremiumHero from "../components/PremiumHero";
+import AtlasGalleries from "../components/AtlasGalleries";
+import styles from "./page.module.css";
+
+type Sector = { name: string; group: "استكشف" | "خطط" | "اعرف" | "الإدارة"; desc: string };
+const sectors: Sector[] = [
+  { name: "الوجهات السياحية", group: "استكشف", desc: "المعالم والمدن والوجهات الوطنية" },
+  { name: "الخرائط والمسارات", group: "خطط", desc: "الاستكشاف الجغرافي والمسارات السياحية" },
+  { name: "الأطلس الإحصائي", group: "اعرف", desc: "المؤشرات السياحية والخرائط الموضوعية" },
+  { name: "الاستثمار السياحي", group: "خطط", desc: "الفرص والمشروعات الاستثمارية المعتمدة" },
+  { name: "الإيواء السياحي", group: "خطط", desc: "الفنادق والمنتجعات والقرى السياحية" },
+  { name: "المعرفة والذكاء الاصطناعي", group: "اعرف", desc: "المعلومات السياحية والمساعد المعرفي" },
+  { name: "التراث والثقافة", group: "استكشف", desc: "المدن التاريخية والمتاحف والموروث الشعبي" },
+  { name: "الخدمات والنقل السياحي", group: "خطط", desc: "الخدمات وشركات النقل ومراكز المعلومات" },
+  { name: "المرشدون السياحيون", group: "خطط", desc: "المرشدون المعتمدون والتخصصات واللغات" },
+  { name: "الطعام والشراب", group: "استكشف", desc: "المطاعم والمقاهي والمأكولات التقليدية" },
+  { name: "الأحداث السياحية", group: "استكشف", desc: "المهرجانات والفعاليات والمؤتمرات" },
+  { name: "الدليل السياحي المتكامل", group: "اعرف", desc: "دليل المواقع والخدمات والمعلومات" },
+  { name: "إدارة الأطلس", group: "الإدارة", desc: "المراجعة والاعتماد والحوكمة" },
+  { name: "المنتزهات والحدائق", group: "استكشف", desc: "المنتزهات والحدائق والمساحات الطبيعية" },
+  { name: "الترفيه والأنشطة السياحية", group: "استكشف", desc: "الأنشطة البحرية والعائلية والصحراوية" },
+];
+const filters = ["الكل", "استكشف", "خطط", "اعرف", "الإدارة"] as const;
 
 export default function Home() {
+  const [query, setQuery] = useState("");
+  const [group, setGroup] = useState<(typeof filters)[number]>("الكل");
+  const [selected, setSelected] = useState<Sector | null>(null);
+  const visible = useMemo(() => sectors.filter((sector) => (group === "الكل" || sector.group === group) && (`${sector.name} ${sector.desc}`).includes(query.trim())), [query, group]);
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+    <div className={styles.shell} dir="rtl">
+      <header className={styles.header}>
+        <a href="#top" className={styles.brand}><span className={styles.brandMark}>LY</span><span><strong>الأطلس السياحي الرقمي الوطني</strong><small>LIBYA DIGITAL TOURISM ATLAS</small></span></a>
+        <nav className={styles.nav} aria-label="القائمة الرئيسية"><a href="#destinations">الوجهات</a><a href="#experiences">الثقافة والطبيعة</a><a href="#sectors">القطاعات</a><a href="#map">الخريطة</a></nav>
+        <span className={styles.language}>العربية</span>
+      </header>
+      <main id="top">
+        <PremiumHero />
+        <div className={styles.strip}><div><strong>15</strong><span>وحدة وظيفية</span></div><div><strong>GIS</strong><span>خرائط وطنية</span></div><div><strong>ليبيا</strong><span>آثار وطبيعة وتراث</span></div><div><strong>ATLAS</strong><span>بوابة موحدة</span></div></div>
+        <AtlasGalleries />
+        <section id="sectors" className={styles.sectors}>
+          <div className={styles.sectionHeading}><span>دليل الأطلس</span><h2>القطاعات الخمسة عشر</h2><p>تصفّح القطاعات التي ستُربط تدريجياً بالسجلات المكانية المعتمدة.</p></div>
+          <div className={styles.tools}><div className={styles.filters}>{filters.map((item) => <button type="button" key={item} className={group === item ? styles.filterActive : styles.filter} aria-pressed={group === item} onClick={() => setGroup(item)}>{item}</button>)}</div><label className={styles.search}><span>بحث</span><input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="ابحث في قطاعات الأطلس" /></label></div>
+          <div className={styles.sectorGrid}>{visible.map((item, index) => <button type="button" key={item.name} className={styles.sectorCard} onClick={() => setSelected(item)}><span className={styles.number}>{String(index + 1).padStart(2, "0")}</span><strong>{item.name}</strong><small>{item.desc}</small><em>التفاصيل ←</em></button>)}</div>
+          {visible.length === 0 && <p>لا توجد قطاعات مطابقة للبحث.</p>}
+          {selected && <div className={styles.detail}><button type="button" onClick={() => setSelected(null)} aria-label="إغلاق">×</button><span>{selected.group}</span><h3>{selected.name}</h3><p>{selected.desc}</p><p>تُتاح البيانات بعد مراجعتها واعتماد نشرها.</p></div>}
+        </section>
+        <section id="map" className={styles.map}><span>GIS · NATIONAL EXPLORER</span><h2>الخريطة السياحية الوطنية</h2><p>يُربط المستكشف بالطبقات المنشورة والمعتمدة من قاعدة GIS الوطنية، دون تحميل البيانات غير المجازة.</p><div className={styles.mapPlaceholder}><strong>المستكشف الجغرافي</strong><small>قيد تجهيز الاتصال بالخدمات المكانية المعتمدة</small></div></section>
       </main>
+      <footer className={styles.footer}><strong>الأطلس السياحي الرقمي الوطني الليبي</strong><span>مركز المعلومات والتوثيق السياحي · 2026</span><span>نسخة التطوير V2.3</span></footer>
     </div>
   );
 }

@@ -1,0 +1,174 @@
+{
+  "hero": [
+    {
+      "src": "/hero/atlas-curated/sabratha.jpg",
+      "title": "صبراتة",
+      "category": "آثار وتاريخ",
+      "subtitle": "المسرح الروماني والموقع الأثري بصبراتة"
+    },
+    {
+      "src": "/hero/atlas-curated/old-tripoli.webp",
+      "title": "المدينة القديمة طرابلس",
+      "category": "تراث وثقافة",
+      "subtitle": "الأزقة والمعالم التاريخية للمدينة القديمة"
+    },
+    {
+      "src": "/hero/ghadames-architecture.webp",
+      "title": "غدامس",
+      "category": "تاريخ وعمارة",
+      "subtitle": "العمارة التقليدية في غدامس"
+    },
+    {
+      "src": "/hero/investment-tripoli.webp",
+      "title": "الاستثمار والتنمية السياحية",
+      "category": "استثمار وتنمية",
+      "subtitle": "التنمية العمرانية والخدمات الفندقية في طرابلس"
+    },
+    {
+      "src": "/hero/hero-001.png",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/hero-002.png",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/hero-003.png",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/hero-01.webp",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/hero-02.webp",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/hero-03.webp",
+      "title": "مشاهد من ليبيا",
+      "category": "وجهات سياحية",
+      "subtitle": "صورة مختارة من مكتبة الأطلس"
+    },
+    {
+      "src": "/hero/atlas-curated/cyrene.jpg",
+      "title": "شحات",
+      "category": "آثار وتاريخ",
+      "subtitle": "المدينة الأثرية في الجبل الأخضر"
+    },
+    {
+      "src": "/hero/atlas-curated/ghadames.webp",
+      "title": "غدامس",
+      "category": "تاريخ وعمارة",
+      "subtitle": "العمارة التاريخية للمدينة الصحراوية"
+    },
+    {
+      "src": "/hero/atlas-curated/tripoli.jpg",
+      "title": "طرابلس",
+      "category": "ثقافة ومدن",
+      "subtitle": "العاصمة والهوية الحضرية الساحلية"
+    },
+    {
+      "src": "/hero/atlas-curated/ras-al-hilal.jpg",
+      "title": "رأس الهلال",
+      "category": "شواطئ وطبيعة",
+      "subtitle": "المشهد الساحلي الليبي"
+    },
+    {
+      "src": "/hero/atlas-curated/ubari.jpg",
+      "title": "بحيرات أوباري",
+      "category": "صحراء وطبيعة",
+      "subtitle": "مشاهد البحيرات والكثبان الرملية"
+    },
+    {
+      "src": "/hero/atlas-curated/akakus.jpg",
+      "title": "أكاكوس",
+      "category": "فن صخري وتراث",
+      "subtitle": "المواقع التراثية الصحراوية"
+    },
+    {
+      "src": "/hero/atlas-curated/investment.png",
+      "title": "الاستثمار السياحي",
+      "category": "فرص الاستثمار",
+      "subtitle": "صورة من مكتبة مشروعات الاستثمار، قيد مراجعة الوصف والحقوق"
+    }
+  ],
+  "featured": [
+    {
+      "src": "/hero/atlas-curated/sabratha.jpg",
+      "title": "صبراتة",
+      "category": "آثار وتاريخ",
+      "subtitle": "المسرح الروماني والموقع الأثري بصبراتة"
+    },
+    {
+      "src": "/hero/atlas-curated/old-tripoli.webp",
+      "title": "المدينة القديمة طرابلس",
+      "category": "تراث وثقافة",
+      "subtitle": "الأزقة والمعالم التاريخية للمدينة القديمة"
+    },
+    {
+      "src": "/hero/ghadames-architecture.webp",
+      "title": "غدامس",
+      "category": "تاريخ وعمارة",
+      "subtitle": "العمارة التقليدية في غدامس"
+    },
+    {
+      "src": "/hero/investment-tripoli.webp",
+      "title": "الاستثمار والتنمية السياحية",
+      "category": "استثمار وتنمية",
+      "subtitle": "التنمية العمرانية والخدمات الفندقية في طرابلس"
+    },
+    {
+      "src": "/hero/atlas-curated/cyrene.jpg",
+      "title": "شحات",
+      "category": "آثار وتاريخ",
+      "subtitle": "المدينة الأثرية في الجبل الأخضر"
+    },
+    {
+      "src": "/hero/atlas-curated/ghadames.webp",
+      "title": "غدامس",
+      "category": "تاريخ وعمارة",
+      "subtitle": "العمارة التاريخية للمدينة الصحراوية"
+    },
+    {
+      "src": "/hero/atlas-curated/tripoli.jpg",
+      "title": "طرابلس",
+      "category": "ثقافة ومدن",
+      "subtitle": "العاصمة والهوية الحضرية الساحلية"
+    },
+    {
+      "src": "/hero/atlas-curated/ras-al-hilal.jpg",
+      "title": "رأس الهلال",
+      "category": "شواطئ وطبيعة",
+      "subtitle": "المشهد الساحلي الليبي"
+    },
+    {
+      "src": "/hero/atlas-curated/ubari.jpg",
+      "title": "بحيرات أوباري",
+      "category": "صحراء وطبيعة",
+      "subtitle": "مشاهد البحيرات والكثبان الرملية"
+    },
+    {
+      "src": "/hero/atlas-curated/akakus.jpg",
+      "title": "أكاكوس",
+      "category": "فن صخري وتراث",
+      "subtitle": "المواقع التراثية الصحراوية"
+    },
+    {
+      "src": "/hero/atlas-curated/investment.png",
+      "title": "الاستثمار السياحي",
+      "category": "فرص الاستثمار",
+      "subtitle": "صورة من مكتبة مشروعات الاستثمار، قيد مراجعة الوصف والحقوق"
+    }
+  ]
+}
